@@ -4,6 +4,7 @@ on:
     - cron: "0 23 * * *"    # 4:30 AM IST
     - cron: "15 0 * * *"    # 5:45 AM IST backup
     - cron: "0 2 * * *"     # 7:30 AM IST safety net
+    - cron: "0 6 * * *"     # 11:30 AM IST, picks up the day's fresh gold rates
   workflow_dispatch:        # "Run workflow" button for testing
 permissions:
   contents: write
