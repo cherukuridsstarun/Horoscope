@@ -3,7 +3,8 @@ on:
   schedule:
     - cron: "0 23 * * *"    # 4:30 AM IST
     - cron: "15 0 * * *"    # 5:45 AM IST backup
-  workflow_dispatch:
+    - cron: "0 2 * * *"     # 7:30 AM IST safety net
+  workflow_dispatch:        # "Run workflow" button for testing
 permissions:
   contents: write
 jobs:
