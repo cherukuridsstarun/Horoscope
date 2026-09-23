@@ -1,0 +1,22 @@
+name: daily-horoscope
+on:
+  schedule:
+    - cron: "30 0 * * *"   # 00:30 UTC = 6:00 AM IST
+  workflow_dispatch:        # "Run workflow" button for testing
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests beautifulsoup4
+      - run: python scrape.py
+      - run: |
+          git config user.name "horoscope-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add today.json
+          git commit -m "Taurus $(date -u +%F)" || echo "no change"
+          git push
