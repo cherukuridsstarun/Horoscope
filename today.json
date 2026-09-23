@@ -2,14 +2,14 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 24 September 2026",
   "date_key": "2026-09-24",
-  "fetched_ist": "24 Sep 2026, 05:08 AM IST",
+  "fetched_ist": "24 Sep 2026, 05:15 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
       "ok": true,
       "source_date": "24-09-2026",
-      "text": "You have an easy carefree day ahead. There will be no woes or worries, says Ganesha. But to will be inclined to take up too many things at one time, more than you can handle. This may, in turn, get you stressed and uptight. You are advised to be practical and not to overdo things. If you do get into a fix, a moment’s reflection will show you that you alone are to be blamed. Try to be realistic and reasonable. You have an easy carefree day ahead. There will be no woes or worries, says Ganesha. But to will be inclined to take up too many things at one time, more than you can handle. This may, in turn, get you stressed and uptight. You are advised to be practical and not to overdo things. If you do get into a fix, a moment’s reflection will show you that you alone are to be blamed. Try to be realistic and reasonable."
+      "text": "You have an easy carefree day ahead. There will be no woes or worries, says Ganesha. But to will be inclined to take up too many things at one time, more than you can handle. This may, in turn, get you stressed and uptight. You are advised to be practical and not to overdo things. If you do get into a fix, a moment’s reflection will show you that you alone are to be blamed. Try to be realistic and reasonable."
     },
     {
       "name": "Horoscope.com",
@@ -339,17 +339,17 @@
   "extras": [
     {
       "title": "Bonus",
-      "text": "Are you and your love interest meant to be?",
+      "text": "It's an important time for family -- reach out to the branches of your family tree.",
       "src": "Astrology.com"
     },
     {
       "title": "Food",
-      "text": "Are you and your love interest meant to be?",
+      "text": "Sometimes there's nothing more cozy than a quiet dinner at home. It's the quiet part that's tricky. You don't know how you're going to enjoy your beef stroganoff with the chattering spouse, yakking kids and barking dogs -- but you wouldn't want it any other way.",
       "src": "Astrology.com"
     },
     {
       "title": "Home",
-      "text": "Are you and your love interest meant to be?",
+      "text": "Curry and chili powders matched with plain yogurt or sour cream make quick dips, and you will surely need to improvise snacks when your children bring hungry friends home after the game. Reflect on how nice it is that these teens enjoy spending time in your home and are not out creating havoc.",
       "src": "Astrology.com"
     }
   ],
@@ -364,6 +364,15 @@
         "change22": 1,
         "date": "24 September 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
+      },
+      {
+        "src": "PolicyBazaar",
+        "label": "Hyderabad retail",
+        "k22": 14135,
+        "k24": 14842,
+        "change22": null,
+        "date": "24 September 2026",
+        "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
       },
       {
         "src": "IBJA",
