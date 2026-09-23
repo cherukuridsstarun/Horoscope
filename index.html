@@ -1,131 +1,335 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<html lang="en"><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="My Stars">
-<title>My Stars</title>
-<link href="https://fonts.googleapis.com/css2?family=Gloock&family=Figtree:wght@400;600;700&display=swap" rel="stylesheet">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Her Morning">
+<meta name="theme-color" content="#e9ebf0">
+<title>Good morning</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&display=swap" rel="stylesheet">
 <style>
-:root{--bg1:#f6e3ff;--bg2:#ffdccb;--ink:#2b1d4a;--soft:#6b5a8e;--rose:#e8577e;--card:rgba(255,255,255,.7);--line:rgba(43,29,74,.12);
-  --good:#2f9e6a;--heads:#d9822b;--todo:#6a5acd}
-@media (prefers-color-scheme:dark){:root{--bg1:#1a1540;--bg2:#46244f;--ink:#fbefff;--soft:#cbb8e6;--rose:#ff86a6;--card:rgba(255,255,255,.08);--line:rgba(255,255,255,.14);
-  --good:#6fe0a8;--heads:#ffb870;--todo:#b8adff}}
-*{box-sizing:border-box}
-body{margin:0;min-height:100vh;color:var(--ink);font-family:Figtree,system-ui,sans-serif;line-height:1.55;
-  background:linear-gradient(180deg,var(--bg1),var(--bg2)) fixed;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
-main{max-width:36rem;margin:0 auto;padding:2rem 1.1rem 3rem}
-.sun{width:6rem;height:6rem;margin:0 auto .9rem;border-radius:50%;display:grid;place-items:center;font-size:3rem;color:#7a3b12;
-  background:radial-gradient(circle at 40% 35%,#ffe3b8,#ffb26b 70%);box-shadow:0 0 50px 18px rgba(255,178,107,.4)}
-h1,h2{font-family:Gloock,Georgia,serif;font-weight:400}
-h1{text-align:center;font-size:2rem;margin:0}
-.date{text-align:center;color:var(--soft);margin:.2rem 0 1.6rem}
-.note{text-align:center;font-family:Gloock,Georgia,serif;font-size:1.1rem;margin:-.6rem 0 1.6rem}
-h2{font-size:1.35rem;margin:1.8rem 0 .7rem}
-.card{background:var(--card);border:1px solid var(--line);border-radius:1.2rem;padding:1rem 1.15rem;margin-bottom:.8rem;backdrop-filter:blur(8px)}
-.card h3{margin:0 0 .5rem;font-size:1rem}
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;min-height:100vh}
+button,summary{-webkit-tap-highlight-color:transparent}
+button:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var(--focus);outline-offset:3px}
+img,svg{max-width:100%}
+[hidden]{display:none!important}
+.tabs{display:flex;gap:.5rem;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;padding-bottom:2px}
+.tabs::-webkit-scrollbar{display:none}
+.tabs button{flex:0 0 auto;min-height:44px;font:inherit;cursor:pointer}
+summary{list-style:none;cursor:pointer;min-height:44px;display:flex;align-items:center;justify-content:space-between;gap:1rem}
+summary::-webkit-details-marker{display:none}
+ul{list-style:none;margin:0;padding:0}
+.src{display:block;font-size:.75rem;margin-top:.15rem;opacity:.7}
+.empty{opacity:.7}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+:root{--bg:#e9ebf0;--tile:#fff;--ink:#16181d;--soft:#6b7080;--acc:#ff5a36;--acc2:#ffb020;--good:#1f9d6b;--heads:#e5484d;--todo:#3e63dd;--line:rgba(22,24,29,.08);--focus:#3e63dd;
+ padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root{--bg:#000;--tile:#1c1c1f;--ink:#f4f4f6;--soft:#9a9ca8;--line:rgba(255,255,255,.08);--good:#3dd68c;--heads:#ff6369;--todo:#849dff}}
+body{background:var(--bg);color:var(--ink);font-family:"Bricolage Grotesque",system-ui,-apple-system,sans-serif;font-size:1rem;line-height:1.5}
+main{max-width:30rem;margin:0 auto;padding:1rem .9rem 2.5rem}
+.tile,.box,.featured,.lk,.topic,details{background:var(--tile);border-radius:1.6rem;padding:1.1rem 1.2rem}
+.hero{padding:1.4rem 1.3rem 1.2rem;overflow:hidden}
+.date{margin:0;color:var(--soft);font-weight:600;font-size:.9rem}
+h1{font-weight:800;font-size:clamp(2.1rem,10vw,2.9rem);line-height:1;letter-spacing:-.03em;margin:.35rem 0 1rem}
+.daycap{margin:.45rem 0 0;font-size:.78rem;color:var(--soft);font-weight:600}
+.sunbar{height:6px;border-radius:6px;background:var(--line);overflow:hidden}
+.sunbar i{display:block;height:100%;width:0;border-radius:6px;background:linear-gradient(90deg,var(--acc2),var(--acc));animation:fill 1.4s .2s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes fill{to{width:var(--dayfill,40%)}}
+.note{background:var(--acc);color:#fff;border-radius:1.6rem;padding:1rem 1.2rem;margin:.6rem 0 0;font-weight:600;font-size:1.1rem}
+#app>section{margin-top:.6rem}
+.sec{font-size:.8rem;font-weight:600;color:var(--soft);margin:1.4rem .4rem .5rem}
+.featured h2{margin:0 0 .4rem;font-size:.85rem;font-weight:600;color:var(--acc)}
+.featured p{margin:0 0 .6rem;font-size:1.12rem;line-height:1.55;font-weight:400}
+a{color:var(--todo);font-weight:600;font-size:.88rem;text-decoration:none}
+.glance{display:grid;gap:.6rem}
+.glance .sec{margin-bottom:-.1rem}
+.box h3{margin:0 0 .5rem;font-size:1.3rem;font-weight:800;letter-spacing:-.02em}
 .good h3{color:var(--good)}.heads h3{color:var(--heads)}.todo h3{color:var(--todo)}
-ul{margin:0;padding-left:1.1rem}li{margin:.35rem 0}
-.src{color:var(--soft);font-size:.78rem;white-space:nowrap}
-.lucky{display:flex;flex-wrap:wrap;gap:.5rem}
-.chip{background:var(--card);border:1px solid var(--line);border-radius:2rem;padding:.4rem .9rem;font-size:.92rem}
-.tabs{display:flex;gap:.4rem;overflow-x:auto;margin-bottom:.8rem}
-.tabs button{font:inherit;font-weight:600;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:2rem;padding:.45rem 1rem;cursor:pointer}
-.tabs button[aria-selected="true"]{background:var(--rose);color:#fff;border-color:transparent}
-button:focus-visible{outline:3px solid var(--rose);outline-offset:2px}
-.reading{font-family:Gloock,Georgia,serif;font-size:1.08rem;margin:0 0 .4rem}
-.muted{color:var(--soft);margin:0}
-details{background:var(--card);border:1px solid var(--line);border-radius:1.2rem;padding:.9rem 1.15rem;margin-bottom:.7rem}
-summary{cursor:pointer;font-weight:700}
-details p{font-family:Gloock,Georgia,serif;margin:.6rem 0 .4rem}
-a{color:var(--rose);font-size:.88rem}
-.featured{border:2px solid var(--rose)}
-.featured h3{color:var(--rose)}
-.featured p{font-family:Gloock,Georgia,serif;font-size:1.15rem;margin:0 0 .5rem}
-.foot{text-align:center;color:var(--soft);font-size:.8rem;margin-top:1.8rem}
-</style>
-</head>
+.box li{padding:.6rem 0;border-top:1px solid var(--line)}
+.box li:first-child{border-top:0;padding-top:0}
+.src{color:var(--soft)}
+.luckyrow{display:grid;grid-template-columns:1fr 1fr;gap:.6rem}
+.lk{display:flex;flex-direction:column;justify-content:space-between;gap:.5rem;min-height:9.5rem}
+.lk.wide{grid-column:1/-1;aspect-ratio:auto}
+.lkl{font-size:.85rem;font-weight:600;color:var(--soft)}
+.lkv{font-size:3.4rem;font-weight:800;letter-spacing:-.04em;line-height:1;display:flex;flex-direction:column;align-items:flex-start;gap:.5rem}
+.lkv.sm{font-size:1.05rem;font-weight:400;letter-spacing:0;line-height:1.5}
+.sw{width:2.6rem;height:2.6rem;border-radius:50%;box-shadow:inset 0 0 0 1px rgba(0,0,0,.12);display:block}
+.sws{display:flex}.sws .sw+.sw{margin-left:-.8rem}
+.lkc{font-size:1.15rem;font-weight:800;letter-spacing:-.02em;line-height:1.2}
+.lk .src{margin-top:.2rem}
+.rt ul li{display:flex;justify-content:space-between;align-items:center;padding:.55rem 0;border-top:1px solid var(--line);font-weight:600}
+.rt ul li:first-child{border-top:0;padding-top:0}
+.dots{display:flex;gap:.3rem}.dots i{width:.85rem;height:.85rem;border-radius:50%;background:var(--line)}
+.dots i.on{background:linear-gradient(135deg,var(--acc2),var(--acc))}
+.rt .src{margin-top:.6rem}
+.matches{display:grid;grid-template-columns:repeat(3,1fr);gap:.6rem}
+.mt{background:var(--tile);border-radius:1.6rem;padding:1rem .6rem;display:flex;flex-direction:column;align-items:center;text-align:center;gap:.15rem}
+.mg{font-size:2.2rem;line-height:1;color:var(--acc)}
+.ms{font-weight:800;font-size:1rem;letter-spacing:-.01em}
+.srcpad{padding:.4rem .5rem 0}
+.extras{display:grid;gap:.6rem}
+.ex h3{font-size:1.1rem!important;color:var(--ink)}
+.ex p{margin:0 0 .3rem;font-size:1.02rem}
+.tabs{background:var(--tile);border-radius:2rem;padding:.3rem}
+.tabs button{flex:1 0 auto;border:0;background:none;color:var(--soft);border-radius:2rem;padding:.35rem .9rem;font-weight:600}
+.tabs button[aria-selected="true"]{background:var(--ink);color:var(--tile)}
+.topic{margin-top:.6rem}
+.reading{margin-bottom:1rem}.reading p{margin:0 0 .25rem;font-size:1.06rem}
+.bits li{padding:.55rem 0;border-top:1px solid var(--line)}
+details{margin-bottom:.5rem;padding:.4rem 1.2rem}
+summary{font-weight:600}
+summary .src{display:inline;margin:0}
+details p{margin:.2rem 0 .5rem}
+details a{display:inline-block;margin-bottom:.8rem}
+.foot{text-align:center;color:var(--soft);font-size:.78rem;margin-top:2rem}
+
+
+.gold{padding-top:.9rem}
+.grow{display:grid;grid-template-columns:1fr 5.2rem 5.2rem;align-items:center;gap:.5rem;padding:.7rem 0;border-top:1px solid var(--line)}
+.ghead{border-top:0;padding:0 0 .2rem;font-size:.8rem;font-weight:600;color:var(--soft)}
+.ghead span:not(:first-child),.grow .gv{text-align:right}
+.gsrc{font-weight:800;letter-spacing:-.01em;line-height:1.25}
+.gsrc small{display:block;font-weight:400;font-size:.75rem;color:var(--soft);letter-spacing:0}
+.gv{font-weight:800;font-size:1.02rem;letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+.gv small{display:block;font-size:.72rem;font-weight:600;letter-spacing:0}
+.up{color:var(--good)}.down{color:var(--heads)}
+.spark{border-top:1px solid var(--line);padding-top:.8rem;margin-top:.1rem}
+.spark svg{display:block;width:100%;height:56px}
+.spark .sl{display:flex;justify-content:space-between;font-size:.75rem;color:var(--soft);font-weight:600;margin-top:.2rem}
+.gnote{margin:.7rem 0 0;font-size:.78rem;color:var(--soft)}
+.gwhen{margin-top:.35rem;background:var(--line);border-radius:.8rem;padding:.55rem .7rem;color:var(--ink)}
+.spark+.spark{border-top:0;padding-top:.6rem}
+
+.play{font:inherit;color:inherit;text-align:left;border:0;cursor:pointer;align-items:flex-start;-webkit-tap-highlight-color:transparent}
+.play:active{transform:scale(.97)}
+.playres{font-weight:800;font-size:1.1rem;letter-spacing:-.02em}
+.die{width:3.6rem;height:3.6rem;border-radius:.9rem;background:var(--ink);display:grid;grid-template:repeat(3,1fr)/repeat(3,1fr);padding:.5rem;gap:2px}
+.die i{width:.62rem;height:.62rem;border-radius:50%;background:var(--tile);align-self:center;justify-self:center}
+.die.rolling{animation:roll .6s cubic-bezier(.3,.7,.3,1)}
+@keyframes roll{0%{transform:rotate(0) scale(1)}40%{transform:rotate(200deg) scale(.85)}100%{transform:rotate(360deg) scale(1)}}
+.coin{width:3.6rem;height:3.6rem;position:relative;-webkit-transform-style:preserve-3d;transform-style:preserve-3d;transition:transform .9s cubic-bezier(.3,.7,.3,1)}
+.cf{position:absolute;inset:0;border-radius:50%;display:grid;place-items:center;font-weight:800;font-size:1.3rem;-webkit-backface-visibility:hidden;backface-visibility:hidden;
+  background:radial-gradient(circle at 35% 30%,#ffe7a3,var(--acc2) 70%);color:#7a4a00;box-shadow:inset 0 0 0 3px rgba(122,74,0,.25)}
+.cf.t{transform:rotateY(180deg)}
+</style></head>
 <body>
 <main>
-  <div class="sun" aria-hidden="true">&#9801;&#xFE0E;</div>
-  <h1 id="hello">Good morning, Taurus</h1>
-  <p class="date" id="date">Loading your stars…</p>
+  <header class="top">
+    <div class="tile hero">
+      <p class="date" id="date">Loading…</p>
+      <h1 id="hello">Good morning</h1>
+      <div class="sunbar" aria-hidden="true"><i></i></div><p class="daycap" id="daycap"></p>
+    </div>
+  </header>
   <p class="note" id="note" hidden></p>
-
   <div id="app" hidden>
-    <div class="card featured" id="featured" hidden></div>
-    <h2>Today at a glance</h2>
-    <div class="card good"><h3>✨ The good stuff</h3><ul id="good"></ul></div>
-    <div class="card heads"><h3>⚠️ Heads up</h3><ul id="heads"></ul></div>
-    <div class="card todo"><h3>✅ To-do</h3><ul id="todo"></ul></div>
-
-    <div id="luckyWrap" hidden><h2>Lucky today</h2><div class="lucky" id="lucky"></div></div>
-
-    <h2>By topic</h2>
-    <div class="tabs" role="tablist" id="tabs"></div>
-    <div class="card" id="topic"></div>
-
-    <h2>Full readings</h2>
-    <div id="full"></div>
+    <section class="featured" id="featured" hidden>
+      <h2>Ganesha says</h2>
+      <p id="featuredText"></p>
+      <a id="featuredLink" target="_blank" rel="noopener">Read on GaneshaSpeaks</a>
+    </section>
+    <section class="glance">
+      <h2 class="sec">Today at a glance</h2>
+      <div class="box good"><h3>Good</h3><ul id="good"></ul></div>
+      <div class="box heads"><h3>Watch</h3><ul id="heads"></ul></div>
+      <div class="box todo"><h3>Do</h3><ul id="todo"></ul></div>
+    </section>
+    <section class="lucky" id="luckyWrap" hidden>
+      <h2 class="sec">Lucky today</h2>
+      <div class="luckyrow" id="luckyGrid"></div>
+    </section>
+    <section>
+      <h2 class="sec">Can't decide?</h2>
+      <div class="luckyrow">
+        <button class="lk play" id="diceBtn" aria-live="polite">
+          <span class="lkl">Roll a die</span>
+          <span class="die" id="die" aria-hidden="true"></span>
+          <span class="playres" id="diceRes">Tap to roll</span>
+        </button>
+        <button class="lk play" id="coinBtn" aria-live="polite">
+          <span class="lkl">Flip a coin</span>
+          <span class="coin" id="coin" aria-hidden="true"><span class="cf h">H</span><span class="cf t">T</span></span>
+          <span class="playres" id="coinRes">Tap to flip</span>
+        </button>
+      </div>
+    </section>
+    <section id="ratingsWrap" hidden>
+      <h2 class="sec">How today rates</h2>
+      <div class="box rt"><ul id="ratings"></ul><span class="src" id="ratingsSrc"></span></div>
+    </section>
+    <section class="topics">
+      <h2 class="sec">By topic</h2>
+      <div class="tabs" role="tablist" id="tabs"></div>
+      <div class="topic" id="topic"></div>
+    </section>
+    <section id="extrasWrap" hidden>
+      <h2 class="sec">Little extras</h2>
+      <div class="extras" id="extras"></div>
+    </section>
+    <section id="goldWrap" hidden>
+      <h2 class="sec">Gold today · <span id="goldCity"></span></h2>
+      <div class="box gold">
+        <div class="grow ghead"><span></span><span>22K</span><span>24K</span></div>
+        <div id="goldRows"></div>
+        <div class="spark" id="goldSpark22" hidden></div>
+        <div class="spark" id="goldSpark24" hidden></div>
+        <p class="gnote">Per gram, excluding GST and making charges.</p>
+        <p class="gnote gwhen">🕦 Today's rates show up after about 11:30 AM IST on weekdays. Before that you'll see yesterday's, with its date. IBJA doesn't publish on weekends.</p>
+      </div>
+    </section>
+    <section class="fulls">
+      <h2 class="sec">Full readings</h2>
+      <div id="full"></div>
+    </section>
   </div>
-  <p class="foot" id="foot"></p>
+  <footer class="foot" id="foot"></footer>
+
 </main>
 <script>
 /* ===== EDIT ME ===== */
-const NAME = "Taurus";   // her name or nickname
-const NOTE = "";         // optional one-line note from you, e.g. "Have the best day ❤️"
+const NAME = "Taurus";            // her name or nickname
+const NOTE = "This is for ya!";   // one line from you (leave "" to hide)
 /* =================== */
-const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const items = (arr, empty) => arr && arr.length
-  ? arr.map(x => `<li>${esc(x.t)} <span class="src">· ${esc(x.src)}</span></li>`).join("")
-  : `<li class="muted">${empty}</li>`;
-document.getElementById("hello").textContent = `Good morning, ${NAME}`;
-if (NOTE) { const n = document.getElementById("note"); n.textContent = NOTE; n.hidden = false; }
+const SAMPLE = {"date_ist":"Thursday, 24 September 2026","date_key":"2026-09-24","fetched_ist":"24 Sep 2026, 04:32 AM IST",
+"sources":[{"name":"GaneshaSpeaks","url":"https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/","ok":true,"source_date":"24-09-2026","text":"You have an easy carefree day ahead. There will be no woes or worries, says Ganesha. But to will be inclined to take up too many things at one time, more than you can handle. This may, in turn, get you stressed and uptight. You are advised to be practical and not to overdo things. Try to be realistic and reasonable."},
+{"name":"Horoscope.com","url":"https://www.horoscope.com/","ok":true,"source_date":"Sep 24, 2026","text":"Be your most charming self tonight, Taurus. You're likely to talk with someone who can help your career. Your intuition is strong, so you may know who this person is the minute you begin your conversation."},
+{"name":"AstroSage","url":"https://www.astrosage.com/horoscope/daily-taurus-horoscope.asp","ok":true,"source_date":null,"text":"Health remains perfect. You need to keep an eye on where your money is being spent. Cupids are rushing toward you with the shower of love in your life."}],
+"glance":{"good":[{"t":"You have an easy carefree day ahead.","src":"GaneshaSpeaks"},{"t":"You're likely to talk with someone who can help your career.","src":"Horoscope.com"},{"t":"Cupids are rushing toward you with the shower of love in your life.","src":"AstroSage"}],
+"heads":[{"t":"This may, in turn, get you stressed and uptight.","src":"GaneshaSpeaks"},{"t":"The pull of social media interactions and screen time will be difficult to resist, dearest Taurus.","src":"Astrology.com"}],
+"todo":[{"t":"You are advised to be practical and not to overdo things.","src":"GaneshaSpeaks"},{"t":"Be your most charming self tonight, Taurus.","src":"Horoscope.com"},{"t":"You need to keep an eye on where your money is being spent.","src":"AstroSage"}]},
+"lucky":[{"src":"GaneshaSpeaks","number":"2","color":"Cream"},{"src":"AstroSage","number":"5","color":"Green and Turquoise","remedy":"Carry red handkerchief in your pocket for good health"}],
+"ratings":{"src":"AstroSage","items":[{"label":"Health","stars":1},{"label":"Wealth","stars":3},{"label":"Family","stars":1},{"label":"Love","stars":2},{"label":"Occupation","stars":1},{"label":"Married Life","stars":2}]},
+"matches":[{"type":"Love","sign":"Aquarius"},{"type":"Friendship","sign":"Virgo"},{"type":"Career","sign":"Scorpio"}],
+"gold":{"city":"Hyderabad","rows":[{"src":"GoodReturns","label":"Hyderabad jewellers","k22":14135,"k24":15420,"change22":80,"date":"23 September 2026","url":"https://www.goodreturns.in/gold-rates/hyderabad.html"},{"src":"PolicyBazaar","label":"Hyderabad retail","k22":14285,"k24":14999,"change22":null,"date":"21 September 2026","url":"https://www.policybazaar.com/gold-rate/hyderabad/"},{"src":"IBJA","label":"India benchmark (wholesale)","k22":13936,"k24":15214,"change22":null,"date":"22 September 2026","url":"https://ibjarates.com/"}],"trend":[{"date":"Sep 14, 2026","k22":14125,"k24":15409},{"date":"Sep 15, 2026","k22":14040,"k24":15317},{"date":"Sep 16, 2026","k22":14065,"k24":15344},{"date":"Sep 17, 2026","k22":14010,"k24":15284},{"date":"Sep 18, 2026","k22":14155,"k24":15442},{"date":"Sep 19, 2026","k22":14285,"k24":15584},{"date":"Sep 20, 2026","k22":14285,"k24":15584},{"date":"Sep 21, 2026","k22":14170,"k24":15458},{"date":"Sep 22, 2026","k22":14055,"k24":15333},{"date":"Sep 23, 2026","k22":14135,"k24":15420}]},
+"extras":[{"title":"Bonus","text":"It's an important time for family, so reach out to the branches of your family tree.","src":"Astrology.com"},{"title":"Food","text":"Sometimes there's nothing more cozy than a quiet dinner at home.","src":"Astrology.com"}],
+"topics":{"love":{"readings":[{"text":"You have to learn to balance your profession and personal life as your companion needs time and attention.","url":"https://www.ganeshaspeaks.com/","src":"GaneshaSpeaks"}],"bits":[{"t":"Cupids are rushing toward you with the shower of love in your life.","src":"AstroSage"}]},
+"career":{"readings":[{"text":"Progress on the career front grabs your attention today. Teamwork will give you the best result.","url":"https://www.ganeshaspeaks.com/","src":"GaneshaSpeaks"}],"bits":[]},
+"money":{"readings":[{"text":"Being very clever in financial matters, nobody can take you for a ride where money is concerned.","url":"https://www.ganeshaspeaks.com/","src":"GaneshaSpeaks"}],"bits":[]},
+"health":{"readings":[],"bits":[{"t":"Health remains perfect.","src":"AstroSage"}]}}};
 
-fetch("today.json?" + Date.now()).then(r => r.json()).then(d => {
-  document.getElementById("date").textContent = d.date_ist;
-  const istToday = new Intl.DateTimeFormat("en-CA", {timeZone: "Asia/Kolkata"}).format(new Date());
-  if (d.date_key && d.date_key !== istToday) {
-    document.getElementById("date").textContent = `Showing ${d.date_ist} · today's stars are still on their way`;
-  }
-  const top = d.sources.find(s => s.name === "GaneshaSpeaks" && s.ok);
-  if (top) {
-    const f = document.getElementById("featured");
-    f.innerHTML = `<h3>🐘 GaneshaSpeaks says</h3><p>${esc(top.text)}</p><a href="${top.url}" target="_blank" rel="noopener">Read on GaneshaSpeaks</a>`;
-    f.hidden = false;
-  }
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const COLORS = {cream:"#fffdd0", "sky blue":"#87ceeb", "sea green":"#2e8b57", saffron:"#f4c430", maroon:"#800000", "off white":"#faf9f6", peach:"#ffcba4", mustard:"#e1ad01"};
+const swatch = n => { const k = String(n).toLowerCase().trim(); return COLORS[k] || (CSS.supports("color", k.replace(/\s/g,"")) ? k.replace(/\s/g,"") : "#ccc"); };
+const list = (arr, empty) => (arr && arr.length)
+  ? arr.map(x => `<li><span class="t">${esc(x.t)}</span><span class="src">${esc(x.src)}</span></li>`).join("")
+  : `<li class="empty">${empty}</li>`;
+
+function render(d, preview) {
+  $("hello").textContent = `Good morning, ${NAME}`;
+  if (NOTE) { $("note").textContent = NOTE; $("note").hidden = false; }
+  let dateLine = d.date_ist;
+  const istToday = new Intl.DateTimeFormat("en-CA", {timeZone:"Asia/Kolkata"}).format(new Date());
+  if (!preview && d.date_key && d.date_key !== istToday) dateLine += " · today's update is on its way";
+  $("date").textContent = dateLine;
+  if (preview) $("foot").dataset.preview = "1";
+
+  const top = (d.sources || []).find(s => s.name === "GaneshaSpeaks" && s.ok);
+  if (top) { $("featuredText").textContent = top.text; $("featuredLink").href = top.url; $("featured").hidden = false; }
+
   const g = d.glance || {};
-  document.getElementById("good").innerHTML = items(g.good, "Nothing flagged today.");
-  document.getElementById("heads").innerHTML = items(g.heads, "Nothing to watch out for today.");
-  document.getElementById("todo").innerHTML = items(g.todo, "No specific advice today.");
+  $("good").innerHTML  = list(g.good,  "Nothing flagged today.");
+  $("heads").innerHTML = list(g.heads, "Nothing to watch out for.");
+  $("todo").innerHTML  = list(g.todo,  "No advice today. Enjoy it.");
 
-  const L = d.lucky || {}, labels = {number:"🔢 Number", color:"🎨 Color", remedy:"🪔 Remedy"};
-  const chips = Object.keys(labels).filter(k => L[k]).map(k => `<span class="chip">${labels[k]}: ${esc(L[k])}</span>`);
-  if (chips.length) { document.getElementById("lucky").innerHTML = chips.join(""); document.getElementById("luckyWrap").hidden = false; }
+  const LK = Array.isArray(d.lucky) ? d.lucky : (d.lucky && Object.keys(d.lucky).length ? [{src:"", ...d.lucky}] : []);
+  const tiles = [];
+  LK.forEach(l => { if (l.number) tiles.push(`<div class="lk"><span class="lkl">Lucky number</span><span class="lkv">${esc(l.number)}</span><span class="src">${esc(l.src)}</span></div>`); });
+  LK.forEach(l => { if (l.color) {
+    const parts = String(l.color).split(/\s*(?:,|&|\band\b)\s*/i).filter(Boolean);
+    tiles.push(`<div class="lk"><span class="lkl">Lucky colour</span><span class="sws">${parts.map(c => `<i class="sw" style="background:${swatch(c)}"></i>`).join("")}</span><span class="lkc">${esc(l.color)}</span><span class="src">${esc(l.src)}</span></div>`); } });
+  LK.forEach(l => { if (l.remedy) tiles.push(`<div class="lk wide"><span class="lkl">Today's remedy</span><span class="lkv sm">${esc(l.remedy)}</span><span class="src">${esc(l.src)}</span></div>`); });
+  if (tiles.length) { $("luckyGrid").innerHTML = tiles.join(""); $("luckyWrap").hidden = false; }
 
-  const names = {love:"💗 Love", career:"💼 Career", money:"💰 Money", health:"🌿 Health"};
-  const tabs = document.getElementById("tabs"), box = document.getElementById("topic");
+  if (d.ratings && d.ratings.items && d.ratings.items.length) {
+    $("ratings").innerHTML = d.ratings.items.map(r => `<li><span>${esc(r.label)}</span><span class="dots" aria-label="${r.stars} out of 5">${[1,2,3,4,5].map(i => `<i class="${i <= r.stars ? "on" : ""}"></i>`).join("")}</span></li>`).join("");
+    $("ratingsSrc").textContent = d.ratings.src; $("ratingsWrap").hidden = false;
+  }
+  if (d.extras && d.extras.length) {
+    $("extras").innerHTML = d.extras.map(x => `<div class="box ex"><h3>${esc(x.title)}</h3><p>${esc(x.text)}</p><span class="src">${esc(x.src)}</span></div>`).join("");
+    $("extrasWrap").hidden = false;
+  }
+
+
+  if (d.gold && d.gold.rows && d.gold.rows.length) {
+    const inr = n => n == null ? "—" : "₹" + Number(n).toLocaleString("en-IN");
+    const short = s => { const m = String(s || "").match(/(\d{1,2})\s+([A-Za-z]{3})/); return m ? `${m[1]} ${m[2]}` : (s || ""); };
+    $("goldCity").textContent = d.gold.city || "";
+    $("goldRows").innerHTML = d.gold.rows.map(r => {
+      const ch = r.change22 == null ? "" : `<small class="${r.change22 > 0 ? "up" : r.change22 < 0 ? "down" : ""}">${r.change22 > 0 ? "▲" : r.change22 < 0 ? "▼" : ""} ${inr(Math.abs(r.change22))}</small>`;
+      return `<a class="grow" href="${esc(r.url)}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">
+        <span class="gsrc">${esc(r.src)}<small>${esc(r.label)}${r.date ? " · " + esc(short(r.date)) : ""}</small></span>
+        <span class="gv">${inr(r.k22)}${ch}</span><span class="gv">${inr(r.k24)}</span></a>`;
+    }).join("");
+    const spark = (key, label, color, el) => {
+      const tr = (d.gold.trend || []).filter(x => x[key]);
+      if (tr.length < 3) return;
+      const vals = tr.map(x => x[key]), lo = Math.min(...vals), hi = Math.max(...vals), W = 300, H = 46, pad = 4;
+      const pts = vals.map((v, i) => [pad + i * (W - 2 * pad) / (vals.length - 1), H - pad - (hi === lo ? 0.5 : (v - lo) / (hi - lo)) * (H - 2 * pad)]);
+      const last = pts[pts.length - 1];
+      $(el).innerHTML = `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="${label} price over the last ${vals.length} days">
+        <polyline points="${pts.map(p => p.map(n => n.toFixed(1)).join(",")).join(" ")}" fill="none" stroke="${color}" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+        <circle cx="${last[0]}" cy="${last[1]}" r="4" fill="${color}"/></svg>
+        <div class="sl"><span>${label}, last ${vals.length} days</span><span>${inr(lo)} to ${inr(hi)}</span></div>`;
+      $(el).hidden = false;
+    };
+    spark("k22", "22K", "var(--acc2)", "goldSpark22");
+    spark("k24", "24K", "var(--acc)", "goldSpark24");
+    if (!$("goldSpark24").hidden) $("goldSpark24").insertAdjacentHTML("beforeend", '<div class="sl"><span>Trend lines: GoodReturns</span></div>');
+    $("goldWrap").hidden = false;
+  }
+  const names = {love:"Love", career:"Career", money:"Money", health:"Health"};
+  const tabs = $("tabs"), box = $("topic");
   const show = k => {
     [...tabs.children].forEach(b => b.setAttribute("aria-selected", b.dataset.k === k));
-    const t = d.topics[k], rs = t.readings || [];
-    box.innerHTML = rs.map(r => `<h3 style="margin:0 0 .3rem">${esc(r.src)}</h3><p class="reading">${esc(r.text)}</p><a href="${r.url}" target="_blank" rel="noopener">Read more on ${esc(r.src)}</a>`).join('<div style="height:1rem"></div>')
-      + (t.bits.length ? `<h3 style="margin:${rs.length ? "1.2rem" : "0"} 0 .3rem">From today's readings</h3><ul>${items(t.bits)}</ul>` : "")
-      || `<p class="muted">No ${k} notes in today's horoscopes.</p>`;
+    const t = (d.topics || {})[k] || {readings:[], bits:[]}, rs = t.readings || [];
+    box.innerHTML = rs.map(r => `<div class="reading"><p>${esc(r.text)}</p><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.src)}</a></div>`).join("")
+      + (t.bits && t.bits.length ? `<ul class="bits">${list(t.bits)}</ul>` : "")
+      || `<p class="empty">Nothing about ${k} today.</p>`;
   };
+  tabs.innerHTML = "";
   Object.keys(names).forEach(k => {
     const b = document.createElement("button"); b.dataset.k = k; b.setAttribute("role","tab");
     b.textContent = names[k]; b.onclick = () => show(k); tabs.appendChild(b);
   });
   show("love");
 
-  document.getElementById("full").innerHTML = d.sources.map(s => `
-    <details><summary>${esc(s.name)}${s.source_date ? ` <span class="src">${esc(s.source_date)}</span>` : ""}</summary>
-      ${s.ok ? `<p>${esc(s.text)}</p>` : `<p class="muted">Couldn't load this one today.</p>`}
-      <a href="${s.url}" target="_blank" rel="noopener">Read on ${esc(s.name)}</a></details>`).join("");
-  document.getElementById("app").hidden = false;
-  document.getElementById("foot").textContent = `Updated ${d.fetched_ist} · every line is from the sources above · made with love by Tarun`;
-}).catch(() => document.getElementById("date").textContent = "Stars are still loading, check back soon.");
+  $("full").innerHTML = (d.sources || []).map(s => `
+    <details><summary><span>${esc(s.name)}</span>${s.source_date ? `<span class="src">${esc(s.source_date)}</span>` : ""}</summary>
+      ${s.ok ? `<p>${esc(s.text)}</p>` : `<p class="empty">Couldn't load this one today.</p>`}
+      <a href="${esc(s.url)}" target="_blank" rel="noopener">Read on ${esc(s.name)}</a></details>`).join("");
+  $("app").hidden = false;
+  $("foot").textContent = preview ? "Preview with sample data · on GitHub this fills in every morning"
+    : `Updated ${d.fetched_ist} · every line comes from the sites above · made with love by Tarun`;
+}
+/* ---- dice & coin: unbiased crypto randomness ---- */
+function rand(n) { const a = new Uint32Array(1), lim = Math.floor(4294967296 / n) * n; let x; do { crypto.getRandomValues(a); x = a[0]; } while (x >= lim); return x % n; }
+const PIPS = {1:[4],2:[0,8],3:[0,4,8],4:[0,2,6,8],5:[0,2,4,6,8],6:[0,2,3,5,6,8]};
+function drawDie(v) { $("die").innerHTML = Array.from({length:9}, (_, i) => PIPS[v].includes(i) ? "<i></i>" : "<span></span>").join(""); }
+drawDie(6);
+$("diceBtn").onclick = () => {
+  const v = rand(6) + 1, d = $("die");
+  d.classList.remove("rolling"); void d.offsetWidth; d.classList.add("rolling");
+  let n = 0; const t = setInterval(() => { drawDie(rand(6) + 1); if (++n > 5) { clearInterval(t); drawDie(v); $("diceRes").textContent = `You rolled ${v}`; } }, 90);
+};
+let coinTurns = 0;
+$("coinBtn").onclick = () => {
+  const heads = rand(2) === 0;
+  coinTurns += 4 + (heads === (coinTurns % 2 === 0) ? 0 : 1);
+  $("coin").style.transform = `rotateY(${coinTurns * 180}deg)`;
+  $("coinRes").textContent = "…";
+  setTimeout(() => { $("coinRes").textContent = heads ? "Heads" : "Tails"; }, 900);
+};
+fetch("today.json?" + Date.now()).then(r => { if (!r.ok) throw 0; return r.json(); })
+  .then(d => render(d, false)).catch(() => render(SAMPLE, true));
+
+(function(){const parts=new Intl.DateTimeFormat("en-GB",{timeZone:"Asia/Kolkata",hour:"numeric",minute:"numeric",hourCycle:"h23"}).formatToParts(new Date());const hh=+parts.find(x=>x.type==="hour").value,mm=+parts.find(x=>x.type==="minute").value;const f=Math.max(4,Math.min(100,((hh*60+mm)-300)/(1320-300)*100));document.documentElement.style.setProperty("--dayfill",f+"%");document.getElementById("daycap").textContent="Your day so far · "+new Intl.DateTimeFormat("en-IN",{timeZone:"Asia/Kolkata",hour:"numeric",minute:"2-digit"}).format(new Date())+" in India";})();
 </script>
-</body>
-</html>
+</body></html>
