@@ -1,0 +1,28 @@
+{
+  "sign": "Taurus",
+  "date_ist": "Thursday, 24 September 2026",
+  "fetched_ist": "24 Sep 2026, 04:17 AM IST",
+  "sources": [
+    {
+      "name": "Horoscope.com",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "ok": true,
+      "source_date": "Sep 24, 2026",
+      "text": "Be your most charming self tonight, Taurus. You're likely to talk with someone who can help your career. Your intuition is strong, so you may know who this person is the minute you begin your conversation. If the chemistry is good, too, so much the better! Whether this person impacts your life in a romantic or business capacity, you'll remember this night as when your life changed for the better!"
+    },
+    {
+      "name": "Astrology.com",
+      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "ok": true,
+      "source_date": null,
+      "text": "The pull of social media interactions and screen time will be difficult to resist, dearest Taurus. You'll crave connection and endorphin hits as the Pisces Moon squares Uranus, triggering emotionally charged mood swings. Though modern devices offer convenient access to friends and welcome distractions, the content you consume won't provide genuine fulfillment. Before you get sucked into a cycle of doomscrolling, head outside to breathe in all of nature's glory; make your experience extra special by inviting a friend or your sweetheart to traverse the great outdoors when Luna and Venus align. If you're currently on the hunt for love, these vibes bode well for making connections in the wild."
+    },
+    {
+      "name": "AstroSage (Indian)",
+      "url": "https://www.astrosage.com/horoscope/daily-taurus-horoscope.asp",
+      "ok": true,
+      "source_date": null,
+      "text": "Health remains perfect. You need to keep an eye on where your money is being spent, otherwise you may face problems in the coming times.  Find relief- comfort and love in the company of your spouse. Cupids are rushing toward you with the shower of love in your life. All you need is to be aware of what is happening around. Your confidence is growing and advancement is apparent.  Nothing is impossible as long as there's a will to overcome it. Married couples live togther, but it is not always romantic. Hence today, it is going to be really really romantic."
+    }
+  ]
+}
