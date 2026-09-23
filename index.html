@@ -40,6 +40,9 @@ details{background:var(--card);border:1px solid var(--line);border-radius:1.2rem
 summary{cursor:pointer;font-weight:700}
 details p{font-family:Gloock,Georgia,serif;margin:.6rem 0 .4rem}
 a{color:var(--rose);font-size:.88rem}
+.featured{border:2px solid var(--rose)}
+.featured h3{color:var(--rose)}
+.featured p{font-family:Gloock,Georgia,serif;font-size:1.15rem;margin:0 0 .5rem}
 .foot{text-align:center;color:var(--soft);font-size:.8rem;margin-top:1.8rem}
 </style>
 </head>
@@ -51,6 +54,7 @@ a{color:var(--rose);font-size:.88rem}
   <p class="note" id="note" hidden></p>
 
   <div id="app" hidden>
+    <div class="card featured" id="featured" hidden></div>
     <h2>Today at a glance</h2>
     <div class="card good"><h3>✨ The good stuff</h3><ul id="good"></ul></div>
     <div class="card heads"><h3>⚠️ Heads up</h3><ul id="heads"></ul></div>
@@ -69,8 +73,8 @@ a{color:var(--rose);font-size:.88rem}
 </main>
 <script>
 /* ===== EDIT ME ===== */
-const NAME = "OTwinaurus";   // her name or nickname
-const NOTE = "This is for ya!";         // optional one-line note from you, e.g. "Have the best day ❤️"
+const NAME = "Taurus";   // her name or nickname
+const NOTE = "";         // optional one-line note from you, e.g. "Have the best day ❤️"
 /* =================== */
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const items = (arr, empty) => arr && arr.length
@@ -81,6 +85,16 @@ if (NOTE) { const n = document.getElementById("note"); n.textContent = NOTE; n.h
 
 fetch("today.json?" + Date.now()).then(r => r.json()).then(d => {
   document.getElementById("date").textContent = d.date_ist;
+  const istToday = new Intl.DateTimeFormat("en-CA", {timeZone: "Asia/Kolkata"}).format(new Date());
+  if (d.date_key && d.date_key !== istToday) {
+    document.getElementById("date").textContent = `Showing ${d.date_ist} · today's stars are still on their way`;
+  }
+  const top = d.sources.find(s => s.name === "GaneshaSpeaks" && s.ok);
+  if (top) {
+    const f = document.getElementById("featured");
+    f.innerHTML = `<h3>🐘 GaneshaSpeaks says</h3><p>${esc(top.text)}</p><a href="${top.url}" target="_blank" rel="noopener">Read on GaneshaSpeaks</a>`;
+    f.hidden = false;
+  }
   const g = d.glance || {};
   document.getElementById("good").innerHTML = items(g.good, "Nothing flagged today.");
   document.getElementById("heads").innerHTML = items(g.heads, "Nothing to watch out for today.");
@@ -94,9 +108,9 @@ fetch("today.json?" + Date.now()).then(r => r.json()).then(d => {
   const tabs = document.getElementById("tabs"), box = document.getElementById("topic");
   const show = k => {
     [...tabs.children].forEach(b => b.setAttribute("aria-selected", b.dataset.k === k));
-    const t = d.topics[k], r = t.reading;
-    box.innerHTML = (r ? `<p class="reading">${esc(r.text)}</p><a href="${r.url}" target="_blank" rel="noopener">Read on ${r.src}</a>` : "")
-      + (t.bits.length ? `<h3 style="margin:${r ? "1rem" : "0"} 0 .3rem">From today's readings</h3><ul>${items(t.bits)}</ul>` : "")
+    const t = d.topics[k], rs = t.readings || [];
+    box.innerHTML = rs.map(r => `<h3 style="margin:0 0 .3rem">${esc(r.src)}</h3><p class="reading">${esc(r.text)}</p><a href="${r.url}" target="_blank" rel="noopener">Read more on ${esc(r.src)}</a>`).join('<div style="height:1rem"></div>')
+      + (t.bits.length ? `<h3 style="margin:${rs.length ? "1.2rem" : "0"} 0 .3rem">From today's readings</h3><ul>${items(t.bits)}</ul>` : "")
       || `<p class="muted">No ${k} notes in today's horoscopes.</p>`;
   };
   Object.keys(names).forEach(k => {
