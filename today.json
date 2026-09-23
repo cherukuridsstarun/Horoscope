@@ -1,24 +1,274 @@
-name: daily-horoscope
-on:
-  schedule:
-    - cron: "0 23 * * *"    # 4:30 AM IST
-    - cron: "15 0 * * *"    # 5:45 AM IST backup
-    - cron: "0 2 * * *"     # 7:30 AM IST safety net
-  workflow_dispatch:        # "Run workflow" button for testing
-permissions:
-  contents: write
-jobs:
-  fetch:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v5
-      - uses: actions/setup-python@v6
-        with: { python-version: "3.12" }
-      - run: pip install requests beautifulsoup4
-      - run: python scrape.py
-      - run: |
-          git config user.name "horoscope-bot"
-          git config user.email "bot@users.noreply.github.com"
-          git add today.json
-          git commit -m "Taurus $(date -u +%F)" || echo "no change"
-          git push
+{
+  "sign": "Taurus",
+  "date_ist": "Thursday, 24 September 2026",
+  "date_key": "2026-09-24",
+  "fetched_ist": "24 Sep 2026, 04:32 AM IST",
+  "sources": [
+    {
+      "name": "GaneshaSpeaks",
+      "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
+      "ok": true,
+      "source_date": "24-09-2026",
+      "text": "You have an easy carefree day ahead. There will be no woes or worries, says Ganesha. But to will be inclined to take up too many things at one time, more than you can handle. This may, in turn, get you stressed and uptight. You are advised to be practical and not to overdo things. If you do get into a fix, a moment’s reflection will show you that you alone are to be blamed. Try to be realistic and reasonable. You have an easy carefree day ahead. There will be no woes or worries, says Ganesha. But to will be inclined to take up too many things at one time, more than you can handle. This may, in turn, get you stressed and uptight. You are advised to be practical and not to overdo things. If you do get into a fix, a moment’s reflection will show you that you alone are to be blamed. Try to be realistic and reasonable."
+    },
+    {
+      "name": "Horoscope.com",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "ok": true,
+      "source_date": "Sep 24, 2026",
+      "text": "Be your most charming self tonight, Taurus. You're likely to talk with someone who can help your career. Your intuition is strong, so you may know who this person is the minute you begin your conversation. If the chemistry is good, too, so much the better! Whether this person impacts your life in a romantic or business capacity, you'll remember this night as when your life changed for the better!"
+    },
+    {
+      "name": "Astrology.com",
+      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "ok": true,
+      "source_date": null,
+      "text": "The pull of social media interactions and screen time will be difficult to resist, dearest Taurus. You'll crave connection and endorphin hits as the Pisces Moon squares Uranus, triggering emotionally charged mood swings. Though modern devices offer convenient access to friends and welcome distractions, the content you consume won't provide genuine fulfillment. Before you get sucked into a cycle of doomscrolling, head outside to breathe in all of nature's glory; make your experience extra special by inviting a friend or your sweetheart to traverse the great outdoors when Luna and Venus align. If you're currently on the hunt for love, these vibes bode well for making connections in the wild."
+    },
+    {
+      "name": "AstroSage",
+      "url": "https://www.astrosage.com/horoscope/daily-taurus-horoscope.asp",
+      "ok": true,
+      "source_date": null,
+      "text": "Health remains perfect. You need to keep an eye on where your money is being spent, otherwise you may face problems in the coming times.  Find relief- comfort and love in the company of your spouse. Cupids are rushing toward you with the shower of love in your life. All you need is to be aware of what is happening around. Your confidence is growing and advancement is apparent.  Nothing is impossible as long as there's a will to overcome it. Married couples live togther, but it is not always romantic. Hence today, it is going to be really really romantic."
+    }
+  ],
+  "glance": {
+    "good": [
+      {
+        "t": "You're likely to talk with someone who can help your career.",
+        "src": "Horoscope.com"
+      },
+      {
+        "t": "Your intuition is strong, so you may know who this person is the minute you begin your conversation.",
+        "src": "Horoscope.com"
+      },
+      {
+        "t": "If the chemistry is good, too, so much the better!",
+        "src": "Horoscope.com"
+      },
+      {
+        "t": "Whether this person impacts your life in a romantic or business capacity, you'll remember this night as when your life changed for the better!",
+        "src": "Horoscope.com"
+      },
+      {
+        "t": "If you're currently on the hunt for love, these vibes bode well for making connections in the wild.",
+        "src": "Astrology.com"
+      },
+      {
+        "t": "Health remains perfect.",
+        "src": "AstroSage"
+      },
+      {
+        "t": "Cupids are rushing toward you with the shower of love in your life.",
+        "src": "AstroSage"
+      },
+      {
+        "t": "Your confidence is growing and advancement is apparent.",
+        "src": "AstroSage"
+      },
+      {
+        "t": "Hence today, it is going to be really really romantic.",
+        "src": "AstroSage"
+      }
+    ],
+    "heads": [
+      {
+        "t": "This may, in turn, get you stressed and uptight.",
+        "src": "GaneshaSpeaks"
+      },
+      {
+        "t": "This may, in turn, get you stressed and uptight.",
+        "src": "GaneshaSpeaks"
+      },
+      {
+        "t": "The pull of social media interactions and screen time will be difficult to resist, dearest Taurus.",
+        "src": "Astrology.com"
+      },
+      {
+        "t": "You'll crave connection and endorphin hits as the Pisces Moon squares Uranus, triggering emotionally charged mood swings.",
+        "src": "Astrology.com"
+      },
+      {
+        "t": "Though modern devices offer convenient access to friends and welcome distractions, the content you consume won't provide genuine fulfillment.",
+        "src": "Astrology.com"
+      },
+      {
+        "t": "Married couples live togther, but it is not always romantic.",
+        "src": "AstroSage"
+      }
+    ],
+    "todo": [
+      {
+        "t": "Try to be realistic and reasonable.",
+        "src": "GaneshaSpeaks"
+      },
+      {
+        "t": "Try to be realistic and reasonable.",
+        "src": "GaneshaSpeaks"
+      },
+      {
+        "t": "Be your most charming self tonight, Taurus.",
+        "src": "Horoscope.com"
+      },
+      {
+        "t": "Before you get sucked into a cycle of doomscrolling, head outside to breathe in all of nature's glory; make your experience extra special by inviting a friend or your sweetheart to traverse the great outdoors when Luna and Venus align.",
+        "src": "Astrology.com"
+      },
+      {
+        "t": "You need to keep an eye on where your money is being spent, otherwise you may face problems in the coming times.",
+        "src": "AstroSage"
+      },
+      {
+        "t": "Find relief- comfort and love in the company of your spouse.",
+        "src": "AstroSage"
+      },
+      {
+        "t": "All you need is to be aware of what is happening around.",
+        "src": "AstroSage"
+      }
+    ]
+  },
+  "topics": {
+    "love": {
+      "readings": [
+        {
+          "text": "You have to learn to balance your profession and personal life as your companion needs time and attention. You may lose your patience and tend to hurry in getting things done in your personal life. It’s preferable if you avoid being dominating in love life.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-love-and-relationship-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
+          "text": "Your problem is that in love, as in everything else, you just have to have two of everything. The day's planetary aspect says this is fine, as long as you are willing to deal with the consequences. If it's one partner for each side of your schizophrenic personality, then you might just get away with it. You will probably be satisfied - but will you be happy?",
+          "url": "https://www.horoscope.com/us/horoscopes/love/horoscope-love-daily-tomorrow.aspx?sign=2",
+          "src": "Horoscope.com"
+        }
+      ],
+      "bits": [
+        {
+          "t": "If the chemistry is good, too, so much the better!",
+          "src": "Horoscope.com"
+        },
+        {
+          "t": "Whether this person impacts your life in a romantic or business capacity, you'll remember this night as when your life changed for the better!",
+          "src": "Horoscope.com"
+        },
+        {
+          "t": "Before you get sucked into a cycle of doomscrolling, head outside to breathe in all of nature's glory; make your experience extra special by inviting a friend or your sweetheart to traverse the great outdoors when Luna and Venus align.",
+          "src": "Astrology.com"
+        },
+        {
+          "t": "If you're currently on the hunt for love, these vibes bode well for making connections in the wild.",
+          "src": "Astrology.com"
+        },
+        {
+          "t": "Find relief- comfort and love in the company of your spouse.",
+          "src": "AstroSage"
+        },
+        {
+          "t": "Cupids are rushing toward you with the shower of love in your life.",
+          "src": "AstroSage"
+        },
+        {
+          "t": "Married couples live togther, but it is not always romantic.",
+          "src": "AstroSage"
+        },
+        {
+          "t": "Hence today, it is going to be really really romantic.",
+          "src": "AstroSage"
+        }
+      ]
+    },
+    "career": {
+      "readings": [
+        {
+          "text": "Progress on the career front grabs your attention today. You will not waste your energy on mundane activities. You will strive for the excellence than unnecessary running behind success. You may have to keep patience, feels Ganesha. Teamwork will give you the best result.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
+          "text": "You are a pioneer and an inventor. Tune into this part of your personality as you go about your day. Ask yourself what needs to be created in order to make your job go more smoothly and efficiently and then make plans to create this very thing.",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "src": "Horoscope.com"
+        }
+      ],
+      "bits": [
+        {
+          "t": "You're likely to talk with someone who can help your career.",
+          "src": "Horoscope.com"
+        },
+        {
+          "t": "Whether this person impacts your life in a romantic or business capacity, you'll remember this night as when your life changed for the better!",
+          "src": "Horoscope.com"
+        },
+        {
+          "t": "Your confidence is growing and advancement is apparent.",
+          "src": "AstroSage"
+        }
+      ]
+    },
+    "money": {
+      "readings": [
+        {
+          "text": "Being very clever in financial matters, Ganesha says that nobody can take you for a ride where money is concerned. If someone proposes a lucrative deal, you will consider it carefully before accepting it.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
+          "text": "Not everything is as it seems. That much is true if the Moon makes an appearance in your reading. You may have to snap yourself out of a dreamlike trance in order to uncover the...",
+          "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-daily-tomorrow.aspx?sign=2",
+          "src": "Horoscope.com"
+        }
+      ],
+      "bits": [
+        {
+          "t": "You need to keep an eye on where your money is being spent, otherwise you may face problems in the coming times.",
+          "src": "AstroSage"
+        }
+      ]
+    },
+    "health": {
+      "readings": [
+        {
+          "text": "Ganesha predicts a somewhat stressed day due to important work. You may also remain busy with meetings. Due to high level of energy, you will be able to deal with everything very well. You should try not getting tired at the end of the day.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
+          "text": "The day's planetary aspect offers a good reminder to make sleep your priority. Remember that sleep nurtures you more than anything. Many people find themselves restless at bedtime. When the world quiets down at night, for many it seems like the volume on their thoughts gets turned way up, making it difficult to relax and drift off to sleep. It can help to establish a routine, like what you may have done as a child, to remember how to properly fall asleep. Finding it hard to pry your phone out of your hands even though you are mentally and physically exhausted? Try leaving it in the other room or using it to play a guided meditation or hypnosis session designed to help you sleep.",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "src": "Horoscope.com"
+        }
+      ],
+      "bits": [
+        {
+          "t": "This may, in turn, get you stressed and uptight.",
+          "src": "GaneshaSpeaks"
+        },
+        {
+          "t": "This may, in turn, get you stressed and uptight.",
+          "src": "GaneshaSpeaks"
+        },
+        {
+          "t": "The pull of social media interactions and screen time will be difficult to resist, dearest Taurus.",
+          "src": "Astrology.com"
+        },
+        {
+          "t": "You'll crave connection and endorphin hits as the Pisces Moon squares Uranus, triggering emotionally charged mood swings.",
+          "src": "Astrology.com"
+        },
+        {
+          "t": "Before you get sucked into a cycle of doomscrolling, head outside to breathe in all of nature's glory; make your experience extra special by inviting a friend or your sweetheart to traverse the great outdoors when Luna and Venus align.",
+          "src": "Astrology.com"
+        },
+        {
+          "t": "Health remains perfect.",
+          "src": "AstroSage"
+        }
+      ]
+    }
+  },
+  "lucky": {
+    "number": "2",
+    "color": "Cream"
+  }
+}
