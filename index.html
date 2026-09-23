@@ -5,47 +5,112 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="My Stars">
-<meta name="theme-color" content="#f6e3ff">
-<title>My Stars ♉</title>
-<link href="https://fonts.googleapis.com/css2?family=Gloock&family=Figtree:wght@400;600&display=swap" rel="stylesheet">
+<title>My Stars</title>
+<link href="https://fonts.googleapis.com/css2?family=Gloock&family=Figtree:wght@400;600;700&display=swap" rel="stylesheet">
 <style>
-:root{--bg1:#f6e3ff;--bg2:#ffdccb;--ink:#2b1d4a;--soft:#6b5a8e;--rose:#e8577e;--card:rgba(255,255,255,.65);--line:rgba(43,29,74,.12)}
-@media (prefers-color-scheme:dark){:root{--bg1:#1a1540;--bg2:#46244f;--ink:#fbefff;--soft:#cbb8e6;--rose:#ff86a6;--card:rgba(255,255,255,.08);--line:rgba(255,255,255,.14)}}
+:root{--bg1:#f6e3ff;--bg2:#ffdccb;--ink:#2b1d4a;--soft:#6b5a8e;--rose:#e8577e;--card:rgba(255,255,255,.7);--line:rgba(43,29,74,.12);
+  --good:#2f9e6a;--heads:#d9822b;--todo:#6a5acd}
+@media (prefers-color-scheme:dark){:root{--bg1:#1a1540;--bg2:#46244f;--ink:#fbefff;--soft:#cbb8e6;--rose:#ff86a6;--card:rgba(255,255,255,.08);--line:rgba(255,255,255,.14);
+  --good:#6fe0a8;--heads:#ffb870;--todo:#b8adff}}
 *{box-sizing:border-box}
-body{margin:0;min-height:100vh;color:var(--ink);font-family:Figtree,system-ui,sans-serif;line-height:1.6;
-  background:linear-gradient(180deg,var(--bg1),var(--bg2)) fixed;
-  padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
-main{max-width:34rem;margin:0 auto;padding:2rem 1.2rem 3rem}
-.sun{width:6.5rem;height:6.5rem;margin:0 auto 1rem;border-radius:50%;display:grid;place-items:center;font-size:3rem;color:#7a3b12;
+body{margin:0;min-height:100vh;color:var(--ink);font-family:Figtree,system-ui,sans-serif;line-height:1.55;
+  background:linear-gradient(180deg,var(--bg1),var(--bg2)) fixed;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+main{max-width:36rem;margin:0 auto;padding:2rem 1.1rem 3rem}
+.sun{width:6rem;height:6rem;margin:0 auto .9rem;border-radius:50%;display:grid;place-items:center;font-size:3rem;color:#7a3b12;
   background:radial-gradient(circle at 40% 35%,#ffe3b8,#ffb26b 70%);box-shadow:0 0 50px 18px rgba(255,178,107,.4)}
-h1{font-family:Gloock,Georgia,serif;font-weight:400;text-align:center;font-size:2.1rem;margin:0}
-.date{text-align:center;color:var(--soft);margin:.2rem 0 1.8rem}
-.card{background:var(--card);border:1px solid var(--line);border-radius:1.3rem;padding:1.2rem 1.3rem;margin-bottom:1rem;backdrop-filter:blur(8px)}
-.card h2{font-size:1rem;margin:0 0 .5rem;display:flex;justify-content:space-between;gap:.5rem}
-.card h2 span{font-weight:400;color:var(--soft);font-size:.85rem}
-.card p{margin:0;font-family:Gloock,Georgia,serif;font-size:1.12rem}
-.card a{color:var(--rose);font-size:.9rem;display:inline-block;margin-top:.6rem}
-.foot{text-align:center;color:var(--soft);font-size:.8rem;margin-top:1.5rem}
+h1,h2{font-family:Gloock,Georgia,serif;font-weight:400}
+h1{text-align:center;font-size:2rem;margin:0}
+.date{text-align:center;color:var(--soft);margin:.2rem 0 1.6rem}
+.note{text-align:center;font-family:Gloock,Georgia,serif;font-size:1.1rem;margin:-.6rem 0 1.6rem}
+h2{font-size:1.35rem;margin:1.8rem 0 .7rem}
+.card{background:var(--card);border:1px solid var(--line);border-radius:1.2rem;padding:1rem 1.15rem;margin-bottom:.8rem;backdrop-filter:blur(8px)}
+.card h3{margin:0 0 .5rem;font-size:1rem}
+.good h3{color:var(--good)}.heads h3{color:var(--heads)}.todo h3{color:var(--todo)}
+ul{margin:0;padding-left:1.1rem}li{margin:.35rem 0}
+.src{color:var(--soft);font-size:.78rem;white-space:nowrap}
+.lucky{display:flex;flex-wrap:wrap;gap:.5rem}
+.chip{background:var(--card);border:1px solid var(--line);border-radius:2rem;padding:.4rem .9rem;font-size:.92rem}
+.tabs{display:flex;gap:.4rem;overflow-x:auto;margin-bottom:.8rem}
+.tabs button{font:inherit;font-weight:600;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:2rem;padding:.45rem 1rem;cursor:pointer}
+.tabs button[aria-selected="true"]{background:var(--rose);color:#fff;border-color:transparent}
+button:focus-visible{outline:3px solid var(--rose);outline-offset:2px}
+.reading{font-family:Gloock,Georgia,serif;font-size:1.08rem;margin:0 0 .4rem}
+.muted{color:var(--soft);margin:0}
+details{background:var(--card);border:1px solid var(--line);border-radius:1.2rem;padding:.9rem 1.15rem;margin-bottom:.7rem}
+summary{cursor:pointer;font-weight:700}
+details p{font-family:Gloock,Georgia,serif;margin:.6rem 0 .4rem}
+a{color:var(--rose);font-size:.88rem}
+.foot{text-align:center;color:var(--soft);font-size:.8rem;margin-top:1.8rem}
 </style>
 </head>
 <body>
 <main>
-  <div class="sun" aria-hidden="true">♉</div>
-  <h1>Good morning, Taurus</h1>
+  <div class="sun" aria-hidden="true">&#9801;&#xFE0E;</div>
+  <h1 id="hello">Good morning, Taurus</h1>
   <p class="date" id="date">Loading your stars…</p>
-  <div id="cards"></div>
+  <p class="note" id="note" hidden></p>
+
+  <div id="app" hidden>
+    <h2>Today at a glance</h2>
+    <div class="card good"><h3>✨ The good stuff</h3><ul id="good"></ul></div>
+    <div class="card heads"><h3>⚠️ Heads up</h3><ul id="heads"></ul></div>
+    <div class="card todo"><h3>✅ To-do</h3><ul id="todo"></ul></div>
+
+    <div id="luckyWrap" hidden><h2>Lucky today</h2><div class="lucky" id="lucky"></div></div>
+
+    <h2>By topic</h2>
+    <div class="tabs" role="tablist" id="tabs"></div>
+    <div class="card" id="topic"></div>
+
+    <h2>Full readings</h2>
+    <div id="full"></div>
+  </div>
   <p class="foot" id="foot"></p>
 </main>
 <script>
+/* ===== EDIT ME ===== */
+const NAME = "Taurus";   // her name or nickname
+const NOTE = "";         // optional one-line note from you, e.g. "Have the best day ❤️"
+/* =================== */
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const items = (arr, empty) => arr && arr.length
+  ? arr.map(x => `<li>${esc(x.t)} <span class="src">· ${esc(x.src)}</span></li>`).join("")
+  : `<li class="muted">${empty}</li>`;
+document.getElementById("hello").textContent = `Good morning, ${NAME}`;
+if (NOTE) { const n = document.getElementById("note"); n.textContent = NOTE; n.hidden = false; }
+
 fetch("today.json?" + Date.now()).then(r => r.json()).then(d => {
   document.getElementById("date").textContent = d.date_ist;
-  document.getElementById("cards").innerHTML = d.sources.map(s => `
-    <article class="card">
-      <h2>${s.name}${s.source_date ? `<span>${s.source_date}</span>` : ""}</h2>
-      ${s.ok ? `<p>${s.text.replace(/</g,"&lt;")}</p>` : `<p>Couldn't load this one today.</p>`}
-      <a href="${s.url}" target="_blank" rel="noopener">Read on ${s.name}</a>
-    </article>`).join("");
-  document.getElementById("foot").textContent = `Updated ${d.fetched_ist} · made with love by Tarun`;
+  const g = d.glance || {};
+  document.getElementById("good").innerHTML = items(g.good, "Nothing flagged today.");
+  document.getElementById("heads").innerHTML = items(g.heads, "Nothing to watch out for today.");
+  document.getElementById("todo").innerHTML = items(g.todo, "No specific advice today.");
+
+  const L = d.lucky || {}, labels = {number:"🔢 Number", color:"🎨 Color", remedy:"🪔 Remedy"};
+  const chips = Object.keys(labels).filter(k => L[k]).map(k => `<span class="chip">${labels[k]}: ${esc(L[k])}</span>`);
+  if (chips.length) { document.getElementById("lucky").innerHTML = chips.join(""); document.getElementById("luckyWrap").hidden = false; }
+
+  const names = {love:"💗 Love", career:"💼 Career", money:"💰 Money", health:"🌿 Health"};
+  const tabs = document.getElementById("tabs"), box = document.getElementById("topic");
+  const show = k => {
+    [...tabs.children].forEach(b => b.setAttribute("aria-selected", b.dataset.k === k));
+    const t = d.topics[k], r = t.reading;
+    box.innerHTML = (r ? `<p class="reading">${esc(r.text)}</p><a href="${r.url}" target="_blank" rel="noopener">Read on ${r.src}</a>` : "")
+      + (t.bits.length ? `<h3 style="margin:${r ? "1rem" : "0"} 0 .3rem">From today's readings</h3><ul>${items(t.bits)}</ul>` : "")
+      || `<p class="muted">No ${k} notes in today's horoscopes.</p>`;
+  };
+  Object.keys(names).forEach(k => {
+    const b = document.createElement("button"); b.dataset.k = k; b.setAttribute("role","tab");
+    b.textContent = names[k]; b.onclick = () => show(k); tabs.appendChild(b);
+  });
+  show("love");
+
+  document.getElementById("full").innerHTML = d.sources.map(s => `
+    <details><summary>${esc(s.name)}${s.source_date ? ` <span class="src">${esc(s.source_date)}</span>` : ""}</summary>
+      ${s.ok ? `<p>${esc(s.text)}</p>` : `<p class="muted">Couldn't load this one today.</p>`}
+      <a href="${s.url}" target="_blank" rel="noopener">Read on ${esc(s.name)}</a></details>`).join("");
+  document.getElementById("app").hidden = false;
+  document.getElementById("foot").textContent = `Updated ${d.fetched_ist} · every line is from the sources above · made with love by Tarun`;
 }).catch(() => document.getElementById("date").textContent = "Stars are still loading, check back soon.");
 </script>
 </body>
