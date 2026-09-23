@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="My Stars">
+<meta name="theme-color" content="#f6e3ff">
+<title>My Stars ♉</title>
+<link href="https://fonts.googleapis.com/css2?family=Gloock&family=Figtree:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg1:#f6e3ff;--bg2:#ffdccb;--ink:#2b1d4a;--soft:#6b5a8e;--rose:#e8577e;--card:rgba(255,255,255,.65);--line:rgba(43,29,74,.12)}
+@media (prefers-color-scheme:dark){:root{--bg1:#1a1540;--bg2:#46244f;--ink:#fbefff;--soft:#cbb8e6;--rose:#ff86a6;--card:rgba(255,255,255,.08);--line:rgba(255,255,255,.14)}}
+*{box-sizing:border-box}
+body{margin:0;min-height:100vh;color:var(--ink);font-family:Figtree,system-ui,sans-serif;line-height:1.6;
+  background:linear-gradient(180deg,var(--bg1),var(--bg2)) fixed;
+  padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+main{max-width:34rem;margin:0 auto;padding:2rem 1.2rem 3rem}
+.sun{width:6.5rem;height:6.5rem;margin:0 auto 1rem;border-radius:50%;display:grid;place-items:center;font-size:3rem;color:#7a3b12;
+  background:radial-gradient(circle at 40% 35%,#ffe3b8,#ffb26b 70%);box-shadow:0 0 50px 18px rgba(255,178,107,.4)}
+h1{font-family:Gloock,Georgia,serif;font-weight:400;text-align:center;font-size:2.1rem;margin:0}
+.date{text-align:center;color:var(--soft);margin:.2rem 0 1.8rem}
+.card{background:var(--card);border:1px solid var(--line);border-radius:1.3rem;padding:1.2rem 1.3rem;margin-bottom:1rem;backdrop-filter:blur(8px)}
+.card h2{font-size:1rem;margin:0 0 .5rem;display:flex;justify-content:space-between;gap:.5rem}
+.card h2 span{font-weight:400;color:var(--soft);font-size:.85rem}
+.card p{margin:0;font-family:Gloock,Georgia,serif;font-size:1.12rem}
+.card a{color:var(--rose);font-size:.9rem;display:inline-block;margin-top:.6rem}
+.foot{text-align:center;color:var(--soft);font-size:.8rem;margin-top:1.5rem}
+</style>
+</head>
+<body>
+<main>
+  <div class="sun" aria-hidden="true">♉</div>
+  <h1>Good morning, Taurus</h1>
+  <p class="date" id="date">Loading your stars…</p>
+  <div id="cards"></div>
+  <p class="foot" id="foot"></p>
+</main>
+<script>
+fetch("today.json?" + Date.now()).then(r => r.json()).then(d => {
+  document.getElementById("date").textContent = d.date_ist;
+  document.getElementById("cards").innerHTML = d.sources.map(s => `
+    <article class="card">
+      <h2>${s.name}${s.source_date ? `<span>${s.source_date}</span>` : ""}</h2>
+      ${s.ok ? `<p>${s.text.replace(/</g,"&lt;")}</p>` : `<p>Couldn't load this one today.</p>`}
+      <a href="${s.url}" target="_blank" rel="noopener">Read on ${s.name}</a>
+    </article>`).join("");
+  document.getElementById("foot").textContent = `Updated ${d.fetched_ist} · made with love by Tarun`;
+}).catch(() => document.getElementById("date").textContent = "Stars are still loading, check back soon.");
+</script>
+</body>
+</html>
