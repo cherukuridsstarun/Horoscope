@@ -5,7 +5,9 @@ from zoneinfo import ZoneInfo
 from bs4 import BeautifulSoup
 
 IST = ZoneInfo("Asia/Kolkata")
-UA = {"User-Agent": "Mozilla/5.0 (personal daily horoscope page)"}
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-IN,en;q=0.9"}
 NOW = datetime.datetime.now(IST)
 TODAY = NOW.date()
 US_DAY = "today" if datetime.datetime.now(ZoneInfo("America/New_York")).date() == TODAY else "tomorrow"
@@ -13,8 +15,12 @@ US_DAY = "today" if datetime.datetime.now(ZoneInfo("America/New_York")).date() =
 def get(url):
     try:
         r = requests.get(url, headers=UA, timeout=20)
-        return BeautifulSoup(r.text, "html.parser") if r.ok else None
-    except Exception:
+        if not r.ok:
+            print(f"  ! {url} -> HTTP {getattr(r, 'status_code', '?')}")
+            return None
+        return BeautifulSoup(r.text, "html.parser")
+    except Exception as e:
+        print(f"  ! {url} -> {type(e).__name__}")
         return None
 
 def txt(el):
@@ -60,7 +66,12 @@ def ganesha():
     if d and d != TODAY:
         return res  # wrong day: show nothing rather than something stale
     if paras:
-        res["text"], res["ok"] = " ".join(paras), True
+        seen, keep = set(), []
+        for s in re.split(r"(?<=[.!?])\s+", " ".join(paras)):
+            k = s.strip().lower()
+            if k and k not in seen:
+                seen.add(k); keep.append(s.strip())
+        res["text"], res["ok"] = " ".join(keep), True
     for topic, slug in GS_AREAS.items():
         a = next((a for a in soup.find_all("a", href=True)
                   if slug + "/taurus" in a["href"] and "read more" not in txt(a).lower()), None)
@@ -117,13 +128,16 @@ def ac_main(soup):
 def ac_extras(soup):
     out = []
     for label in ("Bonus", "Food", "Home"):
-        h = next((h for h in soup.find_all(["h4", "h3"]) if txt(h).startswith(f"Daily {label} ")), None)
-        t = txt(h.find_next("p")) if h else ""
-        if h and len(t) < 20:
-            t = txt(h.find_next_sibling())
-        if len(t) > 20:
+        h = next((h for h in soup.find_all(["h4", "h3", "h5"]) if txt(h).startswith(f"Daily {label} ")), None)
+        if not h:
+            continue
+        t = txt(h.find_next_sibling())
+        if len(t) < 20 and h.parent:  # text sits in the same container as the heading
+            t = txt(h.parent).replace(txt(h), "", 1).strip()
+        if 20 < len(t) < 600 and not t.startswith("Daily "):
             out.append({"title": label, "text": t, "src": "Astrology.com"})
-    return out
+    texts = [x["text"] for x in out]
+    return [x for x in out if texts.count(x["text"]) == 1]  # identical text under different headings = wrong grab
 
 # ---------------- AstroSage (Indian) ----------------
 AS_TODAY = "https://www.astrosage.com/horoscope/daily-taurus-horoscope.asp"
@@ -205,10 +219,17 @@ def gold_policybazaar():
         return None
     t = soup.get_text(" ", strip=True)
     m = re.search(r"Rs\.?\s*([\d,]+) per gram for 22 karat gold and Rs\.?\s*([\d,]+) per gram for 24 karat gold today \(as on (\d{1,2} [A-Z][a-z]+ \d{4})\)", t)
-    if not m:
-        return None
-    return {"src": "PolicyBazaar", "label": "Hyderabad retail", "k22": num(m.group(1)), "k24": num(m.group(2)),
-            "change22": None, "date": m.group(3), "url": url}
+    if m:
+        k22, k24, date = m.group(1), m.group(2), m.group(3)
+    else:
+        a = re.search(r"22 karat gold rate in Hyderabad is Rs\.?\s*([\d,]+) per gram today (\d{1,2} [A-Z][a-z]+ \d{4})", t)
+        b = re.search(r"price for 24 karat gold in Hyderabad is Rs\.?\s*([\d,]+) per gram", t)
+        if not (a and b):
+            print("  ! PolicyBazaar: page loaded but rate sentence not found")
+            return None
+        k22, date, k24 = a.group(1), a.group(2), b.group(1)
+    return {"src": "PolicyBazaar", "label": "Hyderabad retail", "k22": num(k22), "k24": num(k24),
+            "change22": None, "date": date, "url": url}
 
 def gold_ibja():
     url = "https://ibjarates.com/"
