@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 24 September 2026",
   "date_key": "2026-09-24",
-  "fetched_ist": "24 Sep 2026, 12:21 PM IST",
+  "fetched_ist": "24 Sep 2026, 06:13 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Sep 24, 2026",
       "text": "Be your most charming self tonight, Taurus. You're likely to talk with someone who can help your career. Your intuition is strong, so you may know who this person is the minute you begin your conversation."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "September 24, 2026",
       "text": "The pull of social media interactions and screen time will be difficult to resist, dearest Taurus. You'll crave connection and endorphin hits as the Pisces Moon squares Uranus, triggering emotionally charged mood swings. Though modern devices offer convenient access to friends and welcome distractions, the content you consume won't provide genuine fulfillment."
@@ -127,7 +127,7 @@
         },
         {
           "text": "You are a pioneer and an inventor. Tune into this part of your personality as you go about your day. Ask yourself what needs to be created in order to make your job go more smoothly and efficiently and then make plans to create this very thing.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -171,7 +171,7 @@
         },
         {
           "text": "The day's planetary aspect offers a good reminder to make sleep your priority. Remember that sleep nurtures you more than anything. Many people find themselves restless at bedtime. When the world quiets down at night, for many it seems like the volume on their thoughts gets turned way up, making it difficult to relax and drift off to sleep. It can help to establish a routine, like what you may have done as a child, to remember how to properly fall asleep. Finding it hard to pry your phone out of your hands even though you are mentally and physically exhausted? Try leaving it in the other room or using it to play a guided meditation or hypnosis session designed to help you sleep.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -264,8 +264,8 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13847,
-        "k24": 15116,
+        "k22": 13812,
+        "k24": 15079,
         "change22": null,
         "date": "24 September 2026",
         "url": "https://ibjarates.com/"
@@ -356,17 +356,17 @@
     "hc_general": {
       "text": "Be your most charming self tonight, Taurus. You're likely to talk with someone who can help your career. Your intuition is strong, so you may know who this person is the minute you begin your conversation. If the chemistry is good, too, so much the better! Whether this person impacts your life in a romantic or business capacity, you'll remember this night as when your life changed for the better!",
       "date": "Sep 24, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "You are a pioneer and an inventor. Tune into this part of your personality as you go about your day. Ask yourself what needs to be created in order to make your job go more smoothly and efficiently and then make plans to create this very thing.",
       "date": "Sep 24, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "The day's planetary aspect offers a good reminder to make sleep your priority. Remember that sleep nurtures you more than anything. Many people find themselves restless at bedtime. When the world quiets down at night, for many it seems like the volume on their thoughts gets turned way up, making it difficult to relax and drift off to sleep. It can help to establish a routine, like what you may have done as a child, to remember how to properly fall asleep. Finding it hard to pry your phone out of your hands even though you are mentally and physically exhausted? Try leaving it in the other room or using it to play a guided meditation or hypnosis session designed to help you sleep.",
       "date": "Sep 24, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You have a time of communication in order to exchange ideas. This can be very conducive to starting a new career or advancing in the one you have. All that's required is to be true to yourself. Aspects affecting communication make you a little quirky and unique. You don't care what others think, which makes it so much easier for you to ask for what you're worth.",
@@ -374,7 +374,7 @@
     },
     "ac": {
       "text": "The pull of social media interactions and screen time will be difficult to resist, dearest Taurus. You'll crave connection and endorphin hits as the Pisces Moon squares Uranus, triggering emotionally charged mood swings. Though modern devices offer convenient access to friends and welcome distractions, the content you consume won't provide genuine fulfillment. Before you get sucked into a cycle of doomscrolling, head outside to breathe in all of nature's glory; make your experience extra special by inviting a friend or your sweetheart to traverse the great outdoors when Luna and Venus align. If you're currently on the hunt for love, these vibes bode well for making connections in the wild.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -428,16 +428,16 @@
       "label": "Light showers",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-09-24T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
+        "iso": "2026-09-24T18:00",
+        "time": "6:00 PM",
+        "hour": 18.0,
         "temp": 27,
         "feels": 30,
-        "humidity": 72,
+        "humidity": 80,
         "label": "Cloudy",
         "icon": "☁️"
       },
-      "high": 29,
+      "high": 28,
       "low": 22,
       "rain": 100,
       "uv": 4.4,
@@ -449,7 +449,7 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 25,
-          "rain": 76
+          "rain": 83
         },
         {
           "name": "Afternoon",
@@ -457,8 +457,8 @@
           "to": 17,
           "icon": "🌦️",
           "label": "Light drizzle",
-          "temp": 28,
-          "rain": 67
+          "temp": 27,
+          "rain": 86
         },
         {
           "name": "Evening",
@@ -466,17 +466,17 @@
           "to": 21,
           "icon": "🌦️",
           "label": "Light drizzle",
-          "temp": 27,
-          "rain": 43
+          "temp": 26,
+          "rain": 49
         },
         {
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "🌦️",
-          "label": "Light drizzle",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 25,
-          "rain": 30
+          "rain": 35
         }
       ],
       "log": {
@@ -495,6 +495,15 @@
           "temp": 27,
           "feels": 30,
           "humidity": 72,
+          "label": "Cloudy",
+          "icon": "☁️"
+        },
+        "Evening": {
+          "iso": "2026-09-24T18:00",
+          "time": "6:00 PM",
+          "temp": 27,
+          "feels": 30,
+          "humidity": 80,
           "label": "Cloudy",
           "icon": "☁️"
         }
@@ -518,6 +527,15 @@
         "humidity": 72,
         "label": "Cloudy",
         "icon": "☁️"
+      },
+      "Evening": {
+        "iso": "2026-09-24T18:00",
+        "time": "6:00 PM",
+        "temp": 27,
+        "feels": 30,
+        "humidity": 80,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "wx_office": {
@@ -527,19 +545,19 @@
       "label": "Light showers",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-09-24T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
-        "temp": 28,
-        "feels": 29,
-        "humidity": 69,
-        "label": "Light drizzle",
-        "icon": "🌦️"
+        "iso": "2026-09-24T18:00",
+        "time": "6:00 PM",
+        "hour": 18.0,
+        "temp": 27,
+        "feels": 30,
+        "humidity": 78,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 29,
       "low": 22,
       "rain": 100,
-      "uv": 6.05,
+      "uv": 6.3,
       "periods": [
         {
           "name": "Morning",
@@ -547,8 +565,8 @@
           "to": 12,
           "icon": "🌦️",
           "label": "Light drizzle",
-          "temp": 26,
-          "rain": 76
+          "temp": 24,
+          "rain": 83
         },
         {
           "name": "Afternoon",
@@ -557,25 +575,25 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 28,
-          "rain": 67
+          "rain": 86
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌦️",
-          "label": "Light drizzle",
-          "temp": 27,
-          "rain": 43
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 26,
+          "rain": 49
         },
         {
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "🌦️",
-          "label": "Light drizzle",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 25,
-          "rain": 30
+          "rain": 35
         }
       ],
       "log": {
@@ -596,6 +614,15 @@
           "humidity": 69,
           "label": "Light drizzle",
           "icon": "🌦️"
+        },
+        "Evening": {
+          "iso": "2026-09-24T18:00",
+          "time": "6:00 PM",
+          "temp": 27,
+          "feels": 30,
+          "humidity": 78,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -617,6 +644,15 @@
         "humidity": 69,
         "label": "Light drizzle",
         "icon": "🌦️"
+      },
+      "Evening": {
+        "iso": "2026-09-24T18:00",
+        "time": "6:00 PM",
+        "temp": 27,
+        "feels": 30,
+        "humidity": 78,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "gold": {
@@ -642,8 +678,8 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13847,
-          "k24": 15116,
+          "k22": 13812,
+          "k24": 15079,
           "change22": null,
           "date": "24 September 2026",
           "url": "https://ibjarates.com/"
@@ -747,16 +783,16 @@
         "label": "Light showers",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-09-24T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
+          "iso": "2026-09-24T18:00",
+          "time": "6:00 PM",
+          "hour": 18.0,
           "temp": 27,
           "feels": 30,
-          "humidity": 72,
+          "humidity": 80,
           "label": "Cloudy",
           "icon": "☁️"
         },
-        "high": 29,
+        "high": 28,
         "low": 22,
         "rain": 100,
         "uv": 4.4,
@@ -768,7 +804,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 25,
-            "rain": 76
+            "rain": 83
           },
           {
             "name": "Afternoon",
@@ -776,8 +812,8 @@
             "to": 17,
             "icon": "🌦️",
             "label": "Light drizzle",
-            "temp": 28,
-            "rain": 67
+            "temp": 27,
+            "rain": 86
           },
           {
             "name": "Evening",
@@ -785,17 +821,17 @@
             "to": 21,
             "icon": "🌦️",
             "label": "Light drizzle",
-            "temp": 27,
-            "rain": 43
+            "temp": 26,
+            "rain": 49
           },
           {
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "🌦️",
-            "label": "Light drizzle",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 25,
-            "rain": 30
+            "rain": 35
           }
         ],
         "log": {
@@ -816,6 +852,15 @@
             "humidity": 72,
             "label": "Cloudy",
             "icon": "☁️"
+          },
+          "Evening": {
+            "iso": "2026-09-24T18:00",
+            "time": "6:00 PM",
+            "temp": 27,
+            "feels": 30,
+            "humidity": 80,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       },
@@ -826,19 +871,19 @@
         "label": "Light showers",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-09-24T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
-          "temp": 28,
-          "feels": 29,
-          "humidity": 69,
-          "label": "Light drizzle",
-          "icon": "🌦️"
+          "iso": "2026-09-24T18:00",
+          "time": "6:00 PM",
+          "hour": 18.0,
+          "temp": 27,
+          "feels": 30,
+          "humidity": 78,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 29,
         "low": 22,
         "rain": 100,
-        "uv": 6.05,
+        "uv": 6.3,
         "periods": [
           {
             "name": "Morning",
@@ -846,8 +891,8 @@
             "to": 12,
             "icon": "🌦️",
             "label": "Light drizzle",
-            "temp": 26,
-            "rain": 76
+            "temp": 24,
+            "rain": 83
           },
           {
             "name": "Afternoon",
@@ -856,25 +901,25 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 28,
-            "rain": 67
+            "rain": 86
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌦️",
-            "label": "Light drizzle",
-            "temp": 27,
-            "rain": 43
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 26,
+            "rain": 49
           },
           {
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "🌦️",
-            "label": "Light drizzle",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 25,
-            "rain": 30
+            "rain": 35
           }
         ],
         "log": {
@@ -895,6 +940,15 @@
             "humidity": 69,
             "label": "Light drizzle",
             "icon": "🌦️"
+          },
+          "Evening": {
+            "iso": "2026-09-24T18:00",
+            "time": "6:00 PM",
+            "temp": 27,
+            "feels": 30,
+            "humidity": 78,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       }
