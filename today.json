@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 24 September 2026",
   "date_key": "2026-09-24",
-  "fetched_ist": "24 Sep 2026, 06:26 AM IST",
+  "fetched_ist": "24 Sep 2026, 06:42 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -427,6 +427,16 @@
       "area": "Officers Colony, A.S. Rao Nagar",
       "label": "Light showers",
       "icon": "🌦️",
+      "now": {
+        "iso": "2026-09-24T06:30",
+        "time": "6:30 AM",
+        "hour": 6.5,
+        "temp": 23,
+        "feels": 26,
+        "humidity": 90,
+        "label": "Light drizzle",
+        "icon": "🌦️"
+      },
       "high": 29,
       "low": 22,
       "rain": 93,
@@ -468,7 +478,29 @@
           "temp": 25,
           "rain": 30
         }
-      ]
+      ],
+      "log": {
+        "Morning": {
+          "iso": "2026-09-24T06:30",
+          "time": "6:30 AM",
+          "temp": 23,
+          "feels": 26,
+          "humidity": 90,
+          "label": "Light drizzle",
+          "icon": "🌦️"
+        }
+      }
+    },
+    "wxlog_home": {
+      "Morning": {
+        "iso": "2026-09-24T06:30",
+        "time": "6:30 AM",
+        "temp": 23,
+        "feels": 26,
+        "humidity": 90,
+        "label": "Light drizzle",
+        "icon": "🌦️"
+      }
     },
     "wx_office": {
       "key": "office",
@@ -476,6 +508,16 @@
       "area": "Mindspace, Raidurg",
       "label": "Light showers",
       "icon": "🌦️",
+      "now": {
+        "iso": "2026-09-24T06:30",
+        "time": "6:30 AM",
+        "hour": 6.5,
+        "temp": 23,
+        "feels": 25,
+        "humidity": 92,
+        "label": "Cloudy",
+        "icon": "☁️"
+      },
       "high": 29,
       "low": 22,
       "rain": 93,
@@ -517,7 +559,29 @@
           "temp": 25,
           "rain": 30
         }
-      ]
+      ],
+      "log": {
+        "Morning": {
+          "iso": "2026-09-24T06:30",
+          "time": "6:30 AM",
+          "temp": 23,
+          "feels": 25,
+          "humidity": 92,
+          "label": "Cloudy",
+          "icon": "☁️"
+        }
+      }
+    },
+    "wxlog_office": {
+      "Morning": {
+        "iso": "2026-09-24T06:30",
+        "time": "6:30 AM",
+        "temp": 23,
+        "feels": 25,
+        "humidity": 92,
+        "label": "Cloudy",
+        "icon": "☁️"
+      }
     },
     "gold": {
       "rows": {
@@ -646,6 +710,16 @@
         "area": "Officers Colony, A.S. Rao Nagar",
         "label": "Light showers",
         "icon": "🌦️",
+        "now": {
+          "iso": "2026-09-24T06:30",
+          "time": "6:30 AM",
+          "hour": 6.5,
+          "temp": 23,
+          "feels": 26,
+          "humidity": 90,
+          "label": "Light drizzle",
+          "icon": "🌦️"
+        },
         "high": 29,
         "low": 22,
         "rain": 93,
@@ -687,7 +761,18 @@
             "temp": 25,
             "rain": 30
           }
-        ]
+        ],
+        "log": {
+          "Morning": {
+            "iso": "2026-09-24T06:30",
+            "time": "6:30 AM",
+            "temp": 23,
+            "feels": 26,
+            "humidity": 90,
+            "label": "Light drizzle",
+            "icon": "🌦️"
+          }
+        }
       },
       {
         "key": "office",
@@ -695,6 +780,16 @@
         "area": "Mindspace, Raidurg",
         "label": "Light showers",
         "icon": "🌦️",
+        "now": {
+          "iso": "2026-09-24T06:30",
+          "time": "6:30 AM",
+          "hour": 6.5,
+          "temp": 23,
+          "feels": 25,
+          "humidity": 92,
+          "label": "Cloudy",
+          "icon": "☁️"
+        },
         "high": 29,
         "low": 22,
         "rain": 93,
@@ -736,7 +831,18 @@
             "temp": 25,
             "rain": 30
           }
-        ]
+        ],
+        "log": {
+          "Morning": {
+            "iso": "2026-09-24T06:30",
+            "time": "6:30 AM",
+            "temp": 23,
+            "feels": 25,
+            "humidity": 92,
+            "label": "Cloudy",
+            "icon": "☁️"
+          }
+        }
       }
     ]
   }
