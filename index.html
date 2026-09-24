@@ -178,7 +178,6 @@ details a{display:inline-block;margin-bottom:.8rem}
         <div class="grow ghead"><span></span><span>22K</span><span>24K</span></div>
         <div id="goldRows"></div>
         <div class="spark" id="goldSpark22" hidden></div>
-        <div class="spark" id="goldSpark24" hidden></div>
         <p class="gnote">Per gram, excluding GST and making charges.</p>
         <p class="gnote gwhen">🕦 GoodReturns and PolicyBazaar update early each morning. IBJA, the official benchmark, publishes around midday on weekdays, so in the morning it shows the previous working day. No IBJA rates on weekends or holidays.</p>
       </div>
@@ -276,15 +275,23 @@ function render(d, preview) {
       $(el).innerHTML = `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="${label} price over the last ${vals.length} days">
         <polyline points="${pts.map(p => p.map(n => n.toFixed(1)).join(",")).join(" ")}" fill="none" stroke="${color}" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
         <circle cx="${last[0]}" cy="${last[1]}" r="4" fill="${color}"/></svg>
-        <div class="sl"><span>${label}, last ${vals.length} days</span><span>${inr(lo)} to ${inr(hi)}</span></div>`;
+        <div class="sl" data-r22="${inr(lo)} to ${inr(hi)}"><span>${label}, last ${vals.length} days</span><span>${inr(lo)} to ${inr(hi)}</span></div>`;
       $(el).hidden = false;
     };
     spark("k22", "22K", "var(--acc2)", "goldSpark22");
-    spark("k24", "24K", "var(--acc)", "goldSpark24");
-    if (!$("goldSpark24").hidden) $("goldSpark24").insertAdjacentHTML("beforeend", '<div class="sl"><span>Trend lines: GoodReturns</span></div>');
+    const tr24 = (d.gold.trend || []).map(x => x.k24).filter(Boolean);
+    if (!$("goldSpark22").hidden) {
+      const sl = $("goldSpark22").querySelector(".sl");
+      sl.children[0].textContent = `Last ${tr24.length || ""} days`.replace("  ", " ");
+      sl.children[1].textContent = "";
+      $("goldSpark22").insertAdjacentHTML("beforeend",
+        `<div class="sl"><span>22K</span><span>${sl.dataset.r22 || ""}</span></div>` +
+        (tr24.length >= 3 ? `<div class="sl"><span>24K</span><span>${inr(Math.min(...tr24))} to ${inr(Math.max(...tr24))}</span></div>` : "") +
+        `<div class="sl"><span>24K moves in step with 22K, about 9% higher · GoodReturns</span></div>`);
+    }
     $("goldWrap").hidden = false;
   }
-  const names = {love:"Love", career:"Career", money:"Money", health:"Health"};
+  const names = {career:"Career", money:"Money", health:"Health"};
   const tabs = $("tabs"), box = $("topic");
   const show = k => {
     [...tabs.children].forEach(b => b.setAttribute("aria-selected", b.dataset.k === k));
@@ -298,7 +305,7 @@ function render(d, preview) {
     const b = document.createElement("button"); b.dataset.k = k; b.setAttribute("role","tab");
     b.textContent = names[k]; b.onclick = () => show(k); tabs.appendChild(b);
   });
-  show("love");
+  show("career");
 
   $("full").innerHTML = (d.sources || []).map(s => `
     <details><summary><span>${esc(s.name)}</span>${s.source_date ? `<span class="src">${esc(s.source_date)}</span>` : ""}</summary>
