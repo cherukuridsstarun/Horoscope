@@ -5,13 +5,13 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="My Morning">
+<meta name="apple-mobile-web-app-title" content="OTwinaurus">
 <meta name="theme-color" content="#e9ebf0" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
-<title>Good morning</title>
+<title>OTwinaurus</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&display=swap" rel="stylesheet">
 <style>
@@ -174,6 +174,29 @@ details a{display:inline-block;margin-bottom:.8rem}
 .rk{flex-direction:row!important;flex-wrap:wrap;align-items:center;column-gap:.8rem}
 .rk .lkl{width:100%}
 .rk .src{width:100%}
+
+.wxcur{margin:.55rem 0 0;font-size:.88rem;line-height:1.45}
+.wxcur span{color:var(--soft);font-size:.78rem}
+.pd.rec .pt{text-decoration:underline;text-decoration-color:var(--good);text-decoration-thickness:2px;text-underline-offset:3px}
+.pm{font-size:.68rem;font-weight:700;color:var(--good)}
+.wxkey{margin:.45rem 0 0;font-size:.72rem;color:var(--soft);display:flex;align-items:center;gap:.3rem;flex-wrap:wrap}
+.dotrec,.dotfc{display:inline-block;width:.55rem;height:.55rem;border-radius:50%}
+.dotrec{background:var(--good)}.dotfc{background:var(--line)}
+
+main{padding-bottom:calc(5.5rem + env(safe-area-inset-bottom,0px))}
+.fab{position:fixed;right:calc(1rem + env(safe-area-inset-right,0px));bottom:calc(1rem + env(safe-area-inset-bottom,0px));z-index:30;
+  width:52px;height:52px;border-radius:50%;border:0;cursor:pointer;display:grid;place-items:center;
+  background:var(--ink);color:var(--tile);box-shadow:0 6px 20px rgba(0,0,0,.28)}
+.fab:active{transform:scale(.94)}
+.fab.spin svg{animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(5rem + env(safe-area-inset-bottom,0px));z-index:31;
+  max-width:min(92vw,26rem);background:var(--ink);color:var(--tile);padding:.7rem 1rem;border-radius:1rem;font-size:.86rem;font-weight:600;
+  line-height:1.4;box-shadow:0 6px 20px rgba(0,0,0,.28);text-align:center}
+.ptr{position:fixed;left:50%;top:calc(env(safe-area-inset-top,0px) + .4rem);z-index:32;display:flex;gap:.4rem;align-items:center;
+  background:var(--tile);color:var(--ink);font-size:.8rem;font-weight:700;padding:.45rem .85rem;border-radius:2rem;
+  box-shadow:0 4px 14px rgba(0,0,0,.2);transform:translate(-50%,-150%);opacity:0;pointer-events:none}
+.ptr.show{opacity:1}
 </style></head>
 <body>
 <main>
@@ -203,7 +226,9 @@ details a{display:inline-block;margin-bottom:.8rem}
             <div><span class="wxhi" id="wxHi"></span><span class="wxlabel" id="wxLabel"></span></div>
           </div>
           <span class="src" id="wxMore"></span>
+          <p class="wxcur" id="wxNow" hidden></p>
           <div class="periods" id="wxPeriods"></div>
+          <p class="wxkey" id="wxKey" hidden><span class="dotrec"></span> measured at that time · <span class="dotfc"></span> forecast</p>
           <p class="wxtip" id="wxTip" hidden></p>
           <span class="src" id="wxArea"></span>
         </div>
@@ -292,11 +317,16 @@ details a{display:inline-block;margin-bottom:.8rem}
     <button id="installClose" aria-label="Dismiss">✕</button>
   </section>
   <footer class="foot" id="foot"></footer>
+  <div class="ptr" id="ptr" aria-hidden="true"><span id="ptrIcon">↓</span><span id="ptrText">Pull to refresh</span></div>
+  <button class="fab" id="refreshBtn" aria-label="Refresh">
+    <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 11a8 8 0 1 0-2.3 5.7"/><path d="M20 4v7h-7"/></svg>
+  </button>
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
 
 </main>
 <script>
 /* ===== EDIT ME ===== */
-const NAME = "Taurus";            // her name or nickname
+const NAME = "OTwinaurus";            // her name or nickname
 const NOTE = "This is for ya!";   // one line from you (leave "" to hide)
 /* =================== */
 const SAMPLE = {"date_ist":"Thursday, 24 September 2026","date_key":"2026-09-24","fetched_ist":"24 Sep 2026, 04:32 AM IST",
@@ -365,11 +395,20 @@ function render(d, preview) {
         [...$("wxSeg").children].forEach(b => b.setAttribute("aria-selected", b.dataset.k === w.key));
         $("wxIcon").textContent = w.icon; $("wxHi").textContent = `${w.high}° / ${w.low}°`; $("wxLabel").textContent = w.label;
         $("wxMore").textContent = [w.rain != null ? `Rain chance up to ${w.rain}%` : "", w.uv != null ? `UV ${Math.round(w.uv)}` : ""].filter(Boolean).join(" · ");
+        const log = w.log || {};
+        const n = w.now;
+        if (n) { $("wxNow").innerHTML = `<b>Right now ${n.icon} ${n.temp}°</b> · feels ${n.feels}°${n.humidity != null ? ` · humidity ${n.humidity}%` : ""} · ${esc(n.label)} <span>(as of ${esc(n.time)})</span>`; $("wxNow").hidden = false; }
+        else { $("wxNow").hidden = true; }
+        let anyRec = false;
         $("wxPeriods").innerHTML = w.periods.map(p => {
-          const now = hNow >= p.from && hNow < p.to;
-          return `<div class="pd${now ? " now" : ""}" title="${esc(p.label)}"><span class="pn">${now ? "Now" : esc(p.name)}</span><span class="pi">${p.icon}</span><span class="pt">${p.temp}°</span><span class="pr">${p.rain != null ? "💧" + p.rain + "%" : ""}</span></div>`;
+          const now = hNow >= p.from && hNow < p.to, r = log[p.name];
+          if (r) anyRec = true;
+          const temp = r ? r.temp : p.temp, icon = r ? r.icon : p.icon;
+          const sub = r ? `<span class="pm">✓ ${esc(r.time)}</span>` : `<span class="pr">${p.rain != null ? "💧" + p.rain + "%" : ""}</span>`;
+          return `<div class="pd${now ? " now" : ""}${r ? " rec" : ""}" title="${esc(r ? r.label : p.label)}"><span class="pn">${now ? "Now" : esc(p.name)}</span><span class="pi">${icon}</span><span class="pt">${temp}°</span>${sub}</div>`;
         }).join("");
-        $("wxArea").textContent = `${w.area} · Open-Meteo forecast`;
+        $("wxKey").hidden = !anyRec;
+        $("wxArea").textContent = `${w.area} · Open-Meteo (readings are their live model estimate for that spot)`;
       };
       // umbrella tip looks at BOTH places for the rest of today, whichever tab is open
       const when = {Morning: "this morning", Afternoon: "this afternoon", Evening: "this evening", Night: "tonight"};
@@ -537,8 +576,57 @@ if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catc
   $("installClose").onclick = () => { card.hidden = true; try { localStorage.setItem("installDismissed", "1"); } catch (e) {} };
   addEventListener("appinstalled", () => { card.hidden = true; });
 })();
+
+/* ---- refresh: floating button everywhere + pull-to-refresh in the installed app ---- */
+const RUNS_IST = [[4,30],[5,45],[7,30],[12,45],[18,30],[21,30]];   // matches the GitHub schedule
+function nextUpdateIST() {
+  const parts = new Intl.DateTimeFormat("en-GB", {timeZone: "Asia/Kolkata", hour: "numeric", minute: "numeric", hourCycle: "h23"}).formatToParts(new Date());
+  const m = +parts.find(x => x.type === "hour").value * 60 + +parts.find(x => x.type === "minute").value;
+  const n = RUNS_IST.find(([h, mi]) => h * 60 + mi > m) || RUNS_IST[0];
+  const d = new Date(2000, 0, 1, n[0], n[1]);
+  return d.toLocaleTimeString("en-IN", {hour: "numeric", minute: "2-digit"}) + (n === RUNS_IST[0] && RUNS_IST[0][0] * 60 + RUNS_IST[0][1] <= m ? " tomorrow" : "");
+}
+function toast(msg) {
+  const t = $("toast"); t.textContent = msg; t.hidden = false;
+  clearTimeout(toast._t); toast._t = setTimeout(() => { t.hidden = true; }, 4200);
+}
+let lastFetched = null;
+function doRefresh() {
+  const b = $("refreshBtn"); if (b.classList.contains("spin")) return;
+  b.classList.add("spin");
+  try { sessionStorage.setItem("refreshFrom", lastFetched || ""); } catch (e) {}
+  setTimeout(() => location.reload(), 350);
+}
+$("refreshBtn").onclick = doRefresh;
+(function pullToRefresh() {
+  const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+  if (!standalone) return;                      // in a browser tab the browser's own pull-to-refresh already works
+  const el = $("ptr"); let y0 = null, dy = 0;
+  addEventListener("touchstart", e => { y0 = (scrollY <= 0 && e.touches.length === 1) ? e.touches[0].clientY : null; dy = 0; }, {passive: true});
+  addEventListener("touchmove", e => {
+    if (y0 === null) return;
+    dy = Math.max(0, e.touches[0].clientY - y0);
+    if (dy > 8) {
+      const k = Math.min(dy, 110);
+      el.classList.add("show"); el.style.transform = `translate(-50%, ${k * 0.8 - 40}px)`;
+      $("ptrIcon").textContent = dy > 80 ? "↻" : "↓"; $("ptrText").textContent = dy > 80 ? "Release to refresh" : "Pull to refresh";
+    }
+  }, {passive: true});
+  addEventListener("touchend", () => {
+    if (y0 !== null && dy > 80) { $("ptrText").textContent = "Refreshing…"; doRefresh(); }
+    else { el.classList.remove("show"); el.style.transform = ""; }
+    y0 = null; dy = 0;
+  }, {passive: true});
+})();
+function afterRefreshNotice(d) {
+  let from = null; try { from = sessionStorage.getItem("refreshFrom"); sessionStorage.removeItem("refreshFrom"); } catch (e) {}
+  lastFetched = d.fetched_ist || null;
+  if (from === null) return;
+  if (d.fetched_ist && d.fetched_ist !== from) toast(`Updated ✓ Newest data from ${d.fetched_ist.split(", ")[1] || d.fetched_ist}`);
+  else toast(`Already up to date. Next update around ${nextUpdateIST()} IST`);
+}
 fetch("today.json?" + Date.now()).then(r => { if (!r.ok) throw 0; return r.json(); })
-  .then(d => render(d, false)).catch(() => render(SAMPLE, true));
+  .then(d => { render(d, false); afterRefreshNotice(d); }).catch(() => render(SAMPLE, true));
 
 const istClock = () => new Intl.DateTimeFormat("en-IN",{timeZone:"Asia/Kolkata",hour:"numeric",minute:"2-digit"}).format(new Date());
 document.getElementById("daycap").textContent = istClock() + " in India";

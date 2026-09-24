@@ -386,6 +386,7 @@ def weather_place(pl):
     r = requests.get("https://api.open-meteo.com/v1/forecast", headers=UA, timeout=20, params={
         "latitude": pl["lat"], "longitude": pl["lon"], "timezone": "Asia/Kolkata", "forecast_days": 2,
         "hourly": "temperature_2m,precipitation_probability,weather_code",
+        "current": "temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,is_day",
         "daily": "weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,uv_index_max"})
     if not r.ok:
         print(f"  ! weather {pl['key']} -> HTTP {r.status_code}")
@@ -412,8 +413,17 @@ def weather_place(pl):
             icon = "🌙"
         periods.append({"name": name, "from": a, "to": b, "icon": icon, "label": lab,
                         "temp": round(sum(x[1] for x in hs) / len(hs)), "rain": max(rains) if rains else None})
+    c, now = j.get("current", {}), None
+    if c.get("time", "").startswith(TODAY.isoformat()) and c.get("temperature_2m") is not None:
+        ct = datetime.datetime.fromisoformat(c["time"])
+        cl, ci = _wx(c.get("weather_code"))
+        if not c.get("is_day", 1) and c.get("weather_code") in (0, 1):
+            ci = "🌙"
+        now = {"iso": c["time"], "time": ct.strftime("%I:%M %p").lstrip("0"), "hour": ct.hour + ct.minute / 60,
+               "temp": round(c["temperature_2m"]), "feels": round(c["apparent_temperature"]),
+               "humidity": c.get("relative_humidity_2m"), "label": cl, "icon": ci}
     lab, icon = _wx(d["weather_code"][0])
-    return {"key": pl["key"], "name": pl["name"], "area": pl["area"], "label": lab, "icon": icon,
+    return {"key": pl["key"], "name": pl["name"], "area": pl["area"], "label": lab, "icon": icon, "now": now,
             "high": round(d["temperature_2m_max"][0]), "low": round(d["temperature_2m_min"][0]),
             "rain": d.get("precipitation_probability_max", [None])[0], "uv": d.get("uv_index_max", [None])[0],
             "periods": periods}
@@ -530,6 +540,16 @@ raw["astrosage"] = keep("astrosage", safe(astrosage), lambda r: bool(r and r.get
 
 for pl in PLACES:
     raw["wx_" + pl["key"]] = keep("wx_" + pl["key"], safe(weather_place, pl), lambda r: bool(r and r.get("periods")))
+    log = dict(PREV_RAW.get("wxlog_" + pl["key"], {}))          # {period name: reading}, today only
+    n = (raw["wx_" + pl["key"]] or {}).get("now")
+    if n:
+        for name, a, b in PERIODS:
+            if a <= n["hour"] < b:                                   # before 6 AM is last night, so it isn't logged
+                if name not in log or log[name]["iso"] <= n["iso"]:
+                    log[name] = {k: n[k] for k in ("iso", "time", "temp", "feels", "humidity", "label", "icon")}
+    raw["wxlog_" + pl["key"]] = log
+    if raw["wx_" + pl["key"]]:
+        raw["wx_" + pl["key"]] = {**raw["wx_" + pl["key"]], "log": log}
 
 # gold: each source independently, each keeps its own date
 gr = safe(gold_goodreturns) or (None, [])
@@ -643,5 +663,6 @@ print("gold:", [(r["src"], r["k22"], r["k24"], r["date"]) for r in (out["gold"] 
 print("ratings:", out["ratings"], "| extras:", [e["title"] for e in out["extras"]])
 print("panchang:", {k: out["panchang"][k] for k in ("tithi", "tithi_until", "nakshatra", "sunrise", "sunset", "rahu")} if out["panchang"] else None)
 print("weather:", [(w["name"], w["high"], w["low"], w["rain"], [(x["name"], x["temp"], x["rain"]) for x in w["periods"]]) for w in (out["weather"] or {}).get("places", [])])
+print("weather now:", [(w["name"], (w.get("now") or {}).get("time"), (w.get("now") or {}).get("temp"), sorted(w.get("log", {}))) for w in (out["weather"] or {}).get("places", [])])
 print("festivals:", out["festivals"])
 json.dump(out, open("today.json", "w"), indent=2, ensure_ascii=False)
