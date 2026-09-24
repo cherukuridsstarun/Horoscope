@@ -254,6 +254,11 @@ def purity_check(r):
 
 # ================= Her city (weather + Panchang are calculated for this place) =================
 CITY, LAT, LON = "Hyderabad", 17.3850, 78.4867
+PLACES = [  # weather is fetched for each of these
+    {"key": "home",   "name": "Home",   "area": "Officers Colony, A.S. Rao Nagar", "lat": 17.4731, "lon": 78.5664},
+    {"key": "office", "name": "Office", "area": "Mindspace, Raidurg",              "lat": 17.4422, "lon": 78.3773},
+]
+PERIODS = [("Morning", 6, 12), ("Afternoon", 12, 17), ("Evening", 17, 21), ("Night", 21, 30)]  # IST hours; night runs to 6 AM
 
 # ---------------- Panchang (astronomical calculation, Lahiri ayanamsa, IST) ----------------
 TITHIS = ["Pratipada", "Dwitiya", "Tritiya", "Chaturthi", "Panchami", "Shashthi", "Saptami", "Ashtami", "Navami",
@@ -374,22 +379,44 @@ WMO = {0: ("Clear sky", "☀️"), 1: ("Mostly clear", "🌤️"), 2: ("Partly c
        81: ("Showers", "🌧️"), 82: ("Heavy showers", "⛈️"), 85: ("Snow showers", "🌨️"), 86: ("Snow showers", "🌨️"),
        95: ("Thunderstorms", "⛈️"), 96: ("Thunderstorms with hail", "⛈️"), 99: ("Thunderstorms with hail", "⛈️")}
 
-def weather():
+def _wx(code):
+    return WMO.get(code, ("", "🌡️"))
+
+def weather_place(pl):
     r = requests.get("https://api.open-meteo.com/v1/forecast", headers=UA, timeout=20, params={
-        "latitude": LAT, "longitude": LON, "timezone": "Asia/Kolkata", "forecast_days": 1,
+        "latitude": pl["lat"], "longitude": pl["lon"], "timezone": "Asia/Kolkata", "forecast_days": 2,
+        "hourly": "temperature_2m,precipitation_probability,weather_code",
         "daily": "weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,uv_index_max"})
     if not r.ok:
-        print(f"  ! weather -> HTTP {r.status_code}")
+        print(f"  ! weather {pl['key']} -> HTTP {r.status_code}")
         return None
-    d = r.json().get("daily", {})
-    if not d.get("time") or d["time"][0] != TODAY.isoformat():      # must be India's today
-        print("  ! weather: forecast date isn't today in India")
+    j = r.json(); d, h = j.get("daily", {}), j.get("hourly", {})
+    if not d.get("time") or d["time"][0] != TODAY.isoformat():          # must be India's today
+        print(f"  ! weather {pl['key']}: forecast date isn't today in India")
         return None
-    code = d["weather_code"][0]
-    label, icon = WMO.get(code, ("", "🌡️"))
-    return {"city": CITY, "date": d["time"][0], "label": label, "icon": icon,
+    hours = []                                                          # (hours since today 00:00 IST, temp, rain%, code)
+    for t, temp, rain, code in zip(h.get("time", []), h.get("temperature_2m", []),
+                                   h.get("precipitation_probability", []), h.get("weather_code", [])):
+        dt = datetime.datetime.fromisoformat(t)
+        off = (dt.date() - TODAY).days * 24 + dt.hour
+        hours.append((off, temp, rain, code))
+    periods = []
+    for name, a, b in PERIODS:
+        hs = [x for x in hours if a <= x[0] < b and x[1] is not None]
+        if not hs:
+            continue
+        code = max(x[3] for x in hs if x[3] is not None)                   # the most significant weather in that window
+        rains = [x[2] for x in hs if x[2] is not None]
+        lab, icon = _wx(code)
+        if name == "Night" and code in (0, 1):
+            icon = "🌙"
+        periods.append({"name": name, "from": a, "to": b, "icon": icon, "label": lab,
+                        "temp": round(sum(x[1] for x in hs) / len(hs)), "rain": max(rains) if rains else None})
+    lab, icon = _wx(d["weather_code"][0])
+    return {"key": pl["key"], "name": pl["name"], "area": pl["area"], "label": lab, "icon": icon,
             "high": round(d["temperature_2m_max"][0]), "low": round(d["temperature_2m_min"][0]),
-            "rain": d.get("precipitation_probability_max", [None])[0], "uv": d.get("uv_index_max", [None])[0]}
+            "rain": d.get("precipitation_probability_max", [None])[0], "uv": d.get("uv_index_max", [None])[0],
+            "periods": periods}
 
 # ---------------- sorting (verbatim sentences only) ----------------
 def sentences(text):
@@ -501,7 +528,8 @@ def astrology_love():
 raw["ac"] = keep("ac", safe(astrology_daily), ok_text)
 raw["astrosage"] = keep("astrosage", safe(astrosage), lambda r: bool(r and r.get("ok")))
 
-raw["weather"] = keep("weather", safe(weather), lambda r: bool(r and r.get("date") == TODAY.isoformat()))
+for pl in PLACES:
+    raw["wx_" + pl["key"]] = keep("wx_" + pl["key"], safe(weather_place, pl), lambda r: bool(r and r.get("periods")))
 
 # gold: each source independently, each keeps its own date
 gr = safe(gold_goodreturns) or (None, [])
@@ -519,7 +547,10 @@ out = {"sign": "Taurus", "date_ist": NOW.strftime("%A, %d %B %Y"), "date_key": N
        "glance": {"good": [], "heads": [], "todo": []},
        "topics": {k: {"readings": [], "bits": []} for k in TOPICS},
        "lucky": [], "ratings": None, "extras": [], "gold": None, "_raw": raw,
-       "panchang": None, "weather": raw["weather"], "festivals": None}
+       "panchang": None, "festivals": None,
+       "weather": {"date": TODAY.isoformat(), "places": [raw["wx_" + pl["key"]] for pl in PLACES if raw.get("wx_" + pl["key"])]}}
+if not out["weather"]["places"]:
+    out["weather"] = None
 
 pc = safe(panchang_for, TODAY)
 if pc:
@@ -611,6 +642,6 @@ print("lucky:", out["lucky"])
 print("gold:", [(r["src"], r["k22"], r["k24"], r["date"]) for r in (out["gold"] or {}).get("rows", [])])
 print("ratings:", out["ratings"], "| extras:", [e["title"] for e in out["extras"]])
 print("panchang:", {k: out["panchang"][k] for k in ("tithi", "tithi_until", "nakshatra", "sunrise", "sunset", "rahu")} if out["panchang"] else None)
-print("weather:", out["weather"])
+print("weather:", [(w["name"], w["high"], w["low"], w["rain"], [(x["name"], x["temp"], x["rain"]) for x in w["periods"]]) for w in (out["weather"] or {}).get("places", [])])
 print("festivals:", out["festivals"])
 json.dump(out, open("today.json", "w"), indent=2, ensure_ascii=False)
