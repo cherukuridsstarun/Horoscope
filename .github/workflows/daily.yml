@@ -5,6 +5,8 @@ on:
     - cron: "15 0 * * *"    # 5:45 AM IST backup
     - cron: "0 2 * * *"     # 7:30 AM IST safety net
     - cron: "15 7 * * *"    # 12:45 PM IST, after IBJA's midday gold rate
+    - cron: "0 13 * * *"    # 6:30 PM IST, evening weather reading
+    - cron: "0 16 * * *"    # 9:30 PM IST, night weather reading
   workflow_dispatch:        # "Run workflow" button for testing
 permissions:
   contents: write
