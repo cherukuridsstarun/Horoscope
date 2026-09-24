@@ -354,7 +354,9 @@ const list = (arr, empty) => (arr && arr.length)
   : `<li class="empty">${empty}</li>`;
 
 function render(d, preview) {
-  $("hello").textContent = `Good morning, ${NAME}`;
+  const hIST = +new Intl.DateTimeFormat("en-GB", {timeZone: "Asia/Kolkata", hour: "numeric", hourCycle: "h23"}).format(new Date());
+  const greet = hIST >= 4 && hIST < 12 ? "Good morning" : hIST >= 12 && hIST < 17 ? "Good afternoon" : "Good evening";
+  $("hello").textContent = `${greet}, ${NAME}`;
   if (NOTE) { $("note").textContent = NOTE; $("note").hidden = false; }
   let dateLine = d.date_ist;
   const istToday = new Intl.DateTimeFormat("en-CA", {timeZone:"Asia/Kolkata"}).format(new Date());
@@ -394,7 +396,9 @@ function render(d, preview) {
         const w = W.places.find(x => x.key === key) || W.places[0];
         [...$("wxSeg").children].forEach(b => b.setAttribute("aria-selected", b.dataset.k === w.key));
         $("wxIcon").textContent = w.icon; $("wxHi").textContent = `${w.high}° / ${w.low}°`; $("wxLabel").textContent = w.label;
-        $("wxMore").textContent = [w.rain != null ? `Rain chance up to ${w.rain}%` : "", w.uv != null ? `UV ${Math.round(w.uv)}` : ""].filter(Boolean).join(" · ");
+        const rest = w.periods.filter(p => p.to > hNow && p.rain != null).map(p => p.rain);
+        const rainTxt = rest.length ? `Rain chance up to ${Math.max(...rest)}% for the rest of today` : (w.rain != null ? `Rain chance today peaked at ${w.rain}%` : "");
+        $("wxMore").textContent = [rainTxt, w.uv != null ? `UV ${Math.round(w.uv)}` : ""].filter(Boolean).join(" · ");
         const log = w.log || {};
         const n = w.now;
         if (n) { $("wxNow").innerHTML = `<b>Right now ${n.icon} ${n.temp}°</b> · feels ${n.feels}°${n.humidity != null ? ` · humidity ${n.humidity}%` : ""} · ${esc(n.label)} <span>(as of ${esc(n.time)})</span>`; $("wxNow").hidden = false; }
@@ -411,13 +415,23 @@ function render(d, preview) {
         $("wxArea").textContent = `${w.area} · Open-Meteo (readings are their live model estimate for that spot)`;
       };
       // umbrella tip looks at BOTH places for the rest of today, whichever tab is open
-      const when = {Morning: "this morning", Afternoon: "this afternoon", Evening: "this evening", Night: "tonight"};
-      const wetParts = [];
-      W.places.forEach(w => w.periods.filter(p => p.rain != null && p.rain >= 50 && p.to > hNow)
-        .forEach(p => wetParts.push({where: w.key === "office" ? "at the office" : "at home", when: when[p.name], rain: p.rain})));
-      if (wetParts.length) {
-        const txt = wetParts.map(x => `${x.where} ${x.when}`).join(", ");
-        $("wxTip").textContent = `☔ Carry an umbrella: rain likely ${txt} (up to ${Math.max(...wetParts.map(x => x.rain))}%)`;
+      const ORDER = ["Morning", "Afternoon", "Evening", "Night"];
+      const wet = {};                                            // period -> [places]
+      let peak = 0;
+      W.places.forEach(w => w.periods.filter(p => p.rain != null && p.rain >= 50 && p.to > hNow).forEach(p => {
+        (wet[p.name] = wet[p.name] || []).push(w.key === "office" ? "the office" : "home"); peak = Math.max(peak, p.rain);
+      }));
+      const groups = {};                                         // "home|the office" -> [periods]
+      ORDER.filter(n => wet[n]).forEach(n => { const k = [...new Set(wet[n])].sort().join("|"); (groups[k] = groups[k] || []).push(n); });
+      const when = ps => {
+        const day = ps.filter(n => n !== "Night").map(n => n.toLowerCase()), night = ps.includes("Night");
+        const d = day.length ? "this " + (day.length > 1 ? day.slice(0, -1).join(", ") + " and " + day[day.length - 1] : day[0]) : "";
+        return [d, night ? "tonight" : ""].filter(Boolean).join(" and ");
+      };
+      const where = k => { const ps = k.split("|"); return ps.length > 1 ? "at home and the office" : ps[0] === "home" ? "at home" : "at the office"; };
+      const parts = Object.entries(groups).map(([k, ps]) => `${where(k)} ${when(ps)}`);
+      if (parts.length) {
+        $("wxTip").textContent = `☔ Carry an umbrella: rain likely ${parts.join("; ")} (up to ${peak}%)`;
         $("wxTip").hidden = false;
       }
       $("wxSeg").innerHTML = W.places.map(w => `<button role="tab" data-k="${w.key}">${w.key === "home" ? "🏠" : "💼"} ${esc(w.name)}</button>`).join("");
