@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 24 September 2026",
   "date_key": "2026-09-24",
-  "fetched_ist": "24 Sep 2026, 05:15 AM IST",
+  "fetched_ist": "24 Sep 2026, 05:34 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -322,20 +322,6 @@
       }
     ]
   },
-  "matches": [
-    {
-      "type": "Love",
-      "sign": "Aquarius"
-    },
-    {
-      "type": "Friendship",
-      "sign": "Virgo"
-    },
-    {
-      "type": "Career",
-      "sign": "Scorpio"
-    }
-  ],
   "extras": [
     {
       "title": "Bonus",
@@ -367,9 +353,9 @@
       },
       {
         "src": "PolicyBazaar",
-        "label": "Hyderabad retail",
+        "label": "Hyderabad retail · 22K only",
         "k22": 14135,
-        "k24": 14842,
+        "k24": null,
         "change22": null,
         "date": "24 September 2026",
         "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
@@ -436,5 +422,210 @@
         "k24": 15421
       }
     ]
+  },
+  "_raw": {
+    "ganesha": {
+      "name": "GaneshaSpeaks",
+      "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
+      "ok": true,
+      "source_date": "24-09-2026",
+      "text": "You have an easy carefree day ahead. There will be no woes or worries, says Ganesha. But to will be inclined to take up too many things at one time, more than you can handle. This may, in turn, get you stressed and uptight. You are advised to be practical and not to overdo things. If you do get into a fix, a moment’s reflection will show you that you alone are to be blamed. Try to be realistic and reasonable.",
+      "lucky": {
+        "number": "2",
+        "color": "Cream"
+      },
+      "areas": {
+        "love": {
+          "text": "You have to learn to balance your profession and personal life as your companion needs time and attention. You may lose your patience and tend to hurry in getting things done in your personal life. It’s preferable if you avoid being dominating in love life.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-love-and-relationship-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "health": {
+          "text": "Ganesha predicts a somewhat stressed day due to important work. You may also remain busy with meetings. Due to high level of energy, you will be able to deal with everything very well. You should try not getting tired at the end of the day.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "money": {
+          "text": "Being very clever in financial matters, Ganesha says that nobody can take you for a ride where money is concerned. If someone proposes a lucrative deal, you will consider it carefully before accepting it.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "career": {
+          "text": "Progress on the career front grabs your attention today. You will not waste your energy on mundane activities. You will strive for the excellence than unnecessary running behind success. You may have to keep patience, feels Ganesha. Teamwork will give you the best result.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        }
+      }
+    },
+    "hc_general": {
+      "text": "Be your most charming self tonight, Taurus. You're likely to talk with someone who can help your career. Your intuition is strong, so you may know who this person is the minute you begin your conversation. If the chemistry is good, too, so much the better! Whether this person impacts your life in a romantic or business capacity, you'll remember this night as when your life changed for the better!",
+      "date": "Sep 24, 2026",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+    },
+    "hc_love": {
+      "text": "Your problem is that in love, as in everything else, you just have to have two of everything. The day's planetary aspect says this is fine, as long as you are willing to deal with the consequences. If it's one partner for each side of your schizophrenic personality, then you might just get away with it. You will probably be satisfied - but will you be happy?",
+      "date": "Sep 24, 2026",
+      "url": "https://www.horoscope.com/us/horoscopes/love/horoscope-love-daily-tomorrow.aspx?sign=2"
+    },
+    "hc_career": {
+      "text": "You are a pioneer and an inventor. Tune into this part of your personality as you go about your day. Ask yourself what needs to be created in order to make your job go more smoothly and efficiently and then make plans to create this very thing.",
+      "date": "Sep 24, 2026",
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+    },
+    "hc_wellness": {
+      "text": "The day's planetary aspect offers a good reminder to make sleep your priority. Remember that sleep nurtures you more than anything. Many people find themselves restless at bedtime. When the world quiets down at night, for many it seems like the volume on their thoughts gets turned way up, making it difficult to relax and drift off to sleep. It can help to establish a routine, like what you may have done as a child, to remember how to properly fall asleep. Finding it hard to pry your phone out of your hands even though you are mentally and physically exhausted? Try leaving it in the other room or using it to play a guided meditation or hypnosis session designed to help you sleep.",
+      "date": "Sep 24, 2026",
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+    },
+    "hc_money": {
+      "text": "You have a time of communication in order to exchange ideas. This can be very conducive to starting a new career or advancing in the one you have. All that's required is to be true to yourself. Aspects affecting communication make you a little quirky and unique. You don't care what others think, which makes it so much easier for you to ask for what you're worth.",
+      "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2"
+    },
+    "ac": {
+      "text": "The pull of social media interactions and screen time will be difficult to resist, dearest Taurus. You'll crave connection and endorphin hits as the Pisces Moon squares Uranus, triggering emotionally charged mood swings. Though modern devices offer convenient access to friends and welcome distractions, the content you consume won't provide genuine fulfillment. Before you get sucked into a cycle of doomscrolling, head outside to breathe in all of nature's glory; make your experience extra special by inviting a friend or your sweetheart to traverse the great outdoors when Luna and Venus align. If you're currently on the hunt for love, these vibes bode well for making connections in the wild.",
+      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "extras": [
+        {
+          "title": "Bonus",
+          "text": "It's an important time for family -- reach out to the branches of your family tree.",
+          "src": "Astrology.com"
+        },
+        {
+          "title": "Food",
+          "text": "Sometimes there's nothing more cozy than a quiet dinner at home. It's the quiet part that's tricky. You don't know how you're going to enjoy your beef stroganoff with the chattering spouse, yakking kids and barking dogs -- but you wouldn't want it any other way.",
+          "src": "Astrology.com"
+        },
+        {
+          "title": "Home",
+          "text": "Curry and chili powders matched with plain yogurt or sour cream make quick dips, and you will surely need to improvise snacks when your children bring hungry friends home after the game. Reflect on how nice it is that these teens enjoy spending time in your home and are not out creating havoc.",
+          "src": "Astrology.com"
+        }
+      ]
+    },
+    "ac_love": {
+      "text": "Today and tomorrow will sneak up on you like a conman promising everything and more, Taurus . In fact, it is one of the murkiest periods of the entire year! As the mighty sun soars through the sky like the majestic beacon that he is, he will stand opposite the watery seas of ethereal Neptune. This guarantees that confusion, deception, insecurity, and discouragement will lie behind every corner. If you’re feeling lost in your emotions, don’t let them get the best of you, and by all means don’t run away to alcohol, drugs, or addictions, as you’ll end up regretting it.",
+      "url": "https://www.astrology.com/horoscope/daily-love/tomorrow/taurus.html"
+    },
+    "astrosage": {
+      "name": "AstroSage",
+      "url": "https://www.astrosage.com/horoscope/daily-taurus-horoscope.asp",
+      "ok": true,
+      "source_date": "Thursday, September 24, 2026",
+      "text": "Health remains perfect. You need to keep an eye on where your money is being spent, otherwise you may face problems in the coming times.  Find relief- comfort and love in the company of your spouse. Cupids are rushing toward you with the shower of love in your life. All you need is to be aware of what is happening around. Your confidence is growing and advancement is apparent.  Nothing is impossible as long as there's a will to overcome it. Married couples live togther, but it is not always romantic. Hence today, it is going to be really really romantic.",
+      "lucky": {
+        "number": "8",
+        "color": "Black and Blue",
+        "remedy": "Distribute, gift, donate and make use of items such as perfume, fragrance, incense sticks and camphor to improve financial condition."
+      },
+      "ratings": [
+        {
+          "label": "Health",
+          "stars": 5
+        },
+        {
+          "label": "Wealth",
+          "stars": 2
+        },
+        {
+          "label": "Family",
+          "stars": 4
+        },
+        {
+          "label": "Love",
+          "stars": 4
+        },
+        {
+          "label": "Occupation",
+          "stars": 5
+        },
+        {
+          "label": "Married Life",
+          "stars": 4
+        }
+      ]
+    },
+    "gold": {
+      "rows": {
+        "GoodReturns": {
+          "src": "GoodReturns",
+          "label": "Hyderabad jewellers",
+          "k24": 15421,
+          "k22": 14136,
+          "change22": 1,
+          "date": "24 September 2026",
+          "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
+        },
+        "PolicyBazaar": {
+          "src": "PolicyBazaar",
+          "label": "Hyderabad retail",
+          "k22": 14135,
+          "k24": 14842,
+          "change22": null,
+          "date": "24 September 2026",
+          "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
+        },
+        "IBJA": {
+          "src": "IBJA",
+          "label": "India benchmark (wholesale)",
+          "k22": 13925,
+          "k24": 15202,
+          "change22": null,
+          "date": "23 September 2026",
+          "url": "https://ibjarates.com/"
+        }
+      },
+      "trend": [
+        {
+          "date": "Sep 15, 2026",
+          "k22": 14040,
+          "k24": 15317
+        },
+        {
+          "date": "Sep 16, 2026",
+          "k22": 14065,
+          "k24": 15344
+        },
+        {
+          "date": "Sep 17, 2026",
+          "k22": 14010,
+          "k24": 15284
+        },
+        {
+          "date": "Sep 18, 2026",
+          "k22": 14155,
+          "k24": 15442
+        },
+        {
+          "date": "Sep 19, 2026",
+          "k22": 14285,
+          "k24": 15584
+        },
+        {
+          "date": "Sep 20, 2026",
+          "k22": 14285,
+          "k24": 15584
+        },
+        {
+          "date": "Sep 21, 2026",
+          "k22": 14170,
+          "k24": 15458
+        },
+        {
+          "date": "Sep 22, 2026",
+          "k22": 14055,
+          "k24": 15333
+        },
+        {
+          "date": "Sep 23, 2026",
+          "k22": 14135,
+          "k24": 15420
+        },
+        {
+          "date": "Sep 24, 2026",
+          "k22": 14136,
+          "k24": 15421
+        }
+      ]
+    }
   }
 }
