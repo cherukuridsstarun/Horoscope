@@ -311,6 +311,7 @@ def panchang_for(day):
     rk_s = rise + part * (RAHU_SEG[day.weekday()] - 1); rk_e = rk_s + part
     return {"city": CITY, "date": day.isoformat(),
             "sunrise": hm(rise), "sunset": hm(sset),
+            "sunrise_iso": ist(rise).isoformat(timespec="minutes"), "sunset_iso": ist(sset).isoformat(timespec="minutes"),
             "tithi": _tithi_name(ti), "tithi_until": when(tend), "tithi_next": _tithi_name((ti + 1) % 30),
             "nakshatra": NAKS[ni], "nak_until": when(nend), "nak_next": NAKS[(ni + 1) % 27],
             "paksha": "Shukla Paksha · waxing moon" if ti < 15 else "Krishna Paksha · waning moon",
