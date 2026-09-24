@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 24 September 2026",
   "date_key": "2026-09-24",
-  "fetched_ist": "24 Sep 2026, 05:41 AM IST",
+  "fetched_ist": "24 Sep 2026, 05:56 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -238,16 +238,6 @@
       "title": "Bonus",
       "text": "It's an important time for family -- reach out to the branches of your family tree.",
       "src": "Astrology.com"
-    },
-    {
-      "title": "Food",
-      "text": "Sometimes there's nothing more cozy than a quiet dinner at home. It's the quiet part that's tricky. You don't know how you're going to enjoy your beef stroganoff with the chattering spouse, yakking kids and barking dogs -- but you wouldn't want it any other way.",
-      "src": "Astrology.com"
-    },
-    {
-      "title": "Home",
-      "text": "Curry and chili powders matched with plain yogurt or sour cream make quick dips, and you will surely need to improvise snacks when your children bring hungry friends home after the game. Reflect on how nice it is that these teens enjoy spending time in your home and are not out creating havoc.",
-      "src": "Astrology.com"
     }
   ],
   "gold": {
@@ -390,16 +380,6 @@
           "title": "Bonus",
           "text": "It's an important time for family -- reach out to the branches of your family tree.",
           "src": "Astrology.com"
-        },
-        {
-          "title": "Food",
-          "text": "Sometimes there's nothing more cozy than a quiet dinner at home. It's the quiet part that's tricky. You don't know how you're going to enjoy your beef stroganoff with the chattering spouse, yakking kids and barking dogs -- but you wouldn't want it any other way.",
-          "src": "Astrology.com"
-        },
-        {
-          "title": "Home",
-          "text": "Curry and chili powders matched with plain yogurt or sour cream make quick dips, and you will surely need to improvise snacks when your children bring hungry friends home after the game. Reflect on how nice it is that these teens enjoy spending time in your home and are not out creating havoc.",
-          "src": "Astrology.com"
         }
       ]
     },
@@ -440,6 +420,16 @@
           "stars": 4
         }
       ]
+    },
+    "weather": {
+      "city": "Hyderabad",
+      "date": "2026-09-24",
+      "label": "Light rain",
+      "icon": "🌦️",
+      "high": 29,
+      "low": 22,
+      "rain": 93,
+      "uv": 4.6
     },
     "gold": {
       "rows": {
@@ -523,6 +513,48 @@
           "k24": 15421
         }
       ]
+    }
+  },
+  "panchang": {
+    "city": "Hyderabad",
+    "date": "2026-09-24",
+    "sunrise": "6:04 AM",
+    "sunset": "6:11 PM",
+    "tithi": "Shukla Trayodashi",
+    "tithi_until": "11:19 PM",
+    "tithi_next": "Shukla Chaturdashi",
+    "nakshatra": "Dhanishta",
+    "nak_until": "10:35 AM",
+    "nak_next": "Shatabhisha",
+    "paksha": "Shukla Paksha · waxing moon",
+    "rahu": "1:39 PM to 3:09 PM",
+    "rahu_start": "2026-09-24T13:39+05:30",
+    "rahu_end": "2026-09-24T15:09+05:30"
+  },
+  "weather": {
+    "city": "Hyderabad",
+    "date": "2026-09-24",
+    "label": "Light rain",
+    "icon": "🌦️",
+    "high": 29,
+    "low": 22,
+    "rain": 93,
+    "uv": 4.6
+  },
+  "festivals": {
+    "today": [
+      {
+        "name": "Pradosh Vrat",
+        "moon": false,
+        "kind": "tithi"
+      }
+    ],
+    "next": {
+      "name": "Gandhi Jayanthi",
+      "moon": false,
+      "date": "2026-10-02",
+      "label": "Fri, 2 Oct",
+      "days": 8
     }
   }
 }
