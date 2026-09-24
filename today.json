@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 24 September 2026",
   "date_key": "2026-09-24",
-  "fetched_ist": "24 Sep 2026, 06:12 AM IST",
+  "fetched_ist": "24 Sep 2026, 06:24 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -421,15 +421,103 @@
         }
       ]
     },
-    "weather": {
-      "city": "Hyderabad",
-      "date": "2026-09-24",
-      "label": "Light rain",
+    "wx_home": {
+      "key": "home",
+      "name": "Home",
+      "area": "Officers Colony, A.S. Rao Nagar",
+      "label": "Light showers",
       "icon": "🌦️",
       "high": 29,
       "low": 22,
       "rain": 93,
-      "uv": 4.6
+      "uv": 4.6,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 25,
+          "rain": 71
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 28,
+          "rain": 69
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 27,
+          "rain": 45
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 25,
+          "rain": 30
+        }
+      ]
+    },
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "Mindspace, Raidurg",
+      "label": "Light showers",
+      "icon": "🌦️",
+      "high": 29,
+      "low": 22,
+      "rain": 93,
+      "uv": 5.6,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 26,
+          "rain": 71
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 28,
+          "rain": 69
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 27,
+          "rain": 45
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 25,
+          "rain": 30
+        }
+      ]
     },
     "gold": {
       "rows": {
@@ -533,16 +621,6 @@
     "rahu_start": "2026-09-24T13:39+05:30",
     "rahu_end": "2026-09-24T15:09+05:30"
   },
-  "weather": {
-    "city": "Hyderabad",
-    "date": "2026-09-24",
-    "label": "Light rain",
-    "icon": "🌦️",
-    "high": 29,
-    "low": 22,
-    "rain": 93,
-    "uv": 4.6
-  },
   "festivals": {
     "today": [
       {
@@ -558,5 +636,108 @@
       "label": "Fri, 2 Oct",
       "days": 8
     }
+  },
+  "weather": {
+    "date": "2026-09-24",
+    "places": [
+      {
+        "key": "home",
+        "name": "Home",
+        "area": "Officers Colony, A.S. Rao Nagar",
+        "label": "Light showers",
+        "icon": "🌦️",
+        "high": 29,
+        "low": 22,
+        "rain": 93,
+        "uv": 4.6,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 25,
+            "rain": 71
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 28,
+            "rain": 69
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 27,
+            "rain": 45
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 25,
+            "rain": 30
+          }
+        ]
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "Mindspace, Raidurg",
+        "label": "Light showers",
+        "icon": "🌦️",
+        "high": 29,
+        "low": 22,
+        "rain": 93,
+        "uv": 5.6,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 26,
+            "rain": 71
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 28,
+            "rain": 69
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 27,
+            "rain": 45
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 25,
+            "rain": 30
+          }
+        ]
+      }
+    ]
   }
 }
