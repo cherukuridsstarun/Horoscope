@@ -1,6 +1,6 @@
 """Daily Taurus page data. Every line shown is verbatim from a source site; nothing is generated.
 Each dated source is checked against India's date so the page never shows the wrong day."""
-import json, re, datetime, requests
+import json, re, math, datetime, requests, ephem
 from zoneinfo import ZoneInfo
 from bs4 import BeautifulSoup
 
@@ -115,7 +115,7 @@ def ac_main(soup):
 
 def ac_extras(soup):
     out = []
-    for label in ("Bonus", "Food", "Home"):
+    for label in ("Bonus",):
         h = next((h for h in soup.find_all(["h4", "h3", "h5"]) if txt(h).startswith(f"Daily {label} ")), None)
         if not h:
             continue
@@ -251,6 +251,145 @@ def purity_check(r):
         r["label"] += " · 22K only"
     return r
 
+
+# ================= Her city (weather + Panchang are calculated for this place) =================
+CITY, LAT, LON = "Hyderabad", 17.3850, 78.4867
+
+# ---------------- Panchang (astronomical calculation, Lahiri ayanamsa, IST) ----------------
+TITHIS = ["Pratipada", "Dwitiya", "Tritiya", "Chaturthi", "Panchami", "Shashthi", "Saptami", "Ashtami", "Navami",
+          "Dashami", "Ekadashi", "Dwadashi", "Trayodashi", "Chaturdashi"]
+NAKS = ["Ashwini", "Bharani", "Krittika", "Rohini", "Mrigashira", "Ardra", "Punarvasu", "Pushya", "Ashlesha", "Magha",
+        "Purva Phalguni", "Uttara Phalguni", "Hasta", "Chitra", "Swati", "Vishakha", "Anuradha", "Jyeshtha", "Mula",
+        "Purva Ashadha", "Uttara Ashadha", "Shravana", "Dhanishta", "Shatabhisha", "Purva Bhadrapada",
+        "Uttara Bhadrapada", "Revati"]
+RAHU_SEG = {0: 2, 1: 7, 2: 5, 3: 6, 4: 4, 5: 3, 6: 8}   # Mon..Sun: which 1/8th of daytime is Rahu Kaal
+UTC = datetime.timezone.utc
+
+def _lon(body, t):
+    body.compute(ephem.Date(t))
+    return math.degrees(ephem.Ecliptic(body, epoch=ephem.Date(t)).lon)
+
+def _lahiri(t):
+    return 23.85306 + (ephem.Date(t) - ephem.Date("2000/1/1 12:00")) / 365.25 * 50.2388475 / 3600
+
+def _tithi(t):
+    return int(((_lon(ephem.Moon(), t) - _lon(ephem.Sun(), t)) % 360) // 12)
+
+def _nak(t):
+    return int(((_lon(ephem.Moon(), t) - _lahiri(t)) % 360) // (360 / 27))
+
+def _next_change(fn, start):
+    v0, t, step = fn(start), start, datetime.timedelta(minutes=30)
+    for _ in range(96):
+        t2 = t + step
+        if fn(t2) != v0:
+            lo, hi = t, t2
+            while hi - lo > datetime.timedelta(seconds=30):
+                mid = lo + (hi - lo) / 2
+                lo, hi = (mid, hi) if fn(mid) == v0 else (lo, mid)
+            return hi
+        t = t2
+    return None
+
+def _tithi_name(i):
+    return ("Shukla " if i < 15 else "Krishna ") + ("Purnima" if i == 14 else "Amavasya" if i == 29 else TITHIS[i % 15])
+
+def panchang_for(day):
+    obs = ephem.Observer(); obs.lat, obs.lon, obs.elevation = str(LAT), str(LON), 500
+    obs.pressure, obs.horizon = 0, "-0:50"     # upper limb + refraction, the Indian panchang convention
+    start = datetime.datetime(day.year, day.month, day.day, tzinfo=IST).astimezone(UTC).replace(tzinfo=None)
+    obs.date = ephem.Date(start)
+    rise = obs.next_rising(ephem.Sun()).datetime()
+    obs.date = ephem.Date(rise)
+    sset = obs.next_setting(ephem.Sun()).datetime()
+    ist = lambda t: t.replace(tzinfo=UTC).astimezone(IST)
+    hm = lambda t: ist(t).strftime("%I:%M %p").lstrip("0")
+    when = lambda t: hm(t) + ("" if ist(t).date() == day else ", " + ist(t).strftime("%d %b").lstrip("0"))
+    ti, ni = _tithi(rise), _nak(rise)
+    tend, nend = _next_change(_tithi, rise), _next_change(_nak, rise)
+    part = (sset - rise) / 8
+    rk_s = rise + part * (RAHU_SEG[day.weekday()] - 1); rk_e = rk_s + part
+    return {"city": CITY, "date": day.isoformat(),
+            "sunrise": hm(rise), "sunset": hm(sset),
+            "tithi": _tithi_name(ti), "tithi_until": when(tend), "tithi_next": _tithi_name((ti + 1) % 30),
+            "nakshatra": NAKS[ni], "nak_until": when(nend), "nak_next": NAKS[(ni + 1) % 27],
+            "paksha": "Shukla Paksha · waxing moon" if ti < 15 else "Krishna Paksha · waning moon",
+            "rahu": f"{hm(rk_s)} to {hm(rk_e)}",
+            "rahu_start": ist(rk_s).isoformat(timespec="minutes"), "rahu_end": ist(rk_e).isoformat(timespec="minutes"),
+            "_tithi_rise": ti, "_tithi_set": _tithi(sset)}
+
+# ---------------- Festivals & holidays ----------------
+# 2026 dates from the official Telangana High Court notification (ROC No. 2083/SO/2025, 11-12-2025),
+# general + optional holidays. * = date depends on moon sighting. Add a 2027 block when it's published.
+FESTIVALS = {
+ "2026-01-01": "New Year's Day", "2026-01-03": "Birthday of Hazrath Ali (R.A.)*", "2026-01-13": "Bhogi",
+ "2026-01-14": "Sankranti / Pongal", "2026-01-15": "Kanumu", "2026-01-17": "Shab-e-Meraj*", "2026-01-23": "Sri Panchami",
+ "2026-01-26": "Republic Day", "2026-02-04": "Shab-e-Barat*", "2026-02-15": "Maha Shivaratri", "2026-03-04": "Holi",
+ "2026-03-10": "Shahadat Hazrat Ali (R.A.)*", "2026-03-13": "Jumu'atul Wida*", "2026-03-17": "Shab-e-Qadr*",
+ "2026-03-19": "Ugadi · Telugu New Year", "2026-03-21": "Ramzan (Eid-ul-Fitr)*", "2026-03-27": "Sri Rama Navami",
+ "2026-03-31": "Mahaveer Jayanthi", "2026-04-03": "Good Friday", "2026-04-05": "Babu Jagjivan Ram's Birthday",
+ "2026-04-14": "Dr. B.R. Ambedkar's Birthday", "2026-04-20": "Basava Jayanthi", "2026-05-01": "Buddha Purnima",
+ "2026-05-27": "Bakrid (Eid-ul-Adha)*", "2026-06-04": "Eid-e-Ghadeer*", "2026-06-25": "9th Muharram*",
+ "2026-06-26": "Muharram*", "2026-07-16": "Ratha Yathra", "2026-08-04": "Arbaeen*", "2026-08-10": "Bonalu",
+ "2026-08-15": "Independence Day", "2026-08-26": "Eid Milad-un-Nabi*", "2026-08-28": "Raksha Bandhan · Varalakshmi Vratham",
+ "2026-09-04": "Sri Krishna Ashtami", "2026-09-14": "Vinayaka Chavithi", "2026-09-23": "Yaz Dahum Shareef*",
+ "2026-10-02": "Gandhi Jayanthi", "2026-10-11": "Bathukamma begins", "2026-10-19": "Durgashtami · Maha Navami",
+ "2026-10-20": "Vijaya Dasami · Dussehra", "2026-10-26": "Birthday of Hazrat Syed Mohammed Juvanpuri Mahdi*",
+ "2026-11-07": "Naraka Chaturdashi", "2026-11-08": "Deepavali", "2026-11-24": "Karthika Purnima · Guru Nanak Jayanthi",
+ "2026-12-24": "Christmas Eve", "2026-12-25": "Christmas",
+}
+
+def observances(p):
+    """Monthly tithi-based observances, from the calculated Panchang."""
+    out, tr, ts = [], p["_tithi_rise"], p["_tithi_set"]
+    if tr % 15 == 10: out.append("Ekadashi")
+    if ts % 15 == 12: out.append("Pradosh Vrat")
+    if tr == 14: out.append("Purnima · full moon")
+    if tr == 29: out.append("Amavasya · new moon")
+    return out
+
+def festivals_block(today):
+    todays = []
+    if today.isoformat() in FESTIVALS:
+        todays.append({"name": FESTIVALS[today.isoformat()].rstrip("*"), "moon": FESTIVALS[today.isoformat()].endswith("*"), "kind": "festival"})
+    upcoming = None
+    for i in range(1, 46):
+        d = today + datetime.timedelta(days=i)
+        if d.isoformat() in FESTIVALS:
+            n = FESTIVALS[d.isoformat()]
+            upcoming = {"name": n.rstrip("*"), "moon": n.endswith("*"), "date": d.isoformat(),
+                        "label": d.strftime("%a, %d %b").replace(" 0", " "), "days": i}
+            break
+    if not any(k.startswith(str(today.year)) for k in FESTIVALS):
+        print(f"  ! festival list has no {today.year} dates yet; add them to FESTIVALS")
+    return {"today": todays, "next": upcoming}
+
+# ---------------- Weather (Open-Meteo, free, no key; dates in IST) ----------------
+WMO = {0: ("Clear sky", "☀️"), 1: ("Mostly clear", "🌤️"), 2: ("Partly cloudy", "⛅"), 3: ("Cloudy", "☁️"),
+       45: ("Fog", "🌫️"), 48: ("Fog", "🌫️"), 51: ("Light drizzle", "🌦️"), 53: ("Drizzle", "🌦️"), 55: ("Heavy drizzle", "🌧️"),
+       56: ("Freezing drizzle", "🌧️"), 57: ("Freezing drizzle", "🌧️"), 61: ("Light rain", "🌦️"), 63: ("Rain", "🌧️"),
+       65: ("Heavy rain", "🌧️"), 66: ("Freezing rain", "🌧️"), 67: ("Freezing rain", "🌧️"), 71: ("Light snow", "🌨️"),
+       73: ("Snow", "🌨️"), 75: ("Heavy snow", "🌨️"), 77: ("Snow grains", "🌨️"), 80: ("Light showers", "🌦️"),
+       81: ("Showers", "🌧️"), 82: ("Heavy showers", "⛈️"), 85: ("Snow showers", "🌨️"), 86: ("Snow showers", "🌨️"),
+       95: ("Thunderstorms", "⛈️"), 96: ("Thunderstorms with hail", "⛈️"), 99: ("Thunderstorms with hail", "⛈️")}
+
+def weather():
+    r = requests.get("https://api.open-meteo.com/v1/forecast", headers=UA, timeout=20, params={
+        "latitude": LAT, "longitude": LON, "timezone": "Asia/Kolkata", "forecast_days": 1,
+        "daily": "weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,uv_index_max"})
+    if not r.ok:
+        print(f"  ! weather -> HTTP {r.status_code}")
+        return None
+    d = r.json().get("daily", {})
+    if not d.get("time") or d["time"][0] != TODAY.isoformat():      # must be India's today
+        print("  ! weather: forecast date isn't today in India")
+        return None
+    code = d["weather_code"][0]
+    label, icon = WMO.get(code, ("", "🌡️"))
+    return {"city": CITY, "date": d["time"][0], "label": label, "icon": icon,
+            "high": round(d["temperature_2m_max"][0]), "low": round(d["temperature_2m_min"][0]),
+            "rain": d.get("precipitation_probability_max", [None])[0], "uv": d.get("uv_index_max", [None])[0]}
+
 # ---------------- sorting (verbatim sentences only) ----------------
 def sentences(text):
     return [s.strip() for s in re.split(r"(?<=[.!?])\s+(?=[A-Z\"'])", text or "") if len(s.strip()) > 20]
@@ -361,6 +500,8 @@ def astrology_love():
 raw["ac"] = keep("ac", safe(astrology_daily), ok_text)
 raw["astrosage"] = keep("astrosage", safe(astrosage), lambda r: bool(r and r.get("ok")))
 
+raw["weather"] = keep("weather", safe(weather), lambda r: bool(r and r.get("date") == TODAY.isoformat()))
+
 # gold: each source independently, each keeps its own date
 gr = safe(gold_goodreturns) or (None, [])
 gold_rows = {"GoodReturns": gr[0], "PolicyBazaar": safe(gold_policybazaar), "IBJA": safe(gold_ibja)}
@@ -376,7 +517,17 @@ out = {"sign": "Taurus", "date_ist": NOW.strftime("%A, %d %B %Y"), "date_key": N
        "fetched_ist": NOW.strftime("%d %b %Y, %I:%M %p IST"), "sources": [],
        "glance": {"good": [], "heads": [], "todo": []},
        "topics": {k: {"readings": [], "bits": []} for k in TOPICS},
-       "lucky": [], "ratings": None, "extras": [], "gold": None, "_raw": raw}
+       "lucky": [], "ratings": None, "extras": [], "gold": None, "_raw": raw,
+       "panchang": None, "weather": raw["weather"], "festivals": None}
+
+pc = safe(panchang_for, TODAY)
+if pc:
+    fest = festivals_block(TODAY)
+    fest["today"] += [{"name": n, "moon": False, "kind": "tithi"} for n in observances(pc)]
+    out["festivals"] = fest
+    out["panchang"] = {k: v for k, v in pc.items() if not k.startswith("_")}
+else:
+    out["festivals"] = safe(festivals_block, TODAY)
 
 def add_text(name, text):
     for s in sentences(no_love(text)):
@@ -458,4 +609,7 @@ print("sources ok:", {s["name"]: s["ok"] for s in out["sources"]})
 print("lucky:", out["lucky"])
 print("gold:", [(r["src"], r["k22"], r["k24"], r["date"]) for r in (out["gold"] or {}).get("rows", [])])
 print("ratings:", out["ratings"], "| extras:", [e["title"] for e in out["extras"]])
+print("panchang:", {k: out["panchang"][k] for k in ("tithi", "tithi_until", "nakshatra", "sunrise", "sunset", "rahu")} if out["panchang"] else None)
+print("weather:", out["weather"])
+print("festivals:", out["festivals"])
 json.dump(out, open("today.json", "w"), indent=2, ensure_ascii=False)
