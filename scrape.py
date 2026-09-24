@@ -92,20 +92,8 @@ def hc_reading(c):
         t = txt(p)
         m = re.match(r"^([A-Z][a-z]{2} \d{1,2}, \d{4})\s*-\s*", t)
         if m and parse_date(m.group(1)) == TODAY:
-            return {"text": t[m.end():], "date": m.group(1), "url": url, "soup": soup}
+            return {"text": t[m.end():], "date": m.group(1), "url": url}
     return None
-
-def hc_matches(soup):
-    out = []
-    h = next((h for h in soup.find_all(["h3", "h4"]) if "Today's Matches" in txt(h)), None) if soup else None
-    if h:
-        for a in h.find_all_next("a", limit=6):
-            m = re.match(r"(Love|Friendship|Career)\s+(\w+)", txt(a))
-            if m:
-                out.append({"type": m.group(1), "sign": m.group(2)})
-            if len(out) == 3:
-                break
-    return out
 
 # ---------------- Astrology.com ----------------
 AC = "https://www.astrology.com/horoscope/{kind}/" + ("tomorrow/" if US_DAY == "tomorrow" else "") + "taurus.html"
@@ -239,28 +227,29 @@ def gold_ibja():
     t = soup.get_text(" ", strip=True)
     k24 = re.search(r"999 Purity\s*([\d,]+)\s*\(1 Gram\)", t)
     k22 = re.search(r"916 Purity\s*([\d,]+)\s*\(1 Gram\)", t)
-    d = re.search(r"(\d{2}/\d{2}/\d{4})", t)
     if not (k24 and k22):
         return None
+    top = num(k24.group(1))
+    # history rows look like: 22/09/2026 152132 151523 139353 ... (999 per 10 g first)
+    rows = re.findall(r"(\d{2}/\d{2}/\d{4})\s+(\d{5,7})", t)
     date = None
-    if "uploaded soon" not in t.lower() and NOW.weekday() < 5 and NOW.hour >= 12:
-        date = NOW.strftime("%d %B %Y").lstrip("0")
-    elif d:
-        try:
-            date = datetime.datetime.strptime(d.group(1), "%d/%m/%Y").strftime("%d %B %Y").lstrip("0")
-        except ValueError:
-            pass
-    return {"src": "IBJA", "label": "India benchmark (wholesale)", "k22": num(k22.group(1)), "k24": num(k24.group(1)),
+    for d, v in rows:
+        if abs(round(int(v) / 10) - top) <= 1:          # headline = a published past rate
+            date = d; break
+    if date is None and rows and NOW.weekday() < 5:    # headline is newer than every past row = today's rate
+        date = NOW.strftime("%d/%m/%Y")
+    if date is None:
+        return None                                    # can't tell which day it is -> don't show it
+    date = datetime.datetime.strptime(date, "%d/%m/%Y").strftime("%d %B %Y").lstrip("0")
+    return {"src": "IBJA", "label": "India benchmark (wholesale)", "k22": num(k22.group(1)), "k24": top,
             "change22": None, "date": date, "url": url}
 
-def gold():
-    gr, trend = gold_goodreturns()
-    rows = [r for r in (gr, gold_policybazaar(), gold_ibja()) if r and r["k22"] and r["k24"]]
-    # sanity check: drop any source more than 10% away from the others' median
-    if len(rows) >= 3:
-        med = sorted(r["k22"] for r in rows)[len(rows) // 2]
-        rows = [r for r in rows if abs(r["k22"] - med) / med <= 0.10]
-    return {"city": "Hyderabad", "rows": rows, "trend": trend} if rows else None
+def purity_check(r):
+    """Real 24K/22K is 999/916 = 1.09. If a source's pair is far off, its 24K is a different product."""
+    if r["k22"] and r["k24"] and not (1.075 <= r["k24"] / r["k22"] <= 1.105):
+        r["k24"] = None
+        r["label"] += " · 22K only"
+    return r
 
 # ---------------- sorting (verbatim sentences only) ----------------
 def sentences(text):
@@ -309,11 +298,72 @@ def bucket(s):
     return None
 
 # ---------------- build ----------------
+def safe(fn, *args):
+    try:
+        return fn(*args)
+    except Exception as e:
+        print(f"  ! {fn.__name__}{args} crashed: {type(e).__name__}: {e}")
+        return None
+
+try:
+    PREV = json.load(open("today.json"))
+    PREV_RAW = PREV.get("_raw", {}) if PREV.get("date_key") == NOW.strftime("%Y-%m-%d") else {}
+except Exception:
+    PREV_RAW = {}
+
+def keep(key, fresh, good):
+    """Use the fresh result if it's good; otherwise fall back to earlier today's good result."""
+    if good(fresh):
+        return fresh
+    old = PREV_RAW.get(key)
+    if good(old):
+        print(f"  ~ {key}: fetch failed now, kept this morning's copy")
+        return old
+    return fresh
+
+ok_text = lambda r: bool(r and r.get("text"))
+raw = {}
+raw["ganesha"] = keep("ganesha", safe(ganesha), lambda r: bool(r and r.get("ok")))
+raw["hc_general"] = keep("hc_general", safe(hc_reading, "general"), ok_text)
+for cat in ("love", "career", "wellness"):
+    raw["hc_" + cat] = keep("hc_" + cat, safe(hc_reading, cat), ok_text)
+
+def hc_money():
+    url = "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2"
+    wk = get(url)
+    t = txt(wk.select_one("div.main-horoscope p")) if wk else ""
+    t = re.sub(r"^[A-Z][a-z]{2} \d{1,2}, \d{4}\s*-\s*[A-Z][a-z]{2} \d{1,2}, \d{4}\s*-\s*", "", t)
+    return {"text": t, "url": url} if len(t) > 60 else None
+raw["hc_money"] = keep("hc_money", safe(hc_money), ok_text)
+
+def astrology_daily():
+    soup, url = ac_page("daily")
+    text = ac_main(soup) if soup else None
+    return {"text": text, "url": url, "extras": ac_extras(soup) if text else []} if text else {"text": None, "url": url, "extras": []}
+def astrology_love():
+    soup, url = ac_page("daily-love")
+    text = ac_main(soup) if soup else None
+    return {"text": text, "url": url} if text else None
+raw["ac"] = keep("ac", safe(astrology_daily), ok_text)
+raw["ac_love"] = keep("ac_love", safe(astrology_love), ok_text)
+raw["astrosage"] = keep("astrosage", safe(astrosage), lambda r: bool(r and r.get("ok")))
+
+# gold: each source independently, each keeps its own date
+gr = safe(gold_goodreturns) or (None, [])
+gold_rows = {"GoodReturns": gr[0], "PolicyBazaar": safe(gold_policybazaar), "IBJA": safe(gold_ibja)}
+prev_gold = PREV_RAW.get("gold", {})
+for k in gold_rows:
+    if not gold_rows[k] and prev_gold.get("rows", {}).get(k):
+        print(f"  ~ gold {k}: fetch failed now, kept this morning's copy")
+        gold_rows[k] = prev_gold["rows"][k]
+raw["gold"] = {"rows": gold_rows, "trend": gr[1] or prev_gold.get("trend", [])}
+
+# ---- assemble the page data from raw
 out = {"sign": "Taurus", "date_ist": NOW.strftime("%A, %d %B %Y"), "date_key": NOW.strftime("%Y-%m-%d"),
        "fetched_ist": NOW.strftime("%d %b %Y, %I:%M %p IST"), "sources": [],
        "glance": {"good": [], "heads": [], "todo": []},
        "topics": {k: {"readings": [], "bits": []} for k in TOPICS},
-       "lucky": [], "ratings": None, "matches": [], "extras": [], "gold": None}
+       "lucky": [], "ratings": None, "extras": [], "gold": None, "_raw": raw}
 
 def add_text(name, text):
     for s in sentences(text):
@@ -324,60 +374,51 @@ def add_text(name, text):
             if has(s, words):
                 out["topics"][topic]["bits"].append({"t": s, "src": name})
 
-# 1. GaneshaSpeaks
-g = ganesha()
-out["sources"].append({k: g[k] for k in ("name", "url", "ok", "source_date", "text")})
-if g["lucky"]:
+g = raw["ganesha"] or {"name": "GaneshaSpeaks", "url": GS + "daily-horoscope/taurus/", "ok": False, "source_date": None, "text": None, "lucky": {}, "areas": {}}
+out["sources"].append({k: g.get(k) for k in ("name", "url", "ok", "source_date", "text")})
+if g.get("lucky"):
     out["lucky"].append({"src": "GaneshaSpeaks", **g["lucky"]})
-for topic, r in g["areas"].items():
+for topic, r in (g.get("areas") or {}).items():
     out["topics"][topic]["readings"].append(r)
-if g["ok"]:
+if g.get("ok"):
     add_text("GaneshaSpeaks", g["text"])
 
-# 2. Horoscope.com (general + matches + love/career/wellness daily, money weekly)
-hc = hc_reading("general")
-out["sources"].append({"name": "Horoscope.com", "url": hc["url"] if hc else HC.format(c="general", d=US_DAY),
-                       "ok": bool(hc), "source_date": hc["date"] if hc else None, "text": hc["text"] if hc else None})
-if hc:
+hc = raw["hc_general"]
+out["sources"].append({"name": "Horoscope.com", "url": (hc or {}).get("url") or HC.format(c="general", d=US_DAY),
+                       "ok": ok_text(hc), "source_date": (hc or {}).get("date"), "text": (hc or {}).get("text")})
+if ok_text(hc):
     add_text("Horoscope.com", hc["text"])
-    out["matches"] = hc_matches(hc["soup"])
 for topic, cat in (("love", "love"), ("career", "career"), ("health", "wellness")):
-    r = hc_reading(cat)
-    if r:
+    r = raw["hc_" + cat]
+    if ok_text(r):
         out["topics"][topic]["readings"].append({"text": r["text"], "url": r["url"], "src": "Horoscope.com"})
-wk_url = "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2"
-wk = get(wk_url)
-wk_p = txt(wk.select_one("div.main-horoscope p")) if wk else ""
-if len(wk_p) > 60:
-    wk_p = re.sub(r"^[A-Z][a-z]{2} \d{1,2}, \d{4}\s*-\s*[A-Z][a-z]{2} \d{1,2}, \d{4}\s*-\s*", "", wk_p)
-    out["topics"]["money"]["readings"].append({"text": wk_p, "url": wk_url, "src": "Horoscope.com · this week"})
+if ok_text(raw["hc_money"]):
+    out["topics"]["money"]["readings"].append({**raw["hc_money"], "src": "Horoscope.com · this week"})
 
-# 3. Astrology.com (main + love + bonus/food/home)
-ac, ac_url = ac_page("daily")
-ac_text = ac_main(ac) if ac else None
-out["sources"].append({"name": "Astrology.com", "url": ac_url, "ok": bool(ac_text),
-                       "source_date": NOW.strftime("%B %d, %Y") if ac_text else None, "text": ac_text})
-if ac_text:
-    add_text("Astrology.com", ac_text)
-    out["extras"] = ac_extras(ac)
-acl, acl_url = ac_page("daily-love")
-acl_text = ac_main(acl) if acl else None
-if acl_text:
-    out["topics"]["love"]["readings"].append({"text": acl_text, "url": acl_url, "src": "Astrology.com"})
+ac = raw["ac"] or {"text": None, "url": AC.format(kind="daily"), "extras": []}
+out["sources"].append({"name": "Astrology.com", "url": ac["url"], "ok": ok_text(ac),
+                       "source_date": NOW.strftime("%B %d, %Y").replace(" 0", " ") if ok_text(ac) else None, "text": ac["text"]})
+if ok_text(ac):
+    add_text("Astrology.com", ac["text"])
+    out["extras"] = ac.get("extras") or []
+if ok_text(raw["ac_love"]):
+    out["topics"]["love"]["readings"].append({**raw["ac_love"], "src": "Astrology.com"})
 
-# 4. AstroSage
-a = astrosage()
-out["sources"].append({k: a[k] for k in ("name", "url", "ok", "source_date", "text")})
-if a["ok"]:
+a = raw["astrosage"] or {"name": "AstroSage", "url": AS_TODAY, "ok": False, "source_date": None, "text": None, "lucky": {}, "ratings": []}
+out["sources"].append({k: a.get(k) for k in ("name", "url", "ok", "source_date", "text")})
+if a.get("ok"):
     add_text("AstroSage", a["text"])
-if a["lucky"]:
+if a.get("lucky"):
     out["lucky"].append({"src": "AstroSage", **a["lucky"]})
-if a["ratings"]:
+if a.get("ratings"):
     out["ratings"] = {"src": "AstroSage", "items": a["ratings"]}
 
-out["gold"] = gold()
+rows = [purity_check(dict(r)) for r in raw["gold"]["rows"].values() if r and r.get("k22")]
+if len(rows) >= 3:  # drop any source more than 10% away from the others on 22K
+    med = sorted(r["k22"] for r in rows)[len(rows) // 2]
+    rows = [r for r in rows if abs(r["k22"] - med) / med <= 0.10]
+out["gold"] = {"city": "Hyderabad", "rows": rows, "trend": raw["gold"]["trend"]} if rows else None
 
-# de-duplicate
 def dedupe(lst):
     seen, res = set(), []
     for x in lst:
@@ -391,7 +432,7 @@ for t in out["topics"].values():
     t["bits"], t["readings"] = dedupe(t["bits"]), dedupe(t["readings"])
 
 print("sources ok:", {s["name"]: s["ok"] for s in out["sources"]})
-print("ganesha areas:", list(g["areas"]), "| lucky:", out["lucky"])
+print("lucky:", out["lucky"])
 print("gold:", [(r["src"], r["k22"], r["k24"], r["date"]) for r in (out["gold"] or {}).get("rows", [])])
-print("ratings:", out["ratings"], "| matches:", out["matches"], "| extras:", [e["title"] for e in out["extras"]])
+print("ratings:", out["ratings"], "| extras:", [e["title"] for e in out["extras"]])
 json.dump(out, open("today.json", "w"), indent=2, ensure_ascii=False)
