@@ -36,7 +36,7 @@ def parse_date(s):
 
 # ---------------- GaneshaSpeaks (Indian) ----------------
 GS = "https://www.ganeshaspeaks.com/horoscopes/"
-GS_AREAS = {"love": "daily-love-and-relationship-horoscope", "health": "daily-health-and-well-being-horoscope",
+GS_AREAS = {"health": "daily-health-and-well-being-horoscope",
             "money": "daily-money-and-finance-horoscope", "career": "daily-career-and-business-horoscope"}
 
 def ganesha():
@@ -277,16 +277,30 @@ GOOD = ["love", "luck", "perfect", "grow", "better", "success", "romantic", "con
         "help", "strong", "good", "happ", "joy", "bode well", "special", "charm", "bless", "gain",
         "advance", "shower", "reward", "win", "bright", "fulfil", "comfort", "chemistry", "remember this",
         "easy", "carefree", "no woes", "no worries", "favour", "favor", "auspicious", "smooth", "peace", "calm",
-        "positive", "prosper", "optimistic", "satisf", "appreciat", "progress", "encourage"]
+        "positive", "prosper", "optimistic", "satisf", "appreciat", "progress", "encourage", "best", "harmon"]
 TOPICS = {
-    "love": ["love", "romanc", "romantic", "partner", "spouse", "sweetheart", "heart", "crush", "cupid",
-             "date", "dating", "relationship", "married", "chemistry", "flirt", "soulmate", "companion", "beloved"],
     "career": ["career", "work", "job", "boss", "business", "colleague", "project", "advancement",
                "office", "professional", "promotion", "deadline", "teamwork", "meeting"],
     "money": ["money", "spend", "spent", "finan", "income", "invest", "budget", "cash", "wealth", "expense", "deal"],
     "health": ["health", "energy", "body", "rest", "sleep", "stress", "wellness", "mood", "outside",
                "nature", "breathe", "exercise", "screen time", "doomscroll", "smoking", "habit", "tired"],
 }
+
+LOVE_WORDS = ["love", "lover", "romanc", "romantic", "relationship", "partner", "sweetheart", "beloved",
+              "companion", "date", "dating", "crush", "cupid", "chemistry", "flirt", "soulmate", "single", "heart",
+              "sex", "intimate", "intimacy", "boyfriend", "girlfriend", "valentine", "affection", "passion",
+              "attraction", "admirer", "proposal", "courtship"]
+MARRIAGE_WORDS = ["married", "marriage", "marital", "wedding", "husband", "wife", "spouse", "in-law", "in law",
+                  "life partner", "better half", "matrimon"]
+
+def no_love(text):
+    """Remove dating/romance sentences but keep anything about marriage. Returns what's left (verbatim), or None."""
+    if not text:
+        return None
+    keep = [s for s in re.split(r"(?<=[.!?])\s+", text.strip())
+            if s and (has(s, MARRIAGE_WORDS) or not has(s, LOVE_WORDS))]
+    t = " ".join(keep).strip()
+    return t if len(t) > 10 else None
 
 def bucket(s):
     if s.lower().startswith(TODO_START) or has(s, TODO_WORDS):
@@ -325,7 +339,7 @@ ok_text = lambda r: bool(r and r.get("text"))
 raw = {}
 raw["ganesha"] = keep("ganesha", safe(ganesha), lambda r: bool(r and r.get("ok")))
 raw["hc_general"] = keep("hc_general", safe(hc_reading, "general"), ok_text)
-for cat in ("love", "career", "wellness"):
+for cat in ("career", "wellness"):
     raw["hc_" + cat] = keep("hc_" + cat, safe(hc_reading, cat), ok_text)
 
 def hc_money():
@@ -345,7 +359,6 @@ def astrology_love():
     text = ac_main(soup) if soup else None
     return {"text": text, "url": url} if text else None
 raw["ac"] = keep("ac", safe(astrology_daily), ok_text)
-raw["ac_love"] = keep("ac_love", safe(astrology_love), ok_text)
 raw["astrosage"] = keep("astrosage", safe(astrosage), lambda r: bool(r and r.get("ok")))
 
 # gold: each source independently, each keeps its own date
@@ -366,7 +379,7 @@ out = {"sign": "Taurus", "date_ist": NOW.strftime("%A, %d %B %Y"), "date_key": N
        "lucky": [], "ratings": None, "extras": [], "gold": None, "_raw": raw}
 
 def add_text(name, text):
-    for s in sentences(text):
+    for s in sentences(no_love(text)):
         b = bucket(s)
         if b:
             out["glance"][b].append({"t": s, "src": name})
@@ -388,7 +401,7 @@ out["sources"].append({"name": "Horoscope.com", "url": (hc or {}).get("url") or 
                        "ok": ok_text(hc), "source_date": (hc or {}).get("date"), "text": (hc or {}).get("text")})
 if ok_text(hc):
     add_text("Horoscope.com", hc["text"])
-for topic, cat in (("love", "love"), ("career", "career"), ("health", "wellness")):
+for topic, cat in (("career", "career"), ("health", "wellness")):
     r = raw["hc_" + cat]
     if ok_text(r):
         out["topics"][topic]["readings"].append({"text": r["text"], "url": r["url"], "src": "Horoscope.com"})
@@ -401,8 +414,6 @@ out["sources"].append({"name": "Astrology.com", "url": ac["url"], "ok": ok_text(
 if ok_text(ac):
     add_text("Astrology.com", ac["text"])
     out["extras"] = ac.get("extras") or []
-if ok_text(raw["ac_love"]):
-    out["topics"]["love"]["readings"].append({**raw["ac_love"], "src": "Astrology.com"})
 
 a = raw["astrosage"] or {"name": "AstroSage", "url": AS_TODAY, "ok": False, "source_date": None, "text": None, "lucky": {}, "ratings": []}
 out["sources"].append({k: a.get(k) for k in ("name", "url", "ok", "source_date", "text")})
@@ -426,6 +437,18 @@ def dedupe(lst):
         if k and k not in seen:
             seen.add(k); res.append(x)
     return res
+# final love/relationship filter over everything shown
+for s in out["sources"]:
+    if s.get("text"):
+        s["text"] = no_love(s["text"])
+        s["ok"] = bool(s["text"]) and s["ok"]
+for t in out["topics"].values():
+    t["readings"] = [dict(r, text=no_love(r["text"])) for r in t["readings"] if no_love(r.get("text"))]
+out["extras"] = [dict(e, text=no_love(e["text"])) for e in out["extras"] if no_love(e.get("text"))]
+if out["ratings"]:
+    out["ratings"]["items"] = [r for r in out["ratings"]["items"] if r["label"] != "Love"]
+    if not out["ratings"]["items"]:
+        out["ratings"] = None
 for b in out["glance"]:
     out["glance"][b] = dedupe(out["glance"][b])
 for t in out["topics"].values():
