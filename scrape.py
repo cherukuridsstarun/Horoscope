@@ -254,9 +254,9 @@ def purity_check(r):
 
 # ================= Her city (weather + Panchang are calculated for this place) =================
 CITY, LAT, LON = "Hyderabad", 17.3850, 78.4867
-PLACES = [  # weather is fetched for each of these
-    {"key": "home",   "name": "Home",   "area": "Officers Colony, A.S. Rao Nagar", "lat": 17.4731, "lon": 78.5664},
-    {"key": "office", "name": "Office", "area": "Mindspace, Raidurg",              "lat": 17.4422, "lon": 78.3773},
+PLACES = [  # weather is fetched for each of these; coordinates rounded to ~1 km and no place names, since the repo is public
+    {"key": "home",   "name": "Home",   "area": "", "lat": 17.47, "lon": 78.57},
+    {"key": "office", "name": "Office", "area": "", "lat": 17.44, "lon": 78.38},
 ]
 PERIODS = [("Morning", 6, 12), ("Afternoon", 12, 17), ("Evening", 17, 21), ("Night", 21, 30)]  # IST hours; night runs to 6 AM
 
