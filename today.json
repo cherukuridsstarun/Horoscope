@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 24 September 2026",
   "date_key": "2026-09-24",
-  "fetched_ist": "24 Sep 2026, 05:56 AM IST",
+  "fetched_ist": "24 Sep 2026, 06:12 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -520,6 +520,8 @@
     "date": "2026-09-24",
     "sunrise": "6:04 AM",
     "sunset": "6:11 PM",
+    "sunrise_iso": "2026-09-24T06:04+05:30",
+    "sunset_iso": "2026-09-24T18:11+05:30",
     "tithi": "Shukla Trayodashi",
     "tithi_until": "11:19 PM",
     "tithi_next": "Shukla Chaturdashi",
