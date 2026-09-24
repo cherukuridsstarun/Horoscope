@@ -412,7 +412,7 @@ function render(d, preview) {
           return `<div class="pd${now ? " now" : ""}${r ? " rec" : ""}" title="${esc(r ? r.label : p.label)}"><span class="pn">${now ? "Now" : esc(p.name)}</span><span class="pi">${icon}</span><span class="pt">${temp}°</span>${sub}</div>`;
         }).join("");
         $("wxKey").hidden = !anyRec;
-        $("wxArea").textContent = `${w.area} · Open-Meteo (readings are their live model estimate for that spot)`;
+        $("wxArea").textContent = "Open-Meteo (readings are their live model estimate for that area)";
       };
       // umbrella tip looks at BOTH places for the rest of today, whichever tab is open
       const ORDER = ["Morning", "Afternoon", "Evening", "Night"];
@@ -636,9 +636,26 @@ function afterRefreshNotice(d) {
   let from = null; try { from = sessionStorage.getItem("refreshFrom"); sessionStorage.removeItem("refreshFrom"); } catch (e) {}
   lastFetched = d.fetched_ist || null;
   if (from === null) return;
+  let auto = null; try { auto = sessionStorage.getItem("autoRefresh"); sessionStorage.removeItem("autoRefresh"); } catch (e) {}
   if (d.fetched_ist && d.fetched_ist !== from) toast(`Updated ✓ Newest data from ${d.fetched_ist.split(", ")[1] || d.fetched_ist}`);
+  else if (auto) return;
   else toast(`Already up to date. Next update around ${nextUpdateIST()} IST`);
 }
+
+/* ---- never show a stale day: reload when the app comes back and the day changed or data is old ---- */
+const istDay = () => new Intl.DateTimeFormat("en-CA", {timeZone: "Asia/Kolkata"}).format(new Date());
+const OPENED_DAY = istDay(), OPENED_AT = Date.now();
+function staleCheck() {
+  if (document.visibilityState !== "visible") return;
+  const newDay = istDay() !== OPENED_DAY, old = Date.now() - OPENED_AT > 30 * 60 * 1000;
+  if (newDay || old) {
+    try { sessionStorage.setItem("refreshFrom", lastFetched || ""); sessionStorage.setItem("autoRefresh", newDay ? "day" : "old"); } catch (e) {}
+    location.reload();
+  }
+}
+document.addEventListener("visibilitychange", staleCheck);
+addEventListener("pageshow", e => { if (e.persisted) staleCheck(); });
+setInterval(() => { if (istDay() !== OPENED_DAY) staleCheck(); }, 60000);   // left open past midnight
 fetch("today.json?" + Date.now()).then(r => { if (!r.ok) throw 0; return r.json(); })
   .then(d => { render(d, false); afterRefreshNotice(d); }).catch(() => render(SAMPLE, true));
 
