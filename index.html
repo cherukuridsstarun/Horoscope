@@ -69,7 +69,6 @@ a{color:var(--todo);font-weight:600;font-size:.88rem;text-decoration:none}
 .dots{display:flex;gap:.3rem}.dots i{width:.85rem;height:.85rem;border-radius:50%;background:var(--line)}
 .dots i.on{background:linear-gradient(135deg,var(--acc2),var(--acc))}
 .rt .src{margin-top:.6rem}
-.matches{display:grid;grid-template-columns:repeat(3,1fr);gap:.6rem}
 .mt{background:var(--tile);border-radius:1.6rem;padding:1rem .6rem;display:flex;flex-direction:column;align-items:center;text-align:center;gap:.15rem}
 .mg{font-size:2.2rem;line-height:1;color:var(--acc)}
 .ms{font-weight:800;font-size:1rem;letter-spacing:-.01em}
@@ -181,7 +180,7 @@ details a{display:inline-block;margin-bottom:.8rem}
         <div class="spark" id="goldSpark22" hidden></div>
         <div class="spark" id="goldSpark24" hidden></div>
         <p class="gnote">Per gram, excluding GST and making charges.</p>
-        <p class="gnote gwhen">🕦 Today's rates show up after about 11:30 AM IST on weekdays. Before that you'll see yesterday's, with its date. IBJA doesn't publish on weekends.</p>
+        <p class="gnote gwhen">🕦 GoodReturns and PolicyBazaar update early each morning. IBJA, the official benchmark, publishes around midday on weekdays, so in the morning it shows the previous working day. No IBJA rates on weekends or holidays.</p>
       </div>
     </section>
     <section class="fulls">
@@ -206,7 +205,6 @@ const SAMPLE = {"date_ist":"Thursday, 24 September 2026","date_key":"2026-09-24"
 "todo":[{"t":"You are advised to be practical and not to overdo things.","src":"GaneshaSpeaks"},{"t":"Be your most charming self tonight, Taurus.","src":"Horoscope.com"},{"t":"You need to keep an eye on where your money is being spent.","src":"AstroSage"}]},
 "lucky":[{"src":"GaneshaSpeaks","number":"2","color":"Cream"},{"src":"AstroSage","number":"5","color":"Green and Turquoise","remedy":"Carry red handkerchief in your pocket for good health"}],
 "ratings":{"src":"AstroSage","items":[{"label":"Health","stars":1},{"label":"Wealth","stars":3},{"label":"Family","stars":1},{"label":"Love","stars":2},{"label":"Occupation","stars":1},{"label":"Married Life","stars":2}]},
-"matches":[{"type":"Love","sign":"Aquarius"},{"type":"Friendship","sign":"Virgo"},{"type":"Career","sign":"Scorpio"}],
 "gold":{"city":"Hyderabad","rows":[{"src":"GoodReturns","label":"Hyderabad jewellers","k22":14135,"k24":15420,"change22":80,"date":"23 September 2026","url":"https://www.goodreturns.in/gold-rates/hyderabad.html"},{"src":"PolicyBazaar","label":"Hyderabad retail","k22":14285,"k24":14999,"change22":null,"date":"21 September 2026","url":"https://www.policybazaar.com/gold-rate/hyderabad/"},{"src":"IBJA","label":"India benchmark (wholesale)","k22":13936,"k24":15214,"change22":null,"date":"22 September 2026","url":"https://ibjarates.com/"}],"trend":[{"date":"Sep 14, 2026","k22":14125,"k24":15409},{"date":"Sep 15, 2026","k22":14040,"k24":15317},{"date":"Sep 16, 2026","k22":14065,"k24":15344},{"date":"Sep 17, 2026","k22":14010,"k24":15284},{"date":"Sep 18, 2026","k22":14155,"k24":15442},{"date":"Sep 19, 2026","k22":14285,"k24":15584},{"date":"Sep 20, 2026","k22":14285,"k24":15584},{"date":"Sep 21, 2026","k22":14170,"k24":15458},{"date":"Sep 22, 2026","k22":14055,"k24":15333},{"date":"Sep 23, 2026","k22":14135,"k24":15420}]},
 "extras":[{"title":"Bonus","text":"It's an important time for family, so reach out to the branches of your family tree.","src":"Astrology.com"},{"title":"Food","text":"Sometimes there's nothing more cozy than a quiet dinner at home.","src":"Astrology.com"}],
 "topics":{"love":{"readings":[{"text":"You have to learn to balance your profession and personal life as your companion needs time and attention.","url":"https://www.ganeshaspeaks.com/","src":"GaneshaSpeaks"}],"bits":[{"t":"Cupids are rushing toward you with the shower of love in your life.","src":"AstroSage"}]},
@@ -228,6 +226,7 @@ function render(d, preview) {
   let dateLine = d.date_ist;
   const istToday = new Intl.DateTimeFormat("en-CA", {timeZone:"Asia/Kolkata"}).format(new Date());
   if (!preview && d.date_key && d.date_key !== istToday) dateLine += " · today's update is on its way";
+  else if (!preview && !(d.sources || []).some(s => s.ok)) dateLine += " · the sites haven't posted today's readings yet, check back soon";
   $("date").textContent = dateLine;
   if (preview) $("foot").dataset.preview = "1";
 
