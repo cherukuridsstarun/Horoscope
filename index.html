@@ -122,7 +122,6 @@ details a{display:inline-block;margin-bottom:.8rem}
   background:radial-gradient(circle at 35% 30%,#ffe7a3,var(--acc2) 70%);color:#7a4a00;box-shadow:inset 0 0 0 3px rgba(122,74,0,.25)}
 .cf.t{transform:rotateY(180deg)}
 
-.wxmain{display:flex;align-items:center;gap:.4rem}
 .wxicon{font-size:2.2rem;line-height:1}
 .wxhi{font-size:2.6rem;font-weight:800;letter-spacing:-.04em;line-height:1}
 .wxlabel{font-weight:800;font-size:1.05rem;letter-spacing:-.01em}
@@ -155,6 +154,26 @@ details a{display:inline-block;margin-bottom:.8rem}
 .install button{font:inherit;border:0;cursor:pointer;min-height:44px}
 #installBtn{background:var(--ink);color:var(--tile);font-weight:800;border-radius:2rem;padding:.4rem 1.1rem}
 #installClose{background:none;color:var(--soft);font-size:1.1rem;padding:.3rem .5rem}
+
+.wxtop{display:flex;justify-content:space-between;align-items:center;gap:.5rem}
+.seg{display:flex;background:var(--line);border-radius:2rem;padding:.2rem}
+.seg button{font:inherit;font-size:.82rem;font-weight:700;border:0;background:none;color:var(--soft);border-radius:2rem;padding:.3rem .8rem;min-height:36px;cursor:pointer}
+.seg button[aria-selected="true"]{background:var(--tile);color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.15)}
+.wxsum{display:flex;align-items:center;gap:.7rem}
+.wxsum .wxicon{font-size:2.6rem}
+.wxsum .wxhi{display:block}
+.periods{display:grid;grid-template-columns:repeat(4,1fr);gap:.4rem;margin-top:.3rem}
+.pd{background:var(--line);border-radius:1rem;padding:.6rem .3rem;text-align:center;display:flex;flex-direction:column;align-items:center;gap:.1rem}
+.pd.now{background:var(--ink);color:var(--tile)}
+.pd.now .pn,.pd.now .pr{color:var(--tile);opacity:.8}
+.pn{font-size:.7rem;font-weight:700;color:var(--soft)}
+.pi{font-size:1.5rem;line-height:1.3}
+.pt{font-weight:800;font-size:1.05rem}
+.pr{font-size:.72rem;font-weight:700;color:var(--todo)}
+.wxtip{margin:.3rem 0 0;font-weight:700;font-size:.9rem}
+.rk{flex-direction:row!important;flex-wrap:wrap;align-items:center;column-gap:.8rem}
+.rk .lkl{width:100%}
+.rk .src{width:100%}
 </style></head>
 <body>
 <main>
@@ -174,13 +193,21 @@ details a{display:inline-block;margin-bottom:.8rem}
     <section id="todayWrap" hidden>
       <h2 class="sec">Today in <span id="cityName"></span></h2>
       <div class="luckyrow">
-        <div class="lk wx" id="wxTile" hidden>
-          <span class="lkl">Weather</span>
-          <span class="wxmain"><span class="wxicon" id="wxIcon"></span><span class="wxhi" id="wxHi"></span></span>
-          <span class="wxlabel" id="wxLabel"></span>
+        <div class="lk wide wxcard" id="wxTile" hidden>
+          <div class="wxtop">
+            <span class="lkl">Weather</span>
+            <div class="seg" role="tablist" id="wxSeg"></div>
+          </div>
+          <div class="wxsum">
+            <span class="wxicon" id="wxIcon"></span>
+            <div><span class="wxhi" id="wxHi"></span><span class="wxlabel" id="wxLabel"></span></div>
+          </div>
           <span class="src" id="wxMore"></span>
+          <div class="periods" id="wxPeriods"></div>
+          <p class="wxtip" id="wxTip" hidden></p>
+          <span class="src" id="wxArea"></span>
         </div>
-        <div class="lk rk" id="rahuTile" hidden>
+        <div class="lk wide rk" id="rahuTile" hidden>
           <span class="lkl">Rahu Kaal</span>
           <span class="rktime" id="rahuTime"></span>
           <span class="chip" id="rahuStatus"></span>
@@ -330,10 +357,35 @@ function render(d, preview) {
   (function renderToday() {
     const P = d.panchang, W = d.weather, F = d.festivals, fresh = x => x && x.date === istToday;
     let shown = false;
-    if (fresh(W)) {
-      $("wxIcon").textContent = W.icon; $("wxHi").textContent = `${W.high}°`;
-      $("wxLabel").textContent = W.label;
-      $("wxMore").textContent = [`Low ${W.low}°`, W.rain != null ? `Rain ${W.rain}%` : "", W.uv != null ? `UV ${Math.round(W.uv)}` : ""].filter(Boolean).join(" · ");
+    if (W && W.date === istToday && (W.places || []).length) {
+      const hourIST = +new Intl.DateTimeFormat("en-GB", {timeZone: "Asia/Kolkata", hour: "numeric", hourCycle: "h23"}).format(new Date());
+      const hNow = hourIST < 6 ? hourIST + 24 : hourIST;             // before 6 AM still counts as last night
+      const show = key => {
+        const w = W.places.find(x => x.key === key) || W.places[0];
+        [...$("wxSeg").children].forEach(b => b.setAttribute("aria-selected", b.dataset.k === w.key));
+        $("wxIcon").textContent = w.icon; $("wxHi").textContent = `${w.high}° / ${w.low}°`; $("wxLabel").textContent = w.label;
+        $("wxMore").textContent = [w.rain != null ? `Rain chance up to ${w.rain}%` : "", w.uv != null ? `UV ${Math.round(w.uv)}` : ""].filter(Boolean).join(" · ");
+        $("wxPeriods").innerHTML = w.periods.map(p => {
+          const now = hNow >= p.from && hNow < p.to;
+          return `<div class="pd${now ? " now" : ""}" title="${esc(p.label)}"><span class="pn">${now ? "Now" : esc(p.name)}</span><span class="pi">${p.icon}</span><span class="pt">${p.temp}°</span><span class="pr">${p.rain != null ? "💧" + p.rain + "%" : ""}</span></div>`;
+        }).join("");
+        $("wxArea").textContent = `${w.area} · Open-Meteo forecast`;
+      };
+      // umbrella tip looks at BOTH places for the rest of today, whichever tab is open
+      const when = {Morning: "this morning", Afternoon: "this afternoon", Evening: "this evening", Night: "tonight"};
+      const wetParts = [];
+      W.places.forEach(w => w.periods.filter(p => p.rain != null && p.rain >= 50 && p.to > hNow)
+        .forEach(p => wetParts.push({where: w.key === "office" ? "at the office" : "at home", when: when[p.name], rain: p.rain})));
+      if (wetParts.length) {
+        const txt = wetParts.map(x => `${x.where} ${x.when}`).join(", ");
+        $("wxTip").textContent = `☔ Carry an umbrella: rain likely ${txt} (up to ${Math.max(...wetParts.map(x => x.rain))}%)`;
+        $("wxTip").hidden = false;
+      }
+      $("wxSeg").innerHTML = W.places.map(w => `<button role="tab" data-k="${w.key}">${w.key === "home" ? "🏠" : "💼"} ${esc(w.name)}</button>`).join("");
+      [...$("wxSeg").children].forEach(b => b.onclick = () => show(b.dataset.k));
+      const wdIST = new Intl.DateTimeFormat("en-GB", {timeZone: "Asia/Kolkata", weekday: "short"}).format(new Date());
+      const workHours = !["Sat", "Sun"].includes(wdIST) && hourIST >= 9 && hourIST < 18;
+      show(workHours && W.places.some(x => x.key === "office") ? "office" : "home");
       $("wxTile").hidden = false; shown = true;
     }
     if (fresh(P)) {
@@ -360,8 +412,8 @@ function render(d, preview) {
       if (items.length) { $("festBody").innerHTML = items.join(""); $("festTile").hidden = false; shown = true; }
     }
     if (shown) {
-      $("cityName").textContent = (P && P.city) || (W && W.city) || "";
-      $("todaySrc").textContent = "Panchang calculated for " + ((P && P.city) || "her city") + " (Lahiri) · Weather: Open-Meteo · Holidays: Telangana official 2026 list";
+      $("cityName").textContent = (P && P.city) || "Hyderabad";
+      $("todaySrc").textContent = "Panchang calculated for " + ((P && P.city) || "her city") + " (Lahiri) · Holidays: Telangana official 2026 list";
       $("todayWrap").hidden = false;
     }
   })();
