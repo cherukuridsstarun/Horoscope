@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 25 September 2026",
   "date_key": "2026-09-25",
-  "fetched_ist": "25 Sep 2026, 10:31 AM IST",
+  "fetched_ist": "25 Sep 2026, 12:16 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -212,10 +212,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13812,
-        "k24": 15079,
+        "k22": 13844,
+        "k24": 15114,
         "change22": null,
-        "date": "24 September 2026",
+        "date": "25 September 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -376,19 +376,19 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-25T10:30",
-        "time": "10:30 AM",
-        "hour": 10.5,
-        "temp": 28,
-        "feels": 29,
-        "humidity": 66,
+        "iso": "2026-09-25T12:15",
+        "time": "12:15 PM",
+        "hour": 12.25,
+        "temp": 29,
+        "feels": 30,
+        "humidity": 58,
         "label": "Cloudy",
         "icon": "☁️"
       },
       "high": 30,
       "low": 24,
       "rain": 4,
-      "uv": 8.25,
+      "uv": 7.6,
       "periods": [
         {
           "name": "Morning",
@@ -436,6 +436,15 @@
           "humidity": 66,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Afternoon": {
+          "iso": "2026-09-25T12:15",
+          "time": "12:15 PM",
+          "temp": 29,
+          "feels": 30,
+          "humidity": 58,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -448,6 +457,15 @@
         "humidity": 66,
         "label": "Cloudy",
         "icon": "☁️"
+      },
+      "Afternoon": {
+        "iso": "2026-09-25T12:15",
+        "time": "12:15 PM",
+        "temp": 29,
+        "feels": 30,
+        "humidity": 58,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "wx_office": {
@@ -457,19 +475,19 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-25T10:30",
-        "time": "10:30 AM",
-        "hour": 10.5,
-        "temp": 28,
-        "feels": 28,
-        "humidity": 65,
+        "iso": "2026-09-25T12:15",
+        "time": "12:15 PM",
+        "hour": 12.25,
+        "temp": 29,
+        "feels": 29,
+        "humidity": 55,
         "label": "Cloudy",
         "icon": "☁️"
       },
       "high": 30,
       "low": 24,
       "rain": 4,
-      "uv": 7.95,
+      "uv": 7.25,
       "periods": [
         {
           "name": "Morning",
@@ -517,6 +535,15 @@
           "humidity": 65,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Afternoon": {
+          "iso": "2026-09-25T12:15",
+          "time": "12:15 PM",
+          "temp": 29,
+          "feels": 29,
+          "humidity": 55,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -527,6 +554,15 @@
         "temp": 28,
         "feels": 28,
         "humidity": 65,
+        "label": "Cloudy",
+        "icon": "☁️"
+      },
+      "Afternoon": {
+        "iso": "2026-09-25T12:15",
+        "time": "12:15 PM",
+        "temp": 29,
+        "feels": 29,
+        "humidity": 55,
         "label": "Cloudy",
         "icon": "☁️"
       }
@@ -554,10 +590,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13812,
-          "k24": 15079,
+          "k22": 13844,
+          "k24": 15114,
           "change22": null,
-          "date": "24 September 2026",
+          "date": "25 September 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -653,19 +689,19 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-25T10:30",
-          "time": "10:30 AM",
-          "hour": 10.5,
-          "temp": 28,
-          "feels": 29,
-          "humidity": 66,
+          "iso": "2026-09-25T12:15",
+          "time": "12:15 PM",
+          "hour": 12.25,
+          "temp": 29,
+          "feels": 30,
+          "humidity": 58,
           "label": "Cloudy",
           "icon": "☁️"
         },
         "high": 30,
         "low": 24,
         "rain": 4,
-        "uv": 8.25,
+        "uv": 7.6,
         "periods": [
           {
             "name": "Morning",
@@ -713,6 +749,15 @@
             "humidity": 66,
             "label": "Cloudy",
             "icon": "☁️"
+          },
+          "Afternoon": {
+            "iso": "2026-09-25T12:15",
+            "time": "12:15 PM",
+            "temp": 29,
+            "feels": 30,
+            "humidity": 58,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       },
@@ -723,19 +768,19 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-25T10:30",
-          "time": "10:30 AM",
-          "hour": 10.5,
-          "temp": 28,
-          "feels": 28,
-          "humidity": 65,
+          "iso": "2026-09-25T12:15",
+          "time": "12:15 PM",
+          "hour": 12.25,
+          "temp": 29,
+          "feels": 29,
+          "humidity": 55,
           "label": "Cloudy",
           "icon": "☁️"
         },
         "high": 30,
         "low": 24,
         "rain": 4,
-        "uv": 7.95,
+        "uv": 7.25,
         "periods": [
           {
             "name": "Morning",
@@ -781,6 +826,15 @@
             "temp": 28,
             "feels": 28,
             "humidity": 65,
+            "label": "Cloudy",
+            "icon": "☁️"
+          },
+          "Afternoon": {
+            "iso": "2026-09-25T12:15",
+            "time": "12:15 PM",
+            "temp": 29,
+            "feels": 29,
+            "humidity": 55,
             "label": "Cloudy",
             "icon": "☁️"
           }
