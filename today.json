@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 25 September 2026",
   "date_key": "2026-09-25",
-  "fetched_ist": "25 Sep 2026, 06:15 PM IST",
+  "fetched_ist": "25 Sep 2026, 11:20 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -203,7 +203,7 @@
       {
         "src": "PolicyBazaar",
         "label": "Hyderabad retail · 22K only",
-        "k22": 14135,
+        "k22": 14010,
         "k24": null,
         "change22": null,
         "date": "25 September 2026",
@@ -376,18 +376,18 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-25T18:15",
-        "time": "6:15 PM",
-        "hour": 18.25,
-        "temp": 28,
-        "feels": 29,
-        "humidity": 63,
+        "iso": "2026-09-25T23:15",
+        "time": "11:15 PM",
+        "hour": 23.25,
+        "temp": 26,
+        "feels": 27,
+        "humidity": 68,
         "label": "Cloudy",
         "icon": "☁️"
       },
       "high": 30,
       "low": 25,
-      "rain": 4,
+      "rain": 3,
       "uv": 7.85,
       "periods": [
         {
@@ -406,7 +406,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 30,
-          "rain": 4
+          "rain": 2
         },
         {
           "name": "Evening",
@@ -415,7 +415,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 27,
-          "rain": 2
+          "rain": 0
         },
         {
           "name": "Night",
@@ -454,6 +454,15 @@
           "humidity": 63,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Night": {
+          "iso": "2026-09-25T23:15",
+          "time": "11:15 PM",
+          "temp": 26,
+          "feels": 27,
+          "humidity": 68,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -484,6 +493,15 @@
         "humidity": 63,
         "label": "Cloudy",
         "icon": "☁️"
+      },
+      "Night": {
+        "iso": "2026-09-25T23:15",
+        "time": "11:15 PM",
+        "temp": 26,
+        "feels": 27,
+        "humidity": 68,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "wx_office": {
@@ -493,18 +511,18 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-25T18:15",
-        "time": "6:15 PM",
-        "hour": 18.25,
-        "temp": 27,
-        "feels": 29,
-        "humidity": 63,
+        "iso": "2026-09-25T23:15",
+        "time": "11:15 PM",
+        "hour": 23.25,
+        "temp": 26,
+        "feels": 27,
+        "humidity": 66,
         "label": "Cloudy",
         "icon": "☁️"
       },
       "high": 30,
       "low": 24,
-      "rain": 4,
+      "rain": 3,
       "uv": 7.75,
       "periods": [
         {
@@ -523,7 +541,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 30,
-          "rain": 4
+          "rain": 2
         },
         {
           "name": "Evening",
@@ -532,7 +550,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 27,
-          "rain": 2
+          "rain": 0
         },
         {
           "name": "Night",
@@ -571,6 +589,15 @@
           "humidity": 63,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Night": {
+          "iso": "2026-09-25T23:15",
+          "time": "11:15 PM",
+          "temp": 26,
+          "feels": 27,
+          "humidity": 66,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -601,6 +628,15 @@
         "humidity": 63,
         "label": "Cloudy",
         "icon": "☁️"
+      },
+      "Night": {
+        "iso": "2026-09-25T23:15",
+        "time": "11:15 PM",
+        "temp": 26,
+        "feels": 27,
+        "humidity": 66,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "gold": {
@@ -617,8 +653,8 @@
         "PolicyBazaar": {
           "src": "PolicyBazaar",
           "label": "Hyderabad retail",
-          "k22": 14135,
-          "k24": 14842,
+          "k22": 14010,
+          "k24": 14711,
           "change22": null,
           "date": "25 September 2026",
           "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
@@ -725,18 +761,18 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-25T18:15",
-          "time": "6:15 PM",
-          "hour": 18.25,
-          "temp": 28,
-          "feels": 29,
-          "humidity": 63,
+          "iso": "2026-09-25T23:15",
+          "time": "11:15 PM",
+          "hour": 23.25,
+          "temp": 26,
+          "feels": 27,
+          "humidity": 68,
           "label": "Cloudy",
           "icon": "☁️"
         },
         "high": 30,
         "low": 25,
-        "rain": 4,
+        "rain": 3,
         "uv": 7.85,
         "periods": [
           {
@@ -755,7 +791,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 30,
-            "rain": 4
+            "rain": 2
           },
           {
             "name": "Evening",
@@ -764,7 +800,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 27,
-            "rain": 2
+            "rain": 0
           },
           {
             "name": "Night",
@@ -803,6 +839,15 @@
             "humidity": 63,
             "label": "Cloudy",
             "icon": "☁️"
+          },
+          "Night": {
+            "iso": "2026-09-25T23:15",
+            "time": "11:15 PM",
+            "temp": 26,
+            "feels": 27,
+            "humidity": 68,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       },
@@ -813,18 +858,18 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-25T18:15",
-          "time": "6:15 PM",
-          "hour": 18.25,
-          "temp": 27,
-          "feels": 29,
-          "humidity": 63,
+          "iso": "2026-09-25T23:15",
+          "time": "11:15 PM",
+          "hour": 23.25,
+          "temp": 26,
+          "feels": 27,
+          "humidity": 66,
           "label": "Cloudy",
           "icon": "☁️"
         },
         "high": 30,
         "low": 24,
-        "rain": 4,
+        "rain": 3,
         "uv": 7.75,
         "periods": [
           {
@@ -843,7 +888,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 30,
-            "rain": 4
+            "rain": 2
           },
           {
             "name": "Evening",
@@ -852,7 +897,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 27,
-            "rain": 2
+            "rain": 0
           },
           {
             "name": "Night",
@@ -889,6 +934,15 @@
             "temp": 27,
             "feels": 29,
             "humidity": 63,
+            "label": "Cloudy",
+            "icon": "☁️"
+          },
+          "Night": {
+            "iso": "2026-09-25T23:15",
+            "time": "11:15 PM",
+            "temp": 26,
+            "feels": 27,
+            "humidity": 66,
             "label": "Cloudy",
             "icon": "☁️"
           }
