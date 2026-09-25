@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 25 September 2026",
   "date_key": "2026-09-25",
-  "fetched_ist": "25 Sep 2026, 12:16 PM IST",
+  "fetched_ist": "25 Sep 2026, 06:15 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Sep 25, 2026",
       "text": "Some books you've been reading lately might excite your desire to study astrology, numerology, alchemy, or some other occult science, Taurus. This may not be something that you'd normally consider, but don't let that hold you back. Your values have been shaken up lately anyway, so make the most of the impulse now. It could transform you in a subtle way. Go for it!"
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "September 25, 2026",
       "text": "You may get frustrated by people who don't seem to respect your time and energy, dearest Taurus. As the Pisces Moon forms unbalanced aspects with Jupiter and Mercury, consider putting peers to work if they won't leave you alone. You'll either receive the help you request, or others will take the hint to be on their way. Your imagination runs wild once the Sun aligns with Neptune and Pluto this evening, and you'll be eager to let creativity flow."
@@ -83,7 +83,7 @@
         },
         {
           "text": "Slow down your thought process so that you can fully absorb all the information that is coming your way. It is difficult to fully digest the scope of material that comes to your attention in a day unless you consciously slow yourself down and relax.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -127,7 +127,7 @@
         },
         {
           "text": "Today's planetary alignment gives you the ability to see yourself for the good, beautiful person that you are! If you have been tending to your needs and paying close attention to yourself (mindful eating, exercise, and sleep) you will feel especially good. If you have been feeling guilty because you've been distracted and neglecting your body, such a benevolent aspect reaches deep into your core and spreads its healing rose-gold light.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -146,8 +146,8 @@
   "lucky": [
     {
       "src": "GaneshaSpeaks",
-      "number": "6",
-      "color": "Emerald Green"
+      "number": "1",
+      "color": "Pastel Pink"
     },
     {
       "src": "AstroSage",
@@ -212,8 +212,8 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13844,
-        "k24": 15114,
+        "k22": 13934,
+        "k24": 15211,
         "change22": null,
         "date": "25 September 2026",
         "url": "https://ibjarates.com/"
@@ -280,8 +280,8 @@
       "source_date": "25-09-2026",
       "text": "You will not lose your cool today despite the overwhelming odds, feels Ganesha. Rationale and reason will be the rhyme of your attitude as you diagnose the problems and uproot them successfully. Success beckons and you are ready to reach out and grab it by hook or by crook. Guard your reputation as your ethics might come under the scanner, says Ganesha.",
       "lucky": {
-        "number": "6",
-        "color": "Emerald Green"
+        "number": "1",
+        "color": "Pastel Pink"
       },
       "areas": {
         "health": {
@@ -304,17 +304,17 @@
     "hc_general": {
       "text": "Some books you've been reading lately might excite your desire to study astrology, numerology, alchemy, or some other occult science, Taurus. This may not be something that you'd normally consider, but don't let that hold you back. Your values have been shaken up lately anyway, so make the most of the impulse now. It could transform you in a subtle way. Go for it!",
       "date": "Sep 25, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Slow down your thought process so that you can fully absorb all the information that is coming your way. It is difficult to fully digest the scope of material that comes to your attention in a day unless you consciously slow yourself down and relax.",
       "date": "Sep 25, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Today's planetary alignment gives you the ability to see yourself for the good, beautiful person that you are! If you have been tending to your needs and paying close attention to yourself (mindful eating, exercise, and sleep) you will feel especially good. If you have been feeling guilty because you've been distracted and neglecting your body, such a benevolent aspect reaches deep into your core and spreads its healing rose-gold light.",
       "date": "Sep 25, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You have a time of communication in order to exchange ideas. This can be very conducive to starting a new career or advancing in the one you have. All that's required is to be true to yourself. Aspects affecting communication make you a little quirky and unique. You don't care what others think, which makes it so much easier for you to ask for what you're worth.",
@@ -322,7 +322,7 @@
     },
     "ac": {
       "text": "You may get frustrated by people who don't seem to respect your time and energy, dearest Taurus. As the Pisces Moon forms unbalanced aspects with Jupiter and Mercury, consider putting peers to work if they won't leave you alone. You'll either receive the help you request, or others will take the hint to be on their way. Your imagination runs wild once the Sun aligns with Neptune and Pluto this evening, and you'll be eager to let creativity flow. Hide away to play with your ideas in private, as you'll feel much more productive without loved ones around to distract you.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -376,19 +376,19 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-25T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
-        "temp": 29,
-        "feels": 30,
-        "humidity": 58,
+        "iso": "2026-09-25T18:15",
+        "time": "6:15 PM",
+        "hour": 18.25,
+        "temp": 28,
+        "feels": 29,
+        "humidity": 63,
         "label": "Cloudy",
         "icon": "☁️"
       },
       "high": 30,
-      "low": 24,
+      "low": 25,
       "rain": 4,
-      "uv": 7.6,
+      "uv": 7.85,
       "periods": [
         {
           "name": "Morning",
@@ -405,7 +405,7 @@
           "to": 17,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 29,
+          "temp": 30,
           "rain": 4
         },
         {
@@ -445,6 +445,15 @@
           "humidity": 58,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Evening": {
+          "iso": "2026-09-25T18:15",
+          "time": "6:15 PM",
+          "temp": 28,
+          "feels": 29,
+          "humidity": 63,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -466,6 +475,15 @@
         "humidity": 58,
         "label": "Cloudy",
         "icon": "☁️"
+      },
+      "Evening": {
+        "iso": "2026-09-25T18:15",
+        "time": "6:15 PM",
+        "temp": 28,
+        "feels": 29,
+        "humidity": 63,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "wx_office": {
@@ -475,19 +493,19 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-25T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
-        "temp": 29,
+        "iso": "2026-09-25T18:15",
+        "time": "6:15 PM",
+        "hour": 18.25,
+        "temp": 27,
         "feels": 29,
-        "humidity": 55,
+        "humidity": 63,
         "label": "Cloudy",
         "icon": "☁️"
       },
       "high": 30,
       "low": 24,
       "rain": 4,
-      "uv": 7.25,
+      "uv": 7.75,
       "periods": [
         {
           "name": "Morning",
@@ -504,7 +522,7 @@
           "to": 17,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 29,
+          "temp": 30,
           "rain": 4
         },
         {
@@ -544,6 +562,15 @@
           "humidity": 55,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Evening": {
+          "iso": "2026-09-25T18:15",
+          "time": "6:15 PM",
+          "temp": 27,
+          "feels": 29,
+          "humidity": 63,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -563,6 +590,15 @@
         "temp": 29,
         "feels": 29,
         "humidity": 55,
+        "label": "Cloudy",
+        "icon": "☁️"
+      },
+      "Evening": {
+        "iso": "2026-09-25T18:15",
+        "time": "6:15 PM",
+        "temp": 27,
+        "feels": 29,
+        "humidity": 63,
         "label": "Cloudy",
         "icon": "☁️"
       }
@@ -590,8 +626,8 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13844,
-          "k24": 15114,
+          "k22": 13934,
+          "k24": 15211,
           "change22": null,
           "date": "25 September 2026",
           "url": "https://ibjarates.com/"
@@ -689,19 +725,19 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-25T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
-          "temp": 29,
-          "feels": 30,
-          "humidity": 58,
+          "iso": "2026-09-25T18:15",
+          "time": "6:15 PM",
+          "hour": 18.25,
+          "temp": 28,
+          "feels": 29,
+          "humidity": 63,
           "label": "Cloudy",
           "icon": "☁️"
         },
         "high": 30,
-        "low": 24,
+        "low": 25,
         "rain": 4,
-        "uv": 7.6,
+        "uv": 7.85,
         "periods": [
           {
             "name": "Morning",
@@ -718,7 +754,7 @@
             "to": 17,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 29,
+            "temp": 30,
             "rain": 4
           },
           {
@@ -758,6 +794,15 @@
             "humidity": 58,
             "label": "Cloudy",
             "icon": "☁️"
+          },
+          "Evening": {
+            "iso": "2026-09-25T18:15",
+            "time": "6:15 PM",
+            "temp": 28,
+            "feels": 29,
+            "humidity": 63,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       },
@@ -768,19 +813,19 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-25T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
-          "temp": 29,
+          "iso": "2026-09-25T18:15",
+          "time": "6:15 PM",
+          "hour": 18.25,
+          "temp": 27,
           "feels": 29,
-          "humidity": 55,
+          "humidity": 63,
           "label": "Cloudy",
           "icon": "☁️"
         },
         "high": 30,
         "low": 24,
         "rain": 4,
-        "uv": 7.25,
+        "uv": 7.75,
         "periods": [
           {
             "name": "Morning",
@@ -797,7 +842,7 @@
             "to": 17,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 29,
+            "temp": 30,
             "rain": 4
           },
           {
@@ -835,6 +880,15 @@
             "temp": 29,
             "feels": 29,
             "humidity": 55,
+            "label": "Cloudy",
+            "icon": "☁️"
+          },
+          "Evening": {
+            "iso": "2026-09-25T18:15",
+            "time": "6:15 PM",
+            "temp": 27,
+            "feels": 29,
+            "humidity": 63,
             "label": "Cloudy",
             "icon": "☁️"
           }
