@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Saturday, 26 September 2026",
   "date_key": "2026-09-26",
-  "fetched_ist": "26 Sep 2026, 06:30 AM IST",
+  "fetched_ist": "26 Sep 2026, 10:33 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -201,9 +201,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 15285,
-        "k22": 14011,
-        "change22": 1,
+        "k24": 15268,
+        "k22": 13995,
+        "change22": -15,
         "date": "26 September 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -274,8 +274,8 @@
       },
       {
         "date": "Sep 26, 2026",
-        "k22": 14011,
-        "k24": 15285
+        "k22": 13995,
+        "k24": 15268
       }
     ]
   },
@@ -383,18 +383,18 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-26T06:30",
-        "time": "6:30 AM",
-        "hour": 6.5,
-        "temp": 23,
-        "feels": 24,
-        "humidity": 75,
+        "iso": "2026-09-26T10:30",
+        "time": "10:30 AM",
+        "hour": 10.5,
+        "temp": 28,
+        "feels": 30,
+        "humidity": 62,
         "label": "Cloudy",
         "icon": "☁️"
       },
       "high": 31,
       "low": 23,
-      "rain": 10,
+      "rain": 4,
       "uv": 8.2,
       "periods": [
         {
@@ -413,7 +413,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 30,
-          "rain": 8
+          "rain": 3
         },
         {
           "name": "Evening",
@@ -422,7 +422,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 27,
-          "rain": 10
+          "rain": 4
         },
         {
           "name": "Night",
@@ -436,11 +436,11 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-09-26T06:30",
-          "time": "6:30 AM",
-          "temp": 23,
-          "feels": 24,
-          "humidity": 75,
+          "iso": "2026-09-26T10:30",
+          "time": "10:30 AM",
+          "temp": 28,
+          "feels": 30,
+          "humidity": 62,
           "label": "Cloudy",
           "icon": "☁️"
         }
@@ -448,11 +448,11 @@
     },
     "wxlog_home": {
       "Morning": {
-        "iso": "2026-09-26T06:30",
-        "time": "6:30 AM",
-        "temp": 23,
-        "feels": 24,
-        "humidity": 75,
+        "iso": "2026-09-26T10:30",
+        "time": "10:30 AM",
+        "temp": 28,
+        "feels": 30,
+        "humidity": 62,
         "label": "Cloudy",
         "icon": "☁️"
       }
@@ -464,18 +464,18 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-26T06:30",
-        "time": "6:30 AM",
-        "hour": 6.5,
-        "temp": 23,
-        "feels": 23,
-        "humidity": 77,
+        "iso": "2026-09-26T10:30",
+        "time": "10:30 AM",
+        "hour": 10.5,
+        "temp": 28,
+        "feels": 30,
+        "humidity": 62,
         "label": "Cloudy",
         "icon": "☁️"
       },
       "high": 31,
       "low": 23,
-      "rain": 10,
+      "rain": 4,
       "uv": 8.2,
       "periods": [
         {
@@ -494,7 +494,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 30,
-          "rain": 8
+          "rain": 3
         },
         {
           "name": "Evening",
@@ -503,7 +503,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 27,
-          "rain": 10
+          "rain": 4
         },
         {
           "name": "Night",
@@ -517,11 +517,11 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-09-26T06:30",
-          "time": "6:30 AM",
-          "temp": 23,
-          "feels": 23,
-          "humidity": 77,
+          "iso": "2026-09-26T10:30",
+          "time": "10:30 AM",
+          "temp": 28,
+          "feels": 30,
+          "humidity": 62,
           "label": "Cloudy",
           "icon": "☁️"
         }
@@ -529,11 +529,11 @@
     },
     "wxlog_office": {
       "Morning": {
-        "iso": "2026-09-26T06:30",
-        "time": "6:30 AM",
-        "temp": 23,
-        "feels": 23,
-        "humidity": 77,
+        "iso": "2026-09-26T10:30",
+        "time": "10:30 AM",
+        "temp": 28,
+        "feels": 30,
+        "humidity": 62,
         "label": "Cloudy",
         "icon": "☁️"
       }
@@ -543,9 +543,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 15285,
-          "k22": 14011,
-          "change22": 1,
+          "k24": 15268,
+          "k22": 13995,
+          "change22": -15,
           "date": "26 September 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -616,8 +616,8 @@
         },
         {
           "date": "Sep 26, 2026",
-          "k22": 14011,
-          "k24": 15285
+          "k22": 13995,
+          "k24": 15268
         }
       ]
     }
@@ -666,18 +666,18 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-26T06:30",
-          "time": "6:30 AM",
-          "hour": 6.5,
-          "temp": 23,
-          "feels": 24,
-          "humidity": 75,
+          "iso": "2026-09-26T10:30",
+          "time": "10:30 AM",
+          "hour": 10.5,
+          "temp": 28,
+          "feels": 30,
+          "humidity": 62,
           "label": "Cloudy",
           "icon": "☁️"
         },
         "high": 31,
         "low": 23,
-        "rain": 10,
+        "rain": 4,
         "uv": 8.2,
         "periods": [
           {
@@ -696,7 +696,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 30,
-            "rain": 8
+            "rain": 3
           },
           {
             "name": "Evening",
@@ -705,7 +705,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 27,
-            "rain": 10
+            "rain": 4
           },
           {
             "name": "Night",
@@ -719,11 +719,11 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-09-26T06:30",
-            "time": "6:30 AM",
-            "temp": 23,
-            "feels": 24,
-            "humidity": 75,
+            "iso": "2026-09-26T10:30",
+            "time": "10:30 AM",
+            "temp": 28,
+            "feels": 30,
+            "humidity": 62,
             "label": "Cloudy",
             "icon": "☁️"
           }
@@ -736,18 +736,18 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-26T06:30",
-          "time": "6:30 AM",
-          "hour": 6.5,
-          "temp": 23,
-          "feels": 23,
-          "humidity": 77,
+          "iso": "2026-09-26T10:30",
+          "time": "10:30 AM",
+          "hour": 10.5,
+          "temp": 28,
+          "feels": 30,
+          "humidity": 62,
           "label": "Cloudy",
           "icon": "☁️"
         },
         "high": 31,
         "low": 23,
-        "rain": 10,
+        "rain": 4,
         "uv": 8.2,
         "periods": [
           {
@@ -766,7 +766,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 30,
-            "rain": 8
+            "rain": 3
           },
           {
             "name": "Evening",
@@ -775,7 +775,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 27,
-            "rain": 10
+            "rain": 4
           },
           {
             "name": "Night",
@@ -789,11 +789,11 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-09-26T06:30",
-            "time": "6:30 AM",
-            "temp": 23,
-            "feels": 23,
-            "humidity": 77,
+            "iso": "2026-09-26T10:30",
+            "time": "10:30 AM",
+            "temp": 28,
+            "feels": 30,
+            "humidity": 62,
             "label": "Cloudy",
             "icon": "☁️"
           }
