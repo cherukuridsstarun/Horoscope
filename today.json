@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Saturday, 26 September 2026",
   "date_key": "2026-09-26",
-  "fetched_ist": "26 Sep 2026, 10:33 AM IST",
+  "fetched_ist": "26 Sep 2026, 12:14 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -383,19 +383,19 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-26T10:30",
-        "time": "10:30 AM",
-        "hour": 10.5,
-        "temp": 28,
-        "feels": 30,
-        "humidity": 62,
+        "iso": "2026-09-26T12:00",
+        "time": "12:00 PM",
+        "hour": 12.0,
+        "temp": 29,
+        "feels": 32,
+        "humidity": 58,
         "label": "Cloudy",
         "icon": "☁️"
       },
       "high": 31,
       "low": 23,
       "rain": 4,
-      "uv": 8.2,
+      "uv": 7.8,
       "periods": [
         {
           "name": "Morning",
@@ -441,6 +441,15 @@
           "temp": 28,
           "feels": 30,
           "humidity": 62,
+          "label": "Cloudy",
+          "icon": "☁️"
+        },
+        "Afternoon": {
+          "iso": "2026-09-26T12:00",
+          "time": "12:00 PM",
+          "temp": 29,
+          "feels": 32,
+          "humidity": 58,
           "label": "Cloudy",
           "icon": "☁️"
         }
@@ -455,6 +464,15 @@
         "humidity": 62,
         "label": "Cloudy",
         "icon": "☁️"
+      },
+      "Afternoon": {
+        "iso": "2026-09-26T12:00",
+        "time": "12:00 PM",
+        "temp": 29,
+        "feels": 32,
+        "humidity": 58,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "wx_office": {
@@ -464,19 +482,19 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-26T10:30",
-        "time": "10:30 AM",
-        "hour": 10.5,
-        "temp": 28,
-        "feels": 30,
-        "humidity": 62,
+        "iso": "2026-09-26T12:00",
+        "time": "12:00 PM",
+        "hour": 12.0,
+        "temp": 29,
+        "feels": 32,
+        "humidity": 58,
         "label": "Cloudy",
         "icon": "☁️"
       },
       "high": 31,
       "low": 23,
       "rain": 4,
-      "uv": 8.2,
+      "uv": 7.8,
       "periods": [
         {
           "name": "Morning",
@@ -524,6 +542,15 @@
           "humidity": 62,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Afternoon": {
+          "iso": "2026-09-26T12:00",
+          "time": "12:00 PM",
+          "temp": 29,
+          "feels": 32,
+          "humidity": 58,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -534,6 +561,15 @@
         "temp": 28,
         "feels": 30,
         "humidity": 62,
+        "label": "Cloudy",
+        "icon": "☁️"
+      },
+      "Afternoon": {
+        "iso": "2026-09-26T12:00",
+        "time": "12:00 PM",
+        "temp": 29,
+        "feels": 32,
+        "humidity": 58,
         "label": "Cloudy",
         "icon": "☁️"
       }
@@ -666,19 +702,19 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-26T10:30",
-          "time": "10:30 AM",
-          "hour": 10.5,
-          "temp": 28,
-          "feels": 30,
-          "humidity": 62,
+          "iso": "2026-09-26T12:00",
+          "time": "12:00 PM",
+          "hour": 12.0,
+          "temp": 29,
+          "feels": 32,
+          "humidity": 58,
           "label": "Cloudy",
           "icon": "☁️"
         },
         "high": 31,
         "low": 23,
         "rain": 4,
-        "uv": 8.2,
+        "uv": 7.8,
         "periods": [
           {
             "name": "Morning",
@@ -726,6 +762,15 @@
             "humidity": 62,
             "label": "Cloudy",
             "icon": "☁️"
+          },
+          "Afternoon": {
+            "iso": "2026-09-26T12:00",
+            "time": "12:00 PM",
+            "temp": 29,
+            "feels": 32,
+            "humidity": 58,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       },
@@ -736,19 +781,19 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-26T10:30",
-          "time": "10:30 AM",
-          "hour": 10.5,
-          "temp": 28,
-          "feels": 30,
-          "humidity": 62,
+          "iso": "2026-09-26T12:00",
+          "time": "12:00 PM",
+          "hour": 12.0,
+          "temp": 29,
+          "feels": 32,
+          "humidity": 58,
           "label": "Cloudy",
           "icon": "☁️"
         },
         "high": 31,
         "low": 23,
         "rain": 4,
-        "uv": 8.2,
+        "uv": 7.8,
         "periods": [
           {
             "name": "Morning",
@@ -794,6 +839,15 @@
             "temp": 28,
             "feels": 30,
             "humidity": 62,
+            "label": "Cloudy",
+            "icon": "☁️"
+          },
+          "Afternoon": {
+            "iso": "2026-09-26T12:00",
+            "time": "12:00 PM",
+            "temp": 29,
+            "feels": 32,
+            "humidity": 58,
             "label": "Cloudy",
             "icon": "☁️"
           }
