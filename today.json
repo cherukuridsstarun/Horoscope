@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Sunday, 27 September 2026",
   "date_key": "2026-09-27",
-  "fetched_ist": "27 Sep 2026, 06:30 PM IST",
+  "fetched_ist": "27 Sep 2026, 11:06 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -368,14 +368,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-27T18:30",
-        "time": "6:30 PM",
-        "hour": 18.5,
-        "temp": 28,
-        "feels": 30,
-        "humidity": 61,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "iso": "2026-09-27T23:00",
+        "time": "11:00 PM",
+        "hour": 23.0,
+        "temp": 24,
+        "feels": 27,
+        "humidity": 75,
+        "label": "Clear sky",
+        "icon": "🌙"
       },
       "high": 32,
       "low": 23,
@@ -446,6 +446,15 @@
           "humidity": 61,
           "label": "Partly cloudy",
           "icon": "⛅"
+        },
+        "Night": {
+          "iso": "2026-09-27T23:00",
+          "time": "11:00 PM",
+          "temp": 24,
+          "feels": 27,
+          "humidity": 75,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -476,6 +485,15 @@
         "humidity": 61,
         "label": "Partly cloudy",
         "icon": "⛅"
+      },
+      "Night": {
+        "iso": "2026-09-27T23:00",
+        "time": "11:00 PM",
+        "temp": 24,
+        "feels": 27,
+        "humidity": 75,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "wx_office": {
@@ -485,14 +503,14 @@
       "label": "Partly cloudy",
       "icon": "⛅",
       "now": {
-        "iso": "2026-09-27T18:30",
-        "time": "6:30 PM",
-        "hour": 18.5,
-        "temp": 27,
-        "feels": 30,
-        "humidity": 67,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "iso": "2026-09-27T23:00",
+        "time": "11:00 PM",
+        "hour": 23.0,
+        "temp": 24,
+        "feels": 27,
+        "humidity": 77,
+        "label": "Clear sky",
+        "icon": "🌙"
       },
       "high": 31,
       "low": 22,
@@ -563,6 +581,15 @@
           "humidity": 67,
           "label": "Partly cloudy",
           "icon": "⛅"
+        },
+        "Night": {
+          "iso": "2026-09-27T23:00",
+          "time": "11:00 PM",
+          "temp": 24,
+          "feels": 27,
+          "humidity": 77,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -593,6 +620,15 @@
         "humidity": 67,
         "label": "Partly cloudy",
         "icon": "⛅"
+      },
+      "Night": {
+        "iso": "2026-09-27T23:00",
+        "time": "11:00 PM",
+        "temp": 24,
+        "feels": 27,
+        "humidity": 77,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "gold": {
@@ -717,14 +753,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-27T18:30",
-          "time": "6:30 PM",
-          "hour": 18.5,
-          "temp": 28,
-          "feels": 30,
-          "humidity": 61,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "iso": "2026-09-27T23:00",
+          "time": "11:00 PM",
+          "hour": 23.0,
+          "temp": 24,
+          "feels": 27,
+          "humidity": 75,
+          "label": "Clear sky",
+          "icon": "🌙"
         },
         "high": 32,
         "low": 23,
@@ -795,6 +831,15 @@
             "humidity": 61,
             "label": "Partly cloudy",
             "icon": "⛅"
+          },
+          "Night": {
+            "iso": "2026-09-27T23:00",
+            "time": "11:00 PM",
+            "temp": 24,
+            "feels": 27,
+            "humidity": 75,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       },
@@ -805,14 +850,14 @@
         "label": "Partly cloudy",
         "icon": "⛅",
         "now": {
-          "iso": "2026-09-27T18:30",
-          "time": "6:30 PM",
-          "hour": 18.5,
-          "temp": 27,
-          "feels": 30,
-          "humidity": 67,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "iso": "2026-09-27T23:00",
+          "time": "11:00 PM",
+          "hour": 23.0,
+          "temp": 24,
+          "feels": 27,
+          "humidity": 77,
+          "label": "Clear sky",
+          "icon": "🌙"
         },
         "high": 31,
         "low": 22,
@@ -883,6 +928,15 @@
             "humidity": 67,
             "label": "Partly cloudy",
             "icon": "⛅"
+          },
+          "Night": {
+            "iso": "2026-09-27T23:00",
+            "time": "11:00 PM",
+            "temp": 24,
+            "feels": 27,
+            "humidity": 77,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       }
