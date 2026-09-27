@@ -1,70 +1,85 @@
 {
   "sign": "Taurus",
-  "date_ist": "Sunday, 27 September 2026",
-  "date_key": "2026-09-27",
-  "fetched_ist": "27 Sep 2026, 11:06 PM IST",
+  "date_ist": "Monday, 28 September 2026",
+  "date_key": "2026-09-28",
+  "fetched_ist": "28 Sep 2026, 12:57 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": true,
+      "ok": false,
       "source_date": "27-09-2026",
-      "text": "Overall, you will have a refreshingly creative outlook all through the day."
+      "text": null
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
       "ok": true,
-      "source_date": "Sep 27, 2026",
-      "text": "Have you been indulging in too many goodies, Taurus? You might feel under the weather because of all this abundance. You probably should take it easy. Think about reorganizing your priorities. Is a second piece of chocolate cake more important than your energy and health? Indulging can be important to your psyche, but don't forget about moderation - and don't forget that there are many other ways to indulge."
+      "source_date": "Sep 28, 2026",
+      "text": "You could be feeling quite lazy today, Taurus, and you definitely deserve to feel this way! You deserve some time off after all of the activities of the past week. Give yourself the gift of a true day off. Do only what you want, whether it's watching movies or spending the afternoon soaking in the tub. Total indulgence. Just relax and unwind."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
       "ok": true,
-      "source_date": "September 27, 2026",
-      "text": "The Aries Moon and Saturn unite early this morning, dearest Taurus, unlocking new levels of the psyche. You'll require some alone time to process everything that rises to the surface, so don't hesitate to cancel plans and lay low. You'll have a better handle on where you're at mentally once Luna and Jupiter align this afternoon. Host a cozy lunch to discuss your discoveries while nurturing important bonds. Battle impulses that might send you backward when Mars squares Chiron before entering Leo this evening."
+      "source_date": "September 28, 2026",
+      "text": "Rethink routines that have grown boring or limiting, dearest Taurus. You're reminded of how simple habits add up to impact your bigger picture, as the Aries Moon aspects Mercury, Chiron, and the nodes of fate. The universe sends a rush of energy your way once Luna debuts in your sign. Though a harsh square with Mars could lead to emotional overload, so remember to pace yourself as enthusiasm grows and pressure builds. Past favors you performed may be returned in delightful ways, thanks to a sweet connection between the Libra Sun and Uranus. Take a break to reassess your strategies and avoid hitting walls while Pluto activates this afternoon."
     },
     {
       "name": "AstroSage",
       "url": "https://www.astrosage.com/horoscope/daily-taurus-horoscope.asp",
       "ok": true,
-      "source_date": "Sunday, September 27, 2026",
-      "text": "Take rest and try to relax as much as possible between work. Money position improves as delayed payments are recovered. You can get your own way with people if you turn on your charms and use your intelligence. Those who were very busy for the last few days will finally get to enjoy their own time. You might face a tough time in your marriage today."
+      "source_date": "Monday, September 28, 2026",
+      "text": "Friends will introduce you to somebody special who would have a remarkable influence on your thoughts. You will possess a considerable amount of money today, and with it there will be peace of mind. Forcing your opinion on children could annoy them. It is better to make them understand so that they can accept it. Keep a vigil in the business to save yourself from cheating. Natives of this zodiac sign need to understand themselves a bit better today. If you feel lost somewhere in the crowd, then take time for yourself and evaluate your personality. Health of your spouse may keep you worried."
     }
   ],
   "glance": {
     "good": [
       {
-        "t": "Have you been indulging in too many goodies, Taurus?",
-        "src": "Horoscope.com"
-      },
-      {
-        "t": "You probably should take it easy.",
-        "src": "Horoscope.com"
-      },
-      {
-        "t": "You'll have a better handle on where you're at mentally once Luna and Jupiter align this afternoon.",
+        "t": "Rethink routines that have grown boring or limiting, dearest Taurus.",
         "src": "Astrology.com"
       },
       {
-        "t": "You can get your own way with people if you turn on your charms and use your intelligence.",
-        "src": "AstroSage"
-      }
-    ],
-    "heads": [
+        "t": "Though a harsh square with Mars could lead to emotional overload, so remember to pace yourself as enthusiasm grows and pressure builds.",
+        "src": "Astrology.com"
+      },
       {
-        "t": "Money position improves as delayed payments are recovered.",
+        "t": "Past favors you performed may be returned in delightful ways, thanks to a sweet connection between the Libra Sun and Uranus.",
+        "src": "Astrology.com"
+      },
+      {
+        "t": "Friends will introduce you to somebody special who would have a remarkable influence on your thoughts.",
         "src": "AstroSage"
       },
       {
-        "t": "You might face a tough time in your marriage today.",
+        "t": "You will possess a considerable amount of money today, and with it there will be peace of mind.",
+        "src": "AstroSage"
+      },
+      {
+        "t": "It is better to make them understand so that they can accept it.",
+        "src": "AstroSage"
+      },
+      {
+        "t": "Natives of this zodiac sign need to understand themselves a bit better today.",
         "src": "AstroSage"
       }
     ],
+    "heads": [],
     "todo": [
       {
-        "t": "Take rest and try to relax as much as possible between work.",
+        "t": "Give yourself the gift of a true day off.",
+        "src": "Horoscope.com"
+      },
+      {
+        "t": "Do only what you want, whether it's watching movies or spending the afternoon soaking in the tub.",
+        "src": "Horoscope.com"
+      },
+      {
+        "t": "Take a break to reassess your strategies and avoid hitting walls while Pluto activates this afternoon.",
+        "src": "Astrology.com"
+      },
+      {
+        "t": "Keep a vigil in the business to save yourself from cheating.",
         "src": "AstroSage"
       }
     ]
@@ -73,30 +88,20 @@
     "career": {
       "readings": [
         {
-          "text": "Today, your success will be guaranteed as it may be achieved through minimal efforts. You should not go for the short-cuts. The materialistic world allures you today. Your focus will shift from your prime responsibility to unworthy things, feels Ganesha.",
-          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
-          "src": "GaneshaSpeaks"
-        },
-        {
-          "text": "Your thinking speeds up. You will find that what used to take you hours to process now only takes a few minutes. This mental alacrity will be with you for the next few weeks, so use this time to your advantage. You can accomplish a great deal.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
+          "text": "The momentum that has been building all week hits a climax on this day whether you are at work or not. Regardless of where you are, stress from work-related issues is still with you. Do your best to not let this stress ruin your weekend.",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
       "bits": [
         {
-          "t": "Take rest and try to relax as much as possible between work.",
+          "t": "Keep a vigil in the business to save yourself from cheating.",
           "src": "AstroSage"
         }
       ]
     },
     "money": {
       "readings": [
-        {
-          "text": "Today you should spend money on friends to make them feel happy and to make yourself feel happy. Give them a treat, throw a party. Ganesha promises that you will get big returns in the future.",
-          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
-          "src": "GaneshaSpeaks"
-        },
         {
           "text": "You have a time of communication in order to exchange ideas. This can be very conducive to starting a new career or advancing in the one you have. All that's required is to be true to yourself. Aspects affecting communication make you a little quirky and unique. You don't care what others think, which makes it so much easier for you to ask for what you're worth.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
@@ -105,7 +110,11 @@
       ],
       "bits": [
         {
-          "t": "Money position improves as delayed payments are recovered.",
+          "t": "Do only what you want, whether it's watching movies or spending the afternoon soaking in the tub.",
+          "src": "Horoscope.com"
+        },
+        {
+          "t": "You will possess a considerable amount of money today, and with it there will be peace of mind.",
           "src": "AstroSage"
         }
       ]
@@ -113,23 +122,22 @@
     "health": {
       "readings": [
         {
-          "text": "The day is going to be good for your health. However, you will not be in a mood to work for long hours at office, says Ganesha. You can well start doing regular exercise and increase your energy level and resistance power.",
-          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
-          "src": "GaneshaSpeaks"
-        },
-        {
-          "text": "It's never too late to go in the direction you want to. Today's planetary alignment lights up the path not taken, and even a steadfast person can be inspired to turn and make its way to a new opportunity. Indeed, your inner voice will tell you something under this transit and it is in your best interest to listen. Calming, relaxing exercise will help you. Yoga, Pilates, stretching, lifting weights - whatever you find grounds you. Hot baths are also recommended.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
+          "text": "You may feel a rush of exuberance under today's aspect, and the best way to act that out is physically! If you are accustomed to having an exercise schedule, this is a great time to augment it in some way. Increase your level of aerobic exercise: if you walk, start to run once or twice a week, or if you already run, introduce swimming as a cross-training activity. Take this moment to increase and diversify your physical outlets.",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
       "bits": [
         {
-          "t": "Is a second piece of chocolate cake more important than your energy and health?",
-          "src": "Horoscope.com"
+          "t": "You're reminded of how simple habits add up to impact your bigger picture, as the Aries Moon aspects Mercury, Chiron, and the nodes of fate.",
+          "src": "Astrology.com"
         },
         {
-          "t": "Take rest and try to relax as much as possible between work.",
+          "t": "The universe sends a rush of energy your way once Luna debuts in your sign.",
+          "src": "Astrology.com"
+        },
+        {
+          "t": "Health of your spouse may keep you worried.",
           "src": "AstroSage"
         }
       ]
@@ -143,9 +151,9 @@
     },
     {
       "src": "AstroSage",
-      "number": "6",
-      "color": "Transparent and Pink",
-      "remedy": "To strengthen your love relations,  present moon-related gift items (fabrics, pearls, sweets etc.) which have white or silver as base colours."
+      "number": "8",
+      "color": "Black and Blue",
+      "remedy": "Mix black sesame seeds and mustard grains in bathing water and bring enjoyment in your family life."
     }
   ],
   "ratings": {
@@ -153,7 +161,7 @@
     "items": [
       {
         "label": "Health",
-        "stars": 2
+        "stars": 5
       },
       {
         "label": "Wealth",
@@ -161,22 +169,22 @@
       },
       {
         "label": "Family",
-        "stars": 4
+        "stars": 1
       },
       {
         "label": "Occupation",
-        "stars": 3
+        "stars": 1
       },
       {
         "label": "Married Life",
-        "stars": 1
+        "stars": 3
       }
     ]
   },
   "extras": [
     {
       "title": "Bonus",
-      "text": "There is no shortage of energy inside you! Celebrate your nuclear-strength power.",
+      "text": "Luxury products offer no contentedness today. Be more choosy about your purchases.",
       "src": "Astrology.com"
     }
   ],
@@ -189,7 +197,7 @@
         "k24": 15268,
         "k22": 13995,
         "change22": 0,
-        "date": "27 September 2026",
+        "date": "28 September 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
       {
@@ -198,7 +206,7 @@
         "k22": 14000,
         "k24": null,
         "change22": null,
-        "date": "27 September 2026",
+        "date": "28 September 2026",
         "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
       },
       {
@@ -268,57 +276,41 @@
     "ganesha": {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": true,
+      "ok": false,
       "source_date": "27-09-2026",
-      "text": "Your romantic relationship will be working on an overdrive today, says Ganesha. You will discover answers to the finer aspects of your love life. Overall, you will have a refreshingly creative outlook all through the day. It is a favourable day for those who cherish unrequited love, says Ganesha.",
+      "text": null,
       "lucky": {
         "number": "2",
         "color": "Light Olive Green"
       },
-      "areas": {
-        "health": {
-          "text": "The day is going to be good for your health. However, you will not be in a mood to work for long hours at office, says Ganesha. You can well start doing regular exercise and increase your energy level and resistance power.",
-          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
-          "src": "GaneshaSpeaks"
-        },
-        "money": {
-          "text": "Today you should spend money on friends to make them feel happy and to make yourself feel happy. Give them a treat, throw a party. Ganesha promises that you will get big returns in the future.",
-          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
-          "src": "GaneshaSpeaks"
-        },
-        "career": {
-          "text": "Today, your success will be guaranteed as it may be achieved through minimal efforts. You should not go for the short-cuts. The materialistic world allures you today. Your focus will shift from your prime responsibility to unworthy things, feels Ganesha.",
-          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
-          "src": "GaneshaSpeaks"
-        }
-      }
+      "areas": {}
     },
     "hc_general": {
-      "text": "Have you been indulging in too many goodies, Taurus? You might feel under the weather because of all this abundance. You probably should take it easy. Think about reorganizing your priorities. Is a second piece of chocolate cake more important than your energy and health? Indulging can be important to your psyche, but don't forget about moderation - and don't forget that there are many other ways to indulge.",
-      "date": "Sep 27, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
+      "text": "You could be feeling quite lazy today, Taurus, and you definitely deserve to feel this way! You deserve some time off after all of the activities of the past week. Give yourself the gift of a true day off. Do only what you want, whether it's watching movies or spending the afternoon soaking in the tub. Total indulgence. Just relax and unwind.",
+      "date": "Sep 28, 2026",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
     },
     "hc_career": {
-      "text": "Your thinking speeds up. You will find that what used to take you hours to process now only takes a few minutes. This mental alacrity will be with you for the next few weeks, so use this time to your advantage. You can accomplish a great deal.",
-      "date": "Sep 27, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
+      "text": "The momentum that has been building all week hits a climax on this day whether you are at work or not. Regardless of where you are, stress from work-related issues is still with you. Do your best to not let this stress ruin your weekend.",
+      "date": "Sep 28, 2026",
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
     },
     "hc_wellness": {
-      "text": "It's never too late to go in the direction you want to. Today's planetary alignment lights up the path not taken, and even a steadfast person can be inspired to turn and make its way to a new opportunity. Indeed, your inner voice will tell you something under this transit and it is in your best interest to listen. Calming, relaxing exercise will help you. Yoga, Pilates, stretching, lifting weights - whatever you find grounds you. Hot baths are also recommended.",
-      "date": "Sep 27, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
+      "text": "You may feel a rush of exuberance under today's aspect, and the best way to act that out is physically! If you are accustomed to having an exercise schedule, this is a great time to augment it in some way. Increase your level of aerobic exercise: if you walk, start to run once or twice a week, or if you already run, introduce swimming as a cross-training activity. Take this moment to increase and diversify your physical outlets.",
+      "date": "Sep 28, 2026",
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
     },
     "hc_money": {
       "text": "You have a time of communication in order to exchange ideas. This can be very conducive to starting a new career or advancing in the one you have. All that's required is to be true to yourself. Aspects affecting communication make you a little quirky and unique. You don't care what others think, which makes it so much easier for you to ask for what you're worth.",
       "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2"
     },
     "ac": {
-      "text": "The Aries Moon and Saturn unite early this morning, dearest Taurus, unlocking new levels of the psyche. You'll require some alone time to process everything that rises to the surface, so don't hesitate to cancel plans and lay low. You'll have a better handle on where you're at mentally once Luna and Jupiter align this afternoon. Still, you will benefit from the comfort and feedback only your closest companions can provide. Host a cozy lunch to discuss your discoveries while nurturing important bonds. Battle impulses that might send you backward when Mars squares Chiron before entering Leo this evening.",
-      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
+      "text": "Rethink routines that have grown boring or limiting, dearest Taurus. You're reminded of how simple habits add up to impact your bigger picture, as the Aries Moon aspects Mercury, Chiron, and the nodes of fate. The universe sends a rush of energy your way once Luna debuts in your sign. Though a harsh square with Mars could lead to emotional overload, so remember to pace yourself as enthusiasm grows and pressure builds. Past favors you performed may be returned in delightful ways, thanks to a sweet connection between the Libra Sun and Uranus. Take a break to reassess your strategies and avoid hitting walls while Pluto activates this afternoon.",
+      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
       "extras": [
         {
           "title": "Bonus",
-          "text": "There is no shortage of energy inside you! Celebrate your nuclear-strength power.",
+          "text": "Luxury products offer no contentedness today. Be more choosy about your purchases.",
           "src": "Astrology.com"
         }
       ]
@@ -327,17 +319,17 @@
       "name": "AstroSage",
       "url": "https://www.astrosage.com/horoscope/daily-taurus-horoscope.asp",
       "ok": true,
-      "source_date": "Sunday, September 27, 2026",
-      "text": "Take rest and try to relax as much as possible between work. Money position improves as delayed payments are recovered. You can get your own way with people if you turn on your charms and use your intelligence. You need to be in your best behaviour- because it won't take much to upset your lover today. Those who were very busy for the last few days will finally get to enjoy their own time.  You might face a tough time in your marriage today. It is also important to say what you have in your mind or heart, as it deepens the love.",
+      "source_date": "Monday, September 28, 2026",
+      "text": "Friends will introduce you to somebody special who would have a remarkable influence on your thoughts. You will possess a considerable amount of money today, and with it there will be peace of mind.  Forcing your opinion on children could annoy them. It is better to make them understand so that they can accept it. If you feel that your beloved does not understand you, then take some time out and spend it with them. Talk openly and speak out your heart clearly.  Keep a vigil in the business to save yourself from cheating. Natives of this zodiac sign need to understand themselves a bit better today. If you feel lost somewhere in the crowd, then take time for yourself and evaluate your personality.  Health of your spouse may keep you worried.",
       "lucky": {
-        "number": "6",
-        "color": "Transparent and Pink",
-        "remedy": "To strengthen your love relations,  present moon-related gift items (fabrics, pearls, sweets etc.) which have white or silver as base colours."
+        "number": "8",
+        "color": "Black and Blue",
+        "remedy": "Mix black sesame seeds and mustard grains in bathing water and bring enjoyment in your family life."
       },
       "ratings": [
         {
           "label": "Health",
-          "stars": 2
+          "stars": 5
         },
         {
           "label": "Wealth",
@@ -345,292 +337,26 @@
         },
         {
           "label": "Family",
-          "stars": 4
+          "stars": 1
         },
         {
           "label": "Love",
-          "stars": 1
-        },
-        {
-          "label": "Occupation",
           "stars": 3
         },
         {
-          "label": "Married Life",
+          "label": "Occupation",
           "stars": 1
+        },
+        {
+          "label": "Married Life",
+          "stars": 3
         }
       ]
     },
-    "wx_home": {
-      "key": "home",
-      "name": "Home",
-      "area": "",
-      "label": "Cloudy",
-      "icon": "☁️",
-      "now": {
-        "iso": "2026-09-27T23:00",
-        "time": "11:00 PM",
-        "hour": 23.0,
-        "temp": 24,
-        "feels": 27,
-        "humidity": 75,
-        "label": "Clear sky",
-        "icon": "🌙"
-      },
-      "high": 32,
-      "low": 23,
-      "rain": 2,
-      "uv": 8.55,
-      "periods": [
-        {
-          "name": "Morning",
-          "from": 6,
-          "to": 12,
-          "icon": "🌤️",
-          "label": "Mostly clear",
-          "temp": 27,
-          "rain": 0
-        },
-        {
-          "name": "Afternoon",
-          "from": 12,
-          "to": 17,
-          "icon": "☁️",
-          "label": "Cloudy",
-          "temp": 31,
-          "rain": 2
-        },
-        {
-          "name": "Evening",
-          "from": 17,
-          "to": 21,
-          "icon": "⛅",
-          "label": "Partly cloudy",
-          "temp": 27,
-          "rain": 0
-        },
-        {
-          "name": "Night",
-          "from": 21,
-          "to": 30,
-          "icon": "🌙",
-          "label": "Clear sky",
-          "temp": 24,
-          "rain": 0
-        }
-      ],
-      "log": {
-        "Morning": {
-          "iso": "2026-09-27T10:45",
-          "time": "10:45 AM",
-          "temp": 29,
-          "feels": 34,
-          "humidity": 58,
-          "label": "Clear sky",
-          "icon": "☀️"
-        },
-        "Afternoon": {
-          "iso": "2026-09-27T12:30",
-          "time": "12:30 PM",
-          "temp": 31,
-          "feels": 34,
-          "humidity": 44,
-          "label": "Mostly clear",
-          "icon": "🌤️"
-        },
-        "Evening": {
-          "iso": "2026-09-27T18:30",
-          "time": "6:30 PM",
-          "temp": 28,
-          "feels": 30,
-          "humidity": 61,
-          "label": "Partly cloudy",
-          "icon": "⛅"
-        },
-        "Night": {
-          "iso": "2026-09-27T23:00",
-          "time": "11:00 PM",
-          "temp": 24,
-          "feels": 27,
-          "humidity": 75,
-          "label": "Clear sky",
-          "icon": "🌙"
-        }
-      }
-    },
-    "wxlog_home": {
-      "Morning": {
-        "iso": "2026-09-27T10:45",
-        "time": "10:45 AM",
-        "temp": 29,
-        "feels": 34,
-        "humidity": 58,
-        "label": "Clear sky",
-        "icon": "☀️"
-      },
-      "Afternoon": {
-        "iso": "2026-09-27T12:30",
-        "time": "12:30 PM",
-        "temp": 31,
-        "feels": 34,
-        "humidity": 44,
-        "label": "Mostly clear",
-        "icon": "🌤️"
-      },
-      "Evening": {
-        "iso": "2026-09-27T18:30",
-        "time": "6:30 PM",
-        "temp": 28,
-        "feels": 30,
-        "humidity": 61,
-        "label": "Partly cloudy",
-        "icon": "⛅"
-      },
-      "Night": {
-        "iso": "2026-09-27T23:00",
-        "time": "11:00 PM",
-        "temp": 24,
-        "feels": 27,
-        "humidity": 75,
-        "label": "Clear sky",
-        "icon": "🌙"
-      }
-    },
-    "wx_office": {
-      "key": "office",
-      "name": "Office",
-      "area": "",
-      "label": "Partly cloudy",
-      "icon": "⛅",
-      "now": {
-        "iso": "2026-09-27T23:00",
-        "time": "11:00 PM",
-        "hour": 23.0,
-        "temp": 24,
-        "feels": 27,
-        "humidity": 77,
-        "label": "Clear sky",
-        "icon": "🌙"
-      },
-      "high": 31,
-      "low": 22,
-      "rain": 2,
-      "uv": 8.55,
-      "periods": [
-        {
-          "name": "Morning",
-          "from": 6,
-          "to": 12,
-          "icon": "☀️",
-          "label": "Clear sky",
-          "temp": 26,
-          "rain": 0
-        },
-        {
-          "name": "Afternoon",
-          "from": 12,
-          "to": 17,
-          "icon": "⛅",
-          "label": "Partly cloudy",
-          "temp": 31,
-          "rain": 2
-        },
-        {
-          "name": "Evening",
-          "from": 17,
-          "to": 21,
-          "icon": "⛅",
-          "label": "Partly cloudy",
-          "temp": 27,
-          "rain": 0
-        },
-        {
-          "name": "Night",
-          "from": 21,
-          "to": 30,
-          "icon": "🌙",
-          "label": "Clear sky",
-          "temp": 23,
-          "rain": 0
-        }
-      ],
-      "log": {
-        "Morning": {
-          "iso": "2026-09-27T10:45",
-          "time": "10:45 AM",
-          "temp": 29,
-          "feels": 33,
-          "humidity": 60,
-          "label": "Clear sky",
-          "icon": "☀️"
-        },
-        "Afternoon": {
-          "iso": "2026-09-27T12:30",
-          "time": "12:30 PM",
-          "temp": 31,
-          "feels": 34,
-          "humidity": 49,
-          "label": "Clear sky",
-          "icon": "☀️"
-        },
-        "Evening": {
-          "iso": "2026-09-27T18:30",
-          "time": "6:30 PM",
-          "temp": 27,
-          "feels": 30,
-          "humidity": 67,
-          "label": "Partly cloudy",
-          "icon": "⛅"
-        },
-        "Night": {
-          "iso": "2026-09-27T23:00",
-          "time": "11:00 PM",
-          "temp": 24,
-          "feels": 27,
-          "humidity": 77,
-          "label": "Clear sky",
-          "icon": "🌙"
-        }
-      }
-    },
-    "wxlog_office": {
-      "Morning": {
-        "iso": "2026-09-27T10:45",
-        "time": "10:45 AM",
-        "temp": 29,
-        "feels": 33,
-        "humidity": 60,
-        "label": "Clear sky",
-        "icon": "☀️"
-      },
-      "Afternoon": {
-        "iso": "2026-09-27T12:30",
-        "time": "12:30 PM",
-        "temp": 31,
-        "feels": 34,
-        "humidity": 49,
-        "label": "Clear sky",
-        "icon": "☀️"
-      },
-      "Evening": {
-        "iso": "2026-09-27T18:30",
-        "time": "6:30 PM",
-        "temp": 27,
-        "feels": 30,
-        "humidity": 67,
-        "label": "Partly cloudy",
-        "icon": "⛅"
-      },
-      "Night": {
-        "iso": "2026-09-27T23:00",
-        "time": "11:00 PM",
-        "temp": 24,
-        "feels": 27,
-        "humidity": 77,
-        "label": "Clear sky",
-        "icon": "🌙"
-      }
-    },
+    "wx_home": null,
+    "wxlog_home": {},
+    "wx_office": null,
+    "wxlog_office": {},
     "gold": {
       "rows": {
         "GoodReturns": {
@@ -639,7 +365,7 @@
           "k24": 15268,
           "k22": 13995,
           "change22": 0,
-          "date": "27 September 2026",
+          "date": "28 September 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
         "PolicyBazaar": {
@@ -648,7 +374,7 @@
           "k22": 14000,
           "k24": 14700,
           "change22": null,
-          "date": "27 September 2026",
+          "date": "28 September 2026",
           "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
         },
         "IBJA": {
@@ -717,21 +443,21 @@
   },
   "panchang": {
     "city": "Hyderabad",
-    "date": "2026-09-27",
+    "date": "2026-09-28",
     "sunrise": "6:04 AM",
-    "sunset": "6:09 PM",
-    "sunrise_iso": "2026-09-27T06:04+05:30",
-    "sunset_iso": "2026-09-27T18:09+05:30",
-    "tithi": "Krishna Pratipada",
-    "tithi_until": "8:59 PM",
-    "tithi_next": "Krishna Dwitiya",
-    "nakshatra": "Uttara Bhadrapada",
-    "nak_until": "11:07 AM",
-    "nak_next": "Revati",
+    "sunset": "6:08 PM",
+    "sunrise_iso": "2026-09-28T06:04+05:30",
+    "sunset_iso": "2026-09-28T18:08+05:30",
+    "tithi": "Krishna Dwitiya",
+    "tithi_until": "7:15 PM",
+    "tithi_next": "Krishna Tritiya",
+    "nakshatra": "Revati",
+    "nak_until": "10:16 AM",
+    "nak_next": "Ashwini",
     "paksha": "Krishna Paksha · waning moon",
-    "rahu": "4:38 PM to 6:09 PM",
-    "rahu_start": "2026-09-27T16:38+05:30",
-    "rahu_end": "2026-09-27T18:09+05:30"
+    "rahu": "7:35 AM to 9:05 AM",
+    "rahu_start": "2026-09-28T07:35+05:30",
+    "rahu_end": "2026-09-28T09:05+05:30"
   },
   "festivals": {
     "today": [],
@@ -740,206 +466,8 @@
       "moon": false,
       "date": "2026-10-02",
       "label": "Fri, 2 Oct",
-      "days": 5
+      "days": 4
     }
   },
-  "weather": {
-    "date": "2026-09-27",
-    "places": [
-      {
-        "key": "home",
-        "name": "Home",
-        "area": "",
-        "label": "Cloudy",
-        "icon": "☁️",
-        "now": {
-          "iso": "2026-09-27T23:00",
-          "time": "11:00 PM",
-          "hour": 23.0,
-          "temp": 24,
-          "feels": 27,
-          "humidity": 75,
-          "label": "Clear sky",
-          "icon": "🌙"
-        },
-        "high": 32,
-        "low": 23,
-        "rain": 2,
-        "uv": 8.55,
-        "periods": [
-          {
-            "name": "Morning",
-            "from": 6,
-            "to": 12,
-            "icon": "🌤️",
-            "label": "Mostly clear",
-            "temp": 27,
-            "rain": 0
-          },
-          {
-            "name": "Afternoon",
-            "from": 12,
-            "to": 17,
-            "icon": "☁️",
-            "label": "Cloudy",
-            "temp": 31,
-            "rain": 2
-          },
-          {
-            "name": "Evening",
-            "from": 17,
-            "to": 21,
-            "icon": "⛅",
-            "label": "Partly cloudy",
-            "temp": 27,
-            "rain": 0
-          },
-          {
-            "name": "Night",
-            "from": 21,
-            "to": 30,
-            "icon": "🌙",
-            "label": "Clear sky",
-            "temp": 24,
-            "rain": 0
-          }
-        ],
-        "log": {
-          "Morning": {
-            "iso": "2026-09-27T10:45",
-            "time": "10:45 AM",
-            "temp": 29,
-            "feels": 34,
-            "humidity": 58,
-            "label": "Clear sky",
-            "icon": "☀️"
-          },
-          "Afternoon": {
-            "iso": "2026-09-27T12:30",
-            "time": "12:30 PM",
-            "temp": 31,
-            "feels": 34,
-            "humidity": 44,
-            "label": "Mostly clear",
-            "icon": "🌤️"
-          },
-          "Evening": {
-            "iso": "2026-09-27T18:30",
-            "time": "6:30 PM",
-            "temp": 28,
-            "feels": 30,
-            "humidity": 61,
-            "label": "Partly cloudy",
-            "icon": "⛅"
-          },
-          "Night": {
-            "iso": "2026-09-27T23:00",
-            "time": "11:00 PM",
-            "temp": 24,
-            "feels": 27,
-            "humidity": 75,
-            "label": "Clear sky",
-            "icon": "🌙"
-          }
-        }
-      },
-      {
-        "key": "office",
-        "name": "Office",
-        "area": "",
-        "label": "Partly cloudy",
-        "icon": "⛅",
-        "now": {
-          "iso": "2026-09-27T23:00",
-          "time": "11:00 PM",
-          "hour": 23.0,
-          "temp": 24,
-          "feels": 27,
-          "humidity": 77,
-          "label": "Clear sky",
-          "icon": "🌙"
-        },
-        "high": 31,
-        "low": 22,
-        "rain": 2,
-        "uv": 8.55,
-        "periods": [
-          {
-            "name": "Morning",
-            "from": 6,
-            "to": 12,
-            "icon": "☀️",
-            "label": "Clear sky",
-            "temp": 26,
-            "rain": 0
-          },
-          {
-            "name": "Afternoon",
-            "from": 12,
-            "to": 17,
-            "icon": "⛅",
-            "label": "Partly cloudy",
-            "temp": 31,
-            "rain": 2
-          },
-          {
-            "name": "Evening",
-            "from": 17,
-            "to": 21,
-            "icon": "⛅",
-            "label": "Partly cloudy",
-            "temp": 27,
-            "rain": 0
-          },
-          {
-            "name": "Night",
-            "from": 21,
-            "to": 30,
-            "icon": "🌙",
-            "label": "Clear sky",
-            "temp": 23,
-            "rain": 0
-          }
-        ],
-        "log": {
-          "Morning": {
-            "iso": "2026-09-27T10:45",
-            "time": "10:45 AM",
-            "temp": 29,
-            "feels": 33,
-            "humidity": 60,
-            "label": "Clear sky",
-            "icon": "☀️"
-          },
-          "Afternoon": {
-            "iso": "2026-09-27T12:30",
-            "time": "12:30 PM",
-            "temp": 31,
-            "feels": 34,
-            "humidity": 49,
-            "label": "Clear sky",
-            "icon": "☀️"
-          },
-          "Evening": {
-            "iso": "2026-09-27T18:30",
-            "time": "6:30 PM",
-            "temp": 27,
-            "feels": 30,
-            "humidity": 67,
-            "label": "Partly cloudy",
-            "icon": "⛅"
-          },
-          "Night": {
-            "iso": "2026-09-27T23:00",
-            "time": "11:00 PM",
-            "temp": 24,
-            "feels": 27,
-            "humidity": 77,
-            "label": "Clear sky",
-            "icon": "🌙"
-          }
-        }
-      }
-    ]
-  }
+  "weather": null
 }
