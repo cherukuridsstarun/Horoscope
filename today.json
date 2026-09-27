@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Sunday, 27 September 2026",
   "date_key": "2026-09-27",
-  "fetched_ist": "27 Sep 2026, 06:29 AM IST",
+  "fetched_ist": "27 Sep 2026, 10:52 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -368,18 +368,18 @@
       "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-09-27T06:15",
-        "time": "6:15 AM",
-        "hour": 6.25,
-        "temp": 22,
-        "feels": 24,
-        "humidity": 80,
+        "iso": "2026-09-27T10:45",
+        "time": "10:45 AM",
+        "hour": 10.75,
+        "temp": 29,
+        "feels": 34,
+        "humidity": 58,
         "label": "Clear sky",
         "icon": "☀️"
       },
       "high": 32,
       "low": 22,
-      "rain": 2,
+      "rain": 0,
       "uv": 8.55,
       "periods": [
         {
@@ -398,7 +398,7 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 31,
-          "rain": 2
+          "rain": 0
         },
         {
           "name": "Evening",
@@ -407,7 +407,7 @@
           "icon": "🌤️",
           "label": "Mostly clear",
           "temp": 27,
-          "rain": 2
+          "rain": 0
         },
         {
           "name": "Night",
@@ -421,11 +421,11 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-09-27T06:15",
-          "time": "6:15 AM",
-          "temp": 22,
-          "feels": 24,
-          "humidity": 80,
+          "iso": "2026-09-27T10:45",
+          "time": "10:45 AM",
+          "temp": 29,
+          "feels": 34,
+          "humidity": 58,
           "label": "Clear sky",
           "icon": "☀️"
         }
@@ -433,11 +433,11 @@
     },
     "wxlog_home": {
       "Morning": {
-        "iso": "2026-09-27T06:15",
-        "time": "6:15 AM",
-        "temp": 22,
-        "feels": 24,
-        "humidity": 80,
+        "iso": "2026-09-27T10:45",
+        "time": "10:45 AM",
+        "temp": 29,
+        "feels": 34,
+        "humidity": 58,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -449,18 +449,18 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-27T06:15",
-        "time": "6:15 AM",
-        "hour": 6.25,
-        "temp": 22,
-        "feels": 24,
-        "humidity": 82,
+        "iso": "2026-09-27T10:45",
+        "time": "10:45 AM",
+        "hour": 10.75,
+        "temp": 29,
+        "feels": 33,
+        "humidity": 60,
         "label": "Clear sky",
         "icon": "☀️"
       },
       "high": 31,
       "low": 22,
-      "rain": 2,
+      "rain": 0,
       "uv": 8.55,
       "periods": [
         {
@@ -479,7 +479,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 31,
-          "rain": 2
+          "rain": 0
         },
         {
           "name": "Evening",
@@ -488,7 +488,7 @@
           "icon": "⛅",
           "label": "Partly cloudy",
           "temp": 27,
-          "rain": 2
+          "rain": 0
         },
         {
           "name": "Night",
@@ -502,11 +502,11 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-09-27T06:15",
-          "time": "6:15 AM",
-          "temp": 22,
-          "feels": 24,
-          "humidity": 82,
+          "iso": "2026-09-27T10:45",
+          "time": "10:45 AM",
+          "temp": 29,
+          "feels": 33,
+          "humidity": 60,
           "label": "Clear sky",
           "icon": "☀️"
         }
@@ -514,11 +514,11 @@
     },
     "wxlog_office": {
       "Morning": {
-        "iso": "2026-09-27T06:15",
-        "time": "6:15 AM",
-        "temp": 22,
-        "feels": 24,
-        "humidity": 82,
+        "iso": "2026-09-27T10:45",
+        "time": "10:45 AM",
+        "temp": 29,
+        "feels": 33,
+        "humidity": 60,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -645,18 +645,18 @@
         "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-09-27T06:15",
-          "time": "6:15 AM",
-          "hour": 6.25,
-          "temp": 22,
-          "feels": 24,
-          "humidity": 80,
+          "iso": "2026-09-27T10:45",
+          "time": "10:45 AM",
+          "hour": 10.75,
+          "temp": 29,
+          "feels": 34,
+          "humidity": 58,
           "label": "Clear sky",
           "icon": "☀️"
         },
         "high": 32,
         "low": 22,
-        "rain": 2,
+        "rain": 0,
         "uv": 8.55,
         "periods": [
           {
@@ -675,7 +675,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 31,
-            "rain": 2
+            "rain": 0
           },
           {
             "name": "Evening",
@@ -684,7 +684,7 @@
             "icon": "🌤️",
             "label": "Mostly clear",
             "temp": 27,
-            "rain": 2
+            "rain": 0
           },
           {
             "name": "Night",
@@ -698,11 +698,11 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-09-27T06:15",
-            "time": "6:15 AM",
-            "temp": 22,
-            "feels": 24,
-            "humidity": 80,
+            "iso": "2026-09-27T10:45",
+            "time": "10:45 AM",
+            "temp": 29,
+            "feels": 34,
+            "humidity": 58,
             "label": "Clear sky",
             "icon": "☀️"
           }
@@ -715,18 +715,18 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-27T06:15",
-          "time": "6:15 AM",
-          "hour": 6.25,
-          "temp": 22,
-          "feels": 24,
-          "humidity": 82,
+          "iso": "2026-09-27T10:45",
+          "time": "10:45 AM",
+          "hour": 10.75,
+          "temp": 29,
+          "feels": 33,
+          "humidity": 60,
           "label": "Clear sky",
           "icon": "☀️"
         },
         "high": 31,
         "low": 22,
-        "rain": 2,
+        "rain": 0,
         "uv": 8.55,
         "periods": [
           {
@@ -745,7 +745,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 31,
-            "rain": 2
+            "rain": 0
           },
           {
             "name": "Evening",
@@ -754,7 +754,7 @@
             "icon": "⛅",
             "label": "Partly cloudy",
             "temp": 27,
-            "rain": 2
+            "rain": 0
           },
           {
             "name": "Night",
@@ -768,11 +768,11 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-09-27T06:15",
-            "time": "6:15 AM",
-            "temp": 22,
-            "feels": 24,
-            "humidity": 82,
+            "iso": "2026-09-27T10:45",
+            "time": "10:45 AM",
+            "temp": 29,
+            "feels": 33,
+            "humidity": 60,
             "label": "Clear sky",
             "icon": "☀️"
           }
