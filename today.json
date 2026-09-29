@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 29 September 2026",
   "date_key": "2026-09-29",
-  "fetched_ist": "29 Sep 2026, 07:51 AM IST",
+  "fetched_ist": "29 Sep 2026, 11:17 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -198,9 +198,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 15016,
-        "k22": 13764,
-        "change22": -1,
+        "k24": 14880,
+        "k22": 13640,
+        "change22": -125,
         "date": "29 September 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -271,8 +271,8 @@
       },
       {
         "date": "Sep 29, 2026",
-        "k22": 13764,
-        "k24": 15016
+        "k22": 13640,
+        "k24": 14880
       }
     ]
   },
@@ -380,14 +380,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-29T07:45",
-        "time": "7:45 AM",
-        "hour": 7.75,
-        "temp": 26,
-        "feels": 29,
-        "humidity": 66,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "iso": "2026-09-29T11:15",
+        "time": "11:15 AM",
+        "hour": 11.25,
+        "temp": 32,
+        "feels": 35,
+        "humidity": 40,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 33,
       "low": 23,
@@ -433,25 +433,25 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-09-29T07:45",
-          "time": "7:45 AM",
-          "temp": 26,
-          "feels": 29,
-          "humidity": 66,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "iso": "2026-09-29T11:15",
+          "time": "11:15 AM",
+          "temp": 32,
+          "feels": 35,
+          "humidity": 40,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
     "wxlog_home": {
       "Morning": {
-        "iso": "2026-09-29T07:45",
-        "time": "7:45 AM",
-        "temp": 26,
-        "feels": 29,
-        "humidity": 66,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "iso": "2026-09-29T11:15",
+        "time": "11:15 AM",
+        "temp": 32,
+        "feels": 35,
+        "humidity": 40,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "wx_office": {
@@ -461,19 +461,19 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-29T07:45",
-        "time": "7:45 AM",
-        "hour": 7.75,
-        "temp": 25,
-        "feels": 29,
-        "humidity": 75,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "iso": "2026-09-29T11:15",
+        "time": "11:15 AM",
+        "hour": 11.25,
+        "temp": 31,
+        "feels": 34,
+        "humidity": 44,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 32,
       "low": 22,
       "rain": 0,
-      "uv": 8.45,
+      "uv": 8.4,
       "periods": [
         {
           "name": "Morning",
@@ -514,25 +514,25 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-09-29T07:45",
-          "time": "7:45 AM",
-          "temp": 25,
-          "feels": 29,
-          "humidity": 75,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "iso": "2026-09-29T11:15",
+          "time": "11:15 AM",
+          "temp": 31,
+          "feels": 34,
+          "humidity": 44,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
     "wxlog_office": {
       "Morning": {
-        "iso": "2026-09-29T07:45",
-        "time": "7:45 AM",
-        "temp": 25,
-        "feels": 29,
-        "humidity": 75,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "iso": "2026-09-29T11:15",
+        "time": "11:15 AM",
+        "temp": 31,
+        "feels": 34,
+        "humidity": 44,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "gold": {
@@ -540,9 +540,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 15016,
-          "k22": 13764,
-          "change22": -1,
+          "k24": 14880,
+          "k22": 13640,
+          "change22": -125,
           "date": "29 September 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -613,8 +613,8 @@
         },
         {
           "date": "Sep 29, 2026",
-          "k22": 13764,
-          "k24": 15016
+          "k22": 13640,
+          "k24": 14880
         }
       ]
     }
@@ -657,14 +657,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-29T07:45",
-          "time": "7:45 AM",
-          "hour": 7.75,
-          "temp": 26,
-          "feels": 29,
-          "humidity": 66,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "iso": "2026-09-29T11:15",
+          "time": "11:15 AM",
+          "hour": 11.25,
+          "temp": 32,
+          "feels": 35,
+          "humidity": 40,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 33,
         "low": 23,
@@ -710,13 +710,13 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-09-29T07:45",
-            "time": "7:45 AM",
-            "temp": 26,
-            "feels": 29,
-            "humidity": 66,
-            "label": "Mostly clear",
-            "icon": "🌤️"
+            "iso": "2026-09-29T11:15",
+            "time": "11:15 AM",
+            "temp": 32,
+            "feels": 35,
+            "humidity": 40,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       },
@@ -727,19 +727,19 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-29T07:45",
-          "time": "7:45 AM",
-          "hour": 7.75,
-          "temp": 25,
-          "feels": 29,
-          "humidity": 75,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "iso": "2026-09-29T11:15",
+          "time": "11:15 AM",
+          "hour": 11.25,
+          "temp": 31,
+          "feels": 34,
+          "humidity": 44,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 32,
         "low": 22,
         "rain": 0,
-        "uv": 8.45,
+        "uv": 8.4,
         "periods": [
           {
             "name": "Morning",
@@ -780,13 +780,13 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-09-29T07:45",
-            "time": "7:45 AM",
-            "temp": 25,
-            "feels": 29,
-            "humidity": 75,
-            "label": "Mostly clear",
-            "icon": "🌤️"
+            "iso": "2026-09-29T11:15",
+            "time": "11:15 AM",
+            "temp": 31,
+            "feels": 34,
+            "humidity": 44,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       }
