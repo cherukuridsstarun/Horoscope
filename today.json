@@ -2,14 +2,14 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 30 September 2026",
   "date_key": "2026-09-30",
-  "fetched_ist": "30 Sep 2026, 12:00 AM IST",
+  "fetched_ist": "30 Sep 2026, 01:53 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "29-09-2026",
-      "text": null
+      "ok": true,
+      "source_date": "30-09-2026",
+      "text": "You are likely to find yourself at odds with people today, says Ganesha. Avoid confrontations and arguments as it may lead to serious fights. Legal issues may creep up unexpectedly. Relax and spend some time with yourself to return to your charm and cheer. Delay the inauguration of important activities for another day, recommends Ganesha."
     },
     {
       "name": "Horoscope.com",
@@ -36,6 +36,10 @@
   "glance": {
     "good": [
       {
+        "t": "Relax and spend some time with yourself to return to your charm and cheer.",
+        "src": "GaneshaSpeaks"
+      },
+      {
         "t": "Opportunities may certainly appear, although this is obviously not the time to decide.",
         "src": "Horoscope.com"
       },
@@ -46,6 +50,10 @@
     ],
     "heads": [
       {
+        "t": "Delay the inauguration of important activities for another day, recommends Ganesha.",
+        "src": "GaneshaSpeaks"
+      },
+      {
         "t": "Natives of this zodiac sign must refrain from speaking more than required at the workplace, as their image can get negatively affected.",
         "src": "AstroSage"
       },
@@ -55,6 +63,10 @@
       }
     ],
     "todo": [
+      {
+        "t": "Avoid confrontations and arguments as it may lead to serious fights.",
+        "src": "GaneshaSpeaks"
+      },
       {
         "t": "Take some time to really think and consider everything carefully.",
         "src": "Horoscope.com"
@@ -68,6 +80,11 @@
   "topics": {
     "career": {
       "readings": [
+        {
+          "text": "You will be having a positive day at the workplace. You will be able to accomplish your pending tasks and successfully achieve your targets. Post lunch, you will impress your boss and colleagues with your crazy, exciting yet result-oriented new ideas.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "The week starts out on a rather discombobulated note. Everyone around you seems to be a little off kilter thanks to the weekend before. Nothing seems to fit into place and people's actions are haphazard. Be prepared for just about anything.",
           "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
@@ -92,12 +109,21 @@
     "money": {
       "readings": [
         {
+          "text": "In the first half of the day, you shall be concerned about losses that you have incurred in the past. It will be difficult for you to stop thinking about your wrong financial decisions.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "You're a social butterfly capable of attracting just the right mix of business and pleasure into your life. Your pursuit of excellence in the mental arena is of primary importance.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
           "src": "Horoscope.com · this week"
         }
       ],
       "bits": [
+        {
+          "t": "Relax and spend some time with yourself to return to your charm and cheer.",
+          "src": "GaneshaSpeaks"
+        },
         {
           "t": "Businessmen of this sign are likely to incur losses today due to any old investment.",
           "src": "AstroSage"
@@ -106,6 +132,11 @@
     },
     "health": {
       "readings": [
+        {
+          "text": "The second half of the day will be much better than the first half. You may find yourself in a much better mood in the second half. You will be able to perform tasks with greater vigour and vitality in the second part.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "Continue looking for the positive in all that you do. When you give yourself positive reinforcement for healthful actions, you are more apt to take these steps in the future. When you go for a glass of water (particularly when you are not thirsty), try telling yourself why it is good for you with a soothing tone. Your inner voice plays a great role in how you treat yourself. Make it loud and reassuring.",
           "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
@@ -127,8 +158,8 @@
   "lucky": [
     {
       "src": "GaneshaSpeaks",
-      "number": "6",
-      "color": "Light Emerald Green"
+      "number": "8",
+      "color": "Deep Pastel Pink"
     },
     {
       "src": "AstroSage",
@@ -178,7 +209,7 @@
         "k24": 14880,
         "k22": 13640,
         "change22": -125,
-        "date": "29 September 2026",
+        "date": "30 September 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
       {
@@ -257,14 +288,30 @@
     "ganesha": {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "29-09-2026",
-      "text": null,
+      "ok": true,
+      "source_date": "30-09-2026",
+      "text": "You are likely to find yourself at odds with people today, says Ganesha. Avoid confrontations and arguments as it may lead to serious fights. Legal issues may creep up unexpectedly. Relax and spend some time with yourself to return to your charm and cheer. Delay the inauguration of important activities for another day, recommends Ganesha.",
       "lucky": {
-        "number": "6",
-        "color": "Light Emerald Green"
+        "number": "8",
+        "color": "Deep Pastel Pink"
       },
-      "areas": {}
+      "areas": {
+        "health": {
+          "text": "The second half of the day will be much better than the first half. You may find yourself in a much better mood in the second half. You will be able to perform tasks with greater vigour and vitality in the second part.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "money": {
+          "text": "In the first half of the day, you shall be concerned about losses that you have incurred in the past. It will be difficult for you to stop thinking about your wrong financial decisions.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "career": {
+          "text": "You will be having a positive day at the workplace. You will be able to accomplish your pending tasks and successfully achieve your targets. Post lunch, you will impress your boss and colleagues with your crazy, exciting yet result-oriented new ideas.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        }
+      }
     },
     "hc_general": {
       "text": "If you've asked your employer for a raise recently, Taurus, the astral energy indicates that you can expect to receive one soon. Your employer is greatly impressed with your efforts, and probably thinking that you might be setting your sights elsewhere. Opportunities may certainly appear, although this is obviously not the time to decide. Take some time to really think and consider everything carefully.",
@@ -334,9 +381,127 @@
         }
       ]
     },
-    "wx_home": null,
+    "wx_home": {
+      "key": "home",
+      "name": "Home",
+      "area": "",
+      "label": "Cloudy",
+      "icon": "☁️",
+      "now": {
+        "iso": "2026-09-30T01:45",
+        "time": "1:45 AM",
+        "hour": 1.75,
+        "temp": 25,
+        "feels": 28,
+        "humidity": 63,
+        "label": "Partly cloudy",
+        "icon": "⛅"
+      },
+      "high": 33,
+      "low": 24,
+      "rain": 0,
+      "uv": 8.45,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 29,
+          "rain": 0
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 33,
+          "rain": 0
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 30,
+          "rain": 0
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌙",
+          "label": "Mostly clear",
+          "temp": 26,
+          "rain": 0
+        }
+      ],
+      "log": {}
+    },
     "wxlog_home": {},
-    "wx_office": null,
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Cloudy",
+      "icon": "☁️",
+      "now": {
+        "iso": "2026-09-30T01:45",
+        "time": "1:45 AM",
+        "hour": 1.75,
+        "temp": 22,
+        "feels": 26,
+        "humidity": 86,
+        "label": "Partly cloudy",
+        "icon": "⛅"
+      },
+      "high": 33,
+      "low": 21,
+      "rain": 0,
+      "uv": 8.45,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 28,
+          "rain": 0
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 32,
+          "rain": 0
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 28,
+          "rain": 0
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "⛅",
+          "label": "Partly cloudy",
+          "temp": 24,
+          "rain": 0
+        }
+      ],
+      "log": {}
+    },
     "wxlog_office": {},
     "gold": {
       "rows": {
@@ -346,7 +511,7 @@
           "k24": 14880,
           "k22": 13640,
           "change22": -125,
-          "date": "29 September 2026",
+          "date": "30 September 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
         "PolicyBazaar": {
@@ -450,5 +615,129 @@
       "days": 2
     }
   },
-  "weather": null
+  "weather": {
+    "date": "2026-09-30",
+    "places": [
+      {
+        "key": "home",
+        "name": "Home",
+        "area": "",
+        "label": "Cloudy",
+        "icon": "☁️",
+        "now": {
+          "iso": "2026-09-30T01:45",
+          "time": "1:45 AM",
+          "hour": 1.75,
+          "temp": 25,
+          "feels": 28,
+          "humidity": 63,
+          "label": "Partly cloudy",
+          "icon": "⛅"
+        },
+        "high": 33,
+        "low": 24,
+        "rain": 0,
+        "uv": 8.45,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 29,
+            "rain": 0
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 33,
+            "rain": 0
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 30,
+            "rain": 0
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌙",
+            "label": "Mostly clear",
+            "temp": 26,
+            "rain": 0
+          }
+        ],
+        "log": {}
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
+        "label": "Cloudy",
+        "icon": "☁️",
+        "now": {
+          "iso": "2026-09-30T01:45",
+          "time": "1:45 AM",
+          "hour": 1.75,
+          "temp": 22,
+          "feels": 26,
+          "humidity": 86,
+          "label": "Partly cloudy",
+          "icon": "⛅"
+        },
+        "high": 33,
+        "low": 21,
+        "rain": 0,
+        "uv": 8.45,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 28,
+            "rain": 0
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 32,
+            "rain": 0
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 28,
+            "rain": 0
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "⛅",
+            "label": "Partly cloudy",
+            "temp": 24,
+            "rain": 0
+          }
+        ],
+        "log": {}
+      }
+    ]
+  }
 }
