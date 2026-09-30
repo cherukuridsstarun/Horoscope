@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 30 September 2026",
   "date_key": "2026-09-30",
-  "fetched_ist": "30 Sep 2026, 11:07 AM IST",
+  "fetched_ist": "30 Sep 2026, 01:05 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Sep 30, 2026",
       "text": "If you've asked your employer for a raise recently, Taurus, the astral energy indicates that you can expect to receive one soon. Your employer is greatly impressed with your efforts, and probably thinking that you might be setting your sights elsewhere. Opportunities may certainly appear, although this is obviously not the time to decide. Take some time to really think and consider everything carefully."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "September 30, 2026",
       "text": "Acknowledge and release emotional blockages as Luna aspects the nodes of fate before exiting your sign. The Gemini Moon aligns with Mars, Neptune, and Pluto as afternoon unfolds, expanding your capacity to act on your dreams. If you feel overwhelmed or unmotivated, inhale determination and exhale apprehension. Smart moves offer instant gratification once Luna and Uranus join forces later tonight. Steady your thoughts then take a leap of faith to harness these vibes."
@@ -87,7 +87,7 @@
         },
         {
           "text": "The week starts out on a rather discombobulated note. Everyone around you seems to be a little off kilter thanks to the weekend before. Nothing seems to fit into place and people's actions are haphazard. Be prepared for just about anything.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -139,7 +139,7 @@
         },
         {
           "text": "Continue looking for the positive in all that you do. When you give yourself positive reinforcement for healthful actions, you are more apt to take these steps in the future. When you go for a glass of water (particularly when you are not thirsty), try telling yourself why it is good for you with a soothing tone. Your inner voice plays a great role in how you treat yourself. Make it loud and reassuring.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -224,10 +224,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13526,
-        "k24": 14767,
+        "k22": 13592,
+        "k24": 14838,
         "change22": null,
-        "date": "29 September 2026",
+        "date": "30 September 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -316,17 +316,17 @@
     "hc_general": {
       "text": "If you've asked your employer for a raise recently, Taurus, the astral energy indicates that you can expect to receive one soon. Your employer is greatly impressed with your efforts, and probably thinking that you might be setting your sights elsewhere. Opportunities may certainly appear, although this is obviously not the time to decide. Take some time to really think and consider everything carefully.",
       "date": "Sep 30, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "The week starts out on a rather discombobulated note. Everyone around you seems to be a little off kilter thanks to the weekend before. Nothing seems to fit into place and people's actions are haphazard. Be prepared for just about anything.",
       "date": "Sep 30, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Continue looking for the positive in all that you do. When you give yourself positive reinforcement for healthful actions, you are more apt to take these steps in the future. When you go for a glass of water (particularly when you are not thirsty), try telling yourself why it is good for you with a soothing tone. Your inner voice plays a great role in how you treat yourself. Make it loud and reassuring.",
       "date": "Sep 30, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "For you, this week is about your relationship sector. You're a social butterfly capable of attracting just the right mix of business and pleasure into your life. Your pursuit of excellence in the mental arena is of primary importance. Your family, kids, and romantic partner make excellent diversions but shouldn't keep you from your focus.",
@@ -334,7 +334,7 @@
     },
     "ac": {
       "text": "Speak your love language loudly and proudly, dear Taurus. Mercury's debut in Scorpio marks an era of romance, poetry, and art, guiding you down harmonious paths throughout the coming weeks. Acknowledge and release emotional blockages as Luna aspects the nodes of fate before exiting your sign. The Gemini Moon aligns with Mars, Neptune, and Pluto as afternoon unfolds, expanding your capacity to act on your dreams. If you feel overwhelmed or unmotivated, inhale determination and exhale apprehension. Smart moves offer instant gratification once Luna and Uranus join forces later tonight. Steady your thoughts then take a leap of faith to harness these vibes.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -388,19 +388,19 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-30T11:00",
-        "time": "11:00 AM",
-        "hour": 11.0,
-        "temp": 32,
-        "feels": 34,
-        "humidity": 33,
-        "label": "Clear sky",
-        "icon": "☀️"
+        "iso": "2026-09-30T13:00",
+        "time": "1:00 PM",
+        "hour": 13.0,
+        "temp": 33,
+        "feels": 35,
+        "humidity": 35,
+        "label": "Mostly clear",
+        "icon": "🌤️"
       },
       "high": 33,
       "low": 24,
       "rain": 0,
-      "uv": 8.4,
+      "uv": 8.45,
       "periods": [
         {
           "name": "Morning",
@@ -408,24 +408,24 @@
           "to": 12,
           "icon": "🌤️",
           "label": "Mostly clear",
-          "temp": 29,
+          "temp": 28,
           "rain": 0
         },
         {
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌤️",
-          "label": "Mostly clear",
-          "temp": 33,
+          "icon": "⛅",
+          "label": "Partly cloudy",
+          "temp": 32,
           "rain": 0
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 29,
           "rain": 0
         },
@@ -448,6 +448,15 @@
           "humidity": 33,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-09-30T13:00",
+          "time": "1:00 PM",
+          "temp": 33,
+          "feels": 35,
+          "humidity": 35,
+          "label": "Mostly clear",
+          "icon": "🌤️"
         }
       }
     },
@@ -460,6 +469,15 @@
         "humidity": 33,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-09-30T13:00",
+        "time": "1:00 PM",
+        "temp": 33,
+        "feels": 35,
+        "humidity": 35,
+        "label": "Mostly clear",
+        "icon": "🌤️"
       }
     },
     "wx_office": {
@@ -469,12 +487,12 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-30T11:00",
-        "time": "11:00 AM",
-        "hour": 11.0,
-        "temp": 31,
-        "feels": 34,
-        "humidity": 39,
+        "iso": "2026-09-30T13:00",
+        "time": "1:00 PM",
+        "hour": 13.0,
+        "temp": 32,
+        "feels": 35,
+        "humidity": 37,
         "label": "Clear sky",
         "icon": "☀️"
       },
@@ -487,9 +505,9 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "☁️",
-          "label": "Cloudy",
-          "temp": 27,
+          "icon": "🌤️",
+          "label": "Mostly clear",
+          "temp": 28,
           "rain": 0
         },
         {
@@ -505,8 +523,8 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 28,
           "rain": 0
         },
@@ -515,7 +533,7 @@
           "from": 21,
           "to": 30,
           "icon": "🌙",
-          "label": "Clear sky",
+          "label": "Mostly clear",
           "temp": 24,
           "rain": 0
         }
@@ -529,6 +547,15 @@
           "humidity": 39,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-09-30T13:00",
+          "time": "1:00 PM",
+          "temp": 32,
+          "feels": 35,
+          "humidity": 37,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -539,6 +566,15 @@
         "temp": 31,
         "feels": 34,
         "humidity": 39,
+        "label": "Clear sky",
+        "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-09-30T13:00",
+        "time": "1:00 PM",
+        "temp": 32,
+        "feels": 35,
+        "humidity": 37,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -566,10 +602,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13526,
-          "k24": 14767,
+          "k22": 13592,
+          "k24": 14838,
           "change22": null,
-          "date": "29 September 2026",
+          "date": "30 September 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -665,19 +701,19 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-30T11:00",
-          "time": "11:00 AM",
-          "hour": 11.0,
-          "temp": 32,
-          "feels": 34,
-          "humidity": 33,
-          "label": "Clear sky",
-          "icon": "☀️"
+          "iso": "2026-09-30T13:00",
+          "time": "1:00 PM",
+          "hour": 13.0,
+          "temp": 33,
+          "feels": 35,
+          "humidity": 35,
+          "label": "Mostly clear",
+          "icon": "🌤️"
         },
         "high": 33,
         "low": 24,
         "rain": 0,
-        "uv": 8.4,
+        "uv": 8.45,
         "periods": [
           {
             "name": "Morning",
@@ -685,24 +721,24 @@
             "to": 12,
             "icon": "🌤️",
             "label": "Mostly clear",
-            "temp": 29,
+            "temp": 28,
             "rain": 0
           },
           {
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌤️",
-            "label": "Mostly clear",
-            "temp": 33,
+            "icon": "⛅",
+            "label": "Partly cloudy",
+            "temp": 32,
             "rain": 0
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 29,
             "rain": 0
           },
@@ -725,6 +761,15 @@
             "humidity": 33,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-09-30T13:00",
+            "time": "1:00 PM",
+            "temp": 33,
+            "feels": 35,
+            "humidity": 35,
+            "label": "Mostly clear",
+            "icon": "🌤️"
           }
         }
       },
@@ -735,12 +780,12 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-30T11:00",
-          "time": "11:00 AM",
-          "hour": 11.0,
-          "temp": 31,
-          "feels": 34,
-          "humidity": 39,
+          "iso": "2026-09-30T13:00",
+          "time": "1:00 PM",
+          "hour": 13.0,
+          "temp": 32,
+          "feels": 35,
+          "humidity": 37,
           "label": "Clear sky",
           "icon": "☀️"
         },
@@ -753,9 +798,9 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "☁️",
-            "label": "Cloudy",
-            "temp": 27,
+            "icon": "🌤️",
+            "label": "Mostly clear",
+            "temp": 28,
             "rain": 0
           },
           {
@@ -771,8 +816,8 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 28,
             "rain": 0
           },
@@ -781,7 +826,7 @@
             "from": 21,
             "to": 30,
             "icon": "🌙",
-            "label": "Clear sky",
+            "label": "Mostly clear",
             "temp": 24,
             "rain": 0
           }
@@ -793,6 +838,15 @@
             "temp": 31,
             "feels": 34,
             "humidity": 39,
+            "label": "Clear sky",
+            "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-09-30T13:00",
+            "time": "1:00 PM",
+            "temp": 32,
+            "feels": 35,
+            "humidity": 37,
             "label": "Clear sky",
             "icon": "☀️"
           }
