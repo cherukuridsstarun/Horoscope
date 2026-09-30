@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 30 September 2026",
   "date_key": "2026-09-30",
-  "fetched_ist": "30 Sep 2026, 07:11 PM IST",
+  "fetched_ist": "30 Sep 2026, 11:50 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -215,7 +215,7 @@
       {
         "src": "PolicyBazaar",
         "label": "Hyderabad retail · 22K only",
-        "k22": 13640,
+        "k22": 13710,
         "k24": null,
         "change22": null,
         "date": "30 September 2026",
@@ -388,13 +388,13 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-30T19:00",
-        "time": "7:00 PM",
-        "hour": 19.0,
-        "temp": 29,
-        "feels": 31,
-        "humidity": 53,
-        "label": "Mostly clear",
+        "iso": "2026-09-30T23:45",
+        "time": "11:45 PM",
+        "hour": 23.75,
+        "temp": 26,
+        "feels": 29,
+        "humidity": 71,
+        "label": "Clear sky",
         "icon": "🌙"
       },
       "high": 32,
@@ -466,6 +466,15 @@
           "humidity": 53,
           "label": "Mostly clear",
           "icon": "🌙"
+        },
+        "Night": {
+          "iso": "2026-09-30T23:45",
+          "time": "11:45 PM",
+          "temp": 26,
+          "feels": 29,
+          "humidity": 71,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -496,6 +505,15 @@
         "humidity": 53,
         "label": "Mostly clear",
         "icon": "🌙"
+      },
+      "Night": {
+        "iso": "2026-09-30T23:45",
+        "time": "11:45 PM",
+        "temp": 26,
+        "feels": 29,
+        "humidity": 71,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "wx_office": {
@@ -505,13 +523,13 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-09-30T19:00",
-        "time": "7:00 PM",
-        "hour": 19.0,
-        "temp": 28,
-        "feels": 30,
-        "humidity": 58,
-        "label": "Mostly clear",
+        "iso": "2026-09-30T23:45",
+        "time": "11:45 PM",
+        "hour": 23.75,
+        "temp": 25,
+        "feels": 28,
+        "humidity": 74,
+        "label": "Clear sky",
         "icon": "🌙"
       },
       "high": 32,
@@ -583,6 +601,15 @@
           "humidity": 58,
           "label": "Mostly clear",
           "icon": "🌙"
+        },
+        "Night": {
+          "iso": "2026-09-30T23:45",
+          "time": "11:45 PM",
+          "temp": 25,
+          "feels": 28,
+          "humidity": 74,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -613,6 +640,15 @@
         "humidity": 58,
         "label": "Mostly clear",
         "icon": "🌙"
+      },
+      "Night": {
+        "iso": "2026-09-30T23:45",
+        "time": "11:45 PM",
+        "temp": 25,
+        "feels": 28,
+        "humidity": 74,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "gold": {
@@ -629,8 +665,8 @@
         "PolicyBazaar": {
           "src": "PolicyBazaar",
           "label": "Hyderabad retail",
-          "k22": 13640,
-          "k24": 14322,
+          "k22": 13710,
+          "k24": 14396,
           "change22": null,
           "date": "30 September 2026",
           "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
@@ -737,13 +773,13 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-30T19:00",
-          "time": "7:00 PM",
-          "hour": 19.0,
-          "temp": 29,
-          "feels": 31,
-          "humidity": 53,
-          "label": "Mostly clear",
+          "iso": "2026-09-30T23:45",
+          "time": "11:45 PM",
+          "hour": 23.75,
+          "temp": 26,
+          "feels": 29,
+          "humidity": 71,
+          "label": "Clear sky",
           "icon": "🌙"
         },
         "high": 32,
@@ -815,6 +851,15 @@
             "humidity": 53,
             "label": "Mostly clear",
             "icon": "🌙"
+          },
+          "Night": {
+            "iso": "2026-09-30T23:45",
+            "time": "11:45 PM",
+            "temp": 26,
+            "feels": 29,
+            "humidity": 71,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       },
@@ -825,13 +870,13 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-09-30T19:00",
-          "time": "7:00 PM",
-          "hour": 19.0,
-          "temp": 28,
-          "feels": 30,
-          "humidity": 58,
-          "label": "Mostly clear",
+          "iso": "2026-09-30T23:45",
+          "time": "11:45 PM",
+          "hour": 23.75,
+          "temp": 25,
+          "feels": 28,
+          "humidity": 74,
+          "label": "Clear sky",
           "icon": "🌙"
         },
         "high": 32,
@@ -902,6 +947,15 @@
             "feels": 30,
             "humidity": 58,
             "label": "Mostly clear",
+            "icon": "🌙"
+          },
+          "Night": {
+            "iso": "2026-09-30T23:45",
+            "time": "11:45 PM",
+            "temp": 25,
+            "feels": 28,
+            "humidity": 74,
+            "label": "Clear sky",
             "icon": "🌙"
           }
         }
