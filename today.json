@@ -2,14 +2,14 @@
   "sign": "Taurus",
   "date_ist": "Friday, 02 October 2026",
   "date_key": "2026-10-02",
-  "fetched_ist": "02 Oct 2026, 12:14 AM IST",
+  "fetched_ist": "02 Oct 2026, 02:14 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "01-10-2026",
-      "text": null
+      "ok": true,
+      "source_date": "02-10-2026",
+      "text": "Never dig a well when your house is on fire, says Ganesha. You will realise the importance of saving money for future needs today. You will feel uneasy in your routine and may feel the urge to get away from the chaos of things."
     },
     {
       "name": "Horoscope.com",
@@ -97,6 +97,11 @@
     "career": {
       "readings": [
         {
+          "text": "Today your pragmatic approach will make your presentation skill a more appealing and confident. Your communication skills will help you do well in meetings. Ganesha feels these meetings might change your perception of other people’s abilities. You will earn appreciation for your concern.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "You are getting anxious for something. You are waiting for your big break to come. Unfortunately, however, this is not the time for it. You are almost there, but not quite. Just be a bit more patient and everything will work out fine.",
           "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
@@ -112,12 +117,21 @@
     "money": {
       "readings": [
         {
+          "text": "Ganesha feels that you will be practical while purchasing things. You will be able to negotiate well if you have to buy something. This is the right time to take a call on the purchase of expensive items.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "You're a social butterfly capable of attracting just the right mix of business and pleasure into your life. Your pursuit of excellence in the mental arena is of primary importance.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
           "src": "Horoscope.com · this week"
         }
       ],
       "bits": [
+        {
+          "t": "You will realise the importance of saving money for future needs today.",
+          "src": "GaneshaSpeaks"
+        },
         {
           "t": "Money position improves as delayed payments are recovered.",
           "src": "AstroSage"
@@ -126,6 +140,11 @@
     },
     "health": {
       "readings": [
+        {
+          "text": "You will need to stay fit and fine by keeping your mood swings in control. You are suggested to take vitamins and necessary food to maintain good health. The day is going to be stressful enough for you to handle it.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "Wishing you were at a different place with your health does little, while taking some action does a lot. If you find yourself daydreaming about better health and fitness, try to bring yourself to focus on a goal of some kind. You can write down your goal and from there build a realistic plan to get there. Actions such as these create momentum that can propel you forward. When you find yourself wishing on a star, remember that you are the real star!",
           "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
@@ -148,7 +167,7 @@
     {
       "src": "GaneshaSpeaks",
       "number": "8",
-      "color": "Deep Olive Green"
+      "color": "Deep Pastel Pink"
     },
     {
       "src": "AstroSage",
@@ -198,7 +217,7 @@
         "k24": 14924,
         "k22": 13680,
         "change22": -30,
-        "date": "1 October 2026",
+        "date": "2 October 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
       {
@@ -277,14 +296,30 @@
     "ganesha": {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "01-10-2026",
-      "text": null,
+      "ok": true,
+      "source_date": "02-10-2026",
+      "text": "Never dig a well when your house is on fire, says Ganesha. You will realise the importance of saving money for future needs today. You will feel uneasy in your routine and may feel the urge to get away from the chaos of things. Evening might see you spend a small fortune on loved ones and leisure, predicts Ganesha.",
       "lucky": {
         "number": "8",
-        "color": "Deep Olive Green"
+        "color": "Deep Pastel Pink"
       },
-      "areas": {}
+      "areas": {
+        "health": {
+          "text": "You will need to stay fit and fine by keeping your mood swings in control. You are suggested to take vitamins and necessary food to maintain good health. The day is going to be stressful enough for you to handle it.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "money": {
+          "text": "Ganesha feels that you will be practical while purchasing things. You will be able to negotiate well if you have to buy something. This is the right time to take a call on the purchase of expensive items.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "career": {
+          "text": "Today your pragmatic approach will make your presentation skill a more appealing and confident. Your communication skills will help you do well in meetings. Ganesha feels these meetings might change your perception of other people’s abilities. You will earn appreciation for your concern.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        }
+      }
     },
     "hc_general": {
       "text": "Keep careful track of things today, Taurus, for you will find that the smallest detail will make the biggest difference. Don't hesitate to go with your hunches when something simply doesn't sound right. Stay focused and try not to get caught off guard when emotional issues come out of nowhere and disturb your thoughts. Trust yourself regardless of what's going on around you.",
@@ -354,9 +389,127 @@
         }
       ]
     },
-    "wx_home": null,
+    "wx_home": {
+      "key": "home",
+      "name": "Home",
+      "area": "",
+      "label": "Light drizzle",
+      "icon": "🌦️",
+      "now": {
+        "iso": "2026-10-02T02:00",
+        "time": "2:00 AM",
+        "hour": 2.0,
+        "temp": 25,
+        "feels": 28,
+        "humidity": 65,
+        "label": "Mostly clear",
+        "icon": "🌙"
+      },
+      "high": 33,
+      "low": 24,
+      "rain": 8,
+      "uv": 8.3,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 28,
+          "rain": 0
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 32,
+          "rain": 8
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 29,
+          "rain": 2
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 26,
+          "rain": 0
+        }
+      ],
+      "log": {}
+    },
     "wxlog_home": {},
-    "wx_office": null,
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Cloudy",
+      "icon": "☁️",
+      "now": {
+        "iso": "2026-10-02T02:00",
+        "time": "2:00 AM",
+        "hour": 2.0,
+        "temp": 24,
+        "feels": 27,
+        "humidity": 71,
+        "label": "Clear sky",
+        "icon": "🌙"
+      },
+      "high": 32,
+      "low": 23,
+      "rain": 8,
+      "uv": 8.3,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 28,
+          "rain": 0
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 32,
+          "rain": 8
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 28,
+          "rain": 2
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 25,
+          "rain": 0
+        }
+      ],
+      "log": {}
+    },
     "wxlog_office": {},
     "gold": {
       "rows": {
@@ -366,7 +519,7 @@
           "k24": 14924,
           "k22": 13680,
           "change22": -30,
-          "date": "1 October 2026",
+          "date": "2 October 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
         "PolicyBazaar": {
@@ -476,5 +629,129 @@
       "days": 9
     }
   },
-  "weather": null
+  "weather": {
+    "date": "2026-10-02",
+    "places": [
+      {
+        "key": "home",
+        "name": "Home",
+        "area": "",
+        "label": "Light drizzle",
+        "icon": "🌦️",
+        "now": {
+          "iso": "2026-10-02T02:00",
+          "time": "2:00 AM",
+          "hour": 2.0,
+          "temp": 25,
+          "feels": 28,
+          "humidity": 65,
+          "label": "Mostly clear",
+          "icon": "🌙"
+        },
+        "high": 33,
+        "low": 24,
+        "rain": 8,
+        "uv": 8.3,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 28,
+            "rain": 0
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 32,
+            "rain": 8
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 29,
+            "rain": 2
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 26,
+            "rain": 0
+          }
+        ],
+        "log": {}
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
+        "label": "Cloudy",
+        "icon": "☁️",
+        "now": {
+          "iso": "2026-10-02T02:00",
+          "time": "2:00 AM",
+          "hour": 2.0,
+          "temp": 24,
+          "feels": 27,
+          "humidity": 71,
+          "label": "Clear sky",
+          "icon": "🌙"
+        },
+        "high": 32,
+        "low": 23,
+        "rain": 8,
+        "uv": 8.3,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 28,
+            "rain": 0
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 32,
+            "rain": 8
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 28,
+            "rain": 2
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 25,
+            "rain": 0
+          }
+        ],
+        "log": {}
+      }
+    ]
+  }
 }
