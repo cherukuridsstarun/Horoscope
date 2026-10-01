@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 01 October 2026",
   "date_key": "2026-10-01",
-  "fetched_ist": "01 Oct 2026, 01:24 PM IST",
+  "fetched_ist": "01 Oct 2026, 07:57 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -206,8 +206,8 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13620,
-        "k24": 14869,
+        "k22": 13569,
+        "k24": 14814,
         "change22": null,
         "date": "1 October 2026",
         "url": "https://ibjarates.com/"
@@ -367,17 +367,17 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Light drizzle",
-      "icon": "🌦️",
+      "label": "Cloudy",
+      "icon": "☁️",
       "now": {
-        "iso": "2026-10-01T13:15",
-        "time": "1:15 PM",
-        "hour": 13.25,
-        "temp": 33,
-        "feels": 36,
-        "humidity": 35,
-        "label": "Cloudy",
-        "icon": "☁️"
+        "iso": "2026-10-01T19:45",
+        "time": "7:45 PM",
+        "hour": 19.75,
+        "temp": 28,
+        "feels": 30,
+        "humidity": 56,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       },
       "high": 33,
       "low": 24,
@@ -397,8 +397,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌦️",
-          "label": "Light drizzle",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 33,
           "rain": 2
         },
@@ -406,8 +406,8 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 29,
           "rain": 0
         },
@@ -415,8 +415,8 @@
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "🌙",
+          "label": "Mostly clear",
           "temp": 26,
           "rain": 0
         }
@@ -439,6 +439,15 @@
           "humidity": 35,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Evening": {
+          "iso": "2026-10-01T19:45",
+          "time": "7:45 PM",
+          "temp": 28,
+          "feels": 30,
+          "humidity": 56,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         }
       }
     },
@@ -460,28 +469,37 @@
         "humidity": 35,
         "label": "Cloudy",
         "icon": "☁️"
+      },
+      "Evening": {
+        "iso": "2026-10-01T19:45",
+        "time": "7:45 PM",
+        "temp": 28,
+        "feels": 30,
+        "humidity": 56,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       }
     },
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Light drizzle",
-      "icon": "🌦️",
+      "label": "Cloudy",
+      "icon": "☁️",
       "now": {
-        "iso": "2026-10-01T13:15",
-        "time": "1:15 PM",
-        "hour": 13.25,
-        "temp": 33,
-        "feels": 35,
-        "humidity": 38,
+        "iso": "2026-10-01T19:45",
+        "time": "7:45 PM",
+        "hour": 19.75,
+        "temp": 28,
+        "feels": 30,
+        "humidity": 59,
         "label": "Partly cloudy",
         "icon": "⛅"
       },
       "high": 33,
       "low": 23,
       "rain": 2,
-      "uv": 8.35,
+      "uv": 8.3,
       "periods": [
         {
           "name": "Morning",
@@ -496,8 +514,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌦️",
-          "label": "Light drizzle",
+          "icon": "⛅",
+          "label": "Partly cloudy",
           "temp": 32,
           "rain": 2
         },
@@ -505,8 +523,8 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "⛅",
+          "label": "Partly cloudy",
           "temp": 28,
           "rain": 0
         },
@@ -514,8 +532,8 @@
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "🌙",
+          "label": "Mostly clear",
           "temp": 25,
           "rain": 0
         }
@@ -538,6 +556,15 @@
           "humidity": 38,
           "label": "Partly cloudy",
           "icon": "⛅"
+        },
+        "Evening": {
+          "iso": "2026-10-01T19:45",
+          "time": "7:45 PM",
+          "temp": 28,
+          "feels": 30,
+          "humidity": 59,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         }
       }
     },
@@ -557,6 +584,15 @@
         "temp": 33,
         "feels": 35,
         "humidity": 38,
+        "label": "Partly cloudy",
+        "icon": "⛅"
+      },
+      "Evening": {
+        "iso": "2026-10-01T19:45",
+        "time": "7:45 PM",
+        "temp": 28,
+        "feels": 30,
+        "humidity": 59,
         "label": "Partly cloudy",
         "icon": "⛅"
       }
@@ -584,8 +620,8 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13620,
-          "k24": 14869,
+          "k22": 13569,
+          "k24": 14814,
           "change22": null,
           "date": "1 October 2026",
           "url": "https://ibjarates.com/"
@@ -680,17 +716,17 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Light drizzle",
-        "icon": "🌦️",
+        "label": "Cloudy",
+        "icon": "☁️",
         "now": {
-          "iso": "2026-10-01T13:15",
-          "time": "1:15 PM",
-          "hour": 13.25,
-          "temp": 33,
-          "feels": 36,
-          "humidity": 35,
-          "label": "Cloudy",
-          "icon": "☁️"
+          "iso": "2026-10-01T19:45",
+          "time": "7:45 PM",
+          "hour": 19.75,
+          "temp": 28,
+          "feels": 30,
+          "humidity": 56,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         },
         "high": 33,
         "low": 24,
@@ -710,8 +746,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌦️",
-            "label": "Light drizzle",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 33,
             "rain": 2
           },
@@ -719,8 +755,8 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 29,
             "rain": 0
           },
@@ -728,8 +764,8 @@
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "🌙",
+            "label": "Mostly clear",
             "temp": 26,
             "rain": 0
           }
@@ -752,6 +788,15 @@
             "humidity": 35,
             "label": "Cloudy",
             "icon": "☁️"
+          },
+          "Evening": {
+            "iso": "2026-10-01T19:45",
+            "time": "7:45 PM",
+            "temp": 28,
+            "feels": 30,
+            "humidity": 56,
+            "label": "Partly cloudy",
+            "icon": "⛅"
           }
         }
       },
@@ -759,22 +804,22 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Light drizzle",
-        "icon": "🌦️",
+        "label": "Cloudy",
+        "icon": "☁️",
         "now": {
-          "iso": "2026-10-01T13:15",
-          "time": "1:15 PM",
-          "hour": 13.25,
-          "temp": 33,
-          "feels": 35,
-          "humidity": 38,
+          "iso": "2026-10-01T19:45",
+          "time": "7:45 PM",
+          "hour": 19.75,
+          "temp": 28,
+          "feels": 30,
+          "humidity": 59,
           "label": "Partly cloudy",
           "icon": "⛅"
         },
         "high": 33,
         "low": 23,
         "rain": 2,
-        "uv": 8.35,
+        "uv": 8.3,
         "periods": [
           {
             "name": "Morning",
@@ -789,8 +834,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌦️",
-            "label": "Light drizzle",
+            "icon": "⛅",
+            "label": "Partly cloudy",
             "temp": 32,
             "rain": 2
           },
@@ -798,8 +843,8 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "⛅",
+            "label": "Partly cloudy",
             "temp": 28,
             "rain": 0
           },
@@ -807,8 +852,8 @@
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "🌙",
+            "label": "Mostly clear",
             "temp": 25,
             "rain": 0
           }
@@ -829,6 +874,15 @@
             "temp": 33,
             "feels": 35,
             "humidity": 38,
+            "label": "Partly cloudy",
+            "icon": "⛅"
+          },
+          "Evening": {
+            "iso": "2026-10-01T19:45",
+            "time": "7:45 PM",
+            "temp": 28,
+            "feels": 30,
+            "humidity": 59,
             "label": "Partly cloudy",
             "icon": "⛅"
           }
