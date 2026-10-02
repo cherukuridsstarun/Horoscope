@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 02 October 2026",
   "date_key": "2026-10-02",
-  "fetched_ist": "02 Oct 2026, 11:13 AM IST",
+  "fetched_ist": "02 Oct 2026, 01:08 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 2, 2026",
       "text": "Keep careful track of things today, Taurus, for you will find that the smallest detail will make the biggest difference. Don't hesitate to go with your hunches when something simply doesn't sound right. Stay focused and try not to get caught off guard when emotional issues come out of nowhere and disturb your thoughts. Trust yourself regardless of what's going on around you."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 2, 2026",
       "text": "Though you'll be anxious to know where you stand with others, a harsh t-square between Mercury, Mars, and Pluto doesn't bode well for serious discussions. Channel your emotions with a creative outlet or exercise routine while Mars and Neptune align. You'll gain some headway when the Gemini Moon aspects the nodes of fate and Chiron before entering Cancer this afternoon. Creating a safe and nurturing environment will make it easier to extract the information you seek. You'll be in the mood to escape when Luna aligns with Neptune and Mercury this evening."
@@ -103,7 +103,7 @@
         },
         {
           "text": "You are getting anxious for something. You are waiting for your big break to come. Unfortunately, however, this is not the time for it. You are almost there, but not quite. Just be a bit more patient and everything will work out fine.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -147,7 +147,7 @@
         },
         {
           "text": "Wishing you were at a different place with your health does little, while taking some action does a lot. If you find yourself daydreaming about better health and fitness, try to bring yourself to focus on a goal of some kind. You can write down your goal and from there build a realistic plan to get there. Actions such as these create momentum that can propel you forward. When you find yourself wishing on a star, remember that you are the real star!",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -324,17 +324,17 @@
     "hc_general": {
       "text": "Keep careful track of things today, Taurus, for you will find that the smallest detail will make the biggest difference. Don't hesitate to go with your hunches when something simply doesn't sound right. Stay focused and try not to get caught off guard when emotional issues come out of nowhere and disturb your thoughts. Trust yourself regardless of what's going on around you.",
       "date": "Oct 2, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "You are getting anxious for something. You are waiting for your big break to come. Unfortunately, however, this is not the time for it. You are almost there, but not quite. Just be a bit more patient and everything will work out fine.",
       "date": "Oct 2, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Wishing you were at a different place with your health does little, while taking some action does a lot. If you find yourself daydreaming about better health and fitness, try to bring yourself to focus on a goal of some kind. You can write down your goal and from there build a realistic plan to get there. Actions such as these create momentum that can propel you forward. When you find yourself wishing on a star, remember that you are the real star!",
       "date": "Oct 2, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "For you, this week is about your relationship sector. You're a social butterfly capable of attracting just the right mix of business and pleasure into your life. Your pursuit of excellence in the mental arena is of primary importance. Your family, kids, and romantic partner make excellent diversions but shouldn't keep you from your focus.",
@@ -342,7 +342,7 @@
     },
     "ac": {
       "text": "Attempts to push through boundaries loved ones have erected will backfire, dear Taurus. Though you'll be anxious to know where you stand with others, a harsh t-square between Mercury, Mars, and Pluto doesn't bode well for serious discussions. Channel your emotions with a creative outlet or exercise routine while Mars and Neptune align. You'll gain some headway when the Gemini Moon aspects the nodes of fate and Chiron before entering Cancer this afternoon. Creating a safe and nurturing environment will make it easier to extract the information you seek. You'll be in the mood to escape when Luna aligns with Neptune and Mercury this evening.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -396,12 +396,12 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-02T11:00",
-        "time": "11:00 AM",
-        "hour": 11.0,
-        "temp": 31,
+        "iso": "2026-10-02T13:00",
+        "time": "1:00 PM",
+        "hour": 13.0,
+        "temp": 33,
         "feels": 34,
-        "humidity": 42,
+        "humidity": 35,
         "label": "Cloudy",
         "icon": "☁️"
       },
@@ -432,8 +432,8 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 29,
           "rain": 0
         },
@@ -456,6 +456,15 @@
           "humidity": 42,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-02T13:00",
+          "time": "1:00 PM",
+          "temp": 33,
+          "feels": 34,
+          "humidity": 35,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -468,6 +477,15 @@
         "humidity": 42,
         "label": "Cloudy",
         "icon": "☁️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-02T13:00",
+        "time": "1:00 PM",
+        "temp": 33,
+        "feels": 34,
+        "humidity": 35,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "wx_office": {
@@ -477,12 +495,12 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-02T11:00",
-        "time": "11:00 AM",
-        "hour": 11.0,
-        "temp": 31,
+        "iso": "2026-10-02T13:00",
+        "time": "1:00 PM",
+        "hour": 13.0,
+        "temp": 32,
         "feels": 34,
-        "humidity": 43,
+        "humidity": 36,
         "label": "Cloudy",
         "icon": "☁️"
       },
@@ -513,8 +531,8 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "⛅",
+          "label": "Partly cloudy",
           "temp": 28,
           "rain": 0
         },
@@ -537,6 +555,15 @@
           "humidity": 43,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-02T13:00",
+          "time": "1:00 PM",
+          "temp": 32,
+          "feels": 34,
+          "humidity": 36,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -547,6 +574,15 @@
         "temp": 31,
         "feels": 34,
         "humidity": 43,
+        "label": "Cloudy",
+        "icon": "☁️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-02T13:00",
+        "time": "1:00 PM",
+        "temp": 32,
+        "feels": 34,
+        "humidity": 36,
         "label": "Cloudy",
         "icon": "☁️"
       }
@@ -679,12 +715,12 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-02T11:00",
-          "time": "11:00 AM",
-          "hour": 11.0,
-          "temp": 31,
+          "iso": "2026-10-02T13:00",
+          "time": "1:00 PM",
+          "hour": 13.0,
+          "temp": 33,
           "feels": 34,
-          "humidity": 42,
+          "humidity": 35,
           "label": "Cloudy",
           "icon": "☁️"
         },
@@ -715,8 +751,8 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 29,
             "rain": 0
           },
@@ -739,6 +775,15 @@
             "humidity": 42,
             "label": "Cloudy",
             "icon": "☁️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-02T13:00",
+            "time": "1:00 PM",
+            "temp": 33,
+            "feels": 34,
+            "humidity": 35,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       },
@@ -749,12 +794,12 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-02T11:00",
-          "time": "11:00 AM",
-          "hour": 11.0,
-          "temp": 31,
+          "iso": "2026-10-02T13:00",
+          "time": "1:00 PM",
+          "hour": 13.0,
+          "temp": 32,
           "feels": 34,
-          "humidity": 43,
+          "humidity": 36,
           "label": "Cloudy",
           "icon": "☁️"
         },
@@ -785,8 +830,8 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "⛅",
+            "label": "Partly cloudy",
             "temp": 28,
             "rain": 0
           },
@@ -807,6 +852,15 @@
             "temp": 31,
             "feels": 34,
             "humidity": 43,
+            "label": "Cloudy",
+            "icon": "☁️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-02T13:00",
+            "time": "1:00 PM",
+            "temp": 32,
+            "feels": 34,
+            "humidity": 36,
             "label": "Cloudy",
             "icon": "☁️"
           }
