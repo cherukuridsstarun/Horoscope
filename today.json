@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 02 October 2026",
   "date_key": "2026-10-02",
-  "fetched_ist": "02 Oct 2026, 07:20 PM IST",
+  "fetched_ist": "02 Oct 2026, 11:46 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -223,7 +223,7 @@
       {
         "src": "PolicyBazaar",
         "label": "Hyderabad retail · 22K only",
-        "k22": 13710,
+        "k22": 13775,
         "k24": null,
         "change22": null,
         "date": "02 October 2026",
@@ -396,14 +396,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-02T19:15",
-        "time": "7:15 PM",
-        "hour": 19.25,
-        "temp": 28,
-        "feels": 30,
-        "humidity": 52,
-        "label": "Clear sky",
-        "icon": "🌙"
+        "iso": "2026-10-02T23:45",
+        "time": "11:45 PM",
+        "hour": 23.75,
+        "temp": 26,
+        "feels": 28,
+        "humidity": 64,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       },
       "high": 33,
       "low": 24,
@@ -474,6 +474,15 @@
           "humidity": 52,
           "label": "Clear sky",
           "icon": "🌙"
+        },
+        "Night": {
+          "iso": "2026-10-02T23:45",
+          "time": "11:45 PM",
+          "temp": 26,
+          "feels": 28,
+          "humidity": 64,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         }
       }
     },
@@ -504,6 +513,15 @@
         "humidity": 52,
         "label": "Clear sky",
         "icon": "🌙"
+      },
+      "Night": {
+        "iso": "2026-10-02T23:45",
+        "time": "11:45 PM",
+        "temp": 26,
+        "feels": 28,
+        "humidity": 64,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       }
     },
     "wx_office": {
@@ -513,14 +531,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-02T19:15",
-        "time": "7:15 PM",
-        "hour": 19.25,
-        "temp": 28,
-        "feels": 29,
-        "humidity": 53,
-        "label": "Clear sky",
-        "icon": "🌙"
+        "iso": "2026-10-02T23:45",
+        "time": "11:45 PM",
+        "hour": 23.75,
+        "temp": 26,
+        "feels": 28,
+        "humidity": 64,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       },
       "high": 32,
       "low": 23,
@@ -591,6 +609,15 @@
           "humidity": 53,
           "label": "Clear sky",
           "icon": "🌙"
+        },
+        "Night": {
+          "iso": "2026-10-02T23:45",
+          "time": "11:45 PM",
+          "temp": 26,
+          "feels": 28,
+          "humidity": 64,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         }
       }
     },
@@ -621,6 +648,15 @@
         "humidity": 53,
         "label": "Clear sky",
         "icon": "🌙"
+      },
+      "Night": {
+        "iso": "2026-10-02T23:45",
+        "time": "11:45 PM",
+        "temp": 26,
+        "feels": 28,
+        "humidity": 64,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       }
     },
     "gold": {
@@ -637,8 +673,8 @@
         "PolicyBazaar": {
           "src": "PolicyBazaar",
           "label": "Hyderabad retail",
-          "k22": 13710,
-          "k24": 14396,
+          "k22": 13775,
+          "k24": 14464,
           "change22": null,
           "date": "02 October 2026",
           "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
@@ -751,14 +787,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-02T19:15",
-          "time": "7:15 PM",
-          "hour": 19.25,
-          "temp": 28,
-          "feels": 30,
-          "humidity": 52,
-          "label": "Clear sky",
-          "icon": "🌙"
+          "iso": "2026-10-02T23:45",
+          "time": "11:45 PM",
+          "hour": 23.75,
+          "temp": 26,
+          "feels": 28,
+          "humidity": 64,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         },
         "high": 33,
         "low": 24,
@@ -829,6 +865,15 @@
             "humidity": 52,
             "label": "Clear sky",
             "icon": "🌙"
+          },
+          "Night": {
+            "iso": "2026-10-02T23:45",
+            "time": "11:45 PM",
+            "temp": 26,
+            "feels": 28,
+            "humidity": 64,
+            "label": "Partly cloudy",
+            "icon": "⛅"
           }
         }
       },
@@ -839,14 +884,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-02T19:15",
-          "time": "7:15 PM",
-          "hour": 19.25,
-          "temp": 28,
-          "feels": 29,
-          "humidity": 53,
-          "label": "Clear sky",
-          "icon": "🌙"
+          "iso": "2026-10-02T23:45",
+          "time": "11:45 PM",
+          "hour": 23.75,
+          "temp": 26,
+          "feels": 28,
+          "humidity": 64,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         },
         "high": 32,
         "low": 23,
@@ -917,6 +962,15 @@
             "humidity": 53,
             "label": "Clear sky",
             "icon": "🌙"
+          },
+          "Night": {
+            "iso": "2026-10-02T23:45",
+            "time": "11:45 PM",
+            "temp": 26,
+            "feels": 28,
+            "humidity": 64,
+            "label": "Partly cloudy",
+            "icon": "⛅"
           }
         }
       }
