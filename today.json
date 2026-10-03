@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Saturday, 03 October 2026",
   "date_key": "2026-10-03",
-  "fetched_ist": "03 Oct 2026, 10:52 AM IST",
+  "fetched_ist": "03 Oct 2026, 12:40 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 3, 2026",
       "text": "It may seem like everyone around you is happy and getting what they want while you're stuck in the trenches, Taurus. Don't compare yourself to other people and make judgments based on outside appearances. The truth of the matter is that they're most likely only looking at the immediate future and experiencing short-term pleasures. You, however, have your sights set on the long-term and will probably be much better off."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 3, 2026",
       "text": "Your sense of balance may be upended this morning, dearest Taurus. The Cancer quarter Moon aligns with Venus rx, encouraging you to seek softness. Unfortunately, a tense square with Saturn threatens your ability to think clearly. Meanwhile, Mars and Pluto face off, which could cause you to lash out as emotions fluctuate. If you start to feel unlike yourself, adjust your behaviors and find a healthy outlet for blowing off steam."
@@ -95,7 +95,7 @@
         },
         {
           "text": "Conversations with others become quite muddled, and by the end of your 30-minute talk with someone at the workplace, you will be left feeling as if you didn't comprehend a thing. Your talks tend to go in circles instead of in straight lines.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -143,7 +143,7 @@
         },
         {
           "text": "In a moment of insecurity, you may thrive because your tendency is to labor your way through doubt. When your courage returns, it will be wise to check your health goals. Are you focusing too much on diet when you really need to boost your circulation through aerobic exercise? Are you drinking enough water to help your internal organs regulate or are you using shortcuts? Try to relax your mind enough to get the answers to these questions. Yoga is recommended.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -324,17 +324,17 @@
     "hc_general": {
       "text": "It may seem like everyone around you is happy and getting what they want while you're stuck in the trenches, Taurus. Don't compare yourself to other people and make judgments based on outside appearances. The truth of the matter is that they're most likely only looking at the immediate future and experiencing short-term pleasures. You, however, have your sights set on the long-term and will probably be much better off.",
       "date": "Oct 3, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Conversations with others become quite muddled, and by the end of your 30-minute talk with someone at the workplace, you will be left feeling as if you didn't comprehend a thing. Your talks tend to go in circles instead of in straight lines.",
       "date": "Oct 3, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "In a moment of insecurity, you may thrive because your tendency is to labor your way through doubt. When your courage returns, it will be wise to check your health goals. Are you focusing too much on diet when you really need to boost your circulation through aerobic exercise? Are you drinking enough water to help your internal organs regulate or are you using shortcuts? Try to relax your mind enough to get the answers to these questions. Yoga is recommended.",
       "date": "Oct 3, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "For you, this week is about your relationship sector. You're a social butterfly capable of attracting just the right mix of business and pleasure into your life. Your pursuit of excellence in the mental arena is of primary importance. Your family, kids, and romantic partner make excellent diversions but shouldn't keep you from your focus.",
@@ -342,7 +342,7 @@
     },
     "ac": {
       "text": "Your sense of balance may be upended this morning, dearest Taurus. Venus, your planetary ruler, stations retrograde in the sector of your chart that governs relationships, harmony, and justice. You might notice others treating you unfairly, or struggle to navigate romantic issues. The Cancer quarter Moon aligns with Venus rx, encouraging you to seek softness. Unfortunately, a tense square with Saturn threatens your ability to think clearly. Meanwhile, Mars and Pluto face off, which could cause you to lash out as emotions fluctuate. If you start to feel unlike yourself, adjust your behaviors and find a healthy outlet for blowing off steam.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -396,19 +396,118 @@
       "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-10-03T10:45",
-        "time": "10:45 AM",
-        "hour": 10.75,
-        "temp": 31,
-        "feels": 34,
-        "humidity": 42,
+        "iso": "2026-10-03T12:30",
+        "time": "12:30 PM",
+        "hour": 12.5,
+        "temp": 32,
+        "feels": 35,
+        "humidity": 39,
         "label": "Mostly clear",
         "icon": "🌤️"
       },
       "high": 32,
       "low": 24,
       "rain": 39,
-      "uv": 8.2,
+      "uv": 8.25,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 28,
+          "rain": 16
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 32,
+          "rain": 39
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 29,
+          "rain": 20
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌙",
+          "label": "Mostly clear",
+          "temp": 25,
+          "rain": 0
+        }
+      ],
+      "log": {
+        "Morning": {
+          "iso": "2026-10-03T10:45",
+          "time": "10:45 AM",
+          "temp": 31,
+          "feels": 34,
+          "humidity": 42,
+          "label": "Mostly clear",
+          "icon": "🌤️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-03T12:30",
+          "time": "12:30 PM",
+          "temp": 32,
+          "feels": 35,
+          "humidity": 39,
+          "label": "Mostly clear",
+          "icon": "🌤️"
+        }
+      }
+    },
+    "wxlog_home": {
+      "Morning": {
+        "iso": "2026-10-03T10:45",
+        "time": "10:45 AM",
+        "temp": 31,
+        "feels": 34,
+        "humidity": 42,
+        "label": "Mostly clear",
+        "icon": "🌤️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-03T12:30",
+        "time": "12:30 PM",
+        "temp": 32,
+        "feels": 35,
+        "humidity": 39,
+        "label": "Mostly clear",
+        "icon": "🌤️"
+      }
+    },
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Cloudy",
+      "icon": "☁️",
+      "now": {
+        "iso": "2026-10-03T12:30",
+        "time": "12:30 PM",
+        "hour": 12.5,
+        "temp": 33,
+        "feels": 36,
+        "humidity": 36,
+        "label": "Mostly clear",
+        "icon": "🌤️"
+      },
+      "high": 33,
+      "low": 23,
+      "rain": 39,
+      "uv": 8.25,
       "periods": [
         {
           "name": "Morning",
@@ -423,8 +522,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌦️",
-          "label": "Light drizzle",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 32,
           "rain": 39
         },
@@ -442,88 +541,7 @@
           "from": 21,
           "to": 30,
           "icon": "🌙",
-          "label": "Clear sky",
-          "temp": 25,
-          "rain": 0
-        }
-      ],
-      "log": {
-        "Morning": {
-          "iso": "2026-10-03T10:45",
-          "time": "10:45 AM",
-          "temp": 31,
-          "feels": 34,
-          "humidity": 42,
           "label": "Mostly clear",
-          "icon": "🌤️"
-        }
-      }
-    },
-    "wxlog_home": {
-      "Morning": {
-        "iso": "2026-10-03T10:45",
-        "time": "10:45 AM",
-        "temp": 31,
-        "feels": 34,
-        "humidity": 42,
-        "label": "Mostly clear",
-        "icon": "🌤️"
-      }
-    },
-    "wx_office": {
-      "key": "office",
-      "name": "Office",
-      "area": "",
-      "label": "Light drizzle",
-      "icon": "🌦️",
-      "now": {
-        "iso": "2026-10-03T10:45",
-        "time": "10:45 AM",
-        "hour": 10.75,
-        "temp": 31,
-        "feels": 34,
-        "humidity": 43,
-        "label": "Mostly clear",
-        "icon": "🌤️"
-      },
-      "high": 33,
-      "low": 23,
-      "rain": 39,
-      "uv": 8.3,
-      "periods": [
-        {
-          "name": "Morning",
-          "from": 6,
-          "to": 12,
-          "icon": "⛅",
-          "label": "Partly cloudy",
-          "temp": 28,
-          "rain": 16
-        },
-        {
-          "name": "Afternoon",
-          "from": 12,
-          "to": 17,
-          "icon": "🌦️",
-          "label": "Light drizzle",
-          "temp": 32,
-          "rain": 39
-        },
-        {
-          "name": "Evening",
-          "from": 17,
-          "to": 21,
-          "icon": "🌤️",
-          "label": "Mostly clear",
-          "temp": 28,
-          "rain": 20
-        },
-        {
-          "name": "Night",
-          "from": 21,
-          "to": 30,
-          "icon": "🌙",
-          "label": "Clear sky",
           "temp": 25,
           "rain": 0
         }
@@ -537,6 +555,15 @@
           "humidity": 43,
           "label": "Mostly clear",
           "icon": "🌤️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-03T12:30",
+          "time": "12:30 PM",
+          "temp": 33,
+          "feels": 36,
+          "humidity": 36,
+          "label": "Mostly clear",
+          "icon": "🌤️"
         }
       }
     },
@@ -547,6 +574,15 @@
         "temp": 31,
         "feels": 34,
         "humidity": 43,
+        "label": "Mostly clear",
+        "icon": "🌤️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-03T12:30",
+        "time": "12:30 PM",
+        "temp": 33,
+        "feels": 36,
+        "humidity": 36,
         "label": "Mostly clear",
         "icon": "🌤️"
       }
@@ -673,19 +709,98 @@
         "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-10-03T10:45",
-          "time": "10:45 AM",
-          "hour": 10.75,
-          "temp": 31,
-          "feels": 34,
-          "humidity": 42,
+          "iso": "2026-10-03T12:30",
+          "time": "12:30 PM",
+          "hour": 12.5,
+          "temp": 32,
+          "feels": 35,
+          "humidity": 39,
           "label": "Mostly clear",
           "icon": "🌤️"
         },
         "high": 32,
         "low": 24,
         "rain": 39,
-        "uv": 8.2,
+        "uv": 8.25,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 28,
+            "rain": 16
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 32,
+            "rain": 39
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 29,
+            "rain": 20
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌙",
+            "label": "Mostly clear",
+            "temp": 25,
+            "rain": 0
+          }
+        ],
+        "log": {
+          "Morning": {
+            "iso": "2026-10-03T10:45",
+            "time": "10:45 AM",
+            "temp": 31,
+            "feels": 34,
+            "humidity": 42,
+            "label": "Mostly clear",
+            "icon": "🌤️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-03T12:30",
+            "time": "12:30 PM",
+            "temp": 32,
+            "feels": 35,
+            "humidity": 39,
+            "label": "Mostly clear",
+            "icon": "🌤️"
+          }
+        }
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
+        "label": "Cloudy",
+        "icon": "☁️",
+        "now": {
+          "iso": "2026-10-03T12:30",
+          "time": "12:30 PM",
+          "hour": 12.5,
+          "temp": 33,
+          "feels": 36,
+          "humidity": 36,
+          "label": "Mostly clear",
+          "icon": "🌤️"
+        },
+        "high": 33,
+        "low": 23,
+        "rain": 39,
+        "uv": 8.25,
         "periods": [
           {
             "name": "Morning",
@@ -700,8 +815,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌦️",
-            "label": "Light drizzle",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 32,
             "rain": 39
           },
@@ -719,77 +834,7 @@
             "from": 21,
             "to": 30,
             "icon": "🌙",
-            "label": "Clear sky",
-            "temp": 25,
-            "rain": 0
-          }
-        ],
-        "log": {
-          "Morning": {
-            "iso": "2026-10-03T10:45",
-            "time": "10:45 AM",
-            "temp": 31,
-            "feels": 34,
-            "humidity": 42,
             "label": "Mostly clear",
-            "icon": "🌤️"
-          }
-        }
-      },
-      {
-        "key": "office",
-        "name": "Office",
-        "area": "",
-        "label": "Light drizzle",
-        "icon": "🌦️",
-        "now": {
-          "iso": "2026-10-03T10:45",
-          "time": "10:45 AM",
-          "hour": 10.75,
-          "temp": 31,
-          "feels": 34,
-          "humidity": 43,
-          "label": "Mostly clear",
-          "icon": "🌤️"
-        },
-        "high": 33,
-        "low": 23,
-        "rain": 39,
-        "uv": 8.3,
-        "periods": [
-          {
-            "name": "Morning",
-            "from": 6,
-            "to": 12,
-            "icon": "⛅",
-            "label": "Partly cloudy",
-            "temp": 28,
-            "rain": 16
-          },
-          {
-            "name": "Afternoon",
-            "from": 12,
-            "to": 17,
-            "icon": "🌦️",
-            "label": "Light drizzle",
-            "temp": 32,
-            "rain": 39
-          },
-          {
-            "name": "Evening",
-            "from": 17,
-            "to": 21,
-            "icon": "🌤️",
-            "label": "Mostly clear",
-            "temp": 28,
-            "rain": 20
-          },
-          {
-            "name": "Night",
-            "from": 21,
-            "to": 30,
-            "icon": "🌙",
-            "label": "Clear sky",
             "temp": 25,
             "rain": 0
           }
@@ -801,6 +846,15 @@
             "temp": 31,
             "feels": 34,
             "humidity": 43,
+            "label": "Mostly clear",
+            "icon": "🌤️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-03T12:30",
+            "time": "12:30 PM",
+            "temp": 33,
+            "feels": 36,
+            "humidity": 36,
             "label": "Mostly clear",
             "icon": "🌤️"
           }
