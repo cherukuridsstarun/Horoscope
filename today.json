@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Sunday, 04 October 2026",
   "date_key": "2026-10-04",
-  "fetched_ist": "04 Oct 2026, 01:00 PM IST",
+  "fetched_ist": "04 Oct 2026, 06:40 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -399,18 +399,18 @@
       "label": "Partly cloudy",
       "icon": "⛅",
       "now": {
-        "iso": "2026-10-04T13:00",
-        "time": "1:00 PM",
-        "hour": 13.0,
-        "temp": 33,
-        "feels": 35,
-        "humidity": 34,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "iso": "2026-10-04T18:30",
+        "time": "6:30 PM",
+        "hour": 18.5,
+        "temp": 30,
+        "feels": 30,
+        "humidity": 40,
+        "label": "Clear sky",
+        "icon": "🌙"
       },
       "high": 33,
       "low": 24,
-      "rain": 16,
+      "rain": 4,
       "uv": 8.35,
       "periods": [
         {
@@ -428,16 +428,16 @@
           "to": 17,
           "icon": "⛅",
           "label": "Partly cloudy",
-          "temp": 33,
-          "rain": 16
+          "temp": 32,
+          "rain": 4
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌤️",
-          "label": "Mostly clear",
-          "temp": 30,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 29,
           "rain": 4
         },
         {
@@ -468,6 +468,15 @@
           "humidity": 34,
           "label": "Partly cloudy",
           "icon": "⛅"
+        },
+        "Evening": {
+          "iso": "2026-10-04T18:30",
+          "time": "6:30 PM",
+          "temp": 30,
+          "feels": 30,
+          "humidity": 40,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -489,6 +498,15 @@
         "humidity": 34,
         "label": "Partly cloudy",
         "icon": "⛅"
+      },
+      "Evening": {
+        "iso": "2026-10-04T18:30",
+        "time": "6:30 PM",
+        "temp": 30,
+        "feels": 30,
+        "humidity": 40,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "wx_office": {
@@ -498,18 +516,18 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-04T13:00",
-        "time": "1:00 PM",
-        "hour": 13.0,
-        "temp": 33,
-        "feels": 35,
-        "humidity": 32,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "iso": "2026-10-04T18:30",
+        "time": "6:30 PM",
+        "hour": 18.5,
+        "temp": 29,
+        "feels": 30,
+        "humidity": 46,
+        "label": "Clear sky",
+        "icon": "🌙"
       },
       "high": 33,
       "low": 24,
-      "rain": 16,
+      "rain": 4,
       "uv": 8.35,
       "periods": [
         {
@@ -528,15 +546,15 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 32,
-          "rain": 16
+          "rain": 4
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌤️",
-          "label": "Mostly clear",
-          "temp": 29,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 28,
           "rain": 4
         },
         {
@@ -567,6 +585,15 @@
           "humidity": 32,
           "label": "Partly cloudy",
           "icon": "⛅"
+        },
+        "Evening": {
+          "iso": "2026-10-04T18:30",
+          "time": "6:30 PM",
+          "temp": 29,
+          "feels": 30,
+          "humidity": 46,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -588,6 +615,15 @@
         "humidity": 32,
         "label": "Partly cloudy",
         "icon": "⛅"
+      },
+      "Evening": {
+        "iso": "2026-10-04T18:30",
+        "time": "6:30 PM",
+        "temp": 29,
+        "feels": 30,
+        "humidity": 46,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "gold": {
@@ -712,18 +748,18 @@
         "label": "Partly cloudy",
         "icon": "⛅",
         "now": {
-          "iso": "2026-10-04T13:00",
-          "time": "1:00 PM",
-          "hour": 13.0,
-          "temp": 33,
-          "feels": 35,
-          "humidity": 34,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "iso": "2026-10-04T18:30",
+          "time": "6:30 PM",
+          "hour": 18.5,
+          "temp": 30,
+          "feels": 30,
+          "humidity": 40,
+          "label": "Clear sky",
+          "icon": "🌙"
         },
         "high": 33,
         "low": 24,
-        "rain": 16,
+        "rain": 4,
         "uv": 8.35,
         "periods": [
           {
@@ -741,16 +777,16 @@
             "to": 17,
             "icon": "⛅",
             "label": "Partly cloudy",
-            "temp": 33,
-            "rain": 16
+            "temp": 32,
+            "rain": 4
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌤️",
-            "label": "Mostly clear",
-            "temp": 30,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 29,
             "rain": 4
           },
           {
@@ -781,6 +817,15 @@
             "humidity": 34,
             "label": "Partly cloudy",
             "icon": "⛅"
+          },
+          "Evening": {
+            "iso": "2026-10-04T18:30",
+            "time": "6:30 PM",
+            "temp": 30,
+            "feels": 30,
+            "humidity": 40,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       },
@@ -791,18 +836,18 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-04T13:00",
-          "time": "1:00 PM",
-          "hour": 13.0,
-          "temp": 33,
-          "feels": 35,
-          "humidity": 32,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "iso": "2026-10-04T18:30",
+          "time": "6:30 PM",
+          "hour": 18.5,
+          "temp": 29,
+          "feels": 30,
+          "humidity": 46,
+          "label": "Clear sky",
+          "icon": "🌙"
         },
         "high": 33,
         "low": 24,
-        "rain": 16,
+        "rain": 4,
         "uv": 8.35,
         "periods": [
           {
@@ -821,15 +866,15 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 32,
-            "rain": 16
+            "rain": 4
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌤️",
-            "label": "Mostly clear",
-            "temp": 29,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 28,
             "rain": 4
           },
           {
@@ -860,6 +905,15 @@
             "humidity": 32,
             "label": "Partly cloudy",
             "icon": "⛅"
+          },
+          "Evening": {
+            "iso": "2026-10-04T18:30",
+            "time": "6:30 PM",
+            "temp": 29,
+            "feels": 30,
+            "humidity": 46,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       }
