@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Sunday, 04 October 2026",
   "date_key": "2026-10-04",
-  "fetched_ist": "04 Oct 2026, 11:28 AM IST",
+  "fetched_ist": "04 Oct 2026, 01:00 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 4, 2026",
       "text": "Contact with a friend's may have to be delayed, and this might worry you. It will be necessary to make a special effort to get almost anything done today, Taurus. You could have some urgent chores to complete, but the streets and stores may be full of impatient people. Relax, breathe deeply, and summon every bit of energy you have. You don't want to put anything off now."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 4, 2026",
       "text": "Stay strong in your convictions while the Libra Sun opposes Saturn, dear bull. Temptations will be prevalent, but probably don't align with what is best for you. Vices you recently gave up will be especially hard to resist. Maintain resolve when the Cancer Moon squares Chiron before entering Leo later today. You might start rationalizing reasons to give in, but you'll feel better about yourself for exercising restraint. Confidence grows when you prioritize growth and making your way up in the world. Meditate on how you can continue to evolve once Luna aspects Neptune, Pluto, and Mars this evening."
@@ -99,7 +99,7 @@
         },
         {
           "text": "Don't be persuaded by water-cooler gibberish. Stick to your guns and watch out for rhetoric from others. It is okay to question yourself, but once the decision is made, move on and don't look back.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -142,7 +142,7 @@
         },
         {
           "text": "If you can get some extra rest these days, it would be recommended. You've been going a breakneck speed and your body is probably more tired than you realize. Your mind can go on completing tasks forever - it's rare that you change your plans to accommodate your body's needs! You can begin to address this tendency by \"scheduling\" regular yoga workouts into your week in order to learn to check in with how your body is really feeling.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -327,17 +327,17 @@
     "hc_general": {
       "text": "Contact with a friend's may have to be delayed, and this might worry you. It will be necessary to make a special effort to get almost anything done today, Taurus. You could have some urgent chores to complete, but the streets and stores may be full of impatient people. Relax, breathe deeply, and summon every bit of energy you have. You don't want to put anything off now.",
       "date": "Oct 4, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Don't be persuaded by water-cooler gibberish. Stick to your guns and watch out for rhetoric from others. Deep down in your heart, you know the right move. It is okay to question yourself, but once the decision is made, move on and don't look back.",
       "date": "Oct 4, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "If you can get some extra rest these days, it would be recommended. You've been going a breakneck speed and your body is probably more tired than you realize. Your mind can go on completing tasks forever - it's rare that you change your plans to accommodate your body's needs! You can begin to address this tendency by \"scheduling\" regular yoga workouts into your week in order to learn to check in with how your body is really feeling.",
       "date": "Oct 4, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "For you, this week is about your relationship sector. You're a social butterfly capable of attracting just the right mix of business and pleasure into your life. Your pursuit of excellence in the mental arena is of primary importance. Your family, kids, and romantic partner make excellent diversions but shouldn't keep you from your focus.",
@@ -345,7 +345,7 @@
     },
     "ac": {
       "text": "Stay strong in your convictions while the Libra Sun opposes Saturn, dear bull. Temptations will be prevalent, but probably don't align with what is best for you. Vices you recently gave up will be especially hard to resist. Maintain resolve when the Cancer Moon squares Chiron before entering Leo later today. You might start rationalizing reasons to give in, but you'll feel better about yourself for exercising restraint. Confidence grows when you prioritize growth and making your way up in the world. Meditate on how you can continue to evolve once Luna aspects Neptune, Pluto, and Mars this evening.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -396,17 +396,116 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Cloudy",
-      "icon": "☁️",
+      "label": "Partly cloudy",
+      "icon": "⛅",
       "now": {
+        "iso": "2026-10-04T13:00",
+        "time": "1:00 PM",
+        "hour": 13.0,
+        "temp": 33,
+        "feels": 35,
+        "humidity": 34,
+        "label": "Partly cloudy",
+        "icon": "⛅"
+      },
+      "high": 33,
+      "low": 24,
+      "rain": 16,
+      "uv": 8.35,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "🌤️",
+          "label": "Mostly clear",
+          "temp": 28,
+          "rain": 0
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "⛅",
+          "label": "Partly cloudy",
+          "temp": 33,
+          "rain": 16
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "🌤️",
+          "label": "Mostly clear",
+          "temp": 30,
+          "rain": 4
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌙",
+          "label": "Clear sky",
+          "temp": 26,
+          "rain": 0
+        }
+      ],
+      "log": {
+        "Morning": {
+          "iso": "2026-10-04T11:15",
+          "time": "11:15 AM",
+          "temp": 31,
+          "feels": 34,
+          "humidity": 41,
+          "label": "Clear sky",
+          "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-04T13:00",
+          "time": "1:00 PM",
+          "temp": 33,
+          "feels": 35,
+          "humidity": 34,
+          "label": "Partly cloudy",
+          "icon": "⛅"
+        }
+      }
+    },
+    "wxlog_home": {
+      "Morning": {
         "iso": "2026-10-04T11:15",
         "time": "11:15 AM",
-        "hour": 11.25,
         "temp": 31,
         "feels": 34,
         "humidity": 41,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-04T13:00",
+        "time": "1:00 PM",
+        "temp": 33,
+        "feels": 35,
+        "humidity": 34,
+        "label": "Partly cloudy",
+        "icon": "⛅"
+      }
+    },
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Cloudy",
+      "icon": "☁️",
+      "now": {
+        "iso": "2026-10-04T13:00",
+        "time": "1:00 PM",
+        "hour": 13.0,
+        "temp": 33,
+        "feels": 35,
+        "humidity": 32,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       },
       "high": 33,
       "low": 24,
@@ -426,98 +525,17 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 32,
+          "rain": 16
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
           "icon": "🌤️",
           "label": "Mostly clear",
-          "temp": 32,
-          "rain": 16
-        },
-        {
-          "name": "Evening",
-          "from": 17,
-          "to": 21,
-          "icon": "☁️",
-          "label": "Cloudy",
-          "temp": 29,
-          "rain": 4
-        },
-        {
-          "name": "Night",
-          "from": 21,
-          "to": 30,
-          "icon": "🌙",
-          "label": "Clear sky",
-          "temp": 25,
-          "rain": 0
-        }
-      ],
-      "log": {
-        "Morning": {
-          "iso": "2026-10-04T11:15",
-          "time": "11:15 AM",
-          "temp": 31,
-          "feels": 34,
-          "humidity": 41,
-          "label": "Clear sky",
-          "icon": "☀️"
-        }
-      }
-    },
-    "wxlog_home": {
-      "Morning": {
-        "iso": "2026-10-04T11:15",
-        "time": "11:15 AM",
-        "temp": 31,
-        "feels": 34,
-        "humidity": 41,
-        "label": "Clear sky",
-        "icon": "☀️"
-      }
-    },
-    "wx_office": {
-      "key": "office",
-      "name": "Office",
-      "area": "",
-      "label": "Cloudy",
-      "icon": "☁️",
-      "now": {
-        "iso": "2026-10-04T11:15",
-        "time": "11:15 AM",
-        "hour": 11.25,
-        "temp": 32,
-        "feels": 35,
-        "humidity": 40,
-        "label": "Clear sky",
-        "icon": "☀️"
-      },
-      "high": 33,
-      "low": 23,
-      "rain": 16,
-      "uv": 8.35,
-      "periods": [
-        {
-          "name": "Morning",
-          "from": 6,
-          "to": 12,
-          "icon": "☀️",
-          "label": "Clear sky",
-          "temp": 28,
-          "rain": 0
-        },
-        {
-          "name": "Afternoon",
-          "from": 12,
-          "to": 17,
-          "icon": "☁️",
-          "label": "Cloudy",
-          "temp": 32,
-          "rain": 16
-        },
-        {
-          "name": "Evening",
-          "from": 17,
-          "to": 21,
-          "icon": "☀️",
-          "label": "Clear sky",
           "temp": 29,
           "rain": 4
         },
@@ -540,6 +558,15 @@
           "humidity": 40,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-04T13:00",
+          "time": "1:00 PM",
+          "temp": 33,
+          "feels": 35,
+          "humidity": 32,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         }
       }
     },
@@ -552,6 +579,15 @@
         "humidity": 40,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-04T13:00",
+        "time": "1:00 PM",
+        "temp": 33,
+        "feels": 35,
+        "humidity": 32,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       }
     },
     "gold": {
@@ -673,17 +709,96 @@
         "key": "home",
         "name": "Home",
         "area": "",
+        "label": "Partly cloudy",
+        "icon": "⛅",
+        "now": {
+          "iso": "2026-10-04T13:00",
+          "time": "1:00 PM",
+          "hour": 13.0,
+          "temp": 33,
+          "feels": 35,
+          "humidity": 34,
+          "label": "Partly cloudy",
+          "icon": "⛅"
+        },
+        "high": 33,
+        "low": 24,
+        "rain": 16,
+        "uv": 8.35,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "🌤️",
+            "label": "Mostly clear",
+            "temp": 28,
+            "rain": 0
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "⛅",
+            "label": "Partly cloudy",
+            "temp": 33,
+            "rain": 16
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "🌤️",
+            "label": "Mostly clear",
+            "temp": 30,
+            "rain": 4
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌙",
+            "label": "Clear sky",
+            "temp": 26,
+            "rain": 0
+          }
+        ],
+        "log": {
+          "Morning": {
+            "iso": "2026-10-04T11:15",
+            "time": "11:15 AM",
+            "temp": 31,
+            "feels": 34,
+            "humidity": 41,
+            "label": "Clear sky",
+            "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-04T13:00",
+            "time": "1:00 PM",
+            "temp": 33,
+            "feels": 35,
+            "humidity": 34,
+            "label": "Partly cloudy",
+            "icon": "⛅"
+          }
+        }
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-04T11:15",
-          "time": "11:15 AM",
-          "hour": 11.25,
-          "temp": 31,
-          "feels": 34,
-          "humidity": 41,
-          "label": "Clear sky",
-          "icon": "☀️"
+          "iso": "2026-10-04T13:00",
+          "time": "1:00 PM",
+          "hour": 13.0,
+          "temp": 33,
+          "feels": 35,
+          "humidity": 32,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         },
         "high": 33,
         "low": 24,
@@ -703,87 +818,17 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 32,
+            "rain": 16
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
             "icon": "🌤️",
             "label": "Mostly clear",
-            "temp": 32,
-            "rain": 16
-          },
-          {
-            "name": "Evening",
-            "from": 17,
-            "to": 21,
-            "icon": "☁️",
-            "label": "Cloudy",
-            "temp": 29,
-            "rain": 4
-          },
-          {
-            "name": "Night",
-            "from": 21,
-            "to": 30,
-            "icon": "🌙",
-            "label": "Clear sky",
-            "temp": 25,
-            "rain": 0
-          }
-        ],
-        "log": {
-          "Morning": {
-            "iso": "2026-10-04T11:15",
-            "time": "11:15 AM",
-            "temp": 31,
-            "feels": 34,
-            "humidity": 41,
-            "label": "Clear sky",
-            "icon": "☀️"
-          }
-        }
-      },
-      {
-        "key": "office",
-        "name": "Office",
-        "area": "",
-        "label": "Cloudy",
-        "icon": "☁️",
-        "now": {
-          "iso": "2026-10-04T11:15",
-          "time": "11:15 AM",
-          "hour": 11.25,
-          "temp": 32,
-          "feels": 35,
-          "humidity": 40,
-          "label": "Clear sky",
-          "icon": "☀️"
-        },
-        "high": 33,
-        "low": 23,
-        "rain": 16,
-        "uv": 8.35,
-        "periods": [
-          {
-            "name": "Morning",
-            "from": 6,
-            "to": 12,
-            "icon": "☀️",
-            "label": "Clear sky",
-            "temp": 28,
-            "rain": 0
-          },
-          {
-            "name": "Afternoon",
-            "from": 12,
-            "to": 17,
-            "icon": "☁️",
-            "label": "Cloudy",
-            "temp": 32,
-            "rain": 16
-          },
-          {
-            "name": "Evening",
-            "from": 17,
-            "to": 21,
-            "icon": "☀️",
-            "label": "Clear sky",
             "temp": 29,
             "rain": 4
           },
@@ -806,6 +851,15 @@
             "humidity": 40,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-04T13:00",
+            "time": "1:00 PM",
+            "temp": 33,
+            "feels": 35,
+            "humidity": 32,
+            "label": "Partly cloudy",
+            "icon": "⛅"
           }
         }
       }
