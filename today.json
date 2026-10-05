@@ -2,14 +2,14 @@
   "sign": "Taurus",
   "date_ist": "Monday, 05 October 2026",
   "date_key": "2026-10-05",
-  "fetched_ist": "05 Oct 2026, 12:26 AM IST",
+  "fetched_ist": "05 Oct 2026, 06:51 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "04-10-2026",
-      "text": null
+      "ok": true,
+      "source_date": "05-10-2026",
+      "text": "Ganesha sees you taking a day off from your work and immersing your self in domestic activities. A lot of time will be spent blissfully with your family folk chatting away or doing this and that. The idea of getting your interiors redone and give your house a new look will surely occur to you. Instead of doing things on your own, it is very likely you will engage a professional for the job."
     },
     {
       "name": "Horoscope.com",
@@ -64,12 +64,25 @@
     "career": {
       "readings": [
         {
+          "text": "Bravo! You will win your challenge today. You will get devoted to work throughout the day. Your focus and sincerity will accomplish many difficult tasks and eventually fetch appreciation from colleagues and boss. As a result, you may receive some important gains, feels Ganesha.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "A four-week trend begins today that will have a major effect on your career, so it is important to be mindful of this whether you are at work or not. For the next four weeks, there will be obstacles, and a major change in direction is necessary.",
           "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
       "bits": [
+        {
+          "t": "Ganesha sees you taking a day off from your work and immersing your self in domestic activities.",
+          "src": "GaneshaSpeaks"
+        },
+        {
+          "t": "Instead of doing things on your own, it is very likely you will engage a professional for the job.",
+          "src": "GaneshaSpeaks"
+        },
         {
           "t": "Find a way to incorporate your dreams into the dreams of others instead of always working toward goals at opposite sides of the spectrum.",
           "src": "Horoscope.com"
@@ -83,15 +96,30 @@
     "money": {
       "readings": [
         {
+          "text": "Ganesha advises that it is better to think twice before spending money. You should not take decisions impulsively and should see to it that money is spent in right direction at the right time.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "You're a social butterfly capable of attracting just the right mix of business and pleasure into your life. Your pursuit of excellence in the mental arena is of primary importance.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
           "src": "Horoscope.com · this week"
         }
       ],
-      "bits": []
+      "bits": [
+        {
+          "t": "A lot of time will be spent blissfully with your family folk chatting away or doing this and that.",
+          "src": "GaneshaSpeaks"
+        }
+      ]
     },
     "health": {
       "readings": [
+        {
+          "text": "There are higher chances of you getting closer to people you like as your communication will be very smooth with them today. All these things can impact your health positively. This is not a good day for taking heavy workload, feels Ganesha.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "If there is a great weight of emotional energy surrounding you right now be reassured to know that with today's position of the planets this is to be expected! There's not much you can do to alter the effect of this aspect. You will want to stay focused on your exercise regimen, or create one at this time, in order to avoid feeling depressed. A healthy diet with lots of greens is good for you. Your energy will be greatly enhanced by drinking plenty of water as well.",
           "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
@@ -104,8 +132,8 @@
   "lucky": [
     {
       "src": "GaneshaSpeaks",
-      "number": "6",
-      "color": "Cream"
+      "number": "2",
+      "color": "Emerald Green"
     },
     {
       "src": "AstroSage",
@@ -152,9 +180,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 14918,
-        "k22": 13675,
-        "change22": 0,
+        "k24": 14917,
+        "k22": 13674,
+        "change22": -1,
         "date": "5 October 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -178,11 +206,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "Sep 25, 2026",
-        "k22": 14010,
-        "k24": 15284
-      },
       {
         "date": "Sep 26, 2026",
         "k22": 13995,
@@ -227,6 +250,11 @@
         "date": "Oct 04, 2026",
         "k22": 13675,
         "k24": 14918
+      },
+      {
+        "date": "Oct 05, 2026",
+        "k22": 13674,
+        "k24": 14917
       }
     ]
   },
@@ -234,14 +262,30 @@
     "ganesha": {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "04-10-2026",
-      "text": null,
+      "ok": true,
+      "source_date": "05-10-2026",
+      "text": "Ganesha sees you taking a day off from your work and immersing your self in domestic activities. A lot of time will be spent blissfully with your family folk chatting away or doing this and that. The idea of getting your interiors redone and give your house a new look will surely occur to you. Instead of doing things on your own, it is very likely you will engage a professional for the job.",
       "lucky": {
-        "number": "6",
-        "color": "Cream"
+        "number": "2",
+        "color": "Emerald Green"
       },
-      "areas": {}
+      "areas": {
+        "health": {
+          "text": "There are higher chances of you getting closer to people you like as your communication will be very smooth with them today. All these things can impact your health positively. This is not a good day for taking heavy workload, feels Ganesha.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "money": {
+          "text": "Ganesha advises that it is better to think twice before spending money. You should not take decisions impulsively and should see to it that money is spent in right direction at the right time.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "career": {
+          "text": "Bravo! You will win your challenge today. You will get devoted to work throughout the day. Your focus and sincerity will accomplish many difficult tasks and eventually fetch appreciation from colleagues and boss. As a result, you may receive some important gains, feels Ganesha.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        }
+      }
     },
     "hc_general": {
       "text": "You may be confused when it comes to matters of the heart, Taurus. Perhaps you feel cheated when the object of your desire doesn't give you complete attention at all times. The fundamental security of your being is your responsibility, not someone else's. Find a way to incorporate your dreams into the dreams of others instead of always working toward goals at opposite sides of the spectrum.",
@@ -311,18 +355,176 @@
         }
       ]
     },
-    "wx_home": null,
-    "wxlog_home": {},
-    "wx_office": null,
-    "wxlog_office": {},
+    "wx_home": {
+      "key": "home",
+      "name": "Home",
+      "area": "",
+      "label": "Clear sky",
+      "icon": "☀️",
+      "now": {
+        "iso": "2026-10-05T06:45",
+        "time": "6:45 AM",
+        "hour": 6.75,
+        "temp": 24,
+        "feels": 28,
+        "humidity": 80,
+        "label": "Clear sky",
+        "icon": "☀️"
+      },
+      "high": 33,
+      "low": 24,
+      "rain": 0,
+      "uv": 8.3,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 28,
+          "rain": 0
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 32,
+          "rain": 0
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 28,
+          "rain": 0
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌙",
+          "label": "Clear sky",
+          "temp": 24,
+          "rain": 0
+        }
+      ],
+      "log": {
+        "Morning": {
+          "iso": "2026-10-05T06:45",
+          "time": "6:45 AM",
+          "temp": 24,
+          "feels": 28,
+          "humidity": 80,
+          "label": "Clear sky",
+          "icon": "☀️"
+        }
+      }
+    },
+    "wxlog_home": {
+      "Morning": {
+        "iso": "2026-10-05T06:45",
+        "time": "6:45 AM",
+        "temp": 24,
+        "feels": 28,
+        "humidity": 80,
+        "label": "Clear sky",
+        "icon": "☀️"
+      }
+    },
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Clear sky",
+      "icon": "☀️",
+      "now": {
+        "iso": "2026-10-05T06:45",
+        "time": "6:45 AM",
+        "hour": 6.75,
+        "temp": 23,
+        "feels": 27,
+        "humidity": 87,
+        "label": "Clear sky",
+        "icon": "☀️"
+      },
+      "high": 32,
+      "low": 23,
+      "rain": 0,
+      "uv": 8.3,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 28,
+          "rain": 0
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 32,
+          "rain": 0
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 28,
+          "rain": 0
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌙",
+          "label": "Clear sky",
+          "temp": 24,
+          "rain": 0
+        }
+      ],
+      "log": {
+        "Morning": {
+          "iso": "2026-10-05T06:45",
+          "time": "6:45 AM",
+          "temp": 23,
+          "feels": 27,
+          "humidity": 87,
+          "label": "Clear sky",
+          "icon": "☀️"
+        }
+      }
+    },
+    "wxlog_office": {
+      "Morning": {
+        "iso": "2026-10-05T06:45",
+        "time": "6:45 AM",
+        "temp": 23,
+        "feels": 27,
+        "humidity": 87,
+        "label": "Clear sky",
+        "icon": "☀️"
+      }
+    },
     "gold": {
       "rows": {
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 14918,
-          "k22": 13675,
-          "change22": 0,
+          "k24": 14917,
+          "k22": 13674,
+          "change22": -1,
           "date": "5 October 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -346,11 +548,6 @@
         }
       },
       "trend": [
-        {
-          "date": "Sep 25, 2026",
-          "k22": 14010,
-          "k24": 15284
-        },
         {
           "date": "Sep 26, 2026",
           "k22": 13995,
@@ -395,6 +592,11 @@
           "date": "Oct 04, 2026",
           "k22": 13675,
           "k24": 14918
+        },
+        {
+          "date": "Oct 05, 2026",
+          "k22": 13674,
+          "k24": 14917
         }
       ]
     }
@@ -427,5 +629,149 @@
       "days": 6
     }
   },
-  "weather": null
+  "weather": {
+    "date": "2026-10-05",
+    "places": [
+      {
+        "key": "home",
+        "name": "Home",
+        "area": "",
+        "label": "Clear sky",
+        "icon": "☀️",
+        "now": {
+          "iso": "2026-10-05T06:45",
+          "time": "6:45 AM",
+          "hour": 6.75,
+          "temp": 24,
+          "feels": 28,
+          "humidity": 80,
+          "label": "Clear sky",
+          "icon": "☀️"
+        },
+        "high": 33,
+        "low": 24,
+        "rain": 0,
+        "uv": 8.3,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 28,
+            "rain": 0
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 32,
+            "rain": 0
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 28,
+            "rain": 0
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌙",
+            "label": "Clear sky",
+            "temp": 24,
+            "rain": 0
+          }
+        ],
+        "log": {
+          "Morning": {
+            "iso": "2026-10-05T06:45",
+            "time": "6:45 AM",
+            "temp": 24,
+            "feels": 28,
+            "humidity": 80,
+            "label": "Clear sky",
+            "icon": "☀️"
+          }
+        }
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
+        "label": "Clear sky",
+        "icon": "☀️",
+        "now": {
+          "iso": "2026-10-05T06:45",
+          "time": "6:45 AM",
+          "hour": 6.75,
+          "temp": 23,
+          "feels": 27,
+          "humidity": 87,
+          "label": "Clear sky",
+          "icon": "☀️"
+        },
+        "high": 32,
+        "low": 23,
+        "rain": 0,
+        "uv": 8.3,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 28,
+            "rain": 0
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 32,
+            "rain": 0
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 28,
+            "rain": 0
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌙",
+            "label": "Clear sky",
+            "temp": 24,
+            "rain": 0
+          }
+        ],
+        "log": {
+          "Morning": {
+            "iso": "2026-10-05T06:45",
+            "time": "6:45 AM",
+            "temp": 23,
+            "feels": 27,
+            "humidity": 87,
+            "label": "Clear sky",
+            "icon": "☀️"
+          }
+        }
+      }
+    ]
+  }
 }
