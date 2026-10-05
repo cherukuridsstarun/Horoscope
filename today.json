@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Monday, 05 October 2026",
   "date_key": "2026-10-05",
-  "fetched_ist": "05 Oct 2026, 01:18 PM IST",
+  "fetched_ist": "05 Oct 2026, 09:29 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -198,8 +198,8 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13537,
-        "k24": 14779,
+        "k22": 13575,
+        "k24": 14820,
         "change22": null,
         "date": "5 October 2026",
         "url": "https://ibjarates.com/"
@@ -362,16 +362,16 @@
       "label": "Clear sky",
       "icon": "☀️",
       "now": {
-        "iso": "2026-10-05T13:15",
-        "time": "1:15 PM",
-        "hour": 13.25,
-        "temp": 32,
-        "feels": 33,
-        "humidity": 30,
+        "iso": "2026-10-05T21:15",
+        "time": "9:15 PM",
+        "hour": 21.25,
+        "temp": 27,
+        "feels": 28,
+        "humidity": 48,
         "label": "Clear sky",
-        "icon": "☀️"
+        "icon": "🌙"
       },
-      "high": 32,
+      "high": 33,
       "low": 24,
       "rain": 0,
       "uv": 8.3,
@@ -400,7 +400,7 @@
           "to": 21,
           "icon": "☀️",
           "label": "Clear sky",
-          "temp": 29,
+          "temp": 28,
           "rain": 0
         },
         {
@@ -431,6 +431,15 @@
           "humidity": 30,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Night": {
+          "iso": "2026-10-05T21:15",
+          "time": "9:15 PM",
+          "temp": 27,
+          "feels": 28,
+          "humidity": 48,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -452,6 +461,15 @@
         "humidity": 30,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Night": {
+        "iso": "2026-10-05T21:15",
+        "time": "9:15 PM",
+        "temp": 27,
+        "feels": 28,
+        "humidity": 48,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "wx_office": {
@@ -461,14 +479,14 @@
       "label": "Clear sky",
       "icon": "☀️",
       "now": {
-        "iso": "2026-10-05T13:15",
-        "time": "1:15 PM",
-        "hour": 13.25,
-        "temp": 32,
-        "feels": 33,
-        "humidity": 28,
+        "iso": "2026-10-05T21:15",
+        "time": "9:15 PM",
+        "hour": 21.25,
+        "temp": 26,
+        "feels": 27,
+        "humidity": 53,
         "label": "Clear sky",
-        "icon": "☀️"
+        "icon": "🌙"
       },
       "high": 32,
       "low": 23,
@@ -508,7 +526,7 @@
           "to": 30,
           "icon": "🌙",
           "label": "Clear sky",
-          "temp": 24,
+          "temp": 23,
           "rain": 0
         }
       ],
@@ -530,6 +548,15 @@
           "humidity": 28,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Night": {
+          "iso": "2026-10-05T21:15",
+          "time": "9:15 PM",
+          "temp": 26,
+          "feels": 27,
+          "humidity": 53,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -551,6 +578,15 @@
         "humidity": 28,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Night": {
+        "iso": "2026-10-05T21:15",
+        "time": "9:15 PM",
+        "temp": 26,
+        "feels": 27,
+        "humidity": 53,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "gold": {
@@ -576,8 +612,8 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13537,
-          "k24": 14779,
+          "k22": 13575,
+          "k24": 14820,
           "change22": null,
           "date": "5 October 2026",
           "url": "https://ibjarates.com/"
@@ -675,16 +711,16 @@
         "label": "Clear sky",
         "icon": "☀️",
         "now": {
-          "iso": "2026-10-05T13:15",
-          "time": "1:15 PM",
-          "hour": 13.25,
-          "temp": 32,
-          "feels": 33,
-          "humidity": 30,
+          "iso": "2026-10-05T21:15",
+          "time": "9:15 PM",
+          "hour": 21.25,
+          "temp": 27,
+          "feels": 28,
+          "humidity": 48,
           "label": "Clear sky",
-          "icon": "☀️"
+          "icon": "🌙"
         },
-        "high": 32,
+        "high": 33,
         "low": 24,
         "rain": 0,
         "uv": 8.3,
@@ -713,7 +749,7 @@
             "to": 21,
             "icon": "☀️",
             "label": "Clear sky",
-            "temp": 29,
+            "temp": 28,
             "rain": 0
           },
           {
@@ -744,6 +780,15 @@
             "humidity": 30,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Night": {
+            "iso": "2026-10-05T21:15",
+            "time": "9:15 PM",
+            "temp": 27,
+            "feels": 28,
+            "humidity": 48,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       },
@@ -754,14 +799,14 @@
         "label": "Clear sky",
         "icon": "☀️",
         "now": {
-          "iso": "2026-10-05T13:15",
-          "time": "1:15 PM",
-          "hour": 13.25,
-          "temp": 32,
-          "feels": 33,
-          "humidity": 28,
+          "iso": "2026-10-05T21:15",
+          "time": "9:15 PM",
+          "hour": 21.25,
+          "temp": 26,
+          "feels": 27,
+          "humidity": 53,
           "label": "Clear sky",
-          "icon": "☀️"
+          "icon": "🌙"
         },
         "high": 32,
         "low": 23,
@@ -801,7 +846,7 @@
             "to": 30,
             "icon": "🌙",
             "label": "Clear sky",
-            "temp": 24,
+            "temp": 23,
             "rain": 0
           }
         ],
@@ -823,6 +868,15 @@
             "humidity": 28,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Night": {
+            "iso": "2026-10-05T21:15",
+            "time": "9:15 PM",
+            "temp": 26,
+            "feels": 27,
+            "humidity": 53,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       }
