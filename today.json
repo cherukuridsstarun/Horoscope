@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 06 October 2026",
   "date_key": "2026-10-06",
-  "fetched_ist": "06 Oct 2026, 02:41 AM IST",
+  "fetched_ist": "06 Oct 2026, 03:47 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -210,7 +210,7 @@
         "k22": 13575,
         "k24": 14820,
         "change22": null,
-        "date": "6 October 2026",
+        "date": "5 October 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -371,12 +371,12 @@
       "label": "Mostly clear",
       "icon": "🌤️",
       "now": {
-        "iso": "2026-10-06T02:30",
-        "time": "2:30 AM",
-        "hour": 2.5,
+        "iso": "2026-10-06T03:45",
+        "time": "3:45 AM",
+        "hour": 3.75,
         "temp": 24,
-        "feels": 26,
-        "humidity": 53,
+        "feels": 25,
+        "humidity": 54,
         "label": "Clear sky",
         "icon": "🌙"
       },
@@ -432,12 +432,12 @@
       "label": "Clear sky",
       "icon": "☀️",
       "now": {
-        "iso": "2026-10-06T02:30",
-        "time": "2:30 AM",
-        "hour": 2.5,
-        "temp": 24,
+        "iso": "2026-10-06T03:45",
+        "time": "3:45 AM",
+        "hour": 3.75,
+        "temp": 23,
         "feels": 24,
-        "humidity": 54,
+        "humidity": 58,
         "label": "Clear sky",
         "icon": "🌙"
       },
@@ -512,7 +512,7 @@
           "k22": 13575,
           "k24": 14820,
           "change22": null,
-          "date": "6 October 2026",
+          "date": "5 October 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -614,12 +614,12 @@
         "label": "Mostly clear",
         "icon": "🌤️",
         "now": {
-          "iso": "2026-10-06T02:30",
-          "time": "2:30 AM",
-          "hour": 2.5,
+          "iso": "2026-10-06T03:45",
+          "time": "3:45 AM",
+          "hour": 3.75,
           "temp": 24,
-          "feels": 26,
-          "humidity": 53,
+          "feels": 25,
+          "humidity": 54,
           "label": "Clear sky",
           "icon": "🌙"
         },
@@ -674,12 +674,12 @@
         "label": "Clear sky",
         "icon": "☀️",
         "now": {
-          "iso": "2026-10-06T02:30",
-          "time": "2:30 AM",
-          "hour": 2.5,
-          "temp": 24,
+          "iso": "2026-10-06T03:45",
+          "time": "3:45 AM",
+          "hour": 3.75,
+          "temp": 23,
           "feels": 24,
-          "humidity": 54,
+          "humidity": 58,
           "label": "Clear sky",
           "icon": "🌙"
         },
