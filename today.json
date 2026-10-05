@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Monday, 05 October 2026",
   "date_key": "2026-10-05",
-  "fetched_ist": "05 Oct 2026, 11:16 AM IST",
+  "fetched_ist": "05 Oct 2026, 01:18 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 5, 2026",
       "text": "Perhaps you feel cheated when the object of your desire doesn't give you complete attention at all times. The fundamental security of your being is your responsibility, not someone else's. Find a way to incorporate your dreams into the dreams of others instead of always working toward goals at opposite sides of the spectrum."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 5, 2026",
       "text": "Sudden changes to your environment might feel exciting at first, but could ultimately throw you off balance. Take time to catch your breath and steady your emotions while Saturn activates. Solitude will be the key to reclaiming peace, so don't hesitate to silence your phone before hiding away. Your productivity spikes when the Sun and Luna align this afternoon, and there won't be much that can stop you once you get moving."
@@ -70,7 +70,7 @@
         },
         {
           "text": "A four-week trend begins today that will have a major effect on your career, so it is important to be mindful of this whether you are at work or not. For the next four weeks, there will be obstacles, and a major change in direction is necessary.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -101,7 +101,7 @@
           "src": "GaneshaSpeaks"
         },
         {
-          "text": "You're a social butterfly capable of attracting just the right mix of business and pleasure into your life. Your pursuit of excellence in the mental arena is of primary importance.",
+          "text": "You may need to reconsider recent financial plans. Your head is full of all kinds of amazingly creative ideas. If you're a writer, journalist, or publisher, this is a great time to be you. But you need to use these gifts in a responsible way. Make sure you're saving your money with a reliable company.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
           "src": "Horoscope.com · this week"
         }
@@ -122,7 +122,7 @@
         },
         {
           "text": "If there is a great weight of emotional energy surrounding you right now be reassured to know that with today's position of the planets this is to be expected! There's not much you can do to alter the effect of this aspect. You will want to stay focused on your exercise regimen, or create one at this time, in order to avoid feeling depressed. A healthy diet with lots of greens is good for you. Your energy will be greatly enhanced by drinking plenty of water as well.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -198,10 +198,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13569,
-        "k24": 14814,
+        "k22": 13537,
+        "k24": 14779,
         "change22": null,
-        "date": "1 October 2026",
+        "date": "5 October 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -290,25 +290,25 @@
     "hc_general": {
       "text": "You may be confused when it comes to matters of the heart, Taurus. Perhaps you feel cheated when the object of your desire doesn't give you complete attention at all times. The fundamental security of your being is your responsibility, not someone else's. Find a way to incorporate your dreams into the dreams of others instead of always working toward goals at opposite sides of the spectrum.",
       "date": "Oct 5, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "A four-week trend begins today that will have a major effect on your career, so it is important to be mindful of this whether you are at work or not. For the next four weeks, there will be obstacles, and a major change in direction is necessary.",
       "date": "Oct 5, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "If there is a great weight of emotional energy surrounding you right now be reassured to know that with today's position of the planets this is to be expected! There's not much you can do to alter the effect of this aspect. You will want to stay focused on your exercise regimen, or create one at this time, in order to avoid feeling depressed. A healthy diet with lots of greens is good for you. Your energy will be greatly enhanced by drinking plenty of water as well.",
       "date": "Oct 5, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
-      "text": "For you, this week is about your relationship sector. You're a social butterfly capable of attracting just the right mix of business and pleasure into your life. Your pursuit of excellence in the mental arena is of primary importance. Your family, kids, and romantic partner make excellent diversions but shouldn't keep you from your focus.",
+      "text": "You may need to reconsider recent financial plans. Your head is full of all kinds of amazingly creative ideas. If you're a writer, journalist, or publisher, this is a great time to be you. But you need to use these gifts in a responsible way. Make sure you're saving your money with a reliable company.",
       "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2"
     },
     "ac": {
       "text": "Sudden changes to your environment might feel exciting at first, but could ultimately throw you off balance. Ease into your day as the Leo Moon aspects Uranus, Mercury, and Venus Rx, and check in with loved ones affected by any unexpected events that arise. Take time to catch your breath and steady your emotions while Saturn activates. Solitude will be the key to reclaiming peace, so don't hesitate to silence your phone before hiding away. Your productivity spikes when the Sun and Luna align this afternoon, and there won't be much that can stop you once you get moving.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -362,16 +362,16 @@
       "label": "Clear sky",
       "icon": "☀️",
       "now": {
-        "iso": "2026-10-05T11:15",
-        "time": "11:15 AM",
-        "hour": 11.25,
+        "iso": "2026-10-05T13:15",
+        "time": "1:15 PM",
+        "hour": 13.25,
         "temp": 32,
-        "feels": 34,
-        "humidity": 32,
+        "feels": 33,
+        "humidity": 30,
         "label": "Clear sky",
         "icon": "☀️"
       },
-      "high": 33,
+      "high": 32,
       "low": 24,
       "rain": 0,
       "uv": 8.3,
@@ -400,7 +400,7 @@
           "to": 21,
           "icon": "☀️",
           "label": "Clear sky",
-          "temp": 28,
+          "temp": 29,
           "rain": 0
         },
         {
@@ -409,7 +409,7 @@
           "to": 30,
           "icon": "🌙",
           "label": "Clear sky",
-          "temp": 24,
+          "temp": 25,
           "rain": 0
         }
       ],
@@ -420,6 +420,15 @@
           "temp": 32,
           "feels": 34,
           "humidity": 32,
+          "label": "Clear sky",
+          "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-05T13:15",
+          "time": "1:15 PM",
+          "temp": 32,
+          "feels": 33,
+          "humidity": 30,
           "label": "Clear sky",
           "icon": "☀️"
         }
@@ -434,6 +443,15 @@
         "humidity": 32,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-05T13:15",
+        "time": "1:15 PM",
+        "temp": 32,
+        "feels": 33,
+        "humidity": 30,
+        "label": "Clear sky",
+        "icon": "☀️"
       }
     },
     "wx_office": {
@@ -443,12 +461,12 @@
       "label": "Clear sky",
       "icon": "☀️",
       "now": {
-        "iso": "2026-10-05T11:15",
-        "time": "11:15 AM",
-        "hour": 11.25,
+        "iso": "2026-10-05T13:15",
+        "time": "1:15 PM",
+        "hour": 13.25,
         "temp": 32,
         "feels": 33,
-        "humidity": 32,
+        "humidity": 28,
         "label": "Clear sky",
         "icon": "☀️"
       },
@@ -503,6 +521,15 @@
           "humidity": 32,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-05T13:15",
+          "time": "1:15 PM",
+          "temp": 32,
+          "feels": 33,
+          "humidity": 28,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -513,6 +540,15 @@
         "temp": 32,
         "feels": 33,
         "humidity": 32,
+        "label": "Clear sky",
+        "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-05T13:15",
+        "time": "1:15 PM",
+        "temp": 32,
+        "feels": 33,
+        "humidity": 28,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -540,10 +576,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13569,
-          "k24": 14814,
+          "k22": 13537,
+          "k24": 14779,
           "change22": null,
-          "date": "1 October 2026",
+          "date": "5 October 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -639,16 +675,16 @@
         "label": "Clear sky",
         "icon": "☀️",
         "now": {
-          "iso": "2026-10-05T11:15",
-          "time": "11:15 AM",
-          "hour": 11.25,
+          "iso": "2026-10-05T13:15",
+          "time": "1:15 PM",
+          "hour": 13.25,
           "temp": 32,
-          "feels": 34,
-          "humidity": 32,
+          "feels": 33,
+          "humidity": 30,
           "label": "Clear sky",
           "icon": "☀️"
         },
-        "high": 33,
+        "high": 32,
         "low": 24,
         "rain": 0,
         "uv": 8.3,
@@ -677,7 +713,7 @@
             "to": 21,
             "icon": "☀️",
             "label": "Clear sky",
-            "temp": 28,
+            "temp": 29,
             "rain": 0
           },
           {
@@ -686,7 +722,7 @@
             "to": 30,
             "icon": "🌙",
             "label": "Clear sky",
-            "temp": 24,
+            "temp": 25,
             "rain": 0
           }
         ],
@@ -699,6 +735,15 @@
             "humidity": 32,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-05T13:15",
+            "time": "1:15 PM",
+            "temp": 32,
+            "feels": 33,
+            "humidity": 30,
+            "label": "Clear sky",
+            "icon": "☀️"
           }
         }
       },
@@ -709,12 +754,12 @@
         "label": "Clear sky",
         "icon": "☀️",
         "now": {
-          "iso": "2026-10-05T11:15",
-          "time": "11:15 AM",
-          "hour": 11.25,
+          "iso": "2026-10-05T13:15",
+          "time": "1:15 PM",
+          "hour": 13.25,
           "temp": 32,
           "feels": 33,
-          "humidity": 32,
+          "humidity": 28,
           "label": "Clear sky",
           "icon": "☀️"
         },
@@ -767,6 +812,15 @@
             "temp": 32,
             "feels": 33,
             "humidity": 32,
+            "label": "Clear sky",
+            "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-05T13:15",
+            "time": "1:15 PM",
+            "temp": 32,
+            "feels": 33,
+            "humidity": 28,
             "label": "Clear sky",
             "icon": "☀️"
           }
