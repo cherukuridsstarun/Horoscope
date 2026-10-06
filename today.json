@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 06 October 2026",
   "date_key": "2026-10-06",
-  "fetched_ist": "06 Oct 2026, 01:44 PM IST",
+  "fetched_ist": "06 Oct 2026, 07:40 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -207,8 +207,8 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13491,
-        "k24": 14728,
+        "k22": 13600,
+        "k24": 14847,
         "change22": null,
         "date": "6 October 2026",
         "url": "https://ibjarates.com/"
@@ -371,14 +371,14 @@
       "label": "Partly cloudy",
       "icon": "⛅",
       "now": {
-        "iso": "2026-10-06T13:30",
-        "time": "1:30 PM",
-        "hour": 13.5,
-        "temp": 33,
-        "feels": 33,
-        "humidity": 29,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "iso": "2026-10-06T19:30",
+        "time": "7:30 PM",
+        "hour": 19.5,
+        "temp": 28,
+        "feels": 29,
+        "humidity": 46,
+        "label": "Clear sky",
+        "icon": "🌙"
       },
       "high": 33,
       "low": 23,
@@ -440,6 +440,15 @@
           "humidity": 29,
           "label": "Mostly clear",
           "icon": "🌤️"
+        },
+        "Evening": {
+          "iso": "2026-10-06T19:30",
+          "time": "7:30 PM",
+          "temp": 28,
+          "feels": 29,
+          "humidity": 46,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -461,23 +470,32 @@
         "humidity": 29,
         "label": "Mostly clear",
         "icon": "🌤️"
+      },
+      "Evening": {
+        "iso": "2026-10-06T19:30",
+        "time": "7:30 PM",
+        "temp": 28,
+        "feels": 29,
+        "humidity": 46,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Mostly clear",
-      "icon": "🌤️",
+      "label": "Clear sky",
+      "icon": "☀️",
       "now": {
-        "iso": "2026-10-06T13:30",
-        "time": "1:30 PM",
-        "hour": 13.5,
-        "temp": 33,
-        "feels": 33,
-        "humidity": 29,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "iso": "2026-10-06T19:30",
+        "time": "7:30 PM",
+        "hour": 19.5,
+        "temp": 28,
+        "feels": 28,
+        "humidity": 43,
+        "label": "Clear sky",
+        "icon": "🌙"
       },
       "high": 33,
       "low": 23,
@@ -497,8 +515,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "☀️",
+          "label": "Clear sky",
           "temp": 32,
           "rain": 2
         },
@@ -539,6 +557,15 @@
           "humidity": 29,
           "label": "Mostly clear",
           "icon": "🌤️"
+        },
+        "Evening": {
+          "iso": "2026-10-06T19:30",
+          "time": "7:30 PM",
+          "temp": 28,
+          "feels": 28,
+          "humidity": 43,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -560,6 +587,15 @@
         "humidity": 29,
         "label": "Mostly clear",
         "icon": "🌤️"
+      },
+      "Evening": {
+        "iso": "2026-10-06T19:30",
+        "time": "7:30 PM",
+        "temp": 28,
+        "feels": 28,
+        "humidity": 43,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "gold": {
@@ -585,8 +621,8 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13491,
-          "k24": 14728,
+          "k22": 13600,
+          "k24": 14847,
           "change22": null,
           "date": "6 October 2026",
           "url": "https://ibjarates.com/"
@@ -690,14 +726,14 @@
         "label": "Partly cloudy",
         "icon": "⛅",
         "now": {
-          "iso": "2026-10-06T13:30",
-          "time": "1:30 PM",
-          "hour": 13.5,
-          "temp": 33,
-          "feels": 33,
-          "humidity": 29,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "iso": "2026-10-06T19:30",
+          "time": "7:30 PM",
+          "hour": 19.5,
+          "temp": 28,
+          "feels": 29,
+          "humidity": 46,
+          "label": "Clear sky",
+          "icon": "🌙"
         },
         "high": 33,
         "low": 23,
@@ -759,6 +795,15 @@
             "humidity": 29,
             "label": "Mostly clear",
             "icon": "🌤️"
+          },
+          "Evening": {
+            "iso": "2026-10-06T19:30",
+            "time": "7:30 PM",
+            "temp": 28,
+            "feels": 29,
+            "humidity": 46,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       },
@@ -766,17 +811,17 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Mostly clear",
-        "icon": "🌤️",
+        "label": "Clear sky",
+        "icon": "☀️",
         "now": {
-          "iso": "2026-10-06T13:30",
-          "time": "1:30 PM",
-          "hour": 13.5,
-          "temp": 33,
-          "feels": 33,
-          "humidity": 29,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "iso": "2026-10-06T19:30",
+          "time": "7:30 PM",
+          "hour": 19.5,
+          "temp": 28,
+          "feels": 28,
+          "humidity": 43,
+          "label": "Clear sky",
+          "icon": "🌙"
         },
         "high": 33,
         "low": 23,
@@ -796,8 +841,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "☀️",
+            "label": "Clear sky",
             "temp": 32,
             "rain": 2
           },
@@ -838,6 +883,15 @@
             "humidity": 29,
             "label": "Mostly clear",
             "icon": "🌤️"
+          },
+          "Evening": {
+            "iso": "2026-10-06T19:30",
+            "time": "7:30 PM",
+            "temp": 28,
+            "feels": 28,
+            "humidity": 43,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       }
