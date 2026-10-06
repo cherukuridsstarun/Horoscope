@@ -2,14 +2,14 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 07 October 2026",
   "date_key": "2026-10-07",
-  "fetched_ist": "07 Oct 2026, 12:20 AM IST",
+  "fetched_ist": "07 Oct 2026, 02:13 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "06-10-2026",
-      "text": null
+      "ok": true,
+      "source_date": "07-10-2026",
+      "text": "This day you will be prone to be stubborn and uncompromising in your business and professional dealings and thereby inviting unnecessary problems. Ganesha urges you to guard against this tendency and conduct yourself cordially and amiably with your colleagues and clients. The day will turn out well for executives and administrators. Do not fret too much about the work in hand. Things will turn out fine."
     },
     {
       "name": "Horoscope.com",
@@ -58,11 +58,19 @@
     ],
     "heads": [
       {
+        "t": "This day you will be prone to be stubborn and uncompromising in your business and professional dealings and thereby inviting unnecessary problems.",
+        "src": "GaneshaSpeaks"
+      },
+      {
         "t": "However, this energy can make you vulnerable to impulsive spending you may later regret.",
         "src": "Astrology.com"
       }
     ],
     "todo": [
+      {
+        "t": "Do not fret too much about the work in hand.",
+        "src": "GaneshaSpeaks"
+      },
       {
         "t": "Water your plants today and make sure they're getting enough light, Taurus.",
         "src": "Horoscope.com"
@@ -73,12 +81,29 @@
     "career": {
       "readings": [
         {
+          "text": "A good day for those involved in the administrative work. Your strong leadership skills will help you guide your teammates. Beware of technical problems, warns Ganesha. Firm decision making regarding technical issues will result in an effective flow of works, says Ganesha.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "Lady Luck is with you, so take advantage of opportunities when you see them. Hesitation and doubt should not be allowed in. Caution is not needed when you simply know that what's staring you in the face is the best thing for you. Go for it!",
           "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
       "bits": [
+        {
+          "t": "This day you will be prone to be stubborn and uncompromising in your business and professional dealings and thereby inviting unnecessary problems.",
+          "src": "GaneshaSpeaks"
+        },
+        {
+          "t": "Ganesha urges you to guard against this tendency and conduct yourself cordially and amiably with your colleagues and clients.",
+          "src": "GaneshaSpeaks"
+        },
+        {
+          "t": "Do not fret too much about the work in hand.",
+          "src": "GaneshaSpeaks"
+        },
         {
           "t": "If you don't have any plants, take this opportunity to go to the nursery and pick up a couple for your home or office.",
           "src": "Horoscope.com"
@@ -92,12 +117,21 @@
     "money": {
       "readings": [
         {
+          "text": "On the financial front, Ganesha predicts that things will just be so-so today. However, you shall not face any sort of financial constraint, and shall be comfortable on this front.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "You may need to reconsider recent financial plans. Your head is full of all kinds of amazingly creative ideas. If you're a writer, journalist, or publisher, this is a great time to be you. But you need to use these gifts in a responsible way. Make sure you're saving your money with a reliable company.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
           "src": "Horoscope.com · this week"
         }
       ],
       "bits": [
+        {
+          "t": "This day you will be prone to be stubborn and uncompromising in your business and professional dealings and thereby inviting unnecessary problems.",
+          "src": "GaneshaSpeaks"
+        },
         {
           "t": "However, this energy can make you vulnerable to impulsive spending you may later regret.",
           "src": "Astrology.com"
@@ -110,6 +144,11 @@
     },
     "health": {
       "readings": [
+        {
+          "text": "You will not face any major health issue today. Ganesha suggests you to avoid seeking emotional or moral support from others, as there are chances of disappointment. You should trust your own feelings and abilities in everything that you are dealing with.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "You feel the wind at your back with the planetary configuration of the day. You feel alive and well despite your tendency to overwork yourself at times! Go forward with your healthful habits this week. Priority should be on eating a balanced diet, so cut back on bread and remember you can never drink too much water. In fact, a light fast would greatly increase your energy. Try to eat lightly and rule out carbohydrates and milk products every other day for five days.",
           "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
@@ -127,8 +166,8 @@
   "lucky": [
     {
       "src": "GaneshaSpeaks",
-      "number": "6",
-      "color": "Pastel Pink"
+      "number": "1",
+      "color": "Light Olive Green"
     },
     {
       "src": "AstroSage",
@@ -257,14 +296,30 @@
     "ganesha": {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "06-10-2026",
-      "text": null,
+      "ok": true,
+      "source_date": "07-10-2026",
+      "text": "This day you will be prone to be stubborn and uncompromising in your business and professional dealings and thereby inviting unnecessary problems. Ganesha urges you to guard against this tendency and conduct yourself cordially and amiably with your colleagues and clients. The day will turn out well for executives and administrators. Do not fret too much about the work in hand. Things will turn out fine.",
       "lucky": {
-        "number": "6",
-        "color": "Pastel Pink"
+        "number": "1",
+        "color": "Light Olive Green"
       },
-      "areas": {}
+      "areas": {
+        "health": {
+          "text": "You will not face any major health issue today. Ganesha suggests you to avoid seeking emotional or moral support from others, as there are chances of disappointment. You should trust your own feelings and abilities in everything that you are dealing with.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "money": {
+          "text": "On the financial front, Ganesha predicts that things will just be so-so today. However, you shall not face any sort of financial constraint, and shall be comfortable on this front.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "career": {
+          "text": "A good day for those involved in the administrative work. Your strong leadership skills will help you guide your teammates. Beware of technical problems, warns Ganesha. Firm decision making regarding technical issues will result in an effective flow of works, says Ganesha.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        }
+      }
     },
     "hc_general": {
       "text": "Water your plants today and make sure they're getting enough light, Taurus. If you don't have any plants, take this opportunity to go to the nursery and pick up a couple for your home or office. Nourish the organic things in your life to help remind you of your own roots, which are extremely important for you right now. Sink deep into the Earth in order to understand the environment around you.",
@@ -334,9 +389,127 @@
         }
       ]
     },
-    "wx_home": null,
+    "wx_home": {
+      "key": "home",
+      "name": "Home",
+      "area": "",
+      "label": "Mostly clear",
+      "icon": "🌤️",
+      "now": {
+        "iso": "2026-10-07T02:00",
+        "time": "2:00 AM",
+        "hour": 2.0,
+        "temp": 25,
+        "feels": 26,
+        "humidity": 57,
+        "label": "Clear sky",
+        "icon": "🌙"
+      },
+      "high": 33,
+      "low": 24,
+      "rain": 72,
+      "uv": 8.15,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "🌤️",
+          "label": "Mostly clear",
+          "temp": 28,
+          "rain": 4
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌤️",
+          "label": "Mostly clear",
+          "temp": 33,
+          "rain": 72
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 29,
+          "rain": 61
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌙",
+          "label": "Clear sky",
+          "temp": 26,
+          "rain": 0
+        }
+      ],
+      "log": {}
+    },
     "wxlog_home": {},
-    "wx_office": null,
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Mostly clear",
+      "icon": "🌤️",
+      "now": {
+        "iso": "2026-10-07T02:00",
+        "time": "2:00 AM",
+        "hour": 2.0,
+        "temp": 25,
+        "feels": 25,
+        "humidity": 55,
+        "label": "Clear sky",
+        "icon": "🌙"
+      },
+      "high": 34,
+      "low": 23,
+      "rain": 72,
+      "uv": 8.15,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 29,
+          "rain": 4
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌤️",
+          "label": "Mostly clear",
+          "temp": 33,
+          "rain": 72
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 30,
+          "rain": 61
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌙",
+          "label": "Clear sky",
+          "temp": 25,
+          "rain": 0
+        }
+      ],
+      "log": {}
+    },
     "wxlog_office": {},
     "gold": {
       "rows": {
@@ -450,5 +623,129 @@
       "days": 4
     }
   },
-  "weather": null
+  "weather": {
+    "date": "2026-10-07",
+    "places": [
+      {
+        "key": "home",
+        "name": "Home",
+        "area": "",
+        "label": "Mostly clear",
+        "icon": "🌤️",
+        "now": {
+          "iso": "2026-10-07T02:00",
+          "time": "2:00 AM",
+          "hour": 2.0,
+          "temp": 25,
+          "feels": 26,
+          "humidity": 57,
+          "label": "Clear sky",
+          "icon": "🌙"
+        },
+        "high": 33,
+        "low": 24,
+        "rain": 72,
+        "uv": 8.15,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "🌤️",
+            "label": "Mostly clear",
+            "temp": 28,
+            "rain": 4
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌤️",
+            "label": "Mostly clear",
+            "temp": 33,
+            "rain": 72
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 29,
+            "rain": 61
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌙",
+            "label": "Clear sky",
+            "temp": 26,
+            "rain": 0
+          }
+        ],
+        "log": {}
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
+        "label": "Mostly clear",
+        "icon": "🌤️",
+        "now": {
+          "iso": "2026-10-07T02:00",
+          "time": "2:00 AM",
+          "hour": 2.0,
+          "temp": 25,
+          "feels": 25,
+          "humidity": 55,
+          "label": "Clear sky",
+          "icon": "🌙"
+        },
+        "high": 34,
+        "low": 23,
+        "rain": 72,
+        "uv": 8.15,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 29,
+            "rain": 4
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌤️",
+            "label": "Mostly clear",
+            "temp": 33,
+            "rain": 72
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 30,
+            "rain": 61
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌙",
+            "label": "Clear sky",
+            "temp": 25,
+            "rain": 0
+          }
+        ],
+        "log": {}
+      }
+    ]
+  }
 }
