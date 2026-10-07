@@ -2,14 +2,14 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 08 October 2026",
   "date_key": "2026-10-08",
-  "fetched_ist": "08 Oct 2026, 12:45 AM IST",
+  "fetched_ist": "08 Oct 2026, 02:26 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "07-10-2026",
-      "text": null
+      "ok": true,
+      "source_date": "08-10-2026",
+      "text": "You will focus on nurturing the positive aspects of your life today, says Ganesha. You might exhaust yourself mentally trying to set things straight. It would be better to brainstorm with someone close to you or approach people whom you have differences with. The nitty-gritty is fine, but do not forget the larger picture, suggests Ganesha."
     },
     {
       "name": "Horoscope.com",
@@ -35,6 +35,14 @@
   ],
   "glance": {
     "good": [
+      {
+        "t": "You will focus on nurturing the positive aspects of your life today, says Ganesha.",
+        "src": "GaneshaSpeaks"
+      },
+      {
+        "t": "It would be better to brainstorm with someone close to you or approach people whom you have differences with.",
+        "src": "GaneshaSpeaks"
+      },
       {
         "t": "You will possess a considerable amount of money today, and with it there will be peace of mind.",
         "src": "AstroSage"
@@ -81,6 +89,11 @@
     "career": {
       "readings": [
         {
+          "text": "Work will take a backseat today. You have to face a lot of challenges from the professional front. You need to prove people that you are a sincere worker. Failing to do so may create a wrong impression in the mind of your superiors.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "Your fast-paced, intense energy of the last couple days reaches a slow-down. You have come to a speed bump, and you are asked to apply the brakes. Don't fight this. Instead, accept the fact that slowing down your speed right now is for the best.",
           "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
@@ -104,6 +117,11 @@
     "money": {
       "readings": [
         {
+          "text": "Today Ganesha advises you to be extremely careful while taking any financial decision that’s concerns the commodity or stock market. Speculative transaction must be totally avoided.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "You may need to reconsider recent financial plans. Your head is full of all kinds of amazingly creative ideas. If you're a writer, journalist, or publisher, this is a great time to be you. But you need to use these gifts in a responsible way. Make sure you're saving your money with a reliable company.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
           "src": "Horoscope.com · this week"
@@ -122,6 +140,11 @@
     },
     "health": {
       "readings": [
+        {
+          "text": "Today, things may not happen as you had planned, and the results may not match your expectations, foretells Ganesha. Yet, you should remain composed and try your best to accomplish the tasks. But, not at the cost of your health.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "Making yourself truly comfortable in your body takes a lot of work. Have you ever seen people who look really physically fit, but still something makes them look awkward in their skin? There is more to being \"in shape\" than meets the eye. It's a whole process that starts with what you eat and how you eat it. (Do you eat on the fly? That doesn't help!) Get yourself eating what and how you would like to eat this week; the rest will follow.",
           "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
@@ -273,14 +296,30 @@
     "ganesha": {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "07-10-2026",
-      "text": null,
+      "ok": true,
+      "source_date": "08-10-2026",
+      "text": "You will focus on nurturing the positive aspects of your life today, says Ganesha. You might exhaust yourself mentally trying to set things straight. It would be better to brainstorm with someone close to you or approach people whom you have differences with. The nitty-gritty is fine, but do not forget the larger picture, suggests Ganesha.",
       "lucky": {
         "number": "2",
         "color": "Light Cream"
       },
-      "areas": {}
+      "areas": {
+        "health": {
+          "text": "Today, things may not happen as you had planned, and the results may not match your expectations, foretells Ganesha. Yet, you should remain composed and try your best to accomplish the tasks. But, not at the cost of your health.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "money": {
+          "text": "Today Ganesha advises you to be extremely careful while taking any financial decision that’s concerns the commodity or stock market. Speculative transaction must be totally avoided.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "career": {
+          "text": "Work will take a backseat today. You have to face a lot of challenges from the professional front. You need to prove people that you are a sincere worker. Failing to do so may create a wrong impression in the mind of your superiors.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        }
+      }
     },
     "hc_general": {
       "text": "When tension builds, your sense of security is likely to falter, Taurus. You may have a hard time dealing with other people. You could be tempted to turn to food or alcohol for inner nourishment. Curing emotional needs by indulging this way may temper your ailment for a while, but it isn't the solution to the overall problem. Work out the bugs with the people involved, and don't try to do it on an empty stomach.",
@@ -350,9 +389,127 @@
         }
       ]
     },
-    "wx_home": null,
+    "wx_home": {
+      "key": "home",
+      "name": "Home",
+      "area": "",
+      "label": "Drizzle",
+      "icon": "🌦️",
+      "now": {
+        "iso": "2026-10-08T02:15",
+        "time": "2:15 AM",
+        "hour": 2.25,
+        "temp": 25,
+        "feels": 28,
+        "humidity": 72,
+        "label": "Clear sky",
+        "icon": "🌙"
+      },
+      "high": 33,
+      "low": 24,
+      "rain": 49,
+      "uv": 8.15,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "🌤️",
+          "label": "Mostly clear",
+          "temp": 29,
+          "rain": 2
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌦️",
+          "label": "Drizzle",
+          "temp": 32,
+          "rain": 49
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 29,
+          "rain": 37
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌙",
+          "label": "Clear sky",
+          "temp": 25,
+          "rain": 0
+        }
+      ],
+      "log": {}
+    },
     "wxlog_home": {},
-    "wx_office": null,
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Light drizzle",
+      "icon": "🌦️",
+      "now": {
+        "iso": "2026-10-08T02:15",
+        "time": "2:15 AM",
+        "hour": 2.25,
+        "temp": 25,
+        "feels": 27,
+        "humidity": 70,
+        "label": "Clear sky",
+        "icon": "🌙"
+      },
+      "high": 33,
+      "low": 23,
+      "rain": 49,
+      "uv": 8.15,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "🌤️",
+          "label": "Mostly clear",
+          "temp": 28,
+          "rain": 2
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 32,
+          "rain": 49
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 28,
+          "rain": 37
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌙",
+          "label": "Clear sky",
+          "temp": 25,
+          "rain": 0
+        }
+      ],
+      "log": {}
+    },
     "wxlog_office": {},
     "gold": {
       "rows": {
@@ -472,5 +629,129 @@
       "days": 3
     }
   },
-  "weather": null
+  "weather": {
+    "date": "2026-10-08",
+    "places": [
+      {
+        "key": "home",
+        "name": "Home",
+        "area": "",
+        "label": "Drizzle",
+        "icon": "🌦️",
+        "now": {
+          "iso": "2026-10-08T02:15",
+          "time": "2:15 AM",
+          "hour": 2.25,
+          "temp": 25,
+          "feels": 28,
+          "humidity": 72,
+          "label": "Clear sky",
+          "icon": "🌙"
+        },
+        "high": 33,
+        "low": 24,
+        "rain": 49,
+        "uv": 8.15,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "🌤️",
+            "label": "Mostly clear",
+            "temp": 29,
+            "rain": 2
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌦️",
+            "label": "Drizzle",
+            "temp": 32,
+            "rain": 49
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 29,
+            "rain": 37
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌙",
+            "label": "Clear sky",
+            "temp": 25,
+            "rain": 0
+          }
+        ],
+        "log": {}
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
+        "label": "Light drizzle",
+        "icon": "🌦️",
+        "now": {
+          "iso": "2026-10-08T02:15",
+          "time": "2:15 AM",
+          "hour": 2.25,
+          "temp": 25,
+          "feels": 27,
+          "humidity": 70,
+          "label": "Clear sky",
+          "icon": "🌙"
+        },
+        "high": 33,
+        "low": 23,
+        "rain": 49,
+        "uv": 8.15,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "🌤️",
+            "label": "Mostly clear",
+            "temp": 28,
+            "rain": 2
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 32,
+            "rain": 49
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 28,
+            "rain": 37
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌙",
+            "label": "Clear sky",
+            "temp": 25,
+            "rain": 0
+          }
+        ],
+        "log": {}
+      }
+    ]
+  }
 }
