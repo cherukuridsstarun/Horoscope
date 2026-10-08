@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 08 October 2026",
   "date_key": "2026-10-08",
-  "fetched_ist": "08 Oct 2026, 01:35 PM IST",
+  "fetched_ist": "08 Oct 2026, 08:04 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -232,8 +232,8 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13508,
-        "k24": 14746,
+        "k22": 13524,
+        "k24": 14765,
         "change22": null,
         "date": "8 October 2026",
         "url": "https://ibjarates.com/"
@@ -396,14 +396,14 @@
       "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-10-08T13:30",
-        "time": "1:30 PM",
-        "hour": 13.5,
-        "temp": 32,
-        "feels": 34,
-        "humidity": 36,
-        "label": "Light drizzle",
-        "icon": "🌦️"
+        "iso": "2026-10-08T20:00",
+        "time": "8:00 PM",
+        "hour": 20.0,
+        "temp": 28,
+        "feels": 31,
+        "humidity": 61,
+        "label": "Clear sky",
+        "icon": "🌙"
       },
       "high": 32,
       "low": 24,
@@ -417,7 +417,7 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 28,
-          "rain": 2
+          "rain": 0
         },
         {
           "name": "Afternoon",
@@ -435,7 +435,7 @@
           "icon": "☀️",
           "label": "Clear sky",
           "temp": 29,
-          "rain": 53
+          "rain": 49
         },
         {
           "name": "Night",
@@ -465,6 +465,15 @@
           "humidity": 36,
           "label": "Light drizzle",
           "icon": "🌦️"
+        },
+        "Evening": {
+          "iso": "2026-10-08T20:00",
+          "time": "8:00 PM",
+          "temp": 28,
+          "feels": 31,
+          "humidity": 61,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -486,6 +495,15 @@
         "humidity": 36,
         "label": "Light drizzle",
         "icon": "🌦️"
+      },
+      "Evening": {
+        "iso": "2026-10-08T20:00",
+        "time": "8:00 PM",
+        "temp": 28,
+        "feels": 31,
+        "humidity": 61,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "wx_office": {
@@ -495,14 +513,14 @@
       "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-10-08T13:30",
-        "time": "1:30 PM",
-        "hour": 13.5,
-        "temp": 32,
-        "feels": 34,
-        "humidity": 35,
-        "label": "Light drizzle",
-        "icon": "🌦️"
+        "iso": "2026-10-08T20:00",
+        "time": "8:00 PM",
+        "hour": 20.0,
+        "temp": 28,
+        "feels": 30,
+        "humidity": 58,
+        "label": "Clear sky",
+        "icon": "🌙"
       },
       "high": 32,
       "low": 23,
@@ -516,7 +534,7 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 28,
-          "rain": 2
+          "rain": 0
         },
         {
           "name": "Afternoon",
@@ -534,7 +552,7 @@
           "icon": "☀️",
           "label": "Clear sky",
           "temp": 29,
-          "rain": 53
+          "rain": 49
         },
         {
           "name": "Night",
@@ -564,6 +582,15 @@
           "humidity": 35,
           "label": "Light drizzle",
           "icon": "🌦️"
+        },
+        "Evening": {
+          "iso": "2026-10-08T20:00",
+          "time": "8:00 PM",
+          "temp": 28,
+          "feels": 30,
+          "humidity": 58,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -585,6 +612,15 @@
         "humidity": 35,
         "label": "Light drizzle",
         "icon": "🌦️"
+      },
+      "Evening": {
+        "iso": "2026-10-08T20:00",
+        "time": "8:00 PM",
+        "temp": 28,
+        "feels": 30,
+        "humidity": 58,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "gold": {
@@ -610,8 +646,8 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13508,
-          "k24": 14746,
+          "k22": 13524,
+          "k24": 14765,
           "change22": null,
           "date": "8 October 2026",
           "url": "https://ibjarates.com/"
@@ -715,14 +751,14 @@
         "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-10-08T13:30",
-          "time": "1:30 PM",
-          "hour": 13.5,
-          "temp": 32,
-          "feels": 34,
-          "humidity": 36,
-          "label": "Light drizzle",
-          "icon": "🌦️"
+          "iso": "2026-10-08T20:00",
+          "time": "8:00 PM",
+          "hour": 20.0,
+          "temp": 28,
+          "feels": 31,
+          "humidity": 61,
+          "label": "Clear sky",
+          "icon": "🌙"
         },
         "high": 32,
         "low": 24,
@@ -736,7 +772,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 28,
-            "rain": 2
+            "rain": 0
           },
           {
             "name": "Afternoon",
@@ -754,7 +790,7 @@
             "icon": "☀️",
             "label": "Clear sky",
             "temp": 29,
-            "rain": 53
+            "rain": 49
           },
           {
             "name": "Night",
@@ -784,6 +820,15 @@
             "humidity": 36,
             "label": "Light drizzle",
             "icon": "🌦️"
+          },
+          "Evening": {
+            "iso": "2026-10-08T20:00",
+            "time": "8:00 PM",
+            "temp": 28,
+            "feels": 31,
+            "humidity": 61,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       },
@@ -794,14 +839,14 @@
         "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-10-08T13:30",
-          "time": "1:30 PM",
-          "hour": 13.5,
-          "temp": 32,
-          "feels": 34,
-          "humidity": 35,
-          "label": "Light drizzle",
-          "icon": "🌦️"
+          "iso": "2026-10-08T20:00",
+          "time": "8:00 PM",
+          "hour": 20.0,
+          "temp": 28,
+          "feels": 30,
+          "humidity": 58,
+          "label": "Clear sky",
+          "icon": "🌙"
         },
         "high": 32,
         "low": 23,
@@ -815,7 +860,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 28,
-            "rain": 2
+            "rain": 0
           },
           {
             "name": "Afternoon",
@@ -833,7 +878,7 @@
             "icon": "☀️",
             "label": "Clear sky",
             "temp": 29,
-            "rain": 53
+            "rain": 49
           },
           {
             "name": "Night",
@@ -863,6 +908,15 @@
             "humidity": 35,
             "label": "Light drizzle",
             "icon": "🌦️"
+          },
+          "Evening": {
+            "iso": "2026-10-08T20:00",
+            "time": "8:00 PM",
+            "temp": 28,
+            "feels": 30,
+            "humidity": 58,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       }
