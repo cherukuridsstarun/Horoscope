@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 08 October 2026",
   "date_key": "2026-10-08",
-  "fetched_ist": "08 Oct 2026, 11:40 AM IST",
+  "fetched_ist": "08 Oct 2026, 01:35 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 8, 2026",
       "text": "When tension builds, your sense of security is likely to falter, Taurus. You may have a hard time dealing with other people. You could be tempted to turn to food or alcohol for inner nourishment. Curing emotional needs by indulging this way may temper your ailment for a while, but it isn't the solution to the overall problem. Work out the bugs with the people involved, and don't try to do it on an empty stomach."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 8, 2026",
       "text": "It will be hard to focus as the Virgo Moon meanders the heavens in a void-of-course state, dearest Taurus—your productivity dips because of distracting peers and drifting thoughts. Colleagues may also seem out of sorts, which will intensify any slumps you are experiencing. If you can take a day off, consider it. If you don't have the freedom to do as you please, take more frequent but smaller breaks to shake away stagnant energy before it has a chance to build up."
@@ -95,7 +95,7 @@
         },
         {
           "text": "Your fast-paced, intense energy of the last couple days reaches a slow-down. You have come to a speed bump, and you are asked to apply the brakes. Don't fight this. Instead, accept the fact that slowing down your speed right now is for the best.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -147,7 +147,7 @@
         },
         {
           "text": "Making yourself truly comfortable in your body takes a lot of work. Have you ever seen people who look really physically fit, but still something makes them look awkward in their skin? There is more to being \"in shape\" than meets the eye. It's a whole process that starts with what you eat and how you eat it. (Do you eat on the fly? That doesn't help!) Get yourself eating what and how you would like to eat this week; the rest will follow.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -232,10 +232,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13536,
-        "k24": 14777,
+        "k22": 13508,
+        "k24": 14746,
         "change22": null,
-        "date": "5 October 2026",
+        "date": "8 October 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -324,17 +324,17 @@
     "hc_general": {
       "text": "When tension builds, your sense of security is likely to falter, Taurus. You may have a hard time dealing with other people. You could be tempted to turn to food or alcohol for inner nourishment. Curing emotional needs by indulging this way may temper your ailment for a while, but it isn't the solution to the overall problem. Work out the bugs with the people involved, and don't try to do it on an empty stomach.",
       "date": "Oct 8, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Your fast-paced, intense energy of the last couple days reaches a slow-down. You have come to a speed bump, and you are asked to apply the brakes. Don't fight this. Instead, accept the fact that slowing down your speed right now is for the best.",
       "date": "Oct 8, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Making yourself truly comfortable in your body takes a lot of work. Have you ever seen people who look really physically fit, but still something makes them look awkward in their skin? There is more to being \"in shape\" than meets the eye. It's a whole process that starts with what you eat and how you eat it. (Do you eat on the fly? That doesn't help!) Get yourself eating what and how you would like to eat this week; the rest will follow.",
       "date": "Oct 8, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You may need to reconsider recent financial plans. Your head is full of all kinds of amazingly creative ideas. If you're a writer, journalist, or publisher, this is a great time to be you. But you need to use these gifts in a responsible way. Make sure you're saving your money with a reliable company.",
@@ -342,7 +342,7 @@
     },
     "ac": {
       "text": "It will be hard to focus as the Virgo Moon meanders the heavens in a void-of-course state, dearest Taurus—your productivity dips because of distracting peers and drifting thoughts. Colleagues may also seem out of sorts, which will intensify any slumps you are experiencing. If you can take a day off, consider it. A solid dose of recreation will reboot your heart and mind while preventing burnout. If you don't have the freedom to do as you please, take more frequent but smaller breaks to shake away stagnant energy before it has a chance to build up.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -393,17 +393,17 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Heavy drizzle",
-      "icon": "🌧️",
+      "label": "Drizzle",
+      "icon": "🌦️",
       "now": {
-        "iso": "2026-10-08T11:30",
-        "time": "11:30 AM",
-        "hour": 11.5,
+        "iso": "2026-10-08T13:30",
+        "time": "1:30 PM",
+        "hour": 13.5,
         "temp": 32,
         "feels": 34,
         "humidity": 36,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "label": "Light drizzle",
+        "icon": "🌦️"
       },
       "high": 32,
       "low": 24,
@@ -414,8 +414,8 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "🌦️",
+          "label": "Light drizzle",
           "temp": 28,
           "rain": 2
         },
@@ -423,8 +423,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌧️",
-          "label": "Heavy drizzle",
+          "icon": "🌦️",
+          "label": "Drizzle",
           "temp": 32,
           "rain": 73
         },
@@ -434,7 +434,7 @@
           "to": 21,
           "icon": "☀️",
           "label": "Clear sky",
-          "temp": 28,
+          "temp": 29,
           "rain": 53
         },
         {
@@ -456,6 +456,15 @@
           "humidity": 36,
           "label": "Mostly clear",
           "icon": "🌤️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-08T13:30",
+          "time": "1:30 PM",
+          "temp": 32,
+          "feels": 34,
+          "humidity": 36,
+          "label": "Light drizzle",
+          "icon": "🌦️"
         }
       }
     },
@@ -468,23 +477,32 @@
         "humidity": 36,
         "label": "Mostly clear",
         "icon": "🌤️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-08T13:30",
+        "time": "1:30 PM",
+        "temp": 32,
+        "feels": 34,
+        "humidity": 36,
+        "label": "Light drizzle",
+        "icon": "🌦️"
       }
     },
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Drizzle",
+      "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-10-08T11:30",
-        "time": "11:30 AM",
-        "hour": 11.5,
+        "iso": "2026-10-08T13:30",
+        "time": "1:30 PM",
+        "hour": 13.5,
         "temp": 32,
         "feels": 34,
         "humidity": 35,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "label": "Light drizzle",
+        "icon": "🌦️"
       },
       "high": 32,
       "low": 23,
@@ -495,8 +513,8 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "🌦️",
+          "label": "Light drizzle",
           "temp": 28,
           "rain": 2
         },
@@ -505,8 +523,8 @@
           "from": 12,
           "to": 17,
           "icon": "🌦️",
-          "label": "Drizzle",
-          "temp": 31,
+          "label": "Light drizzle",
+          "temp": 32,
           "rain": 73
         },
         {
@@ -515,7 +533,7 @@
           "to": 21,
           "icon": "☀️",
           "label": "Clear sky",
-          "temp": 28,
+          "temp": 29,
           "rain": 53
         },
         {
@@ -524,7 +542,7 @@
           "to": 30,
           "icon": "🌙",
           "label": "Clear sky",
-          "temp": 24,
+          "temp": 25,
           "rain": 0
         }
       ],
@@ -537,6 +555,15 @@
           "humidity": 35,
           "label": "Mostly clear",
           "icon": "🌤️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-08T13:30",
+          "time": "1:30 PM",
+          "temp": 32,
+          "feels": 34,
+          "humidity": 35,
+          "label": "Light drizzle",
+          "icon": "🌦️"
         }
       }
     },
@@ -549,6 +576,15 @@
         "humidity": 35,
         "label": "Mostly clear",
         "icon": "🌤️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-08T13:30",
+        "time": "1:30 PM",
+        "temp": 32,
+        "feels": 34,
+        "humidity": 35,
+        "label": "Light drizzle",
+        "icon": "🌦️"
       }
     },
     "gold": {
@@ -574,10 +610,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13536,
-          "k24": 14777,
+          "k22": 13508,
+          "k24": 14746,
           "change22": null,
-          "date": "5 October 2026",
+          "date": "8 October 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -676,17 +712,17 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Heavy drizzle",
-        "icon": "🌧️",
+        "label": "Drizzle",
+        "icon": "🌦️",
         "now": {
-          "iso": "2026-10-08T11:30",
-          "time": "11:30 AM",
-          "hour": 11.5,
+          "iso": "2026-10-08T13:30",
+          "time": "1:30 PM",
+          "hour": 13.5,
           "temp": 32,
           "feels": 34,
           "humidity": 36,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "label": "Light drizzle",
+          "icon": "🌦️"
         },
         "high": 32,
         "low": 24,
@@ -697,8 +733,8 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "🌦️",
+            "label": "Light drizzle",
             "temp": 28,
             "rain": 2
           },
@@ -706,8 +742,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌧️",
-            "label": "Heavy drizzle",
+            "icon": "🌦️",
+            "label": "Drizzle",
             "temp": 32,
             "rain": 73
           },
@@ -717,7 +753,7 @@
             "to": 21,
             "icon": "☀️",
             "label": "Clear sky",
-            "temp": 28,
+            "temp": 29,
             "rain": 53
           },
           {
@@ -739,6 +775,15 @@
             "humidity": 36,
             "label": "Mostly clear",
             "icon": "🌤️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-08T13:30",
+            "time": "1:30 PM",
+            "temp": 32,
+            "feels": 34,
+            "humidity": 36,
+            "label": "Light drizzle",
+            "icon": "🌦️"
           }
         }
       },
@@ -746,17 +791,17 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Drizzle",
+        "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-10-08T11:30",
-          "time": "11:30 AM",
-          "hour": 11.5,
+          "iso": "2026-10-08T13:30",
+          "time": "1:30 PM",
+          "hour": 13.5,
           "temp": 32,
           "feels": 34,
           "humidity": 35,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "label": "Light drizzle",
+          "icon": "🌦️"
         },
         "high": 32,
         "low": 23,
@@ -767,8 +812,8 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "🌦️",
+            "label": "Light drizzle",
             "temp": 28,
             "rain": 2
           },
@@ -777,8 +822,8 @@
             "from": 12,
             "to": 17,
             "icon": "🌦️",
-            "label": "Drizzle",
-            "temp": 31,
+            "label": "Light drizzle",
+            "temp": 32,
             "rain": 73
           },
           {
@@ -787,7 +832,7 @@
             "to": 21,
             "icon": "☀️",
             "label": "Clear sky",
-            "temp": 28,
+            "temp": 29,
             "rain": 53
           },
           {
@@ -796,7 +841,7 @@
             "to": 30,
             "icon": "🌙",
             "label": "Clear sky",
-            "temp": 24,
+            "temp": 25,
             "rain": 0
           }
         ],
@@ -809,6 +854,15 @@
             "humidity": 35,
             "label": "Mostly clear",
             "icon": "🌤️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-08T13:30",
+            "time": "1:30 PM",
+            "temp": 32,
+            "feels": 34,
+            "humidity": 35,
+            "label": "Light drizzle",
+            "icon": "🌦️"
           }
         }
       }
