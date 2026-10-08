@@ -2,14 +2,14 @@
   "sign": "Taurus",
   "date_ist": "Friday, 09 October 2026",
   "date_key": "2026-10-09",
-  "fetched_ist": "09 Oct 2026, 12:42 AM IST",
+  "fetched_ist": "09 Oct 2026, 02:28 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "08-10-2026",
-      "text": null
+      "ok": true,
+      "source_date": "09-10-2026",
+      "text": "In the evening, you will be possibly visiting holy places. You had better make up for the lost time to finish pending work in the afternoon. Think twice before you act, warns Ganesha."
     },
     {
       "name": "Horoscope.com",
@@ -35,6 +35,10 @@
   ],
   "glance": {
     "good": [
+      {
+        "t": "You had better make up for the lost time to finish pending work in the afternoon.",
+        "src": "GaneshaSpeaks"
+      },
       {
         "t": "Prepare meals, snacks, and other refreshments in advance, as you won't have time to fret over mundane decisions.",
         "src": "Astrology.com"
@@ -85,12 +89,21 @@
     "career": {
       "readings": [
         {
+          "text": "The beginning might make you feel a crunch due to heavy workload, but later during the day you may feel relaxed and things will be under control. Second half of the day is also good for developing new ideas and thoughts, feels Ganesha.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "Someone in your professional life will go to bat for you today, and this will make all the difference in the world. Suddenly, a situation that looked completely hopeless now has a great deal of promise. Your colleagues are greater assets than you think.",
           "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
       "bits": [
+        {
+          "t": "You had better make up for the lost time to finish pending work in the afternoon.",
+          "src": "GaneshaSpeaks"
+        },
         {
           "t": "This energy helps spark breakthroughs, bringing all your hard work to a glorious culmination.",
           "src": "Astrology.com"
@@ -103,6 +116,11 @@
     },
     "money": {
       "readings": [
+        {
+          "text": "Today is the right day to invest in the stock market, tips Ganesha. So if you have not done so already, do so now. As fortune is in your favour, you will be able to multiply your money.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "You may need to reconsider recent financial plans. Your head is full of all kinds of amazingly creative ideas. If you're a writer, journalist, or publisher, this is a great time to be you. But you need to use these gifts in a responsible way. Make sure you're saving your money with a reliable company.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
@@ -127,6 +145,11 @@
     "health": {
       "readings": [
         {
+          "text": "Today, your day seems to be lucky and happy too. There will be strong desire to maintain health and so you might be inclined to yoga or any other exercise.You will be able to handle your routine very well.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "Today the planets give you the drive to complete any task at hand. The celestial atmosphere impels you to pay attention to your body and especially hygiene. You will be a lot happier if you clean your house regularly, do your laundry at least once a week, wash the dishes immediately after meals, etc. This aspect will increase your appreciation for your home life. When your home is your haven, even if it's a temporary home, you are a more balanced individual.",
           "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
@@ -147,8 +170,8 @@
   "lucky": [
     {
       "src": "GaneshaSpeaks",
-      "number": "2",
-      "color": "Light Cream"
+      "number": "9",
+      "color": "Light Emerald Green"
     },
     {
       "src": "AstroSage",
@@ -277,14 +300,30 @@
     "ganesha": {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "08-10-2026",
-      "text": null,
+      "ok": true,
+      "source_date": "09-10-2026",
+      "text": "In all probability, you will discuss certain sacred issues with your beloved today, predicts Ganesha. In the evening, you will be possibly visiting holy places. You had better make up for the lost time to finish pending work in the afternoon. Think twice before you act, warns Ganesha.",
       "lucky": {
-        "number": "2",
-        "color": "Light Cream"
+        "number": "9",
+        "color": "Light Emerald Green"
       },
-      "areas": {}
+      "areas": {
+        "health": {
+          "text": "Today, your day seems to be lucky and happy too. There will be strong desire to maintain health and so you might be inclined to yoga or any other exercise.You will be able to handle your routine very well.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "money": {
+          "text": "Today is the right day to invest in the stock market, tips Ganesha. So if you have not done so already, do so now. As fortune is in your favour, you will be able to multiply your money.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "career": {
+          "text": "The beginning might make you feel a crunch due to heavy workload, but later during the day you may feel relaxed and things will be under control. Second half of the day is also good for developing new ideas and thoughts, feels Ganesha.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        }
+      }
     },
     "hc_general": {
       "text": "Have you been spending too much lately, Taurus? Today you could be feeling the effects of it. You may have to wait to make a purchase that you've wanted for a long time, and this could be frustrating. Don't worry about it, though. You will get through this unscathed, and the item will still be in the store when you have money again. Relax.",
@@ -361,12 +400,12 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-09T00:30",
-        "time": "12:30 AM",
-        "hour": 0.5,
-        "temp": 25,
+        "iso": "2026-10-09T02:15",
+        "time": "2:15 AM",
+        "hour": 2.25,
+        "temp": 24,
         "feels": 28,
-        "humidity": 73,
+        "humidity": 74,
         "label": "Clear sky",
         "icon": "🌙"
       },
@@ -422,17 +461,17 @@
       "label": "Partly cloudy",
       "icon": "⛅",
       "now": {
-        "iso": "2026-10-09T00:30",
-        "time": "12:30 AM",
-        "hour": 0.5,
-        "temp": 25,
-        "feels": 28,
-        "humidity": 71,
+        "iso": "2026-10-09T02:15",
+        "time": "2:15 AM",
+        "hour": 2.25,
+        "temp": 24,
+        "feels": 27,
+        "humidity": 75,
         "label": "Clear sky",
         "icon": "🌙"
       },
       "high": 34,
-      "low": 24,
+      "low": 23,
       "rain": 0,
       "uv": 8.1,
       "periods": [
@@ -442,7 +481,7 @@
           "to": 12,
           "icon": "☀️",
           "label": "Clear sky",
-          "temp": 29,
+          "temp": 28,
           "rain": 0
         },
         {
@@ -598,12 +637,12 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-09T00:30",
-          "time": "12:30 AM",
-          "hour": 0.5,
-          "temp": 25,
+          "iso": "2026-10-09T02:15",
+          "time": "2:15 AM",
+          "hour": 2.25,
+          "temp": 24,
           "feels": 28,
-          "humidity": 73,
+          "humidity": 74,
           "label": "Clear sky",
           "icon": "🌙"
         },
@@ -658,17 +697,17 @@
         "label": "Partly cloudy",
         "icon": "⛅",
         "now": {
-          "iso": "2026-10-09T00:30",
-          "time": "12:30 AM",
-          "hour": 0.5,
-          "temp": 25,
-          "feels": 28,
-          "humidity": 71,
+          "iso": "2026-10-09T02:15",
+          "time": "2:15 AM",
+          "hour": 2.25,
+          "temp": 24,
+          "feels": 27,
+          "humidity": 75,
           "label": "Clear sky",
           "icon": "🌙"
         },
         "high": 34,
-        "low": 24,
+        "low": 23,
         "rain": 0,
         "uv": 8.1,
         "periods": [
@@ -678,7 +717,7 @@
             "to": 12,
             "icon": "☀️",
             "label": "Clear sky",
-            "temp": 29,
+            "temp": 28,
             "rain": 0
           },
           {
