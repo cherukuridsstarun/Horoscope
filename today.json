@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 09 October 2026",
   "date_key": "2026-10-09",
-  "fetched_ist": "09 Oct 2026, 11:44 AM IST",
+  "fetched_ist": "09 Oct 2026, 01:35 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 9, 2026",
       "text": "Have you been spending too much lately, Taurus? Today you could be feeling the effects of it. You may have to wait to make a purchase that you've wanted for a long time, and this could be frustrating. Don't worry about it, though. You will get through this unscathed, and the item will still be in the store when you have money again. Relax."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 9, 2026",
       "text": "You've put the structures in place and made necessary preparations to execute goals you've been quietly nurturing, darling Taurus. Arm yourself with the tools you need to keep your day efficient and successful as the Libra Moon aligns with Neptune, Pluto, and Uranus. This energy helps spark breakthroughs, bringing all your hard work to a glorious culmination. Prepare meals, snacks, and other refreshments in advance, as you won't have time to fret over mundane decisions. Take a breather and energetically reset when Mars activates this afternoon to prevent burnout. Permit yourself to unplug when Luna opposes Saturn tonight, and avoid obsessing over what could have gone better or differently."
@@ -95,7 +95,7 @@
         },
         {
           "text": "Someone in your professional life will go to bat for you today, and this will make all the difference in the world. Suddenly, a situation that looked completely hopeless now has a great deal of promise. Your colleagues are greater assets than you think.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -151,7 +151,7 @@
         },
         {
           "text": "Today the planets give you the drive to complete any task at hand. The celestial atmosphere impels you to pay attention to your body and especially hygiene. You will be a lot happier if you clean your house regularly, do your laundry at least once a week, wash the dishes immediately after meals, etc. This aspect will increase your appreciation for your home life. When your home is your haven, even if it's a temporary home, you are a more balanced individual.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -170,8 +170,8 @@
   "lucky": [
     {
       "src": "GaneshaSpeaks",
-      "number": "9",
-      "color": "Light Emerald Green"
+      "number": "6",
+      "color": "Deep Pastel Pink"
     },
     {
       "src": "AstroSage",
@@ -236,10 +236,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13524,
-        "k24": 14765,
+        "k22": 13705,
+        "k24": 14961,
         "change22": null,
-        "date": "8 October 2026",
+        "date": "9 October 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -304,8 +304,8 @@
       "source_date": "09-10-2026",
       "text": "In all probability, you will discuss certain sacred issues with your beloved today, predicts Ganesha. In the evening, you will be possibly visiting holy places. You had better make up for the lost time to finish pending work in the afternoon. Think twice before you act, warns Ganesha.",
       "lucky": {
-        "number": "9",
-        "color": "Light Emerald Green"
+        "number": "6",
+        "color": "Deep Pastel Pink"
       },
       "areas": {
         "health": {
@@ -328,17 +328,17 @@
     "hc_general": {
       "text": "Have you been spending too much lately, Taurus? Today you could be feeling the effects of it. You may have to wait to make a purchase that you've wanted for a long time, and this could be frustrating. Don't worry about it, though. You will get through this unscathed, and the item will still be in the store when you have money again. Relax.",
       "date": "Oct 9, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Someone in your professional life will go to bat for you today, and this will make all the difference in the world. Suddenly, a situation that looked completely hopeless now has a great deal of promise. Your colleagues are greater assets than you think.",
       "date": "Oct 9, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Today the planets give you the drive to complete any task at hand. The celestial atmosphere impels you to pay attention to your body and especially hygiene. You will be a lot happier if you clean your house regularly, do your laundry at least once a week, wash the dishes immediately after meals, etc. This aspect will increase your appreciation for your home life. When your home is your haven, even if it's a temporary home, you are a more balanced individual.",
       "date": "Oct 9, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You may need to reconsider recent financial plans. Your head is full of all kinds of amazingly creative ideas. If you're a writer, journalist, or publisher, this is a great time to be you. But you need to use these gifts in a responsible way. Make sure you're saving your money with a reliable company.",
@@ -346,7 +346,7 @@
     },
     "ac": {
       "text": "You've put the structures in place and made necessary preparations to execute goals you've been quietly nurturing, darling Taurus. Arm yourself with the tools you need to keep your day efficient and successful as the Libra Moon aligns with Neptune, Pluto, and Uranus. This energy helps spark breakthroughs, bringing all your hard work to a glorious culmination. Prepare meals, snacks, and other refreshments in advance, as you won't have time to fret over mundane decisions. Take a breather and energetically reset when Mars activates this afternoon to prevent burnout. Permit yourself to unplug when Luna opposes Saturn tonight, and avoid obsessing over what could have gone better or differently.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -397,20 +397,20 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Cloudy",
-      "icon": "☁️",
+      "label": "Mostly clear",
+      "icon": "🌤️",
       "now": {
-        "iso": "2026-10-09T11:30",
-        "time": "11:30 AM",
-        "hour": 11.5,
-        "temp": 32,
-        "feels": 35,
-        "humidity": 38,
+        "iso": "2026-10-09T13:30",
+        "time": "1:30 PM",
+        "hour": 13.5,
+        "temp": 33,
+        "feels": 34,
+        "humidity": 30,
         "label": "Clear sky",
         "icon": "☀️"
       },
       "high": 33,
-      "low": 23,
+      "low": 24,
       "rain": 0,
       "uv": 8.1,
       "periods": [
@@ -418,8 +418,8 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 28,
           "rain": 0
         },
@@ -427,8 +427,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 33,
           "rain": 0
         },
@@ -436,8 +436,8 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 29,
           "rain": 0
         },
@@ -460,6 +460,15 @@
           "humidity": 38,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-09T13:30",
+          "time": "1:30 PM",
+          "temp": 33,
+          "feels": 34,
+          "humidity": 30,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -472,21 +481,30 @@
         "humidity": 38,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-09T13:30",
+        "time": "1:30 PM",
+        "temp": 33,
+        "feels": 34,
+        "humidity": 30,
+        "label": "Clear sky",
+        "icon": "☀️"
       }
     },
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Cloudy",
-      "icon": "☁️",
+      "label": "Mostly clear",
+      "icon": "🌤️",
       "now": {
-        "iso": "2026-10-09T11:30",
-        "time": "11:30 AM",
-        "hour": 11.5,
-        "temp": 32,
+        "iso": "2026-10-09T13:30",
+        "time": "1:30 PM",
+        "hour": 13.5,
+        "temp": 33,
         "feels": 34,
-        "humidity": 36,
+        "humidity": 30,
         "label": "Clear sky",
         "icon": "☀️"
       },
@@ -499,8 +517,8 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 28,
           "rain": 0
         },
@@ -508,8 +526,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 33,
           "rain": 0
         },
@@ -517,8 +535,8 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 29,
           "rain": 0
         },
@@ -541,6 +559,15 @@
           "humidity": 36,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-09T13:30",
+          "time": "1:30 PM",
+          "temp": 33,
+          "feels": 34,
+          "humidity": 30,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -551,6 +578,15 @@
         "temp": 32,
         "feels": 34,
         "humidity": 36,
+        "label": "Clear sky",
+        "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-09T13:30",
+        "time": "1:30 PM",
+        "temp": 33,
+        "feels": 34,
+        "humidity": 30,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -578,10 +614,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13524,
-          "k24": 14765,
+          "k22": 13705,
+          "k24": 14961,
           "change22": null,
-          "date": "8 October 2026",
+          "date": "9 October 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -674,20 +710,20 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Cloudy",
-        "icon": "☁️",
+        "label": "Mostly clear",
+        "icon": "🌤️",
         "now": {
-          "iso": "2026-10-09T11:30",
-          "time": "11:30 AM",
-          "hour": 11.5,
-          "temp": 32,
-          "feels": 35,
-          "humidity": 38,
+          "iso": "2026-10-09T13:30",
+          "time": "1:30 PM",
+          "hour": 13.5,
+          "temp": 33,
+          "feels": 34,
+          "humidity": 30,
           "label": "Clear sky",
           "icon": "☀️"
         },
         "high": 33,
-        "low": 23,
+        "low": 24,
         "rain": 0,
         "uv": 8.1,
         "periods": [
@@ -695,8 +731,8 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 28,
             "rain": 0
           },
@@ -704,8 +740,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 33,
             "rain": 0
           },
@@ -713,8 +749,8 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 29,
             "rain": 0
           },
@@ -737,6 +773,15 @@
             "humidity": 38,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-09T13:30",
+            "time": "1:30 PM",
+            "temp": 33,
+            "feels": 34,
+            "humidity": 30,
+            "label": "Clear sky",
+            "icon": "☀️"
           }
         }
       },
@@ -744,15 +789,15 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Cloudy",
-        "icon": "☁️",
+        "label": "Mostly clear",
+        "icon": "🌤️",
         "now": {
-          "iso": "2026-10-09T11:30",
-          "time": "11:30 AM",
-          "hour": 11.5,
-          "temp": 32,
+          "iso": "2026-10-09T13:30",
+          "time": "1:30 PM",
+          "hour": 13.5,
+          "temp": 33,
           "feels": 34,
-          "humidity": 36,
+          "humidity": 30,
           "label": "Clear sky",
           "icon": "☀️"
         },
@@ -765,8 +810,8 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 28,
             "rain": 0
           },
@@ -774,8 +819,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 33,
             "rain": 0
           },
@@ -783,8 +828,8 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 29,
             "rain": 0
           },
@@ -805,6 +850,15 @@
             "temp": 32,
             "feels": 34,
             "humidity": 36,
+            "label": "Clear sky",
+            "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-09T13:30",
+            "time": "1:30 PM",
+            "temp": 33,
+            "feels": 34,
+            "humidity": 30,
             "label": "Clear sky",
             "icon": "☀️"
           }
