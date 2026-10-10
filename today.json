@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Saturday, 10 October 2026",
   "date_key": "2026-10-10",
-  "fetched_ist": "10 Oct 2026, 07:09 PM IST",
+  "fetched_ist": "10 Oct 2026, 11:12 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -226,7 +226,7 @@
       {
         "src": "PolicyBazaar",
         "label": "Hyderabad retail · 22K only",
-        "k22": 13815,
+        "k22": 13880,
         "k24": null,
         "change22": null,
         "date": "10 October 2026",
@@ -399,18 +399,18 @@
       "label": "Mostly clear",
       "icon": "🌤️",
       "now": {
-        "iso": "2026-10-10T19:00",
-        "time": "7:00 PM",
-        "hour": 19.0,
-        "temp": 29,
-        "feels": 30,
-        "humidity": 46,
+        "iso": "2026-10-10T23:00",
+        "time": "11:00 PM",
+        "hour": 23.0,
+        "temp": 26,
+        "feels": 28,
+        "humidity": 58,
         "label": "Clear sky",
         "icon": "🌙"
       },
       "high": 33,
       "low": 24,
-      "rain": 0,
+      "rain": 2,
       "uv": 8.1,
       "periods": [
         {
@@ -429,7 +429,7 @@
           "icon": "🌤️",
           "label": "Mostly clear",
           "temp": 33,
-          "rain": 0
+          "rain": 2
         },
         {
           "name": "Evening",
@@ -477,6 +477,15 @@
           "humidity": 46,
           "label": "Clear sky",
           "icon": "🌙"
+        },
+        "Night": {
+          "iso": "2026-10-10T23:00",
+          "time": "11:00 PM",
+          "temp": 26,
+          "feels": 28,
+          "humidity": 58,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -507,6 +516,15 @@
         "humidity": 46,
         "label": "Clear sky",
         "icon": "🌙"
+      },
+      "Night": {
+        "iso": "2026-10-10T23:00",
+        "time": "11:00 PM",
+        "temp": 26,
+        "feels": 28,
+        "humidity": 58,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "wx_office": {
@@ -516,18 +534,18 @@
       "label": "Mostly clear",
       "icon": "🌤️",
       "now": {
-        "iso": "2026-10-10T19:00",
-        "time": "7:00 PM",
-        "hour": 19.0,
-        "temp": 29,
-        "feels": 29,
-        "humidity": 46,
+        "iso": "2026-10-10T23:00",
+        "time": "11:00 PM",
+        "hour": 23.0,
+        "temp": 26,
+        "feels": 27,
+        "humidity": 58,
         "label": "Clear sky",
         "icon": "🌙"
       },
       "high": 33,
       "low": 24,
-      "rain": 0,
+      "rain": 2,
       "uv": 8.1,
       "periods": [
         {
@@ -546,7 +564,7 @@
           "icon": "🌤️",
           "label": "Mostly clear",
           "temp": 33,
-          "rain": 0
+          "rain": 2
         },
         {
           "name": "Evening",
@@ -594,6 +612,15 @@
           "humidity": 46,
           "label": "Clear sky",
           "icon": "🌙"
+        },
+        "Night": {
+          "iso": "2026-10-10T23:00",
+          "time": "11:00 PM",
+          "temp": 26,
+          "feels": 27,
+          "humidity": 58,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -624,6 +651,15 @@
         "humidity": 46,
         "label": "Clear sky",
         "icon": "🌙"
+      },
+      "Night": {
+        "iso": "2026-10-10T23:00",
+        "time": "11:00 PM",
+        "temp": 26,
+        "feels": 27,
+        "humidity": 58,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "gold": {
@@ -640,8 +676,8 @@
         "PolicyBazaar": {
           "src": "PolicyBazaar",
           "label": "Hyderabad retail",
-          "k22": 13815,
-          "k24": 14506,
+          "k22": 13880,
+          "k24": 14574,
           "change22": null,
           "date": "10 October 2026",
           "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
@@ -754,18 +790,18 @@
         "label": "Mostly clear",
         "icon": "🌤️",
         "now": {
-          "iso": "2026-10-10T19:00",
-          "time": "7:00 PM",
-          "hour": 19.0,
-          "temp": 29,
-          "feels": 30,
-          "humidity": 46,
+          "iso": "2026-10-10T23:00",
+          "time": "11:00 PM",
+          "hour": 23.0,
+          "temp": 26,
+          "feels": 28,
+          "humidity": 58,
           "label": "Clear sky",
           "icon": "🌙"
         },
         "high": 33,
         "low": 24,
-        "rain": 0,
+        "rain": 2,
         "uv": 8.1,
         "periods": [
           {
@@ -784,7 +820,7 @@
             "icon": "🌤️",
             "label": "Mostly clear",
             "temp": 33,
-            "rain": 0
+            "rain": 2
           },
           {
             "name": "Evening",
@@ -832,6 +868,15 @@
             "humidity": 46,
             "label": "Clear sky",
             "icon": "🌙"
+          },
+          "Night": {
+            "iso": "2026-10-10T23:00",
+            "time": "11:00 PM",
+            "temp": 26,
+            "feels": 28,
+            "humidity": 58,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       },
@@ -842,18 +887,18 @@
         "label": "Mostly clear",
         "icon": "🌤️",
         "now": {
-          "iso": "2026-10-10T19:00",
-          "time": "7:00 PM",
-          "hour": 19.0,
-          "temp": 29,
-          "feels": 29,
-          "humidity": 46,
+          "iso": "2026-10-10T23:00",
+          "time": "11:00 PM",
+          "hour": 23.0,
+          "temp": 26,
+          "feels": 27,
+          "humidity": 58,
           "label": "Clear sky",
           "icon": "🌙"
         },
         "high": 33,
         "low": 24,
-        "rain": 0,
+        "rain": 2,
         "uv": 8.1,
         "periods": [
           {
@@ -872,7 +917,7 @@
             "icon": "🌤️",
             "label": "Mostly clear",
             "temp": 33,
-            "rain": 0
+            "rain": 2
           },
           {
             "name": "Evening",
@@ -918,6 +963,15 @@
             "temp": 29,
             "feels": 29,
             "humidity": 46,
+            "label": "Clear sky",
+            "icon": "🌙"
+          },
+          "Night": {
+            "iso": "2026-10-10T23:00",
+            "time": "11:00 PM",
+            "temp": 26,
+            "feels": 27,
+            "humidity": 58,
             "label": "Clear sky",
             "icon": "🌙"
           }
