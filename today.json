@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Saturday, 10 October 2026",
   "date_key": "2026-10-10",
-  "fetched_ist": "10 Oct 2026, 11:27 AM IST",
+  "fetched_ist": "10 Oct 2026, 01:18 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 10, 2026",
       "text": "Some stimulating discussions could take place today. Your energy is likely to be very high, Taurus. You may want to throw yourself into your work, particularly if it involves paperwork. You might also want to get in a workout, try your hand at writing, or read about the latest discoveries concerning optimal health. Books, magazines, and the Internet could prove especially useful."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 10, 2026",
       "text": "The Libra New Moon helps you establish better habits around work and wellness, darling Taurus. Make small adjustments to your usual routines, honing in on what you need to feel healthy, focused, and efficient each day. As you embark upon journeys of self-improvement, you'll become more aware of how others could elevate their own lives. However, not everyone will be open to change or receiving advice while Mars squares Venus Rx later today. Instead of pointing out what isn't working, offer gentle suggestions on what will. You'll be in a generous and nurturing mood once Luna and Jupiter align tonight."
@@ -82,7 +82,7 @@
         },
         {
           "text": "You are past the speed bump of the last couple days and now you can apply pressure to the gas pedal again. The support of those around you will help you get up to your usual speed. Lean on others if you are unsure of how to proceed.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -134,7 +134,7 @@
         },
         {
           "text": "You will feel almost \"business as usual\" while the current celestial atmosphere lasts, although there is a little more gusto in your approach to your health and fitness. This is a wonderful transit for you to keep moving forward (away from the heavy feelings you experienced either emotionally or physically). Keeping yourself on a strict schedule of exercise and a healthy diet won't be difficult with favorable energy readily available and abundant.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -327,17 +327,17 @@
     "hc_general": {
       "text": "Some stimulating discussions could take place today. Your energy is likely to be very high, Taurus. You may want to throw yourself into your work, particularly if it involves paperwork. You might also want to get in a workout, try your hand at writing, or read about the latest discoveries concerning optimal health. Books, magazines, and the Internet could prove especially useful.",
       "date": "Oct 10, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "You are past the speed bump of the last couple days and now you can apply pressure to the gas pedal again. The support of those around you will help you get up to your usual speed. Lean on others if you are unsure of how to proceed.",
       "date": "Oct 10, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "You will feel almost \"business as usual\" while the current celestial atmosphere lasts, although there is a little more gusto in your approach to your health and fitness. This is a wonderful transit for you to keep moving forward (away from the heavy feelings you experienced either emotionally or physically). Keeping yourself on a strict schedule of exercise and a healthy diet won't be difficult with favorable energy readily available and abundant.",
       "date": "Oct 10, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You may need to reconsider recent financial plans. Your head is full of all kinds of amazingly creative ideas. If you're a writer, journalist, or publisher, this is a great time to be you. But you need to use these gifts in a responsible way. Make sure you're saving your money with a reliable company.",
@@ -345,7 +345,7 @@
     },
     "ac": {
       "text": "The Libra New Moon helps you establish better habits around work and wellness, darling Taurus. Make small adjustments to your usual routines, honing in on what you need to feel healthy, focused, and efficient each day. As you embark upon journeys of self-improvement, you'll become more aware of how others could elevate their own lives. However, not everyone will be open to change or receiving advice while Mars squares Venus Rx later today. Instead of pointing out what isn't working, offer gentle suggestions on what will. You'll be in a generous and nurturing mood once Luna and Jupiter align tonight.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -396,15 +396,15 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Clear sky",
-      "icon": "☀️",
+      "label": "Mostly clear",
+      "icon": "🌤️",
       "now": {
-        "iso": "2026-10-10T11:15",
-        "time": "11:15 AM",
-        "hour": 11.25,
-        "temp": 32,
+        "iso": "2026-10-10T13:15",
+        "time": "1:15 PM",
+        "hour": 13.25,
+        "temp": 33,
         "feels": 34,
-        "humidity": 34,
+        "humidity": 30,
         "label": "Clear sky",
         "icon": "☀️"
       },
@@ -417,8 +417,8 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 29,
           "rain": 0
         },
@@ -426,8 +426,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 33,
           "rain": 0
         },
@@ -459,6 +459,15 @@
           "humidity": 34,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-10T13:15",
+          "time": "1:15 PM",
+          "temp": 33,
+          "feels": 34,
+          "humidity": 30,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -471,6 +480,15 @@
         "humidity": 34,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-10T13:15",
+        "time": "1:15 PM",
+        "temp": 33,
+        "feels": 34,
+        "humidity": 30,
+        "label": "Clear sky",
+        "icon": "☀️"
       }
     },
     "wx_office": {
@@ -480,14 +498,14 @@
       "label": "Mostly clear",
       "icon": "🌤️",
       "now": {
-        "iso": "2026-10-10T11:15",
-        "time": "11:15 AM",
-        "hour": 11.25,
-        "temp": 32,
+        "iso": "2026-10-10T13:15",
+        "time": "1:15 PM",
+        "hour": 13.25,
+        "temp": 33,
         "feels": 34,
-        "humidity": 33,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "humidity": 30,
+        "label": "Clear sky",
+        "icon": "☀️"
       },
       "high": 33,
       "low": 23,
@@ -498,8 +516,8 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "☀️",
+          "label": "Clear sky",
           "temp": 28,
           "rain": 0
         },
@@ -507,8 +525,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 33,
           "rain": 0
         },
@@ -540,6 +558,15 @@
           "humidity": 33,
           "label": "Mostly clear",
           "icon": "🌤️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-10T13:15",
+          "time": "1:15 PM",
+          "temp": 33,
+          "feels": 34,
+          "humidity": 30,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -552,6 +579,15 @@
         "humidity": 33,
         "label": "Mostly clear",
         "icon": "🌤️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-10T13:15",
+        "time": "1:15 PM",
+        "temp": 33,
+        "feels": 34,
+        "humidity": 30,
+        "label": "Clear sky",
+        "icon": "☀️"
       }
     },
     "gold": {
@@ -679,15 +715,15 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Clear sky",
-        "icon": "☀️",
+        "label": "Mostly clear",
+        "icon": "🌤️",
         "now": {
-          "iso": "2026-10-10T11:15",
-          "time": "11:15 AM",
-          "hour": 11.25,
-          "temp": 32,
+          "iso": "2026-10-10T13:15",
+          "time": "1:15 PM",
+          "hour": 13.25,
+          "temp": 33,
           "feels": 34,
-          "humidity": 34,
+          "humidity": 30,
           "label": "Clear sky",
           "icon": "☀️"
         },
@@ -700,8 +736,8 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 29,
             "rain": 0
           },
@@ -709,8 +745,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 33,
             "rain": 0
           },
@@ -742,6 +778,15 @@
             "humidity": 34,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-10T13:15",
+            "time": "1:15 PM",
+            "temp": 33,
+            "feels": 34,
+            "humidity": 30,
+            "label": "Clear sky",
+            "icon": "☀️"
           }
         }
       },
@@ -752,14 +797,14 @@
         "label": "Mostly clear",
         "icon": "🌤️",
         "now": {
-          "iso": "2026-10-10T11:15",
-          "time": "11:15 AM",
-          "hour": 11.25,
-          "temp": 32,
+          "iso": "2026-10-10T13:15",
+          "time": "1:15 PM",
+          "hour": 13.25,
+          "temp": 33,
           "feels": 34,
-          "humidity": 33,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "humidity": 30,
+          "label": "Clear sky",
+          "icon": "☀️"
         },
         "high": 33,
         "low": 23,
@@ -770,8 +815,8 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "☀️",
+            "label": "Clear sky",
             "temp": 28,
             "rain": 0
           },
@@ -779,8 +824,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 33,
             "rain": 0
           },
@@ -812,6 +857,15 @@
             "humidity": 33,
             "label": "Mostly clear",
             "icon": "🌤️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-10T13:15",
+            "time": "1:15 PM",
+            "temp": 33,
+            "feels": 34,
+            "humidity": 30,
+            "label": "Clear sky",
+            "icon": "☀️"
           }
         }
       }
