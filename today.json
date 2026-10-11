@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Sunday, 11 October 2026",
   "date_key": "2026-10-11",
-  "fetched_ist": "11 Oct 2026, 06:53 AM IST",
+  "fetched_ist": "11 Oct 2026, 11:22 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -400,19 +400,19 @@
       "label": "Clear sky",
       "icon": "☀️",
       "now": {
-        "iso": "2026-10-11T06:45",
-        "time": "6:45 AM",
-        "hour": 6.75,
-        "temp": 24,
-        "feels": 25,
-        "humidity": 60,
+        "iso": "2026-10-11T11:15",
+        "time": "11:15 AM",
+        "hour": 11.25,
+        "temp": 32,
+        "feels": 34,
+        "humidity": 35,
         "label": "Clear sky",
         "icon": "☀️"
       },
       "high": 33,
       "low": 24,
-      "rain": 2,
-      "uv": 8.05,
+      "rain": 0,
+      "uv": 8.1,
       "periods": [
         {
           "name": "Morning",
@@ -430,7 +430,7 @@
           "icon": "☀️",
           "label": "Clear sky",
           "temp": 32,
-          "rain": 2
+          "rain": 0
         },
         {
           "name": "Evening",
@@ -453,11 +453,11 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-10-11T06:45",
-          "time": "6:45 AM",
-          "temp": 24,
-          "feels": 25,
-          "humidity": 60,
+          "iso": "2026-10-11T11:15",
+          "time": "11:15 AM",
+          "temp": 32,
+          "feels": 34,
+          "humidity": 35,
           "label": "Clear sky",
           "icon": "☀️"
         }
@@ -465,11 +465,11 @@
     },
     "wxlog_home": {
       "Morning": {
-        "iso": "2026-10-11T06:45",
-        "time": "6:45 AM",
-        "temp": 24,
-        "feels": 25,
-        "humidity": 60,
+        "iso": "2026-10-11T11:15",
+        "time": "11:15 AM",
+        "temp": 32,
+        "feels": 34,
+        "humidity": 35,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -481,19 +481,19 @@
       "label": "Clear sky",
       "icon": "☀️",
       "now": {
-        "iso": "2026-10-11T06:45",
-        "time": "6:45 AM",
-        "hour": 6.75,
-        "temp": 24,
-        "feels": 25,
-        "humidity": 62,
+        "iso": "2026-10-11T11:15",
+        "time": "11:15 AM",
+        "hour": 11.25,
+        "temp": 32,
+        "feels": 33,
+        "humidity": 33,
         "label": "Clear sky",
         "icon": "☀️"
       },
       "high": 33,
       "low": 23,
-      "rain": 2,
-      "uv": 8.05,
+      "rain": 0,
+      "uv": 8.1,
       "periods": [
         {
           "name": "Morning",
@@ -511,7 +511,7 @@
           "icon": "☀️",
           "label": "Clear sky",
           "temp": 33,
-          "rain": 2
+          "rain": 0
         },
         {
           "name": "Evening",
@@ -534,11 +534,11 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-10-11T06:45",
-          "time": "6:45 AM",
-          "temp": 24,
-          "feels": 25,
-          "humidity": 62,
+          "iso": "2026-10-11T11:15",
+          "time": "11:15 AM",
+          "temp": 32,
+          "feels": 33,
+          "humidity": 33,
           "label": "Clear sky",
           "icon": "☀️"
         }
@@ -546,11 +546,11 @@
     },
     "wxlog_office": {
       "Morning": {
-        "iso": "2026-10-11T06:45",
-        "time": "6:45 AM",
-        "temp": 24,
-        "feels": 25,
-        "humidity": 62,
+        "iso": "2026-10-11T11:15",
+        "time": "11:15 AM",
+        "temp": 32,
+        "feels": 33,
+        "humidity": 33,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -683,19 +683,19 @@
         "label": "Clear sky",
         "icon": "☀️",
         "now": {
-          "iso": "2026-10-11T06:45",
-          "time": "6:45 AM",
-          "hour": 6.75,
-          "temp": 24,
-          "feels": 25,
-          "humidity": 60,
+          "iso": "2026-10-11T11:15",
+          "time": "11:15 AM",
+          "hour": 11.25,
+          "temp": 32,
+          "feels": 34,
+          "humidity": 35,
           "label": "Clear sky",
           "icon": "☀️"
         },
         "high": 33,
         "low": 24,
-        "rain": 2,
-        "uv": 8.05,
+        "rain": 0,
+        "uv": 8.1,
         "periods": [
           {
             "name": "Morning",
@@ -713,7 +713,7 @@
             "icon": "☀️",
             "label": "Clear sky",
             "temp": 32,
-            "rain": 2
+            "rain": 0
           },
           {
             "name": "Evening",
@@ -736,11 +736,11 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-10-11T06:45",
-            "time": "6:45 AM",
-            "temp": 24,
-            "feels": 25,
-            "humidity": 60,
+            "iso": "2026-10-11T11:15",
+            "time": "11:15 AM",
+            "temp": 32,
+            "feels": 34,
+            "humidity": 35,
             "label": "Clear sky",
             "icon": "☀️"
           }
@@ -753,19 +753,19 @@
         "label": "Clear sky",
         "icon": "☀️",
         "now": {
-          "iso": "2026-10-11T06:45",
-          "time": "6:45 AM",
-          "hour": 6.75,
-          "temp": 24,
-          "feels": 25,
-          "humidity": 62,
+          "iso": "2026-10-11T11:15",
+          "time": "11:15 AM",
+          "hour": 11.25,
+          "temp": 32,
+          "feels": 33,
+          "humidity": 33,
           "label": "Clear sky",
           "icon": "☀️"
         },
         "high": 33,
         "low": 23,
-        "rain": 2,
-        "uv": 8.05,
+        "rain": 0,
+        "uv": 8.1,
         "periods": [
           {
             "name": "Morning",
@@ -783,7 +783,7 @@
             "icon": "☀️",
             "label": "Clear sky",
             "temp": 33,
-            "rain": 2
+            "rain": 0
           },
           {
             "name": "Evening",
@@ -806,11 +806,11 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-10-11T06:45",
-            "time": "6:45 AM",
-            "temp": 24,
-            "feels": 25,
-            "humidity": 62,
+            "iso": "2026-10-11T11:15",
+            "time": "11:15 AM",
+            "temp": 32,
+            "feels": 33,
+            "humidity": 33,
             "label": "Clear sky",
             "icon": "☀️"
           }
