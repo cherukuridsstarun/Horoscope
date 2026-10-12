@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Monday, 12 October 2026",
   "date_key": "2026-10-12",
-  "fetched_ist": "12 Oct 2026, 07:23 AM IST",
+  "fetched_ist": "12 Oct 2026, 11:34 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -177,9 +177,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 15141,
-        "k22": 13879,
-        "change22": -1,
+        "k24": 15098,
+        "k22": 13840,
+        "change22": -40,
         "date": "12 October 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -250,8 +250,8 @@
       },
       {
         "date": "Oct 12, 2026",
-        "k22": 13879,
-        "k24": 15141
+        "k22": 13840,
+        "k24": 15098
       }
     ]
   },
@@ -359,19 +359,19 @@
       "label": "Clear sky",
       "icon": "☀️",
       "now": {
-        "iso": "2026-10-12T07:15",
-        "time": "7:15 AM",
-        "hour": 7.25,
-        "temp": 24,
-        "feels": 26,
-        "humidity": 62,
+        "iso": "2026-10-12T11:30",
+        "time": "11:30 AM",
+        "hour": 11.5,
+        "temp": 32,
+        "feels": 34,
+        "humidity": 36,
         "label": "Clear sky",
         "icon": "☀️"
       },
       "high": 33,
       "low": 23,
       "rain": 0,
-      "uv": 8.1,
+      "uv": 8.05,
       "periods": [
         {
           "name": "Morning",
@@ -412,11 +412,11 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-10-12T07:15",
-          "time": "7:15 AM",
-          "temp": 24,
-          "feels": 26,
-          "humidity": 62,
+          "iso": "2026-10-12T11:30",
+          "time": "11:30 AM",
+          "temp": 32,
+          "feels": 34,
+          "humidity": 36,
           "label": "Clear sky",
           "icon": "☀️"
         }
@@ -424,11 +424,11 @@
     },
     "wxlog_home": {
       "Morning": {
-        "iso": "2026-10-12T07:15",
-        "time": "7:15 AM",
-        "temp": 24,
-        "feels": 26,
-        "humidity": 62,
+        "iso": "2026-10-12T11:30",
+        "time": "11:30 AM",
+        "temp": 32,
+        "feels": 34,
+        "humidity": 36,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -440,12 +440,12 @@
       "label": "Clear sky",
       "icon": "☀️",
       "now": {
-        "iso": "2026-10-12T07:15",
-        "time": "7:15 AM",
-        "hour": 7.25,
-        "temp": 24,
-        "feels": 25,
-        "humidity": 61,
+        "iso": "2026-10-12T11:30",
+        "time": "11:30 AM",
+        "hour": 11.5,
+        "temp": 32,
+        "feels": 34,
+        "humidity": 34,
         "label": "Clear sky",
         "icon": "☀️"
       },
@@ -493,11 +493,11 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-10-12T07:15",
-          "time": "7:15 AM",
-          "temp": 24,
-          "feels": 25,
-          "humidity": 61,
+          "iso": "2026-10-12T11:30",
+          "time": "11:30 AM",
+          "temp": 32,
+          "feels": 34,
+          "humidity": 34,
           "label": "Clear sky",
           "icon": "☀️"
         }
@@ -505,11 +505,11 @@
     },
     "wxlog_office": {
       "Morning": {
-        "iso": "2026-10-12T07:15",
-        "time": "7:15 AM",
-        "temp": 24,
-        "feels": 25,
-        "humidity": 61,
+        "iso": "2026-10-12T11:30",
+        "time": "11:30 AM",
+        "temp": 32,
+        "feels": 34,
+        "humidity": 34,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -519,9 +519,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 15141,
-          "k22": 13879,
-          "change22": -1,
+          "k24": 15098,
+          "k22": 13840,
+          "change22": -40,
           "date": "12 October 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -592,8 +592,8 @@
         },
         {
           "date": "Oct 12, 2026",
-          "k22": 13879,
-          "k24": 15141
+          "k22": 13840,
+          "k24": 15098
         }
       ]
     }
@@ -636,19 +636,19 @@
         "label": "Clear sky",
         "icon": "☀️",
         "now": {
-          "iso": "2026-10-12T07:15",
-          "time": "7:15 AM",
-          "hour": 7.25,
-          "temp": 24,
-          "feels": 26,
-          "humidity": 62,
+          "iso": "2026-10-12T11:30",
+          "time": "11:30 AM",
+          "hour": 11.5,
+          "temp": 32,
+          "feels": 34,
+          "humidity": 36,
           "label": "Clear sky",
           "icon": "☀️"
         },
         "high": 33,
         "low": 23,
         "rain": 0,
-        "uv": 8.1,
+        "uv": 8.05,
         "periods": [
           {
             "name": "Morning",
@@ -689,11 +689,11 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-10-12T07:15",
-            "time": "7:15 AM",
-            "temp": 24,
-            "feels": 26,
-            "humidity": 62,
+            "iso": "2026-10-12T11:30",
+            "time": "11:30 AM",
+            "temp": 32,
+            "feels": 34,
+            "humidity": 36,
             "label": "Clear sky",
             "icon": "☀️"
           }
@@ -706,12 +706,12 @@
         "label": "Clear sky",
         "icon": "☀️",
         "now": {
-          "iso": "2026-10-12T07:15",
-          "time": "7:15 AM",
-          "hour": 7.25,
-          "temp": 24,
-          "feels": 25,
-          "humidity": 61,
+          "iso": "2026-10-12T11:30",
+          "time": "11:30 AM",
+          "hour": 11.5,
+          "temp": 32,
+          "feels": 34,
+          "humidity": 34,
           "label": "Clear sky",
           "icon": "☀️"
         },
@@ -759,11 +759,11 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-10-12T07:15",
-            "time": "7:15 AM",
-            "temp": 24,
-            "feels": 25,
-            "humidity": 61,
+            "iso": "2026-10-12T11:30",
+            "time": "11:30 AM",
+            "temp": 32,
+            "feels": 34,
+            "humidity": 34,
             "label": "Clear sky",
             "icon": "☀️"
           }
