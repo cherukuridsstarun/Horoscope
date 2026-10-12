@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Monday, 12 October 2026",
   "date_key": "2026-10-12",
-  "fetched_ist": "12 Oct 2026, 11:34 AM IST",
+  "fetched_ist": "12 Oct 2026, 01:40 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 12, 2026",
       "text": "It's likely that your personal and creative horizons are expanding, Taurus. Your or another's artistic enterprises might pay off big today. You could be introduced to people who prove to be valuable contacts as well as new friends. Your new feeling of enthusiasm and self-confidence certainly doesn't hurt!"
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 12, 2026",
       "text": "If you're uncertain about where you stand with someone special, consider asking them point blank. Listen carefully to what others say, and it will be easy to fill in any gaps they leave."
@@ -79,7 +79,7 @@
         },
         {
           "text": "The endless chatter continues, but you will find that there is a new twist to the conversation. Someone is fighting back. Opposing opinions are struggling to be heard. Everyone may not be as agreeable as they have been during the past couple days.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -98,7 +98,7 @@
           "src": "GaneshaSpeaks"
         },
         {
-          "text": "You may need to reconsider recent financial plans. Your head is full of all kinds of amazingly creative ideas. If you're a writer, journalist, or publisher, this is a great time to be you. But you need to use these gifts in a responsible way. Make sure you're saving your money with a reliable company.",
+          "text": "This week is about your home, which may mean having to spend more to get good quality goods or an emergency plumber to fix a broken sink. Whatever the case, know that it's going to be better soon. Meanwhile, a supportive aspect transforms your dreams. Don't give up on that wild scheme yet. It may yield results soon.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
           "src": "Horoscope.com · this week"
         }
@@ -119,7 +119,7 @@
         },
         {
           "text": "It's a good day to heal old wounds. Maybe someone said something that hurt your feelings; maybe you know there is something out there between you and a friend that still needs clearing up. You will enjoy this transit even more if you take the time to exercise your body. The increase of oxygen to the blood makes communication even purer.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -195,10 +195,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13688,
-        "k24": 14943,
+        "k22": 13596,
+        "k24": 14843,
         "change22": null,
-        "date": "9 October 2026",
+        "date": "12 October 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -287,25 +287,25 @@
     "hc_general": {
       "text": "It's likely that your personal and creative horizons are expanding, Taurus. Your or another's artistic enterprises might pay off big today. You could be introduced to people who prove to be valuable contacts as well as new friends. Your love relationships are going well. Your new feeling of enthusiasm and self-confidence certainly doesn't hurt!",
       "date": "Oct 12, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "The endless chatter continues, but you will find that there is a new twist to the conversation. Someone is fighting back. Opposing opinions are struggling to be heard. Everyone may not be as agreeable as they have been during the past couple days.",
       "date": "Oct 12, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "It's a good day to heal old wounds. Maybe someone said something that hurt your feelings; maybe you know there is something out there between you and a friend that still needs clearing up. The energy of the day gives wonderful support to healing communication and relationships. You will enjoy this transit even more if you take the time to exercise your body. The increase of oxygen to the blood makes communication even purer.",
       "date": "Oct 12, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
-      "text": "You may need to reconsider recent financial plans. Your head is full of all kinds of amazingly creative ideas. If you're a writer, journalist, or publisher, this is a great time to be you. But you need to use these gifts in a responsible way. Make sure you're saving your money with a reliable company.",
+      "text": "This week is about your home, which may mean having to spend more to get good quality goods or an emergency plumber to fix a broken sink. Whatever the case, know that it's going to be better soon. Meanwhile, a supportive aspect transforms your dreams. Don't give up on that wild scheme yet. It may yield results soon.",
       "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2"
     },
     "ac": {
       "text": "Discussions around matters of the heart can take a serious turn, dearest Gemini, thanks to a sweet union between the Scorpio Moon and Mercury. Don't be afraid to put your feelings on the line, especially if you sense your companion feels the same. If you're uncertain about where you stand with someone special, consider asking them point blank. If you're not feeling so bold, a bit of flirting can help you determine if they're truly interested in getting to know you better. Listen carefully to what others say, and it will be easy to fill in any gaps they leave.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -359,12 +359,12 @@
       "label": "Clear sky",
       "icon": "☀️",
       "now": {
-        "iso": "2026-10-12T11:30",
-        "time": "11:30 AM",
-        "hour": 11.5,
-        "temp": 32,
+        "iso": "2026-10-12T13:30",
+        "time": "1:30 PM",
+        "hour": 13.5,
+        "temp": 33,
         "feels": 34,
-        "humidity": 36,
+        "humidity": 30,
         "label": "Clear sky",
         "icon": "☀️"
       },
@@ -388,7 +388,7 @@
           "to": 17,
           "icon": "☀️",
           "label": "Clear sky",
-          "temp": 32,
+          "temp": 33,
           "rain": 0
         },
         {
@@ -419,6 +419,15 @@
           "humidity": 36,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-12T13:30",
+          "time": "1:30 PM",
+          "temp": 33,
+          "feels": 34,
+          "humidity": 30,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -431,6 +440,15 @@
         "humidity": 36,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-12T13:30",
+        "time": "1:30 PM",
+        "temp": 33,
+        "feels": 34,
+        "humidity": 30,
+        "label": "Clear sky",
+        "icon": "☀️"
       }
     },
     "wx_office": {
@@ -440,16 +458,16 @@
       "label": "Clear sky",
       "icon": "☀️",
       "now": {
-        "iso": "2026-10-12T11:30",
-        "time": "11:30 AM",
-        "hour": 11.5,
-        "temp": 32,
+        "iso": "2026-10-12T13:30",
+        "time": "1:30 PM",
+        "hour": 13.5,
+        "temp": 34,
         "feels": 34,
-        "humidity": 34,
+        "humidity": 28,
         "label": "Clear sky",
         "icon": "☀️"
       },
-      "high": 33,
+      "high": 34,
       "low": 23,
       "rain": 0,
       "uv": 8.1,
@@ -487,7 +505,7 @@
           "to": 30,
           "icon": "🌙",
           "label": "Clear sky",
-          "temp": 24,
+          "temp": 25,
           "rain": 0
         }
       ],
@@ -500,6 +518,15 @@
           "humidity": 34,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-12T13:30",
+          "time": "1:30 PM",
+          "temp": 34,
+          "feels": 34,
+          "humidity": 28,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -510,6 +537,15 @@
         "temp": 32,
         "feels": 34,
         "humidity": 34,
+        "label": "Clear sky",
+        "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-12T13:30",
+        "time": "1:30 PM",
+        "temp": 34,
+        "feels": 34,
+        "humidity": 28,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -537,10 +573,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13688,
-          "k24": 14943,
+          "k22": 13596,
+          "k24": 14843,
           "change22": null,
-          "date": "9 October 2026",
+          "date": "12 October 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -636,12 +672,12 @@
         "label": "Clear sky",
         "icon": "☀️",
         "now": {
-          "iso": "2026-10-12T11:30",
-          "time": "11:30 AM",
-          "hour": 11.5,
-          "temp": 32,
+          "iso": "2026-10-12T13:30",
+          "time": "1:30 PM",
+          "hour": 13.5,
+          "temp": 33,
           "feels": 34,
-          "humidity": 36,
+          "humidity": 30,
           "label": "Clear sky",
           "icon": "☀️"
         },
@@ -665,7 +701,7 @@
             "to": 17,
             "icon": "☀️",
             "label": "Clear sky",
-            "temp": 32,
+            "temp": 33,
             "rain": 0
           },
           {
@@ -696,6 +732,15 @@
             "humidity": 36,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-12T13:30",
+            "time": "1:30 PM",
+            "temp": 33,
+            "feels": 34,
+            "humidity": 30,
+            "label": "Clear sky",
+            "icon": "☀️"
           }
         }
       },
@@ -706,16 +751,16 @@
         "label": "Clear sky",
         "icon": "☀️",
         "now": {
-          "iso": "2026-10-12T11:30",
-          "time": "11:30 AM",
-          "hour": 11.5,
-          "temp": 32,
+          "iso": "2026-10-12T13:30",
+          "time": "1:30 PM",
+          "hour": 13.5,
+          "temp": 34,
           "feels": 34,
-          "humidity": 34,
+          "humidity": 28,
           "label": "Clear sky",
           "icon": "☀️"
         },
-        "high": 33,
+        "high": 34,
         "low": 23,
         "rain": 0,
         "uv": 8.1,
@@ -753,7 +798,7 @@
             "to": 30,
             "icon": "🌙",
             "label": "Clear sky",
-            "temp": 24,
+            "temp": 25,
             "rain": 0
           }
         ],
@@ -764,6 +809,15 @@
             "temp": 32,
             "feels": 34,
             "humidity": 34,
+            "label": "Clear sky",
+            "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-12T13:30",
+            "time": "1:30 PM",
+            "temp": 34,
+            "feels": 34,
+            "humidity": 28,
             "label": "Clear sky",
             "icon": "☀️"
           }
