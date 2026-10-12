@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 13 October 2026",
   "date_key": "2026-10-13",
-  "fetched_ist": "13 Oct 2026, 03:08 AM IST",
+  "fetched_ist": "13 Oct 2026, 04:11 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -222,7 +222,7 @@
         "k22": 13562,
         "k24": 14806,
         "change22": null,
-        "date": "13 October 2026",
+        "date": "12 October 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -383,12 +383,12 @@
       "label": "Partly cloudy",
       "icon": "⛅",
       "now": {
-        "iso": "2026-10-13T03:00",
-        "time": "3:00 AM",
-        "hour": 3.0,
-        "temp": 25,
+        "iso": "2026-10-13T04:00",
+        "time": "4:00 AM",
+        "hour": 4.0,
+        "temp": 24,
         "feels": 25,
-        "humidity": 53,
+        "humidity": 55,
         "label": "Clear sky",
         "icon": "🌙"
       },
@@ -444,12 +444,12 @@
       "label": "Partly cloudy",
       "icon": "⛅",
       "now": {
-        "iso": "2026-10-13T03:00",
-        "time": "3:00 AM",
-        "hour": 3.0,
-        "temp": 25,
+        "iso": "2026-10-13T04:00",
+        "time": "4:00 AM",
+        "hour": 4.0,
+        "temp": 24,
         "feels": 25,
-        "humidity": 53,
+        "humidity": 54,
         "label": "Clear sky",
         "icon": "🌙"
       },
@@ -524,7 +524,7 @@
           "k22": 13562,
           "k24": 14806,
           "change22": null,
-          "date": "13 October 2026",
+          "date": "12 October 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -620,12 +620,12 @@
         "label": "Partly cloudy",
         "icon": "⛅",
         "now": {
-          "iso": "2026-10-13T03:00",
-          "time": "3:00 AM",
-          "hour": 3.0,
-          "temp": 25,
+          "iso": "2026-10-13T04:00",
+          "time": "4:00 AM",
+          "hour": 4.0,
+          "temp": 24,
           "feels": 25,
-          "humidity": 53,
+          "humidity": 55,
           "label": "Clear sky",
           "icon": "🌙"
         },
@@ -680,12 +680,12 @@
         "label": "Partly cloudy",
         "icon": "⛅",
         "now": {
-          "iso": "2026-10-13T03:00",
-          "time": "3:00 AM",
-          "hour": 3.0,
-          "temp": 25,
+          "iso": "2026-10-13T04:00",
+          "time": "4:00 AM",
+          "hour": 4.0,
+          "temp": 24,
           "feels": 25,
-          "humidity": 53,
+          "humidity": 54,
           "label": "Clear sky",
           "icon": "🌙"
         },
