@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 13 October 2026",
   "date_key": "2026-10-13",
-  "fetched_ist": "13 Oct 2026, 02:06 PM IST",
+  "fetched_ist": "13 Oct 2026, 08:31 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -219,10 +219,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13526,
-        "k24": 14766,
+        "k22": 13522,
+        "k24": 14762,
         "change22": null,
-        "date": "8 October 2026",
+        "date": "13 October 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -383,14 +383,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-13T14:00",
-        "time": "2:00 PM",
-        "hour": 14.0,
-        "temp": 32,
-        "feels": 33,
-        "humidity": 33,
+        "iso": "2026-10-13T20:30",
+        "time": "8:30 PM",
+        "hour": 20.5,
+        "temp": 27,
+        "feels": 28,
+        "humidity": 54,
         "label": "Clear sky",
-        "icon": "☀️"
+        "icon": "🌙"
       },
       "high": 32,
       "low": 24,
@@ -452,6 +452,15 @@
           "humidity": 33,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Evening": {
+          "iso": "2026-10-13T20:30",
+          "time": "8:30 PM",
+          "temp": 27,
+          "feels": 28,
+          "humidity": 54,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -473,23 +482,32 @@
         "humidity": 33,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Evening": {
+        "iso": "2026-10-13T20:30",
+        "time": "8:30 PM",
+        "temp": 27,
+        "feels": 28,
+        "humidity": 54,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Partly cloudy",
-      "icon": "⛅",
+      "label": "Cloudy",
+      "icon": "☁️",
       "now": {
-        "iso": "2026-10-13T14:00",
-        "time": "2:00 PM",
-        "hour": 14.0,
-        "temp": 32,
-        "feels": 33,
-        "humidity": 33,
+        "iso": "2026-10-13T20:30",
+        "time": "8:30 PM",
+        "hour": 20.5,
+        "temp": 27,
+        "feels": 28,
+        "humidity": 53,
         "label": "Clear sky",
-        "icon": "☀️"
+        "icon": "🌙"
       },
       "high": 32,
       "low": 24,
@@ -551,6 +569,15 @@
           "humidity": 33,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Evening": {
+          "iso": "2026-10-13T20:30",
+          "time": "8:30 PM",
+          "temp": 27,
+          "feels": 28,
+          "humidity": 53,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -572,6 +599,15 @@
         "humidity": 33,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Evening": {
+        "iso": "2026-10-13T20:30",
+        "time": "8:30 PM",
+        "temp": 27,
+        "feels": 28,
+        "humidity": 53,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "gold": {
@@ -597,10 +633,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13526,
-          "k24": 14766,
+          "k22": 13522,
+          "k24": 14762,
           "change22": null,
-          "date": "8 October 2026",
+          "date": "13 October 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -696,14 +732,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-13T14:00",
-          "time": "2:00 PM",
-          "hour": 14.0,
-          "temp": 32,
-          "feels": 33,
-          "humidity": 33,
+          "iso": "2026-10-13T20:30",
+          "time": "8:30 PM",
+          "hour": 20.5,
+          "temp": 27,
+          "feels": 28,
+          "humidity": 54,
           "label": "Clear sky",
-          "icon": "☀️"
+          "icon": "🌙"
         },
         "high": 32,
         "low": 24,
@@ -765,6 +801,15 @@
             "humidity": 33,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Evening": {
+            "iso": "2026-10-13T20:30",
+            "time": "8:30 PM",
+            "temp": 27,
+            "feels": 28,
+            "humidity": 54,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       },
@@ -772,17 +817,17 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Partly cloudy",
-        "icon": "⛅",
+        "label": "Cloudy",
+        "icon": "☁️",
         "now": {
-          "iso": "2026-10-13T14:00",
-          "time": "2:00 PM",
-          "hour": 14.0,
-          "temp": 32,
-          "feels": 33,
-          "humidity": 33,
+          "iso": "2026-10-13T20:30",
+          "time": "8:30 PM",
+          "hour": 20.5,
+          "temp": 27,
+          "feels": 28,
+          "humidity": 53,
           "label": "Clear sky",
-          "icon": "☀️"
+          "icon": "🌙"
         },
         "high": 32,
         "low": 24,
@@ -844,6 +889,15 @@
             "humidity": 33,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Evening": {
+            "iso": "2026-10-13T20:30",
+            "time": "8:30 PM",
+            "temp": 27,
+            "feels": 28,
+            "humidity": 53,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       }
