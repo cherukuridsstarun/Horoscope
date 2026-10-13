@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 13 October 2026",
   "date_key": "2026-10-13",
-  "fetched_ist": "13 Oct 2026, 12:20 PM IST",
+  "fetched_ist": "13 Oct 2026, 02:06 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 13, 2026",
       "text": "If you find yourself tired and irritable at the moment, Taurus, you should know that this is normal. You may have had a few weeks that were a little too studious. Would you like to continue on the same path? Be careful that your ambitions don't lead you to serious physical exhaustion, Taurus. You'll be even more frustrated if you get sick. So be wise and take care of your basic needs."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 13, 2026",
       "text": "Unhealthy dynamics intensify as the Scorpio Moon forms harsh squares with Jupiter and the nodes of fate. If you're determined to salvage certain bonds, establishing clear ground rules might be the only way forward. Lay boundaries to protect yourself from future drama, and be open to hearing others out as well. You'll have a better idea of who can or cannot evolve with you once Luna enters Sagittarius this evening. Applaud your ability to end toxic cycles when Neptune stirs tonight."
@@ -95,7 +95,7 @@
         },
         {
           "text": "A new trend begins that will continue for the next few weeks. This trend spells difficulty in communication between you and the people you work with. The key to overcoming this time is to not be so aggressive and assertive towards others.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -130,7 +130,7 @@
         },
         {
           "text": "It is obvious that all parents are so very fond of their children: it's having the opportunity to see the world through a child's eyes that pulls you out of your chair and onto the floor whenever you are around children. Getting on the floor may be harder and harder for your body, though! The first thing to think of when you aren't feeling your physical best is water - are you drinking enough every day? This element of a healthy lifestyle cannot be overstressed.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -311,17 +311,17 @@
     "hc_general": {
       "text": "If you find yourself tired and irritable at the moment, Taurus, you should know that this is normal. You may have had a few weeks that were a little too studious. Would you like to continue on the same path? Be careful that your ambitions don't lead you to serious physical exhaustion, Taurus. You'll be even more frustrated if you get sick. So be wise and take care of your basic needs.",
       "date": "Oct 13, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "A new trend begins that will continue for the next few weeks. This trend spells difficulty in communication between you and the people you work with. The key to overcoming this time is to not be so aggressive and assertive towards others.",
       "date": "Oct 13, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "It is obvious that all parents are so very fond of their children: it's having the opportunity to see the world through a child's eyes that pulls you out of your chair and onto the floor whenever you are around children. Getting on the floor may be harder and harder for your body, though! The first thing to think of when you aren't feeling your physical best is water - are you drinking enough every day? This element of a healthy lifestyle cannot be overstressed.",
       "date": "Oct 13, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "This week is about your home, which may mean having to spend more to get good quality goods or an emergency plumber to fix a broken sink. Whatever the case, know that it's going to be better soon. Meanwhile, a supportive aspect transforms your dreams. Don't give up on that wild scheme yet. It may yield results soon.",
@@ -329,7 +329,7 @@
     },
     "ac": {
       "text": "You may reach regretful conclusions about some of the people you love, dearest Taurus. Unhealthy dynamics intensify as the Scorpio Moon forms harsh squares with Jupiter and the nodes of fate. Sentimentality will no longer be enough to sustain relationships that have absorbed too much damage. If you're determined to salvage certain bonds, establishing clear ground rules might be the only way forward. Lay boundaries to protect yourself from future drama, and be open to hearing others out as well. You'll have a better idea of who can or cannot evolve with you once Luna enters Sagittarius this evening. Applaud your ability to end toxic cycles when Neptune stirs tonight.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -380,12 +380,12 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Mostly clear",
-      "icon": "🌤️",
+      "label": "Cloudy",
+      "icon": "☁️",
       "now": {
-        "iso": "2026-10-13T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
+        "iso": "2026-10-13T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
         "temp": 32,
         "feels": 33,
         "humidity": 33,
@@ -445,8 +445,8 @@
           "icon": "☀️"
         },
         "Afternoon": {
-          "iso": "2026-10-13T12:15",
-          "time": "12:15 PM",
+          "iso": "2026-10-13T14:00",
+          "time": "2:00 PM",
           "temp": 32,
           "feels": 33,
           "humidity": 33,
@@ -466,8 +466,8 @@
         "icon": "☀️"
       },
       "Afternoon": {
-        "iso": "2026-10-13T12:15",
-        "time": "12:15 PM",
+        "iso": "2026-10-13T14:00",
+        "time": "2:00 PM",
         "temp": 32,
         "feels": 33,
         "humidity": 33,
@@ -479,19 +479,19 @@
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Mostly clear",
-      "icon": "🌤️",
+      "label": "Partly cloudy",
+      "icon": "⛅",
       "now": {
-        "iso": "2026-10-13T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
+        "iso": "2026-10-13T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
         "temp": 32,
         "feels": 33,
-        "humidity": 32,
+        "humidity": 33,
         "label": "Clear sky",
         "icon": "☀️"
       },
-      "high": 33,
+      "high": 32,
       "low": 24,
       "rain": 0,
       "uv": 8.05,
@@ -544,11 +544,11 @@
           "icon": "☀️"
         },
         "Afternoon": {
-          "iso": "2026-10-13T12:15",
-          "time": "12:15 PM",
+          "iso": "2026-10-13T14:00",
+          "time": "2:00 PM",
           "temp": 32,
           "feels": 33,
-          "humidity": 32,
+          "humidity": 33,
           "label": "Clear sky",
           "icon": "☀️"
         }
@@ -565,11 +565,11 @@
         "icon": "☀️"
       },
       "Afternoon": {
-        "iso": "2026-10-13T12:15",
-        "time": "12:15 PM",
+        "iso": "2026-10-13T14:00",
+        "time": "2:00 PM",
         "temp": 32,
         "feels": 33,
-        "humidity": 32,
+        "humidity": 33,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -693,12 +693,12 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Mostly clear",
-        "icon": "🌤️",
+        "label": "Cloudy",
+        "icon": "☁️",
         "now": {
-          "iso": "2026-10-13T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
+          "iso": "2026-10-13T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
           "temp": 32,
           "feels": 33,
           "humidity": 33,
@@ -758,8 +758,8 @@
             "icon": "☀️"
           },
           "Afternoon": {
-            "iso": "2026-10-13T12:15",
-            "time": "12:15 PM",
+            "iso": "2026-10-13T14:00",
+            "time": "2:00 PM",
             "temp": 32,
             "feels": 33,
             "humidity": 33,
@@ -772,19 +772,19 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Mostly clear",
-        "icon": "🌤️",
+        "label": "Partly cloudy",
+        "icon": "⛅",
         "now": {
-          "iso": "2026-10-13T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
+          "iso": "2026-10-13T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
           "temp": 32,
           "feels": 33,
-          "humidity": 32,
+          "humidity": 33,
           "label": "Clear sky",
           "icon": "☀️"
         },
-        "high": 33,
+        "high": 32,
         "low": 24,
         "rain": 0,
         "uv": 8.05,
@@ -837,11 +837,11 @@
             "icon": "☀️"
           },
           "Afternoon": {
-            "iso": "2026-10-13T12:15",
-            "time": "12:15 PM",
+            "iso": "2026-10-13T14:00",
+            "time": "2:00 PM",
             "temp": 32,
             "feels": 33,
-            "humidity": 32,
+            "humidity": 33,
             "label": "Clear sky",
             "icon": "☀️"
           }
