@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 14 October 2026",
   "date_key": "2026-10-14",
-  "fetched_ist": "14 Oct 2026, 12:19 PM IST",
+  "fetched_ist": "14 Oct 2026, 06:22 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 14, 2026",
       "text": "A legal matter that may have been pending for a while could finally be completed today, Taurus. It's very likely to go in your favor. Therefore, if you've been sitting on a contract, agreement, or other document that needs your signature, read it carefully before you sign. You will probably get what you want out of the transaction. By the way, this is also a great day to get married!"
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 14, 2026",
       "text": "Trusting the wrong people could have major consequences this morning, dearest Taurus. Guard your success and protect your energy from potential schemers while the Sagittarius Moon aligns with Pluto and Uranus. Pay extra attention to how you feel around those you trust as well. If you've noticed a pattern of toxicity taking root, address the issue sooner than later. Excuse yourself from triggering situations once Luna, Mars, and Saturn form a restorative grand trine this afternoon."
@@ -79,7 +79,7 @@
         },
         {
           "text": "The emotional, watery feeling of the weekend continues as the week gets underway. Use this time to predict what the opposition will do. You will have a keen ability of sensing what others will do before they do it. Tune into this ability.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -109,7 +109,7 @@
         },
         {
           "text": "Today's celestial atmosphere gives you a chance to lick your wounds - and you should! Don't let your negative feelings go unnoticed, or they will quite likely return with an even uglier face. Pay attention to what comes up for you in the next couple days and investigate the source. To keep you focused and centered, try to get out for a walk a couple of times a day. Fill up your water glass whenever you think of it.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -194,8 +194,8 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13405,
-        "k24": 14635,
+        "k22": 13380,
+        "k24": 14606,
         "change22": null,
         "date": "14 October 2026",
         "url": "https://ibjarates.com/"
@@ -286,17 +286,17 @@
     "hc_general": {
       "text": "A legal matter that may have been pending for a while could finally be completed today, Taurus. It's very likely to go in your favor. Therefore, if you've been sitting on a contract, agreement, or other document that needs your signature, read it carefully before you sign. You will probably get what you want out of the transaction. By the way, this is also a great day to get married!",
       "date": "Oct 14, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "The emotional, watery feeling of the weekend continues as the week gets underway. Use this time to predict what the opposition will do. You will have a keen ability of sensing what others will do before they do it. Tune into this ability.",
       "date": "Oct 14, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Today's celestial atmosphere gives you a chance to lick your wounds - and you should! Don't let your negative feelings go unnoticed, or they will quite likely return with an even uglier face. Pay attention to what comes up for you in the next couple days and investigate the source. To keep you focused and centered, try to get out for a walk a couple of times a day. Fill up your water glass whenever you think of it.",
       "date": "Oct 14, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "This week is about your home, which may mean having to spend more to get good quality goods or an emergency plumber to fix a broken sink. Whatever the case, know that it's going to be better soon. Meanwhile, a supportive aspect transforms your dreams. Don't give up on that wild scheme yet. It may yield results soon.",
@@ -304,7 +304,7 @@
     },
     "ac": {
       "text": "Trusting the wrong people could have major consequences this morning, dearest Taurus. Guard your success and protect your energy from potential schemers while the Sagittarius Moon aligns with Pluto and Uranus. Pay extra attention to how you feel around those you trust as well. If you've noticed a pattern of toxicity taking root, address the issue sooner than later. Excuse yourself from triggering situations once Luna, Mars, and Saturn form a restorative grand trine this afternoon. Reset your nervous system by spending quality time at home, giving yourself permission to unwind amongst loved ones who provide security and safety.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -358,16 +358,16 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-14T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
-        "temp": 32,
-        "feels": 34,
-        "humidity": 33,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "iso": "2026-10-14T18:15",
+        "time": "6:15 PM",
+        "hour": 18.25,
+        "temp": 29,
+        "feels": 29,
+        "humidity": 43,
+        "label": "Mostly clear",
+        "icon": "🌙"
       },
-      "high": 32,
+      "high": 33,
       "low": 23,
       "rain": 0,
       "uv": 8.0,
@@ -385,8 +385,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 32,
           "rain": 0
         },
@@ -403,8 +403,8 @@
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 25,
           "rain": 0
         }
@@ -427,6 +427,15 @@
           "humidity": 33,
           "label": "Partly cloudy",
           "icon": "⛅"
+        },
+        "Evening": {
+          "iso": "2026-10-14T18:15",
+          "time": "6:15 PM",
+          "temp": 29,
+          "feels": 29,
+          "humidity": 43,
+          "label": "Mostly clear",
+          "icon": "🌙"
         }
       }
     },
@@ -448,6 +457,15 @@
         "humidity": 33,
         "label": "Partly cloudy",
         "icon": "⛅"
+      },
+      "Evening": {
+        "iso": "2026-10-14T18:15",
+        "time": "6:15 PM",
+        "temp": 29,
+        "feels": 29,
+        "humidity": 43,
+        "label": "Mostly clear",
+        "icon": "🌙"
       }
     },
     "wx_office": {
@@ -457,14 +475,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-14T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
-        "temp": 32,
-        "feels": 34,
-        "humidity": 32,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "iso": "2026-10-14T18:15",
+        "time": "6:15 PM",
+        "hour": 18.25,
+        "temp": 29,
+        "feels": 28,
+        "humidity": 43,
+        "label": "Mostly clear",
+        "icon": "🌙"
       },
       "high": 33,
       "low": 22,
@@ -477,15 +495,15 @@
           "to": 12,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 28,
+          "temp": 27,
           "rain": 0
         },
         {
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 32,
           "rain": 0
         },
@@ -493,17 +511,17 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌤️",
-          "label": "Mostly clear",
-          "temp": 28,
+          "icon": "⛅",
+          "label": "Partly cloudy",
+          "temp": 29,
           "rain": 0
         },
         {
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 25,
           "rain": 0
         }
@@ -526,6 +544,15 @@
           "humidity": 32,
           "label": "Partly cloudy",
           "icon": "⛅"
+        },
+        "Evening": {
+          "iso": "2026-10-14T18:15",
+          "time": "6:15 PM",
+          "temp": 29,
+          "feels": 28,
+          "humidity": 43,
+          "label": "Mostly clear",
+          "icon": "🌙"
         }
       }
     },
@@ -547,6 +574,15 @@
         "humidity": 32,
         "label": "Partly cloudy",
         "icon": "⛅"
+      },
+      "Evening": {
+        "iso": "2026-10-14T18:15",
+        "time": "6:15 PM",
+        "temp": 29,
+        "feels": 28,
+        "humidity": 43,
+        "label": "Mostly clear",
+        "icon": "🌙"
       }
     },
     "gold": {
@@ -572,8 +608,8 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13405,
-          "k24": 14635,
+          "k22": 13380,
+          "k24": 14606,
           "change22": null,
           "date": "14 October 2026",
           "url": "https://ibjarates.com/"
@@ -671,16 +707,16 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-14T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
-          "temp": 32,
-          "feels": 34,
-          "humidity": 33,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "iso": "2026-10-14T18:15",
+          "time": "6:15 PM",
+          "hour": 18.25,
+          "temp": 29,
+          "feels": 29,
+          "humidity": 43,
+          "label": "Mostly clear",
+          "icon": "🌙"
         },
-        "high": 32,
+        "high": 33,
         "low": 23,
         "rain": 0,
         "uv": 8.0,
@@ -698,8 +734,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 32,
             "rain": 0
           },
@@ -716,8 +752,8 @@
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 25,
             "rain": 0
           }
@@ -740,6 +776,15 @@
             "humidity": 33,
             "label": "Partly cloudy",
             "icon": "⛅"
+          },
+          "Evening": {
+            "iso": "2026-10-14T18:15",
+            "time": "6:15 PM",
+            "temp": 29,
+            "feels": 29,
+            "humidity": 43,
+            "label": "Mostly clear",
+            "icon": "🌙"
           }
         }
       },
@@ -750,14 +795,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-14T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
-          "temp": 32,
-          "feels": 34,
-          "humidity": 32,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "iso": "2026-10-14T18:15",
+          "time": "6:15 PM",
+          "hour": 18.25,
+          "temp": 29,
+          "feels": 28,
+          "humidity": 43,
+          "label": "Mostly clear",
+          "icon": "🌙"
         },
         "high": 33,
         "low": 22,
@@ -770,15 +815,15 @@
             "to": 12,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 28,
+            "temp": 27,
             "rain": 0
           },
           {
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 32,
             "rain": 0
           },
@@ -786,17 +831,17 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌤️",
-            "label": "Mostly clear",
-            "temp": 28,
+            "icon": "⛅",
+            "label": "Partly cloudy",
+            "temp": 29,
             "rain": 0
           },
           {
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 25,
             "rain": 0
           }
@@ -819,6 +864,15 @@
             "humidity": 32,
             "label": "Partly cloudy",
             "icon": "⛅"
+          },
+          "Evening": {
+            "iso": "2026-10-14T18:15",
+            "time": "6:15 PM",
+            "temp": 29,
+            "feels": 28,
+            "humidity": 43,
+            "label": "Mostly clear",
+            "icon": "🌙"
           }
         }
       }
