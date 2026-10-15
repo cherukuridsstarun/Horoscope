@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 15 October 2026",
   "date_key": "2026-10-15",
-  "fetched_ist": "15 Oct 2026, 06:08 PM IST",
+  "fetched_ist": "15 Oct 2026, 11:10 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -219,7 +219,7 @@
       {
         "src": "PolicyBazaar",
         "label": "Hyderabad retail · 22K only",
-        "k22": 13590,
+        "k22": 13515,
         "k24": null,
         "change22": null,
         "date": "15 October 2026",
@@ -389,49 +389,49 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Light drizzle",
-      "icon": "🌦️",
+      "label": "Cloudy",
+      "icon": "☁️",
       "now": {
-        "iso": "2026-10-15T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 32,
-        "feels": 35,
-        "humidity": 44,
-        "label": "Clear sky",
-        "icon": "☀️"
+        "iso": "2026-10-15T23:00",
+        "time": "11:00 PM",
+        "hour": 23.0,
+        "temp": 25,
+        "feels": 28,
+        "humidity": 82,
+        "label": "Mostly clear",
+        "icon": "🌙"
       },
       "high": 33,
       "low": 24,
-      "rain": 33,
+      "rain": 26,
       "uv": 7.95,
       "periods": [
         {
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "☁️",
-          "label": "Cloudy",
-          "temp": 27,
+          "icon": "⛅",
+          "label": "Partly cloudy",
+          "temp": 28,
           "rain": 2
         },
         {
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌤️",
-          "label": "Mostly clear",
-          "temp": 32,
-          "rain": 33
+          "icon": "⛅",
+          "label": "Partly cloudy",
+          "temp": 33,
+          "rain": 26
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌦️",
-          "label": "Light drizzle",
-          "temp": 29,
-          "rain": 33
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 30,
+          "rain": 25
         },
         {
           "name": "Night",
@@ -440,7 +440,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 24,
-          "rain": 2
+          "rain": 0
         }
       ],
       "log": {
@@ -461,6 +461,15 @@
           "humidity": 44,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Night": {
+          "iso": "2026-10-15T23:00",
+          "time": "11:00 PM",
+          "temp": 25,
+          "feels": 28,
+          "humidity": 82,
+          "label": "Mostly clear",
+          "icon": "🌙"
         }
       }
     },
@@ -482,27 +491,36 @@
         "humidity": 44,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Night": {
+        "iso": "2026-10-15T23:00",
+        "time": "11:00 PM",
+        "temp": 25,
+        "feels": 28,
+        "humidity": 82,
+        "label": "Mostly clear",
+        "icon": "🌙"
       }
     },
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Light drizzle",
-      "icon": "🌦️",
+      "label": "Cloudy",
+      "icon": "☁️",
       "now": {
-        "iso": "2026-10-15T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 32,
-        "feels": 35,
-        "humidity": 42,
+        "iso": "2026-10-15T23:00",
+        "time": "11:00 PM",
+        "hour": 23.0,
+        "temp": 26,
+        "feels": 28,
+        "humidity": 72,
         "label": "Clear sky",
-        "icon": "☀️"
+        "icon": "🌙"
       },
       "high": 33,
-      "low": 23,
-      "rain": 33,
+      "low": 24,
+      "rain": 26,
       "uv": 7.95,
       "periods": [
         {
@@ -518,28 +536,28 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌦️",
-          "label": "Light drizzle",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 32,
-          "rain": 33
+          "rain": 26
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "⛅",
+          "label": "Partly cloudy",
           "temp": 29,
-          "rain": 33
+          "rain": 25
         },
         {
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "⛅",
+          "label": "Partly cloudy",
           "temp": 25,
-          "rain": 2
+          "rain": 0
         }
       ],
       "log": {
@@ -560,6 +578,15 @@
           "humidity": 42,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Night": {
+          "iso": "2026-10-15T23:00",
+          "time": "11:00 PM",
+          "temp": 26,
+          "feels": 28,
+          "humidity": 72,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -581,6 +608,15 @@
         "humidity": 42,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Night": {
+        "iso": "2026-10-15T23:00",
+        "time": "11:00 PM",
+        "temp": 26,
+        "feels": 28,
+        "humidity": 72,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "gold": {
@@ -597,8 +633,8 @@
         "PolicyBazaar": {
           "src": "PolicyBazaar",
           "label": "Hyderabad retail",
-          "k22": 13590,
-          "k24": 14270,
+          "k22": 13515,
+          "k24": 14191,
           "change22": null,
           "date": "15 October 2026",
           "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
@@ -702,49 +738,49 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Light drizzle",
-        "icon": "🌦️",
+        "label": "Cloudy",
+        "icon": "☁️",
         "now": {
-          "iso": "2026-10-15T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 32,
-          "feels": 35,
-          "humidity": 44,
-          "label": "Clear sky",
-          "icon": "☀️"
+          "iso": "2026-10-15T23:00",
+          "time": "11:00 PM",
+          "hour": 23.0,
+          "temp": 25,
+          "feels": 28,
+          "humidity": 82,
+          "label": "Mostly clear",
+          "icon": "🌙"
         },
         "high": 33,
         "low": 24,
-        "rain": 33,
+        "rain": 26,
         "uv": 7.95,
         "periods": [
           {
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "☁️",
-            "label": "Cloudy",
-            "temp": 27,
+            "icon": "⛅",
+            "label": "Partly cloudy",
+            "temp": 28,
             "rain": 2
           },
           {
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌤️",
-            "label": "Mostly clear",
-            "temp": 32,
-            "rain": 33
+            "icon": "⛅",
+            "label": "Partly cloudy",
+            "temp": 33,
+            "rain": 26
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌦️",
-            "label": "Light drizzle",
-            "temp": 29,
-            "rain": 33
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 30,
+            "rain": 25
           },
           {
             "name": "Night",
@@ -753,7 +789,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 24,
-            "rain": 2
+            "rain": 0
           }
         ],
         "log": {
@@ -774,6 +810,15 @@
             "humidity": 44,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Night": {
+            "iso": "2026-10-15T23:00",
+            "time": "11:00 PM",
+            "temp": 25,
+            "feels": 28,
+            "humidity": 82,
+            "label": "Mostly clear",
+            "icon": "🌙"
           }
         }
       },
@@ -781,21 +826,21 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Light drizzle",
-        "icon": "🌦️",
+        "label": "Cloudy",
+        "icon": "☁️",
         "now": {
-          "iso": "2026-10-15T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 32,
-          "feels": 35,
-          "humidity": 42,
+          "iso": "2026-10-15T23:00",
+          "time": "11:00 PM",
+          "hour": 23.0,
+          "temp": 26,
+          "feels": 28,
+          "humidity": 72,
           "label": "Clear sky",
-          "icon": "☀️"
+          "icon": "🌙"
         },
         "high": 33,
-        "low": 23,
-        "rain": 33,
+        "low": 24,
+        "rain": 26,
         "uv": 7.95,
         "periods": [
           {
@@ -811,28 +856,28 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌦️",
-            "label": "Light drizzle",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 32,
-            "rain": 33
+            "rain": 26
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "⛅",
+            "label": "Partly cloudy",
             "temp": 29,
-            "rain": 33
+            "rain": 25
           },
           {
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "⛅",
+            "label": "Partly cloudy",
             "temp": 25,
-            "rain": 2
+            "rain": 0
           }
         ],
         "log": {
@@ -853,6 +898,15 @@
             "humidity": 42,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Night": {
+            "iso": "2026-10-15T23:00",
+            "time": "11:00 PM",
+            "temp": 26,
+            "feels": 28,
+            "humidity": 72,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       }
