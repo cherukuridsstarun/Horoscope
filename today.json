@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 15 October 2026",
   "date_key": "2026-10-15",
-  "fetched_ist": "15 Oct 2026, 12:06 PM IST",
+  "fetched_ist": "15 Oct 2026, 06:08 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 15, 2026",
       "text": "You might be frustrated by the fact that people are doing things hastily today, Taurus. You might have to accept the fast-paced energy of the day just so you can keep up. Don't worry if you engage in activities that aren't carefully planned beforehand. You will find spontaneous frivolity to be extremely rewarding on a day like this. Expect the unexpected."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 15, 2026",
       "text": "You'll have much nurturing to offer and a clear understanding of who you want to share it with, dearest Taurus. Acts of service will leave a significant impression, and those benefitting from your warmth won't soon forget how supported and taken care of you've made them feel. Family and friends may wish to reciprocate your kindnesses once the Sun, Sagittarius Moon, and Jupiter connect this afternoon. Allow yourself to be pampered by those who are eager to do so."
@@ -95,7 +95,7 @@
         },
         {
           "text": "Be careful with your money. Stay away from commercial stores, avoid online shopping sites, and, if you must do some shopping, take only a minimum amount of money with you and leave your credit cards at home. If you don't, you could succumb to the temptation.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -143,7 +143,7 @@
         },
         {
           "text": "Watching yourself take the initiative will give your ego something to smile about. Today's planetary energy has a helpful effect on you. Especially in the next couple of days, your ability to undercut the sentimental with a strong sense of purpose will make you feel as if your personal power is on a wing. However, emotional truth can be the ultimate truth a lot of the times. Take a hot bath and consider your sensitive side.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -228,8 +228,8 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13334,
-        "k24": 14556,
+        "k22": 13368,
+        "k24": 14594,
         "change22": null,
         "date": "15 October 2026",
         "url": "https://ibjarates.com/"
@@ -320,17 +320,17 @@
     "hc_general": {
       "text": "You might be frustrated by the fact that people are doing things hastily today, Taurus. You might have to accept the fast-paced energy of the day just so you can keep up. Don't worry if you engage in activities that aren't carefully planned beforehand. You will find spontaneous frivolity to be extremely rewarding on a day like this. Expect the unexpected.",
       "date": "Oct 15, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Be careful with your money. Stay away from commercial stores, avoid online shopping sites, and, if you must do some shopping, take only a minimum amount of money with you and leave your credit cards at home. If you don't, you could succumb to the temptation.",
       "date": "Oct 15, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Watching yourself take the initiative will give your ego something to smile about. Today's planetary energy has a helpful effect on you. Especially in the next couple of days, your ability to undercut the sentimental with a strong sense of purpose will make you feel as if your personal power is on a wing. However, emotional truth can be the ultimate truth a lot of the times. Take a hot bath and consider your sensitive side.",
       "date": "Oct 15, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "This week is about your home, which may mean having to spend more to get good quality goods or an emergency plumber to fix a broken sink. Whatever the case, know that it's going to be better soon. Meanwhile, a supportive aspect transforms your dreams. Don't give up on that wild scheme yet. It may yield results soon.",
@@ -338,7 +338,7 @@
     },
     "ac": {
       "text": "You'll have much nurturing to offer and a clear understanding of who you want to share it with, dearest Taurus. Speak your love language loudly while the Libra Sun and Jupiter align, going out of your way to make sure the people you cherish have what they need to thrive. Acts of service will leave a significant impression, and those benefitting from your warmth won't soon forget how supported and taken care of you've made them feel. Family and friends may wish to reciprocate your kindnesses once the Sun, Sagittarius Moon, and Jupiter connect this afternoon. Allow yourself to be pampered by those who are eager to do so.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -606,8 +606,8 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13334,
-          "k24": 14556,
+          "k22": 13368,
+          "k24": 14594,
           "change22": null,
           "date": "15 October 2026",
           "url": "https://ibjarates.com/"
