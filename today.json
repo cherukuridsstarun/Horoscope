@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 16 October 2026",
   "date_key": "2026-10-16",
-  "fetched_ist": "16 Oct 2026, 01:08 AM IST",
+  "fetched_ist": "16 Oct 2026, 06:21 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -230,9 +230,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 14744,
-        "k22": 13515,
-        "change22": -75,
+        "k24": 14743,
+        "k22": 13514,
+        "change22": -1,
         "date": "16 October 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -251,16 +251,11 @@
         "k22": 13368,
         "k24": 14594,
         "change22": null,
-        "date": "16 October 2026",
+        "date": "15 October 2026",
         "url": "https://ibjarates.com/"
       }
     ],
     "trend": [
-      {
-        "date": "Oct 06, 2026",
-        "k22": 13770,
-        "k24": 15022
-      },
       {
         "date": "Oct 07, 2026",
         "k22": 13710,
@@ -305,6 +300,11 @@
         "date": "Oct 15, 2026",
         "k22": 13515,
         "k24": 14744
+      },
+      {
+        "date": "Oct 16, 2026",
+        "k22": 13514,
+        "k24": 14743
       }
     ]
   },
@@ -412,26 +412,26 @@
       "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-10-16T01:00",
-        "time": "1:00 AM",
-        "hour": 1.0,
-        "temp": 25,
-        "feels": 29,
-        "humidity": 82,
-        "label": "Cloudy",
-        "icon": "☁️"
+        "iso": "2026-10-16T06:15",
+        "time": "6:15 AM",
+        "hour": 6.25,
+        "temp": 23,
+        "feels": 28,
+        "humidity": 92,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       },
       "high": 33,
-      "low": 24,
-      "rain": 12,
-      "uv": 7.95,
+      "low": 23,
+      "rain": 18,
+      "uv": 7.9,
       "periods": [
         {
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "🌦️",
-          "label": "Light drizzle",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 28,
           "rain": 0
         },
@@ -439,10 +439,10 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 33,
-          "rain": 12
+          "rain": 18
         },
         {
           "name": "Evening",
@@ -450,8 +450,8 @@
           "to": 21,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 30,
-          "rain": 4
+          "temp": 29,
+          "rain": 10
         },
         {
           "name": "Night",
@@ -460,31 +460,51 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 25,
-          "rain": 2
+          "rain": 1
         }
       ],
-      "log": {}
+      "log": {
+        "Morning": {
+          "iso": "2026-10-16T06:15",
+          "time": "6:15 AM",
+          "temp": 23,
+          "feels": 28,
+          "humidity": 92,
+          "label": "Partly cloudy",
+          "icon": "⛅"
+        }
+      }
     },
-    "wxlog_home": {},
+    "wxlog_home": {
+      "Morning": {
+        "iso": "2026-10-16T06:15",
+        "time": "6:15 AM",
+        "temp": 23,
+        "feels": 28,
+        "humidity": 92,
+        "label": "Partly cloudy",
+        "icon": "⛅"
+      }
+    },
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Light drizzle",
-      "icon": "🌦️",
+      "label": "Cloudy",
+      "icon": "☁️",
       "now": {
-        "iso": "2026-10-16T01:00",
-        "time": "1:00 AM",
-        "hour": 1.0,
-        "temp": 26,
-        "feels": 29,
-        "humidity": 79,
+        "iso": "2026-10-16T06:15",
+        "time": "6:15 AM",
+        "hour": 6.25,
+        "temp": 24,
+        "feels": 28,
+        "humidity": 89,
         "label": "Cloudy",
         "icon": "☁️"
       },
       "high": 33,
       "low": 24,
-      "rain": 12,
+      "rain": 18,
       "uv": 7.95,
       "periods": [
         {
@@ -500,19 +520,19 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌦️",
-          "label": "Light drizzle",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 32,
-          "rain": 12
+          "rain": 18
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "⛅",
-          "label": "Partly cloudy",
-          "temp": 30,
-          "rain": 4
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 29,
+          "rain": 10
         },
         {
           "name": "Night",
@@ -520,21 +540,41 @@
           "to": 30,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 25,
-          "rain": 2
+          "temp": 26,
+          "rain": 1
         }
       ],
-      "log": {}
+      "log": {
+        "Morning": {
+          "iso": "2026-10-16T06:15",
+          "time": "6:15 AM",
+          "temp": 24,
+          "feels": 28,
+          "humidity": 89,
+          "label": "Cloudy",
+          "icon": "☁️"
+        }
+      }
     },
-    "wxlog_office": {},
+    "wxlog_office": {
+      "Morning": {
+        "iso": "2026-10-16T06:15",
+        "time": "6:15 AM",
+        "temp": 24,
+        "feels": 28,
+        "humidity": 89,
+        "label": "Cloudy",
+        "icon": "☁️"
+      }
+    },
     "gold": {
       "rows": {
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 14744,
-          "k22": 13515,
-          "change22": -75,
+          "k24": 14743,
+          "k22": 13514,
+          "change22": -1,
           "date": "16 October 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -553,16 +593,11 @@
           "k22": 13368,
           "k24": 14594,
           "change22": null,
-          "date": "16 October 2026",
+          "date": "15 October 2026",
           "url": "https://ibjarates.com/"
         }
       },
       "trend": [
-        {
-          "date": "Oct 06, 2026",
-          "k22": 13770,
-          "k24": 15022
-        },
         {
           "date": "Oct 07, 2026",
           "k22": 13710,
@@ -607,6 +642,11 @@
           "date": "Oct 15, 2026",
           "k22": 13515,
           "k24": 14744
+        },
+        {
+          "date": "Oct 16, 2026",
+          "k22": 13514,
+          "k24": 14743
         }
       ]
     }
@@ -649,26 +689,26 @@
         "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-10-16T01:00",
-          "time": "1:00 AM",
-          "hour": 1.0,
-          "temp": 25,
-          "feels": 29,
-          "humidity": 82,
-          "label": "Cloudy",
-          "icon": "☁️"
+          "iso": "2026-10-16T06:15",
+          "time": "6:15 AM",
+          "hour": 6.25,
+          "temp": 23,
+          "feels": 28,
+          "humidity": 92,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         },
         "high": 33,
-        "low": 24,
-        "rain": 12,
-        "uv": 7.95,
+        "low": 23,
+        "rain": 18,
+        "uv": 7.9,
         "periods": [
           {
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "🌦️",
-            "label": "Light drizzle",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 28,
             "rain": 0
           },
@@ -676,10 +716,10 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 33,
-            "rain": 12
+            "rain": 18
           },
           {
             "name": "Evening",
@@ -687,8 +727,8 @@
             "to": 21,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 30,
-            "rain": 4
+            "temp": 29,
+            "rain": 10
           },
           {
             "name": "Night",
@@ -697,30 +737,40 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 25,
-            "rain": 2
+            "rain": 1
           }
         ],
-        "log": {}
+        "log": {
+          "Morning": {
+            "iso": "2026-10-16T06:15",
+            "time": "6:15 AM",
+            "temp": 23,
+            "feels": 28,
+            "humidity": 92,
+            "label": "Partly cloudy",
+            "icon": "⛅"
+          }
+        }
       },
       {
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Light drizzle",
-        "icon": "🌦️",
+        "label": "Cloudy",
+        "icon": "☁️",
         "now": {
-          "iso": "2026-10-16T01:00",
-          "time": "1:00 AM",
-          "hour": 1.0,
-          "temp": 26,
-          "feels": 29,
-          "humidity": 79,
+          "iso": "2026-10-16T06:15",
+          "time": "6:15 AM",
+          "hour": 6.25,
+          "temp": 24,
+          "feels": 28,
+          "humidity": 89,
           "label": "Cloudy",
           "icon": "☁️"
         },
         "high": 33,
         "low": 24,
-        "rain": 12,
+        "rain": 18,
         "uv": 7.95,
         "periods": [
           {
@@ -736,19 +786,19 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌦️",
-            "label": "Light drizzle",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 32,
-            "rain": 12
+            "rain": 18
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "⛅",
-            "label": "Partly cloudy",
-            "temp": 30,
-            "rain": 4
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 29,
+            "rain": 10
           },
           {
             "name": "Night",
@@ -756,11 +806,21 @@
             "to": 30,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 25,
-            "rain": 2
+            "temp": 26,
+            "rain": 1
           }
         ],
-        "log": {}
+        "log": {
+          "Morning": {
+            "iso": "2026-10-16T06:15",
+            "time": "6:15 AM",
+            "temp": 24,
+            "feels": 28,
+            "humidity": 89,
+            "label": "Cloudy",
+            "icon": "☁️"
+          }
+        }
       }
     ]
   }
