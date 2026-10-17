@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Saturday, 17 October 2026",
   "date_key": "2026-10-17",
-  "fetched_ist": "17 Oct 2026, 11:49 AM IST",
+  "fetched_ist": "17 Oct 2026, 05:06 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 17, 2026",
       "text": "I told you so might be your motto of the day. Try not to rub this in other people's faces, Taurus. Indeed, you have the foresight to witness an action and see the consequences right away. These consequences might rear their ugly heads on a day like this. Use your incredible perception and intuition to home in on the best solution possible and work toward that goal before things get out of hand."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 17, 2026",
       "text": "The Capricorn Moon and Saturn square off early this morning, dearest Taurus, highlighting issues you've been ignoring. This celestial clash creates a pressurized atmosphere, which could trigger intense dreams or restlessness. Luckily, you can make this energy work in your favor, but avoidant cycles will need to be broken immediately. If you are willing to accept signs the universe is sending, you'll have a chance to learn, grow, and overcome obstacles. If you require support along the way, ask your higher power for help."
@@ -111,7 +111,7 @@
         },
         {
           "text": "You will be extremely productive. Your work ethic will be strong, and you will have no trouble creating a list and sticking to it. You have everything you need to make this an extremely successful day in the workplace or wherever you happen to be.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -171,7 +171,7 @@
         },
         {
           "text": "The planets will give you something to think about today. In any case, you must watch your own behavior in order to stay true to yourself and the other person. Do what you feel and try to feel everything you do, as opposed to getting carried away in the moment. Stay grounded through exercise and a healthy diet.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -356,17 +356,17 @@
     "hc_general": {
       "text": "I told you so might be your motto of the day. Try not to rub this in other people's faces, Taurus. Indeed, you have the foresight to witness an action and see the consequences right away. These consequences might rear their ugly heads on a day like this. Use your incredible perception and intuition to home in on the best solution possible and work toward that goal before things get out of hand.",
       "date": "Oct 17, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "You will be extremely productive. Your work ethic will be strong, and you will have no trouble creating a list and sticking to it. You have everything you need to make this an extremely successful day in the workplace or wherever you happen to be.",
       "date": "Oct 17, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "The planets will give you something to think about today. Maybe a new attraction appears in your life out of nowhere - or a chance reappearance of an old flame. In any case, you must watch your own behavior in order to stay true to yourself and the other person. Do what you feel and try to feel everything you do, as opposed to getting carried away in the moment. Stay grounded through exercise and a healthy diet.",
       "date": "Oct 17, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "This week is about your home, which may mean having to spend more to get good quality goods or an emergency plumber to fix a broken sink. Whatever the case, know that it's going to be better soon. Meanwhile, a supportive aspect transforms your dreams. Don't give up on that wild scheme yet. It may yield results soon.",
@@ -374,7 +374,7 @@
     },
     "ac": {
       "text": "The Capricorn Moon and Saturn square off early this morning, dearest Taurus, highlighting issues you've been ignoring. This celestial clash creates a pressurized atmosphere, which could trigger intense dreams or restlessness. Luckily, you can make this energy work in your favor, but avoidant cycles will need to be broken immediately. If you are willing to accept signs the universe is sending, you'll have a chance to learn, grow, and overcome obstacles. If you require support along the way, ask your higher power for help. A sense of relief washes over you once Luna and Mercury align this evening, putting you in an optimistic and romantic mood.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -425,17 +425,17 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Cloudy",
-      "icon": "☁️",
+      "label": "Drizzle",
+      "icon": "🌦️",
       "now": {
-        "iso": "2026-10-17T11:45",
-        "time": "11:45 AM",
-        "hour": 11.75,
-        "temp": 32,
-        "feels": 36,
-        "humidity": 41,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "iso": "2026-10-17T17:00",
+        "time": "5:00 PM",
+        "hour": 17.0,
+        "temp": 31,
+        "feels": 32,
+        "humidity": 47,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       },
       "high": 33,
       "low": 24,
@@ -446,8 +446,8 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "🌦️",
+          "label": "Light drizzle",
           "temp": 28,
           "rain": 0
         },
@@ -455,8 +455,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "🌦️",
+          "label": "Drizzle",
           "temp": 32,
           "rain": 33
         },
@@ -464,9 +464,9 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "☁️",
-          "label": "Cloudy",
-          "temp": 28,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 27,
           "rain": 35
         },
         {
@@ -488,6 +488,15 @@
           "humidity": 41,
           "label": "Mostly clear",
           "icon": "🌤️"
+        },
+        "Evening": {
+          "iso": "2026-10-17T17:00",
+          "time": "5:00 PM",
+          "temp": 31,
+          "feels": 32,
+          "humidity": 47,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         }
       }
     },
@@ -500,26 +509,35 @@
         "humidity": 41,
         "label": "Mostly clear",
         "icon": "🌤️"
+      },
+      "Evening": {
+        "iso": "2026-10-17T17:00",
+        "time": "5:00 PM",
+        "temp": 31,
+        "feels": 32,
+        "humidity": 47,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       }
     },
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Cloudy",
-      "icon": "☁️",
+      "label": "Light drizzle",
+      "icon": "🌦️",
       "now": {
-        "iso": "2026-10-17T11:45",
-        "time": "11:45 AM",
-        "hour": 11.75,
+        "iso": "2026-10-17T17:00",
+        "time": "5:00 PM",
+        "hour": 17.0,
         "temp": 32,
-        "feels": 36,
-        "humidity": 43,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "feels": 33,
+        "humidity": 39,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       },
-      "high": 32,
-      "low": 24,
+      "high": 33,
+      "low": 23,
       "rain": 35,
       "uv": 7.9,
       "periods": [
@@ -527,8 +545,8 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "🌦️",
+          "label": "Light drizzle",
           "temp": 28,
           "rain": 0
         },
@@ -536,18 +554,18 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "☁️",
-          "label": "Cloudy",
-          "temp": 32,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 33,
           "rain": 33
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "☁️",
-          "label": "Cloudy",
-          "temp": 29,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 28,
           "rain": 35
         },
         {
@@ -569,6 +587,15 @@
           "humidity": 43,
           "label": "Mostly clear",
           "icon": "🌤️"
+        },
+        "Evening": {
+          "iso": "2026-10-17T17:00",
+          "time": "5:00 PM",
+          "temp": 32,
+          "feels": 33,
+          "humidity": 39,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         }
       }
     },
@@ -581,6 +608,15 @@
         "humidity": 43,
         "label": "Mostly clear",
         "icon": "🌤️"
+      },
+      "Evening": {
+        "iso": "2026-10-17T17:00",
+        "time": "5:00 PM",
+        "temp": 32,
+        "feels": 33,
+        "humidity": 39,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       }
     },
     "gold": {
@@ -702,17 +738,17 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Cloudy",
-        "icon": "☁️",
+        "label": "Drizzle",
+        "icon": "🌦️",
         "now": {
-          "iso": "2026-10-17T11:45",
-          "time": "11:45 AM",
-          "hour": 11.75,
-          "temp": 32,
-          "feels": 36,
-          "humidity": 41,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "iso": "2026-10-17T17:00",
+          "time": "5:00 PM",
+          "hour": 17.0,
+          "temp": 31,
+          "feels": 32,
+          "humidity": 47,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         },
         "high": 33,
         "low": 24,
@@ -723,8 +759,8 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "🌦️",
+            "label": "Light drizzle",
             "temp": 28,
             "rain": 0
           },
@@ -732,8 +768,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "🌦️",
+            "label": "Drizzle",
             "temp": 32,
             "rain": 33
           },
@@ -741,9 +777,9 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "☁️",
-            "label": "Cloudy",
-            "temp": 28,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 27,
             "rain": 35
           },
           {
@@ -765,6 +801,15 @@
             "humidity": 41,
             "label": "Mostly clear",
             "icon": "🌤️"
+          },
+          "Evening": {
+            "iso": "2026-10-17T17:00",
+            "time": "5:00 PM",
+            "temp": 31,
+            "feels": 32,
+            "humidity": 47,
+            "label": "Partly cloudy",
+            "icon": "⛅"
           }
         }
       },
@@ -772,20 +817,20 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Cloudy",
-        "icon": "☁️",
+        "label": "Light drizzle",
+        "icon": "🌦️",
         "now": {
-          "iso": "2026-10-17T11:45",
-          "time": "11:45 AM",
-          "hour": 11.75,
+          "iso": "2026-10-17T17:00",
+          "time": "5:00 PM",
+          "hour": 17.0,
           "temp": 32,
-          "feels": 36,
-          "humidity": 43,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "feels": 33,
+          "humidity": 39,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         },
-        "high": 32,
-        "low": 24,
+        "high": 33,
+        "low": 23,
         "rain": 35,
         "uv": 7.9,
         "periods": [
@@ -793,8 +838,8 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "🌦️",
+            "label": "Light drizzle",
             "temp": 28,
             "rain": 0
           },
@@ -802,18 +847,18 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "☁️",
-            "label": "Cloudy",
-            "temp": 32,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 33,
             "rain": 33
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "☁️",
-            "label": "Cloudy",
-            "temp": 29,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 28,
             "rain": 35
           },
           {
@@ -835,6 +880,15 @@
             "humidity": 43,
             "label": "Mostly clear",
             "icon": "🌤️"
+          },
+          "Evening": {
+            "iso": "2026-10-17T17:00",
+            "time": "5:00 PM",
+            "temp": 32,
+            "feels": 33,
+            "humidity": 39,
+            "label": "Partly cloudy",
+            "icon": "⛅"
           }
         }
       }
