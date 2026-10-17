@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Saturday, 17 October 2026",
   "date_key": "2026-10-17",
-  "fetched_ist": "17 Oct 2026, 10:02 AM IST",
+  "fetched_ist": "17 Oct 2026, 11:49 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -428,12 +428,12 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-17T10:00",
-        "time": "10:00 AM",
-        "hour": 10.0,
-        "temp": 30,
-        "feels": 34,
-        "humidity": 54,
+        "iso": "2026-10-17T11:45",
+        "time": "11:45 AM",
+        "hour": 11.75,
+        "temp": 32,
+        "feels": 36,
+        "humidity": 41,
         "label": "Mostly clear",
         "icon": "🌤️"
       },
@@ -481,11 +481,11 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-10-17T10:00",
-          "time": "10:00 AM",
-          "temp": 30,
-          "feels": 34,
-          "humidity": 54,
+          "iso": "2026-10-17T11:45",
+          "time": "11:45 AM",
+          "temp": 32,
+          "feels": 36,
+          "humidity": 41,
           "label": "Mostly clear",
           "icon": "🌤️"
         }
@@ -493,11 +493,11 @@
     },
     "wxlog_home": {
       "Morning": {
-        "iso": "2026-10-17T10:00",
-        "time": "10:00 AM",
-        "temp": 30,
-        "feels": 34,
-        "humidity": 54,
+        "iso": "2026-10-17T11:45",
+        "time": "11:45 AM",
+        "temp": 32,
+        "feels": 36,
+        "humidity": 41,
         "label": "Mostly clear",
         "icon": "🌤️"
       }
@@ -509,12 +509,12 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-17T10:00",
-        "time": "10:00 AM",
-        "hour": 10.0,
-        "temp": 29,
-        "feels": 33,
-        "humidity": 56,
+        "iso": "2026-10-17T11:45",
+        "time": "11:45 AM",
+        "hour": 11.75,
+        "temp": 32,
+        "feels": 36,
+        "humidity": 43,
         "label": "Mostly clear",
         "icon": "🌤️"
       },
@@ -562,11 +562,11 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-10-17T10:00",
-          "time": "10:00 AM",
-          "temp": 29,
-          "feels": 33,
-          "humidity": 56,
+          "iso": "2026-10-17T11:45",
+          "time": "11:45 AM",
+          "temp": 32,
+          "feels": 36,
+          "humidity": 43,
           "label": "Mostly clear",
           "icon": "🌤️"
         }
@@ -574,11 +574,11 @@
     },
     "wxlog_office": {
       "Morning": {
-        "iso": "2026-10-17T10:00",
-        "time": "10:00 AM",
-        "temp": 29,
-        "feels": 33,
-        "humidity": 56,
+        "iso": "2026-10-17T11:45",
+        "time": "11:45 AM",
+        "temp": 32,
+        "feels": 36,
+        "humidity": 43,
         "label": "Mostly clear",
         "icon": "🌤️"
       }
@@ -705,12 +705,12 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-17T10:00",
-          "time": "10:00 AM",
-          "hour": 10.0,
-          "temp": 30,
-          "feels": 34,
-          "humidity": 54,
+          "iso": "2026-10-17T11:45",
+          "time": "11:45 AM",
+          "hour": 11.75,
+          "temp": 32,
+          "feels": 36,
+          "humidity": 41,
           "label": "Mostly clear",
           "icon": "🌤️"
         },
@@ -758,11 +758,11 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-10-17T10:00",
-            "time": "10:00 AM",
-            "temp": 30,
-            "feels": 34,
-            "humidity": 54,
+            "iso": "2026-10-17T11:45",
+            "time": "11:45 AM",
+            "temp": 32,
+            "feels": 36,
+            "humidity": 41,
             "label": "Mostly clear",
             "icon": "🌤️"
           }
@@ -775,12 +775,12 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-17T10:00",
-          "time": "10:00 AM",
-          "hour": 10.0,
-          "temp": 29,
-          "feels": 33,
-          "humidity": 56,
+          "iso": "2026-10-17T11:45",
+          "time": "11:45 AM",
+          "hour": 11.75,
+          "temp": 32,
+          "feels": 36,
+          "humidity": 43,
           "label": "Mostly clear",
           "icon": "🌤️"
         },
@@ -828,11 +828,11 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-10-17T10:00",
-            "time": "10:00 AM",
-            "temp": 29,
-            "feels": 33,
-            "humidity": 56,
+            "iso": "2026-10-17T11:45",
+            "time": "11:45 AM",
+            "temp": 32,
+            "feels": 36,
+            "humidity": 43,
             "label": "Mostly clear",
             "icon": "🌤️"
           }
