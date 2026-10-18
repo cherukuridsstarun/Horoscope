@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Sunday, 18 October 2026",
   "date_key": "2026-10-18",
-  "fetched_ist": "18 Oct 2026, 12:12 PM IST",
+  "fetched_ist": "18 Oct 2026, 05:32 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 18, 2026",
       "text": "Your plans meet with harsh opposition today, Taurus. You've been going along at a slow and steady pace, but you will find that abrasive tension arises the more you try to force your will on others. Gridlock is quite likely due to the fact that there are strong forces coming to a head. Neither one of them is in the mood to yield now."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 18, 2026",
       "text": "Take a spiritual approach toward cultivating better habits, dearest Taurus. Your imagination comes to life while the Capricorn quarter Moon rises, but you'll need to get organized to see grand visions through. View your situation from a holistic lens, observing how wellness practices, daily routines, and planning play into your ability to produce. Meditate on what your next stage of healing looks like when Chiron stirs later this afternoon. You'll feel serious about taking control of your future once Luna debuts in Aquarius this evening. A bit of journaling before bed can help you fill in logistical gaps when Neptune activates."
@@ -75,7 +75,7 @@
         },
         {
           "text": "Your luck is going to improve during the next three weeks. A new phase in your yearly cycle starts today that signals the beginning of an upswing for you. Relations with others you work with will be much more favorable overall.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -114,7 +114,7 @@
         },
         {
           "text": "The celestial atmosphere of the day makes you feel like there is a conspiracy out there plotting to overthrow you! This is unlikely, though your feelings are certainly valid. Try to express yourself to those around you and ask for the emotional reassurance you need. You do not need to expose yourself too much, just acknowledge to yourself and others that you're feeling a bit vulnerable right now. This is a time to pay special attention to your exercise regimen.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -299,17 +299,17 @@
     "hc_general": {
       "text": "Your plans meet with harsh opposition today, Taurus. You've been going along at a slow and steady pace, but you will find that abrasive tension arises the more you try to force your will on others. Gridlock is quite likely due to the fact that there are strong forces coming to a head. Neither one of them is in the mood to yield now.",
       "date": "Oct 18, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Your luck is going to improve during the next three weeks. A new phase in your yearly cycle starts today that signals the beginning of an upswing for you. Relations with others you work with will be much more favorable overall.",
       "date": "Oct 18, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "The celestial atmosphere of the day makes you feel like there is a conspiracy out there plotting to overthrow you! This is unlikely, though your feelings are certainly valid. Try to express yourself to those around you and ask for the emotional reassurance you need. You do not need to expose yourself too much, just acknowledge to yourself and others that you're feeling a bit vulnerable right now. This is a time to pay special attention to your exercise regimen.",
       "date": "Oct 18, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "This week is about your home, which may mean having to spend more to get good quality goods or an emergency plumber to fix a broken sink. Whatever the case, know that it's going to be better soon. Meanwhile, a supportive aspect transforms your dreams. Don't give up on that wild scheme yet. It may yield results soon.",
@@ -317,7 +317,7 @@
     },
     "ac": {
       "text": "Take a spiritual approach toward cultivating better habits, dearest Taurus. Your imagination comes to life while the Capricorn quarter Moon rises, but you'll need to get organized to see grand visions through. View your situation from a holistic lens, observing how wellness practices, daily routines, and planning play into your ability to produce. Meditate on what your next stage of healing looks like when Chiron stirs later this afternoon. You'll feel serious about taking control of your future once Luna debuts in Aquarius this evening. A bit of journaling before bed can help you fill in logistical gaps when Neptune activates.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -368,22 +368,22 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Light drizzle",
+      "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-10-18T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 31,
-        "feels": 35,
-        "humidity": 50,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "iso": "2026-10-18T17:30",
+        "time": "5:30 PM",
+        "hour": 17.5,
+        "temp": 30,
+        "feels": 32,
+        "humidity": 54,
+        "label": "Light drizzle",
+        "icon": "🌦️"
       },
       "high": 32,
       "low": 24,
       "rain": 71,
-      "uv": 7.8,
+      "uv": 7.75,
       "periods": [
         {
           "name": "Morning",
@@ -408,16 +408,16 @@
           "from": 17,
           "to": 21,
           "icon": "🌦️",
-          "label": "Light drizzle",
-          "temp": 29,
+          "label": "Drizzle",
+          "temp": 28,
           "rain": 71
         },
         {
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "🌦️",
-          "label": "Light drizzle",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 25,
           "rain": 22
         }
@@ -440,6 +440,15 @@
           "humidity": 50,
           "label": "Mostly clear",
           "icon": "🌤️"
+        },
+        "Evening": {
+          "iso": "2026-10-18T17:30",
+          "time": "5:30 PM",
+          "temp": 30,
+          "feels": 32,
+          "humidity": 54,
+          "label": "Light drizzle",
+          "icon": "🌦️"
         }
       }
     },
@@ -461,28 +470,37 @@
         "humidity": 50,
         "label": "Mostly clear",
         "icon": "🌤️"
+      },
+      "Evening": {
+        "iso": "2026-10-18T17:30",
+        "time": "5:30 PM",
+        "temp": 30,
+        "feels": 32,
+        "humidity": 54,
+        "label": "Light drizzle",
+        "icon": "🌦️"
       }
     },
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Light drizzle",
-      "icon": "🌦️",
+      "label": "Heavy drizzle",
+      "icon": "🌧️",
       "now": {
-        "iso": "2026-10-18T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 31,
-        "feels": 34,
-        "humidity": 49,
-        "label": "Light drizzle",
-        "icon": "🌦️"
+        "iso": "2026-10-18T17:30",
+        "time": "5:30 PM",
+        "hour": 17.5,
+        "temp": 29,
+        "feels": 32,
+        "humidity": 62,
+        "label": "Heavy drizzle",
+        "icon": "🌧️"
       },
       "high": 32,
       "low": 24,
       "rain": 71,
-      "uv": 7.65,
+      "uv": 7.6,
       "periods": [
         {
           "name": "Morning",
@@ -499,16 +517,16 @@
           "to": 17,
           "icon": "🌦️",
           "label": "Light drizzle",
-          "temp": 31,
+          "temp": 32,
           "rain": 65
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌦️",
-          "label": "Light drizzle",
-          "temp": 29,
+          "icon": "🌧️",
+          "label": "Heavy drizzle",
+          "temp": 27,
           "rain": 71
         },
         {
@@ -539,6 +557,15 @@
           "humidity": 49,
           "label": "Light drizzle",
           "icon": "🌦️"
+        },
+        "Evening": {
+          "iso": "2026-10-18T17:30",
+          "time": "5:30 PM",
+          "temp": 29,
+          "feels": 32,
+          "humidity": 62,
+          "label": "Heavy drizzle",
+          "icon": "🌧️"
         }
       }
     },
@@ -560,6 +587,15 @@
         "humidity": 49,
         "label": "Light drizzle",
         "icon": "🌦️"
+      },
+      "Evening": {
+        "iso": "2026-10-18T17:30",
+        "time": "5:30 PM",
+        "temp": 29,
+        "feels": 32,
+        "humidity": 62,
+        "label": "Heavy drizzle",
+        "icon": "🌧️"
       }
     },
     "gold": {
@@ -681,22 +717,22 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Light drizzle",
+        "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-10-18T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 31,
-          "feels": 35,
-          "humidity": 50,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "iso": "2026-10-18T17:30",
+          "time": "5:30 PM",
+          "hour": 17.5,
+          "temp": 30,
+          "feels": 32,
+          "humidity": 54,
+          "label": "Light drizzle",
+          "icon": "🌦️"
         },
         "high": 32,
         "low": 24,
         "rain": 71,
-        "uv": 7.8,
+        "uv": 7.75,
         "periods": [
           {
             "name": "Morning",
@@ -721,16 +757,16 @@
             "from": 17,
             "to": 21,
             "icon": "🌦️",
-            "label": "Light drizzle",
-            "temp": 29,
+            "label": "Drizzle",
+            "temp": 28,
             "rain": 71
           },
           {
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "🌦️",
-            "label": "Light drizzle",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 25,
             "rain": 22
           }
@@ -753,6 +789,15 @@
             "humidity": 50,
             "label": "Mostly clear",
             "icon": "🌤️"
+          },
+          "Evening": {
+            "iso": "2026-10-18T17:30",
+            "time": "5:30 PM",
+            "temp": 30,
+            "feels": 32,
+            "humidity": 54,
+            "label": "Light drizzle",
+            "icon": "🌦️"
           }
         }
       },
@@ -760,22 +805,22 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Light drizzle",
-        "icon": "🌦️",
+        "label": "Heavy drizzle",
+        "icon": "🌧️",
         "now": {
-          "iso": "2026-10-18T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 31,
-          "feels": 34,
-          "humidity": 49,
-          "label": "Light drizzle",
-          "icon": "🌦️"
+          "iso": "2026-10-18T17:30",
+          "time": "5:30 PM",
+          "hour": 17.5,
+          "temp": 29,
+          "feels": 32,
+          "humidity": 62,
+          "label": "Heavy drizzle",
+          "icon": "🌧️"
         },
         "high": 32,
         "low": 24,
         "rain": 71,
-        "uv": 7.65,
+        "uv": 7.6,
         "periods": [
           {
             "name": "Morning",
@@ -792,16 +837,16 @@
             "to": 17,
             "icon": "🌦️",
             "label": "Light drizzle",
-            "temp": 31,
+            "temp": 32,
             "rain": 65
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌦️",
-            "label": "Light drizzle",
-            "temp": 29,
+            "icon": "🌧️",
+            "label": "Heavy drizzle",
+            "temp": 27,
             "rain": 71
           },
           {
@@ -832,6 +877,15 @@
             "humidity": 49,
             "label": "Light drizzle",
             "icon": "🌦️"
+          },
+          "Evening": {
+            "iso": "2026-10-18T17:30",
+            "time": "5:30 PM",
+            "temp": 29,
+            "feels": 32,
+            "humidity": 62,
+            "label": "Heavy drizzle",
+            "icon": "🌧️"
           }
         }
       }
