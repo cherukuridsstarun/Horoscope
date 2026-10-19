@@ -2,14 +2,14 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 20 October 2026",
   "date_key": "2026-10-20",
-  "fetched_ist": "20 Oct 2026, 12:39 AM IST",
+  "fetched_ist": "20 Oct 2026, 02:19 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "19-10-2026",
-      "text": null
+      "ok": true,
+      "source_date": "20-10-2026",
+      "text": "You will manage to achieve all short-term goals that you had set today and your focus will now shift to setting long-term ones. Work pressure will continue but you will make it a point to find some time to renew your leisure activities. Family and friends will also figure in your scheme of things, predicts Ganesha."
     },
     {
       "name": "Horoscope.com",
@@ -81,15 +81,30 @@
     "career": {
       "readings": [
         {
+          "text": "Luck is on your side by the grace of Ganesha. Good news is expected from distant places. You need to give proper attention while exchanging emails as there are chances of a blunder in written communications. Take your time and maintain perfection, suggests Ganesha.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "Exercise your creative talent in a way that has nothing to do with your work. Take some time to free your creative abilities through a drawing, painting, or song. Doing so will help you be more effective, and it allows you to develop more creative ideas and solutions.",
           "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
-      "bits": []
+      "bits": [
+        {
+          "t": "Work pressure will continue but you will make it a point to find some time to renew your leisure activities.",
+          "src": "GaneshaSpeaks"
+        }
+      ]
     },
     "money": {
       "readings": [
+        {
+          "text": "Smart work is necessary in order to earn really well today. This is what you are going to learn today, feels Ganesha. On the whole, it’s a day in your favour for money matters.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "You would probably prefer not to have to worry about money, especially this week. But since it's a necessary part of life, you prefer to worry about broader things - that which you can't control. At this time, your money life is more ideas than reality, thanks to aspects happening in the area of your chart associated with past lives, institutions, the unconscious mind, and dreams. Your efforts to make any serious changes to your money situation now may need more time to develop.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
@@ -109,6 +124,11 @@
     },
     "health": {
       "readings": [
+        {
+          "text": "Ganesha feels that you’ll get recognized at work for your hard work. Few overseas visits and new tasks may come your way soon. You may be facing few health issues. Hence it’s advisable to follow a balanced diet.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "Today's aspect makes almost enough fire to light a match! Mix this in with your own feisty nature and you've got lots of energy to work with this month. Use it in the healthiest way possible: physical exercise. Unprocessed, this energy can easily turn into anger or harsh words. Additionally, keep your intake of water at a maximum to keep balanced.",
           "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
@@ -142,8 +162,8 @@
   "lucky": [
     {
       "src": "GaneshaSpeaks",
-      "number": "6",
-      "color": "Light Olive Green"
+      "number": "8",
+      "color": "Deep Cream"
     },
     {
       "src": "AstroSage",
@@ -266,14 +286,30 @@
     "ganesha": {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "19-10-2026",
-      "text": null,
+      "ok": true,
+      "source_date": "20-10-2026",
+      "text": "You will manage to achieve all short-term goals that you had set today and your focus will now shift to setting long-term ones. Work pressure will continue but you will make it a point to find some time to renew your leisure activities. Family and friends will also figure in your scheme of things, predicts Ganesha.",
       "lucky": {
-        "number": "6",
-        "color": "Light Olive Green"
+        "number": "8",
+        "color": "Deep Cream"
       },
-      "areas": {}
+      "areas": {
+        "health": {
+          "text": "Ganesha feels that you’ll get recognized at work for your hard work. Few overseas visits and new tasks may come your way soon. You may be facing few health issues. Hence it’s advisable to follow a balanced diet.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "money": {
+          "text": "Smart work is necessary in order to earn really well today. This is what you are going to learn today, feels Ganesha. On the whole, it’s a day in your favour for money matters.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "career": {
+          "text": "Luck is on your side by the grace of Ganesha. Good news is expected from distant places. You need to give proper attention while exchanging emails as there are chances of a blunder in written communications. Take your time and maintain perfection, suggests Ganesha.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        }
+      }
     },
     "hc_general": {
       "text": "Put on some lively music you can dance to and really kick up your heels, Taurus. It's time to put away the sour mood and have fun. You will find that the more you engage in intellectual discussions with people today, the more you will get warmed up to the idea that life should be fun, not the pain and stress you sometimes make it out to be.",
@@ -350,12 +386,12 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-20T00:30",
-        "time": "12:30 AM",
-        "hour": 0.5,
-        "temp": 26,
-        "feels": 27,
-        "humidity": 59,
+        "iso": "2026-10-20T02:15",
+        "time": "2:15 AM",
+        "hour": 2.25,
+        "temp": 25,
+        "feels": 26,
+        "humidity": 61,
         "label": "Clear sky",
         "icon": "🌙"
       },
@@ -368,8 +404,8 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "⛅",
+          "label": "Partly cloudy",
           "temp": 27,
           "rain": 0
         },
@@ -386,8 +422,8 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "⛅",
+          "label": "Partly cloudy",
           "temp": 29,
           "rain": 4
         },
@@ -411,12 +447,12 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-20T00:30",
-        "time": "12:30 AM",
-        "hour": 0.5,
-        "temp": 25,
+        "iso": "2026-10-20T02:15",
+        "time": "2:15 AM",
+        "hour": 2.25,
+        "temp": 24,
         "feels": 26,
-        "humidity": 60,
+        "humidity": 63,
         "label": "Clear sky",
         "icon": "🌙"
       },
@@ -429,8 +465,8 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "⛅",
+          "label": "Partly cloudy",
           "temp": 27,
           "rain": 0
         },
@@ -593,12 +629,12 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-20T00:30",
-          "time": "12:30 AM",
-          "hour": 0.5,
-          "temp": 26,
-          "feels": 27,
-          "humidity": 59,
+          "iso": "2026-10-20T02:15",
+          "time": "2:15 AM",
+          "hour": 2.25,
+          "temp": 25,
+          "feels": 26,
+          "humidity": 61,
           "label": "Clear sky",
           "icon": "🌙"
         },
@@ -611,8 +647,8 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "⛅",
+            "label": "Partly cloudy",
             "temp": 27,
             "rain": 0
           },
@@ -629,8 +665,8 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "⛅",
+            "label": "Partly cloudy",
             "temp": 29,
             "rain": 4
           },
@@ -653,12 +689,12 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-20T00:30",
-          "time": "12:30 AM",
-          "hour": 0.5,
-          "temp": 25,
+          "iso": "2026-10-20T02:15",
+          "time": "2:15 AM",
+          "hour": 2.25,
+          "temp": 24,
           "feels": 26,
-          "humidity": 60,
+          "humidity": 63,
           "label": "Clear sky",
           "icon": "🌙"
         },
@@ -671,8 +707,8 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "⛅",
+            "label": "Partly cloudy",
             "temp": 27,
             "rain": 0
           },
