@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 20 October 2026",
   "date_key": "2026-10-20",
-  "fetched_ist": "20 Oct 2026, 12:16 PM IST",
+  "fetched_ist": "20 Oct 2026, 06:12 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 20, 2026",
       "text": "Put on some lively music you can dance to and really kick up your heels, Taurus. It's time to put away the sour mood and have fun. You will find that the more you engage in intellectual discussions with people today, the more you will get warmed up to the idea that life should be fun, not the pain and stress you sometimes make it out to be."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 20, 2026",
       "text": "Guard your energy and prioritize composure while Venus rx and Pluto square off. Losing your cool could have destructive repercussions, undoing any progress you've made in recent days. Recognize when talking isn't enough to resolve major issues when the Aquarius Moon and Mercury clash. Though you'll feel optimistic about using reason to alleviate tension, those who don't want to listen or evolve will balk against your efforts. Set your own boundaries and focus on your emotional needs from the privacy of home when Luna opposes Jupiter later today."
@@ -87,7 +87,7 @@
         },
         {
           "text": "Exercise your creative talent in a way that has nothing to do with your work. Take some time to free your creative abilities through a drawing, painting, or song. Doing so will help you be more effective, and it allows you to develop more creative ideas and solutions.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -131,7 +131,7 @@
         },
         {
           "text": "Today's aspect makes almost enough fire to light a match! Mix this in with your own feisty nature and you've got lots of energy to work with this month. Use it in the healthiest way possible: physical exercise. Unprocessed, this energy can easily turn into anger or harsh words. Additionally, keep your intake of water at a maximum to keep balanced.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -204,9 +204,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 14717,
-        "k22": 13490,
-        "change22": -80,
+        "k24": 14608,
+        "k22": 13390,
+        "change22": -180,
         "date": "20 October 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -277,8 +277,8 @@
       },
       {
         "date": "Oct 20, 2026",
-        "k22": 13490,
-        "k24": 14717
+        "k22": 13390,
+        "k24": 14608
       }
     ]
   },
@@ -314,17 +314,17 @@
     "hc_general": {
       "text": "Put on some lively music you can dance to and really kick up your heels, Taurus. It's time to put away the sour mood and have fun. You will find that the more you engage in intellectual discussions with people today, the more you will get warmed up to the idea that life should be fun, not the pain and stress you sometimes make it out to be.",
       "date": "Oct 20, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Exercise your creative talent in a way that has nothing to do with your work. Take some time to free your creative abilities through a drawing, painting, or song. Doing so will help you be more effective, and it allows you to develop more creative ideas and solutions.",
       "date": "Oct 20, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Today's aspect makes almost enough fire to light a match! Mix this in with your own feisty nature and you've got lots of energy to work with this month. Use it in the healthiest way possible: physical exercise. Excess energy needs to be expressed with the body (dance, sex, sports, etc.) before it heads to the mind. Unprocessed, this energy can easily turn into anger or harsh words. Additionally, keep your intake of water at a maximum to keep balanced.",
       "date": "Oct 20, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You would probably prefer not to have to worry about money, especially this week.  But since it's a necessary part of life, you prefer to worry about broader things - that which you can't control. At this time, your money life is more ideas than reality, thanks to aspects happening in the area of your chart associated with past lives, institutions, the unconscious mind, and dreams. Your efforts to make any serious changes to your money situation now may need more time to develop.",
@@ -332,7 +332,7 @@
     },
     "ac": {
       "text": "Romantic and professional hurdles you believed were in the past may suddenly resurface, dearest Taurus. Guard your energy and prioritize composure while Venus rx and Pluto square off. Losing your cool could have destructive repercussions, undoing any progress you've made in recent days. Recognize when talking isn't enough to resolve major issues when the Aquarius Moon and Mercury clash. Though you'll feel optimistic about using reason to alleviate tension, those who don't want to listen or evolve will balk against your efforts. Set your own boundaries and focus on your emotional needs from the privacy of home when Luna opposes Jupiter later today.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -386,26 +386,26 @@
       "label": "Partly cloudy",
       "icon": "⛅",
       "now": {
-        "iso": "2026-10-20T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
-        "temp": 32,
-        "feels": 34,
-        "humidity": 39,
+        "iso": "2026-10-20T18:00",
+        "time": "6:00 PM",
+        "hour": 18.0,
+        "temp": 29,
+        "feels": 30,
+        "humidity": 45,
         "label": "Clear sky",
-        "icon": "☀️"
+        "icon": "🌙"
       },
       "high": 32,
       "low": 23,
-      "rain": 2,
+      "rain": 4,
       "uv": 7.8,
       "periods": [
         {
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "⛅",
+          "label": "Partly cloudy",
           "temp": 27,
           "rain": 0
         },
@@ -413,26 +413,26 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 32,
-          "rain": 2
+          "rain": 4
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "⛅",
-          "label": "Partly cloudy",
-          "temp": 29,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 28,
           "rain": 0
         },
         {
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 25,
           "rain": 0
         }
@@ -455,6 +455,15 @@
           "humidity": 39,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Evening": {
+          "iso": "2026-10-20T18:00",
+          "time": "6:00 PM",
+          "temp": 29,
+          "feels": 30,
+          "humidity": 45,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -476,35 +485,44 @@
         "humidity": 39,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Evening": {
+        "iso": "2026-10-20T18:00",
+        "time": "6:00 PM",
+        "temp": 29,
+        "feels": 30,
+        "humidity": 45,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Partly cloudy",
-      "icon": "⛅",
+      "label": "Mostly clear",
+      "icon": "🌤️",
       "now": {
-        "iso": "2026-10-20T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
-        "temp": 32,
-        "feels": 34,
-        "humidity": 39,
+        "iso": "2026-10-20T18:00",
+        "time": "6:00 PM",
+        "hour": 18.0,
+        "temp": 29,
+        "feels": 29,
+        "humidity": 47,
         "label": "Clear sky",
-        "icon": "☀️"
+        "icon": "🌙"
       },
       "high": 32,
-      "low": 22,
-      "rain": 2,
+      "low": 23,
+      "rain": 4,
       "uv": 7.8,
       "periods": [
         {
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 27,
           "rain": 0
         },
@@ -515,14 +533,14 @@
           "icon": "☀️",
           "label": "Clear sky",
           "temp": 32,
-          "rain": 2
+          "rain": 4
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "☀️",
+          "label": "Clear sky",
           "temp": 28,
           "rain": 0
         },
@@ -532,7 +550,7 @@
           "to": 30,
           "icon": "⛅",
           "label": "Partly cloudy",
-          "temp": 25,
+          "temp": 24,
           "rain": 0
         }
       ],
@@ -554,6 +572,15 @@
           "humidity": 39,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Evening": {
+          "iso": "2026-10-20T18:00",
+          "time": "6:00 PM",
+          "temp": 29,
+          "feels": 29,
+          "humidity": 47,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -575,6 +602,15 @@
         "humidity": 39,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Evening": {
+        "iso": "2026-10-20T18:00",
+        "time": "6:00 PM",
+        "temp": 29,
+        "feels": 29,
+        "humidity": 47,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "gold": {
@@ -582,9 +618,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 14717,
-          "k22": 13490,
-          "change22": -80,
+          "k24": 14608,
+          "k22": 13390,
+          "change22": -180,
           "date": "20 October 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -655,8 +691,8 @@
         },
         {
           "date": "Oct 20, 2026",
-          "k22": 13490,
-          "k24": 14717
+          "k22": 13390,
+          "k24": 14608
         }
       ]
     }
@@ -705,26 +741,26 @@
         "label": "Partly cloudy",
         "icon": "⛅",
         "now": {
-          "iso": "2026-10-20T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
-          "temp": 32,
-          "feels": 34,
-          "humidity": 39,
+          "iso": "2026-10-20T18:00",
+          "time": "6:00 PM",
+          "hour": 18.0,
+          "temp": 29,
+          "feels": 30,
+          "humidity": 45,
           "label": "Clear sky",
-          "icon": "☀️"
+          "icon": "🌙"
         },
         "high": 32,
         "low": 23,
-        "rain": 2,
+        "rain": 4,
         "uv": 7.8,
         "periods": [
           {
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "⛅",
+            "label": "Partly cloudy",
             "temp": 27,
             "rain": 0
           },
@@ -732,26 +768,26 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 32,
-            "rain": 2
+            "rain": 4
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "⛅",
-            "label": "Partly cloudy",
-            "temp": 29,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 28,
             "rain": 0
           },
           {
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 25,
             "rain": 0
           }
@@ -774,6 +810,15 @@
             "humidity": 39,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Evening": {
+            "iso": "2026-10-20T18:00",
+            "time": "6:00 PM",
+            "temp": 29,
+            "feels": 30,
+            "humidity": 45,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       },
@@ -781,29 +826,29 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Partly cloudy",
-        "icon": "⛅",
+        "label": "Mostly clear",
+        "icon": "🌤️",
         "now": {
-          "iso": "2026-10-20T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
-          "temp": 32,
-          "feels": 34,
-          "humidity": 39,
+          "iso": "2026-10-20T18:00",
+          "time": "6:00 PM",
+          "hour": 18.0,
+          "temp": 29,
+          "feels": 29,
+          "humidity": 47,
           "label": "Clear sky",
-          "icon": "☀️"
+          "icon": "🌙"
         },
         "high": 32,
-        "low": 22,
-        "rain": 2,
+        "low": 23,
+        "rain": 4,
         "uv": 7.8,
         "periods": [
           {
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 27,
             "rain": 0
           },
@@ -814,14 +859,14 @@
             "icon": "☀️",
             "label": "Clear sky",
             "temp": 32,
-            "rain": 2
+            "rain": 4
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "☀️",
+            "label": "Clear sky",
             "temp": 28,
             "rain": 0
           },
@@ -831,7 +876,7 @@
             "to": 30,
             "icon": "⛅",
             "label": "Partly cloudy",
-            "temp": 25,
+            "temp": 24,
             "rain": 0
           }
         ],
@@ -853,6 +898,15 @@
             "humidity": 39,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Evening": {
+            "iso": "2026-10-20T18:00",
+            "time": "6:00 PM",
+            "temp": 29,
+            "feels": 29,
+            "humidity": 47,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       }
