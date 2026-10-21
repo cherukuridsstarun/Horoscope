@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 21 October 2026",
   "date_key": "2026-10-21",
-  "fetched_ist": "21 Oct 2026, 12:11 PM IST",
+  "fetched_ist": "21 Oct 2026, 06:25 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 21, 2026",
       "text": "Some failures that you may have experienced over the past few days could have you beating yourself up today, Taurus. Perhaps you feel that you were too hasty or too sloppy and could have done things better. Don't obsess over it. Figure out what went wrong, learn from it, and let it go. Too much negativity directed at yourself is likely to sabotage future efforts rather than help them."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 21, 2026",
       "text": "Focus on hurdles that stand between you and your ultimate goals, dearest Taurus, hatching a plan to take them straight on. It's vital that you show up for yourself while the Libra Sun aligns with the nodes of fate and Chiron, even if the challenges you face are plentiful. Rather than fixating on how much work there is to be done, simply begin doing it. As the Pisces Moon aspects Venus rx and Uranus, having a strong support network is everything."
@@ -99,7 +99,7 @@
         },
         {
           "text": "The atmosphere calls for you to be social and outgoing. Smile when you encounter other people. This kind of mood will rub on others and get the week off to a very good start. Don't shrink into the background. Make a statement and reach out.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -143,7 +143,7 @@
         },
         {
           "text": "You have a fun time under this favorable planetary atmosphere. You will enjoy reading and writing, find it easy to communicate with just about anyone, and find it equally difficult to get bored. However, don't let the important things slip during this brief period of wanderlust. Stay true to your health goals and exercise commitments. Life is a necessary combination of the sweet and bitter!",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -224,8 +224,8 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13196,
-        "k24": 14406,
+        "k22": 13200,
+        "k24": 14411,
         "change22": null,
         "date": "21 October 2026",
         "url": "https://ibjarates.com/"
@@ -316,17 +316,17 @@
     "hc_general": {
       "text": "Some failures that you may have experienced over the past few days could have you beating yourself up today, Taurus. Perhaps you feel that you were too hasty or too sloppy and could have done things better. Don't obsess over it. Figure out what went wrong, learn from it, and let it go. Too much negativity directed at yourself is likely to sabotage future efforts rather than help them.",
       "date": "Oct 21, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "The atmosphere calls for you to be social and outgoing. Smile when you encounter other people. This kind of mood will rub on others and get the week off to a very good start. Don't shrink into the background. Make a statement and reach out.",
       "date": "Oct 21, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "You have a fun time under this favorable planetary atmosphere. Playful, carefree, and animated, this is a time to enjoy with a partner or alone. You will enjoy reading and writing, find it easy to communicate with just about anyone, and find it equally difficult to get bored. However, don't let the important things slip during this brief period of wanderlust. Stay true to your health goals and exercise commitments. Life is a necessary combination of the sweet and bitter!",
       "date": "Oct 21, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You would probably prefer not to have to worry about money, especially this week.  But since it's a necessary part of life, you prefer to worry about broader things - that which you can't control. At this time, your money life is more ideas than reality, thanks to aspects happening in the area of your chart associated with past lives, institutions, the unconscious mind, and dreams. Your efforts to make any serious changes to your money situation now may need more time to develop.",
@@ -334,7 +334,7 @@
     },
     "ac": {
       "text": "Focus on hurdles that stand between you and your ultimate goals, dearest Taurus, hatching a plan to take them straight on. It's vital that you show up for yourself while the Libra Sun aligns with the nodes of fate and Chiron, even if the challenges you face are plentiful. Rather than fixating on how much work there is to be done, simply begin doing it. As the Pisces Moon aspects Venus rx and Uranus, having a strong support network is everything. Enjoy small breaks throughout the day, connecting with loved ones who are always there to cheer you on.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -385,29 +385,29 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Drizzle",
+      "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-10-21T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 31,
-        "feels": 34,
-        "humidity": 44,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "iso": "2026-10-21T18:15",
+        "time": "6:15 PM",
+        "hour": 18.25,
+        "temp": 29,
+        "feels": 31,
+        "humidity": 52,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
-      "high": 32,
+      "high": 31,
       "low": 22,
-      "rain": 22,
-      "uv": 7.3,
+      "rain": 43,
+      "uv": 7.6,
       "periods": [
         {
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "⛅",
+          "label": "Partly cloudy",
           "temp": 27,
           "rain": 0
         },
@@ -416,27 +416,27 @@
           "from": 12,
           "to": 17,
           "icon": "🌦️",
-          "label": "Drizzle",
-          "temp": 31,
-          "rain": 22
+          "label": "Light drizzle",
+          "temp": 30,
+          "rain": 43
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 28,
-          "rain": 22
+          "rain": 18
         },
         {
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "🌙",
-          "label": "Mostly clear",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 25,
-          "rain": 4
+          "rain": 0
         }
       ],
       "log": {
@@ -457,6 +457,15 @@
           "humidity": 44,
           "label": "Partly cloudy",
           "icon": "⛅"
+        },
+        "Evening": {
+          "iso": "2026-10-21T18:15",
+          "time": "6:15 PM",
+          "temp": 29,
+          "feels": 31,
+          "humidity": 52,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -478,35 +487,44 @@
         "humidity": 44,
         "label": "Partly cloudy",
         "icon": "⛅"
+      },
+      "Evening": {
+        "iso": "2026-10-21T18:15",
+        "time": "6:15 PM",
+        "temp": 29,
+        "feels": 31,
+        "humidity": 52,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Light drizzle",
-      "icon": "🌦️",
+      "label": "Cloudy",
+      "icon": "☁️",
       "now": {
-        "iso": "2026-10-21T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 32,
-        "feels": 34,
-        "humidity": 39,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "iso": "2026-10-21T18:15",
+        "time": "6:15 PM",
+        "hour": 18.25,
+        "temp": 29,
+        "feels": 30,
+        "humidity": 52,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
-      "high": 33,
+      "high": 32,
       "low": 22,
-      "rain": 22,
-      "uv": 7.15,
+      "rain": 43,
+      "uv": 7.3,
       "periods": [
         {
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "⛅",
+          "label": "Partly cloudy",
           "temp": 27,
           "rain": 0
         },
@@ -514,28 +532,28 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌦️",
-          "label": "Light drizzle",
-          "temp": 32,
-          "rain": 22
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 31,
+          "rain": 43
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 28,
-          "rain": 22
+          "rain": 18
         },
         {
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 25,
-          "rain": 4
+          "rain": 0
         }
       ],
       "log": {
@@ -556,6 +574,15 @@
           "humidity": 39,
           "label": "Partly cloudy",
           "icon": "⛅"
+        },
+        "Evening": {
+          "iso": "2026-10-21T18:15",
+          "time": "6:15 PM",
+          "temp": 29,
+          "feels": 30,
+          "humidity": 52,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -577,6 +604,15 @@
         "humidity": 39,
         "label": "Partly cloudy",
         "icon": "⛅"
+      },
+      "Evening": {
+        "iso": "2026-10-21T18:15",
+        "time": "6:15 PM",
+        "temp": 29,
+        "feels": 30,
+        "humidity": 52,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "gold": {
@@ -602,8 +638,8 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13196,
-          "k24": 14406,
+          "k22": 13200,
+          "k24": 14411,
           "change22": null,
           "date": "21 October 2026",
           "url": "https://ibjarates.com/"
@@ -698,29 +734,29 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Drizzle",
+        "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-10-21T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 31,
-          "feels": 34,
-          "humidity": 44,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "iso": "2026-10-21T18:15",
+          "time": "6:15 PM",
+          "hour": 18.25,
+          "temp": 29,
+          "feels": 31,
+          "humidity": 52,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
-        "high": 32,
+        "high": 31,
         "low": 22,
-        "rain": 22,
-        "uv": 7.3,
+        "rain": 43,
+        "uv": 7.6,
         "periods": [
           {
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "⛅",
+            "label": "Partly cloudy",
             "temp": 27,
             "rain": 0
           },
@@ -729,27 +765,27 @@
             "from": 12,
             "to": 17,
             "icon": "🌦️",
-            "label": "Drizzle",
-            "temp": 31,
-            "rain": 22
+            "label": "Light drizzle",
+            "temp": 30,
+            "rain": 43
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 28,
-            "rain": 22
+            "rain": 18
           },
           {
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "🌙",
-            "label": "Mostly clear",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 25,
-            "rain": 4
+            "rain": 0
           }
         ],
         "log": {
@@ -770,6 +806,15 @@
             "humidity": 44,
             "label": "Partly cloudy",
             "icon": "⛅"
+          },
+          "Evening": {
+            "iso": "2026-10-21T18:15",
+            "time": "6:15 PM",
+            "temp": 29,
+            "feels": 31,
+            "humidity": 52,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       },
@@ -777,29 +822,29 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Light drizzle",
-        "icon": "🌦️",
+        "label": "Cloudy",
+        "icon": "☁️",
         "now": {
-          "iso": "2026-10-21T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 32,
-          "feels": 34,
-          "humidity": 39,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "iso": "2026-10-21T18:15",
+          "time": "6:15 PM",
+          "hour": 18.25,
+          "temp": 29,
+          "feels": 30,
+          "humidity": 52,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
-        "high": 33,
+        "high": 32,
         "low": 22,
-        "rain": 22,
-        "uv": 7.15,
+        "rain": 43,
+        "uv": 7.3,
         "periods": [
           {
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "⛅",
+            "label": "Partly cloudy",
             "temp": 27,
             "rain": 0
           },
@@ -807,28 +852,28 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌦️",
-            "label": "Light drizzle",
-            "temp": 32,
-            "rain": 22
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 31,
+            "rain": 43
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 28,
-            "rain": 22
+            "rain": 18
           },
           {
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 25,
-            "rain": 4
+            "rain": 0
           }
         ],
         "log": {
@@ -849,6 +894,15 @@
             "humidity": 39,
             "label": "Partly cloudy",
             "icon": "⛅"
+          },
+          "Evening": {
+            "iso": "2026-10-21T18:15",
+            "time": "6:15 PM",
+            "temp": 29,
+            "feels": 30,
+            "humidity": 52,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       }
