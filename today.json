@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 21 October 2026",
   "date_key": "2026-10-21",
-  "fetched_ist": "21 Oct 2026, 10:24 AM IST",
+  "fetched_ist": "21 Oct 2026, 12:11 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -224,10 +224,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13369,
-        "k24": 14594,
+        "k22": 13196,
+        "k24": 14406,
         "change22": null,
-        "date": "19 October 2026",
+        "date": "21 October 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -388,19 +388,19 @@
       "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-10-21T10:15",
-        "time": "10:15 AM",
-        "hour": 10.25,
-        "temp": 29,
-        "feels": 32,
-        "humidity": 47,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "iso": "2026-10-21T12:00",
+        "time": "12:00 PM",
+        "hour": 12.0,
+        "temp": 31,
+        "feels": 34,
+        "humidity": 44,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       },
       "high": 32,
       "low": 22,
       "rain": 22,
-      "uv": 7.75,
+      "uv": 7.3,
       "periods": [
         {
           "name": "Morning",
@@ -448,6 +448,15 @@
           "humidity": 47,
           "label": "Mostly clear",
           "icon": "🌤️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-21T12:00",
+          "time": "12:00 PM",
+          "temp": 31,
+          "feels": 34,
+          "humidity": 44,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         }
       }
     },
@@ -460,6 +469,15 @@
         "humidity": 47,
         "label": "Mostly clear",
         "icon": "🌤️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-21T12:00",
+        "time": "12:00 PM",
+        "temp": 31,
+        "feels": 34,
+        "humidity": 44,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       }
     },
     "wx_office": {
@@ -469,19 +487,19 @@
       "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-10-21T10:15",
-        "time": "10:15 AM",
-        "hour": 10.25,
-        "temp": 30,
-        "feels": 32,
-        "humidity": 42,
-        "label": "Clear sky",
-        "icon": "☀️"
+        "iso": "2026-10-21T12:00",
+        "time": "12:00 PM",
+        "hour": 12.0,
+        "temp": 32,
+        "feels": 34,
+        "humidity": 39,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       },
       "high": 33,
       "low": 22,
       "rain": 22,
-      "uv": 7.75,
+      "uv": 7.15,
       "periods": [
         {
           "name": "Morning",
@@ -529,6 +547,15 @@
           "humidity": 42,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-21T12:00",
+          "time": "12:00 PM",
+          "temp": 32,
+          "feels": 34,
+          "humidity": 39,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         }
       }
     },
@@ -541,6 +568,15 @@
         "humidity": 42,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-21T12:00",
+        "time": "12:00 PM",
+        "temp": 32,
+        "feels": 34,
+        "humidity": 39,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       }
     },
     "gold": {
@@ -566,10 +602,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13369,
-          "k24": 14594,
+          "k22": 13196,
+          "k24": 14406,
           "change22": null,
-          "date": "19 October 2026",
+          "date": "21 October 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -665,19 +701,19 @@
         "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-10-21T10:15",
-          "time": "10:15 AM",
-          "hour": 10.25,
-          "temp": 29,
-          "feels": 32,
-          "humidity": 47,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "iso": "2026-10-21T12:00",
+          "time": "12:00 PM",
+          "hour": 12.0,
+          "temp": 31,
+          "feels": 34,
+          "humidity": 44,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         },
         "high": 32,
         "low": 22,
         "rain": 22,
-        "uv": 7.75,
+        "uv": 7.3,
         "periods": [
           {
             "name": "Morning",
@@ -725,6 +761,15 @@
             "humidity": 47,
             "label": "Mostly clear",
             "icon": "🌤️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-21T12:00",
+            "time": "12:00 PM",
+            "temp": 31,
+            "feels": 34,
+            "humidity": 44,
+            "label": "Partly cloudy",
+            "icon": "⛅"
           }
         }
       },
@@ -735,19 +780,19 @@
         "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-10-21T10:15",
-          "time": "10:15 AM",
-          "hour": 10.25,
-          "temp": 30,
-          "feels": 32,
-          "humidity": 42,
-          "label": "Clear sky",
-          "icon": "☀️"
+          "iso": "2026-10-21T12:00",
+          "time": "12:00 PM",
+          "hour": 12.0,
+          "temp": 32,
+          "feels": 34,
+          "humidity": 39,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         },
         "high": 33,
         "low": 22,
         "rain": 22,
-        "uv": 7.75,
+        "uv": 7.15,
         "periods": [
           {
             "name": "Morning",
@@ -795,6 +840,15 @@
             "humidity": 42,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-21T12:00",
+            "time": "12:00 PM",
+            "temp": 32,
+            "feels": 34,
+            "humidity": 39,
+            "label": "Partly cloudy",
+            "icon": "⛅"
           }
         }
       }
