@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 22 October 2026",
   "date_key": "2026-10-22",
-  "fetched_ist": "22 Oct 2026, 06:27 PM IST",
+  "fetched_ist": "22 Oct 2026, 11:24 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -366,18 +366,18 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-22T18:15",
-        "time": "6:15 PM",
-        "hour": 18.25,
-        "temp": 29,
-        "feels": 29,
-        "humidity": 45,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "iso": "2026-10-22T23:15",
+        "time": "11:15 PM",
+        "hour": 23.25,
+        "temp": 26,
+        "feels": 28,
+        "humidity": 60,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 32,
       "low": 23,
-      "rain": 4,
+      "rain": 2,
       "uv": 7.75,
       "periods": [
         {
@@ -396,7 +396,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 32,
-          "rain": 3
+          "rain": 2
         },
         {
           "name": "Evening",
@@ -405,7 +405,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 28,
-          "rain": 4
+          "rain": 2
         },
         {
           "name": "Night",
@@ -444,6 +444,15 @@
           "humidity": 45,
           "label": "Partly cloudy",
           "icon": "⛅"
+        },
+        "Night": {
+          "iso": "2026-10-22T23:15",
+          "time": "11:15 PM",
+          "temp": 26,
+          "feels": 28,
+          "humidity": 60,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -474,6 +483,15 @@
         "humidity": 45,
         "label": "Partly cloudy",
         "icon": "⛅"
+      },
+      "Night": {
+        "iso": "2026-10-22T23:15",
+        "time": "11:15 PM",
+        "temp": 26,
+        "feels": 28,
+        "humidity": 60,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "wx_office": {
@@ -483,18 +501,18 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-22T18:15",
-        "time": "6:15 PM",
-        "hour": 18.25,
-        "temp": 28,
-        "feels": 29,
-        "humidity": 45,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "iso": "2026-10-22T23:15",
+        "time": "11:15 PM",
+        "hour": 23.25,
+        "temp": 25,
+        "feels": 27,
+        "humidity": 61,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 32,
       "low": 23,
-      "rain": 4,
+      "rain": 2,
       "uv": 7.75,
       "periods": [
         {
@@ -513,7 +531,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 32,
-          "rain": 3
+          "rain": 2
         },
         {
           "name": "Evening",
@@ -522,7 +540,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 28,
-          "rain": 4
+          "rain": 2
         },
         {
           "name": "Night",
@@ -561,6 +579,15 @@
           "humidity": 45,
           "label": "Partly cloudy",
           "icon": "⛅"
+        },
+        "Night": {
+          "iso": "2026-10-22T23:15",
+          "time": "11:15 PM",
+          "temp": 25,
+          "feels": 27,
+          "humidity": 61,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -591,6 +618,15 @@
         "humidity": 45,
         "label": "Partly cloudy",
         "icon": "⛅"
+      },
+      "Night": {
+        "iso": "2026-10-22T23:15",
+        "time": "11:15 PM",
+        "temp": 25,
+        "feels": 27,
+        "humidity": 61,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "gold": {
@@ -721,18 +757,18 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-22T18:15",
-          "time": "6:15 PM",
-          "hour": 18.25,
-          "temp": 29,
-          "feels": 29,
-          "humidity": 45,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "iso": "2026-10-22T23:15",
+          "time": "11:15 PM",
+          "hour": 23.25,
+          "temp": 26,
+          "feels": 28,
+          "humidity": 60,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 32,
         "low": 23,
-        "rain": 4,
+        "rain": 2,
         "uv": 7.75,
         "periods": [
           {
@@ -751,7 +787,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 32,
-            "rain": 3
+            "rain": 2
           },
           {
             "name": "Evening",
@@ -760,7 +796,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 28,
-            "rain": 4
+            "rain": 2
           },
           {
             "name": "Night",
@@ -799,6 +835,15 @@
             "humidity": 45,
             "label": "Partly cloudy",
             "icon": "⛅"
+          },
+          "Night": {
+            "iso": "2026-10-22T23:15",
+            "time": "11:15 PM",
+            "temp": 26,
+            "feels": 28,
+            "humidity": 60,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       },
@@ -809,18 +854,18 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-22T18:15",
-          "time": "6:15 PM",
-          "hour": 18.25,
-          "temp": 28,
-          "feels": 29,
-          "humidity": 45,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "iso": "2026-10-22T23:15",
+          "time": "11:15 PM",
+          "hour": 23.25,
+          "temp": 25,
+          "feels": 27,
+          "humidity": 61,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 32,
         "low": 23,
-        "rain": 4,
+        "rain": 2,
         "uv": 7.75,
         "periods": [
           {
@@ -839,7 +884,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 32,
-            "rain": 3
+            "rain": 2
           },
           {
             "name": "Evening",
@@ -848,7 +893,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 28,
-            "rain": 4
+            "rain": 2
           },
           {
             "name": "Night",
@@ -887,6 +932,15 @@
             "humidity": 45,
             "label": "Partly cloudy",
             "icon": "⛅"
+          },
+          "Night": {
+            "iso": "2026-10-22T23:15",
+            "time": "11:15 PM",
+            "temp": 25,
+            "feels": 27,
+            "humidity": 61,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       }
