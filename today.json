@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 22 October 2026",
   "date_key": "2026-10-22",
-  "fetched_ist": "22 Oct 2026, 12:14 PM IST",
+  "fetched_ist": "22 Oct 2026, 06:27 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 22, 2026",
       "text": "A small gathering may take place in your neighborhood today if at all possible, Taurus. If you're currently involved, you will probably attend it with your significant other. If you aren't seeing anyone, you will run into some old friends and possibly make some new ones. Relax, let loose, and have a little fun."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 22, 2026",
       "text": "The Pisces Moon and Mars form an unbalanced aspect this morning, dearest Taurus, creating a thick and emotionally charged atmosphere. A psychic charge will cause you to drift in and out of the collective consciousness, and the energy you encounter won't always be enjoyable. If you begin to sense thoughts or emotions that don't feel like your own, call in your protection and return them to the sender. You'll have an easier time connecting with others without psychic repercussions when Luna and Mercury enter a harmonious trine this evening."
@@ -82,7 +82,7 @@
         },
         {
           "text": "Pressure has been building and now you can no longer contain yourself. This feels like the day when a major confrontation will lead to a shift in the dynamics of your work. Trust that this shift will be for the best. Be prepared for whatever comes.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -121,7 +121,7 @@
         },
         {
           "text": "What if the thing you wanted most were given to you - would you know what to do with it? Think about what that would mean. What would you want? A new job? A new house? All these things are material and thus prone to change and disappointment. If you have your health you have something that is immaterial and thus more precious. Use the favorable aspect of the day to focus on what you really want. (Hint: focus on your health!)",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -202,8 +202,8 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13113,
-        "k24": 14315,
+        "k22": 13071,
+        "k24": 14269,
         "change22": null,
         "date": "22 October 2026",
         "url": "https://ibjarates.com/"
@@ -294,17 +294,17 @@
     "hc_general": {
       "text": "A small gathering may take place in your neighborhood today if at all possible, Taurus. If you're currently involved, you will probably attend it with your significant other. If you aren't seeing anyone, you will run into some old friends and possibly make some new ones. One of them could be a potential love interest, perhaps a little older than you. Relax, let loose, and have a little fun.",
       "date": "Oct 22, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Pressure has been building and now you can no longer contain yourself. This feels like the day when a major confrontation will lead to a shift in the dynamics of your work. Trust that this shift will be for the best. Be prepared for whatever comes.",
       "date": "Oct 22, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "What if the thing you wanted most were given to you - would you know what to do with it? Think about what that would mean. What would you want? A new job? A new relationship? A new house? All these things are material and thus prone to change and disappointment. If you have your health you have something that is immaterial and thus more precious. Use the favorable aspect of the day to focus on what you really want. (Hint: focus on your health!)",
       "date": "Oct 22, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You would probably prefer not to have to worry about money, especially this week.  But since it's a necessary part of life, you prefer to worry about broader things - that which you can't control. At this time, your money life is more ideas than reality, thanks to aspects happening in the area of your chart associated with past lives, institutions, the unconscious mind, and dreams. Your efforts to make any serious changes to your money situation now may need more time to develop.",
@@ -312,7 +312,7 @@
     },
     "ac": {
       "text": "The Pisces Moon and Mars form an unbalanced aspect this morning, dearest Taurus, creating a thick and emotionally charged atmosphere. You may find it difficult to escape intense feelings, whether they belong to you, loved ones, or strangers passing by. A psychic charge will cause you to drift in and out of the collective consciousness, and the energy you encounter won't always be enjoyable. If you begin to sense thoughts or emotions that don't feel like your own, call in your protection and return them to the sender. You'll have an easier time connecting with others without psychic repercussions when Luna and Mercury enter a harmonious trine this evening.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -366,18 +366,18 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-22T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 31,
-        "feels": 34,
+        "iso": "2026-10-22T18:15",
+        "time": "6:15 PM",
+        "hour": 18.25,
+        "temp": 29,
+        "feels": 29,
         "humidity": 45,
         "label": "Partly cloudy",
         "icon": "⛅"
       },
       "high": 32,
       "low": 23,
-      "rain": 8,
+      "rain": 4,
       "uv": 7.75,
       "periods": [
         {
@@ -396,7 +396,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 32,
-          "rain": 8
+          "rain": 3
         },
         {
           "name": "Evening",
@@ -405,7 +405,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 28,
-          "rain": 2
+          "rain": 4
         },
         {
           "name": "Night",
@@ -414,7 +414,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 25,
-          "rain": 2
+          "rain": 0
         }
       ],
       "log": {
@@ -432,6 +432,15 @@
           "time": "12:00 PM",
           "temp": 31,
           "feels": 34,
+          "humidity": 45,
+          "label": "Partly cloudy",
+          "icon": "⛅"
+        },
+        "Evening": {
+          "iso": "2026-10-22T18:15",
+          "time": "6:15 PM",
+          "temp": 29,
+          "feels": 29,
           "humidity": 45,
           "label": "Partly cloudy",
           "icon": "⛅"
@@ -456,6 +465,15 @@
         "humidity": 45,
         "label": "Partly cloudy",
         "icon": "⛅"
+      },
+      "Evening": {
+        "iso": "2026-10-22T18:15",
+        "time": "6:15 PM",
+        "temp": 29,
+        "feels": 29,
+        "humidity": 45,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       }
     },
     "wx_office": {
@@ -465,19 +483,19 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-22T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 31,
-        "feels": 34,
-        "humidity": 41,
-        "label": "Cloudy",
-        "icon": "☁️"
+        "iso": "2026-10-22T18:15",
+        "time": "6:15 PM",
+        "hour": 18.25,
+        "temp": 28,
+        "feels": 29,
+        "humidity": 45,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       },
       "high": 32,
       "low": 23,
-      "rain": 8,
-      "uv": 7.8,
+      "rain": 4,
+      "uv": 7.75,
       "periods": [
         {
           "name": "Morning",
@@ -494,8 +512,8 @@
           "to": 17,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 31,
-          "rain": 8
+          "temp": 32,
+          "rain": 3
         },
         {
           "name": "Evening",
@@ -504,7 +522,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 28,
-          "rain": 2
+          "rain": 4
         },
         {
           "name": "Night",
@@ -513,7 +531,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 25,
-          "rain": 2
+          "rain": 0
         }
       ],
       "log": {
@@ -534,6 +552,15 @@
           "humidity": 41,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Evening": {
+          "iso": "2026-10-22T18:15",
+          "time": "6:15 PM",
+          "temp": 28,
+          "feels": 29,
+          "humidity": 45,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         }
       }
     },
@@ -555,6 +582,15 @@
         "humidity": 41,
         "label": "Cloudy",
         "icon": "☁️"
+      },
+      "Evening": {
+        "iso": "2026-10-22T18:15",
+        "time": "6:15 PM",
+        "temp": 28,
+        "feels": 29,
+        "humidity": 45,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       }
     },
     "gold": {
@@ -580,8 +616,8 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13113,
-          "k24": 14315,
+          "k22": 13071,
+          "k24": 14269,
           "change22": null,
           "date": "22 October 2026",
           "url": "https://ibjarates.com/"
@@ -685,18 +721,18 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-22T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 31,
-          "feels": 34,
+          "iso": "2026-10-22T18:15",
+          "time": "6:15 PM",
+          "hour": 18.25,
+          "temp": 29,
+          "feels": 29,
           "humidity": 45,
           "label": "Partly cloudy",
           "icon": "⛅"
         },
         "high": 32,
         "low": 23,
-        "rain": 8,
+        "rain": 4,
         "uv": 7.75,
         "periods": [
           {
@@ -715,7 +751,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 32,
-            "rain": 8
+            "rain": 3
           },
           {
             "name": "Evening",
@@ -724,7 +760,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 28,
-            "rain": 2
+            "rain": 4
           },
           {
             "name": "Night",
@@ -733,7 +769,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 25,
-            "rain": 2
+            "rain": 0
           }
         ],
         "log": {
@@ -754,6 +790,15 @@
             "humidity": 45,
             "label": "Partly cloudy",
             "icon": "⛅"
+          },
+          "Evening": {
+            "iso": "2026-10-22T18:15",
+            "time": "6:15 PM",
+            "temp": 29,
+            "feels": 29,
+            "humidity": 45,
+            "label": "Partly cloudy",
+            "icon": "⛅"
           }
         }
       },
@@ -764,19 +809,19 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-22T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 31,
-          "feels": 34,
-          "humidity": 41,
-          "label": "Cloudy",
-          "icon": "☁️"
+          "iso": "2026-10-22T18:15",
+          "time": "6:15 PM",
+          "hour": 18.25,
+          "temp": 28,
+          "feels": 29,
+          "humidity": 45,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         },
         "high": 32,
         "low": 23,
-        "rain": 8,
-        "uv": 7.8,
+        "rain": 4,
+        "uv": 7.75,
         "periods": [
           {
             "name": "Morning",
@@ -793,8 +838,8 @@
             "to": 17,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 31,
-            "rain": 8
+            "temp": 32,
+            "rain": 3
           },
           {
             "name": "Evening",
@@ -803,7 +848,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 28,
-            "rain": 2
+            "rain": 4
           },
           {
             "name": "Night",
@@ -812,7 +857,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 25,
-            "rain": 2
+            "rain": 0
           }
         ],
         "log": {
@@ -833,6 +878,15 @@
             "humidity": 41,
             "label": "Cloudy",
             "icon": "☁️"
+          },
+          "Evening": {
+            "iso": "2026-10-22T18:15",
+            "time": "6:15 PM",
+            "temp": 28,
+            "feels": 29,
+            "humidity": 45,
+            "label": "Partly cloudy",
+            "icon": "⛅"
           }
         }
       }
