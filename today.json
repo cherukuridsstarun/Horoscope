@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 23 October 2026",
   "date_key": "2026-10-23",
-  "fetched_ist": "23 Oct 2026, 12:08 PM IST",
+  "fetched_ist": "23 Oct 2026, 06:06 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 23, 2026",
       "text": "Unexpected money developments could brighten your day today, Taurus. Perhaps you will get a raise or an increase in some other form of income. Technology could be involved in some way, or a long-term goal you've been striving for finally brings in some benefits. There might be uncertainty about when it's coming or exactly how much it will be, but the outcome will be gratifying all the same!"
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 23, 2026",
       "text": "Get an early start on your socializing for the day, as you'll crave privacy when the Moon enters Aries this afternoon. Peace and quiet will lead you to valuable insights as evening unfolds and Luna aspects Neptune, Pluto, and Uranus. Emerge from solitude to make power moves, then retreat once more to enjoy the victories you've scored. Nostalgia and sweetness blend perfectly while the Sun and Venus rx unite tonight."
@@ -79,7 +79,7 @@
         },
         {
           "text": "You are missing the point. You have a preconceived notion of how things are based on your own limited perspective. This is putting you at a major disadvantage when it comes to communication and general work-related dynamics. Open your eyes.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -127,7 +127,7 @@
         },
         {
           "text": "Today's aspect gives you the feeling that nothing will be perfect unless you do it - do you recognize those feelings? The anxiety in this mindset is fairly particular to you. The work ethic, the attention to detail, the stress about whether or not something's perfect - all you! Well, take a deep breath and remind yourself that nothing is ever perfect. What's most important is how people feel - how YOU feel.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -202,8 +202,8 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 12957,
-        "k24": 14145,
+        "k22": 12973,
+        "k24": 14163,
         "change22": null,
         "date": "23 October 2026",
         "url": "https://ibjarates.com/"
@@ -294,17 +294,17 @@
     "hc_general": {
       "text": "Unexpected money developments could brighten your day today, Taurus. Perhaps you will get a raise or an increase in some other form of income. Technology could be involved in some way, or a long-term goal you've been striving for finally brings in some benefits. There might be uncertainty about when it's coming or exactly how much it will be, but the outcome will be gratifying all the same!",
       "date": "Oct 23, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "You are missing the point. You have a preconceived notion of how things are based on your own limited perspective. This is putting you at a major disadvantage when it comes to communication and general work-related dynamics. Open your eyes.",
       "date": "Oct 23, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Today's aspect gives you the feeling that nothing will be perfect unless you do it - do you recognize those feelings? The anxiety in this mindset is fairly particular to you. The work ethic, the attention to detail, the stress about whether or not something's perfect - all you! Well, take a deep breath and remind yourself that nothing is ever perfect. What's most important is how people feel - how YOU feel. Your heart is in the right place, and that's all that matters.",
       "date": "Oct 23, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You would probably prefer not to have to worry about money, especially this week.  But since it's a necessary part of life, you prefer to worry about broader things - that which you can't control. At this time, your money life is more ideas than reality, thanks to aspects happening in the area of your chart associated with past lives, institutions, the unconscious mind, and dreams. Your efforts to make any serious changes to your money situation now may need more time to develop.",
@@ -312,7 +312,7 @@
     },
     "ac": {
       "text": "Fall deeply in love with your partner, friends, hobbies, and self throughout the coming weeks, dearest Taurus. Scorpio season kicks off this morning, signaling a period of romance and harmony. Get an early start on your socializing for the day, as you'll crave privacy when the Moon enters Aries this afternoon. Peace and quiet will lead you to valuable insights as evening unfolds and Luna aspects Neptune, Pluto, and Uranus. Emerge from solitude to make power moves, then retreat once more to enjoy the victories you've scored. Nostalgia and sweetness blend perfectly while the Sun and Venus rx unite tonight.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -366,19 +366,19 @@
       "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-10-23T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 31,
-        "feels": 33,
+        "iso": "2026-10-23T18:00",
+        "time": "6:00 PM",
+        "hour": 18.0,
+        "temp": 30,
+        "feels": 30,
         "humidity": 46,
-        "label": "Cloudy",
-        "icon": "☁️"
+        "label": "Mostly clear",
+        "icon": "🌙"
       },
       "high": 32,
       "low": 24,
-      "rain": 4,
-      "uv": 7.5,
+      "rain": 10,
+      "uv": 7.55,
       "periods": [
         {
           "name": "Morning",
@@ -396,7 +396,7 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 31,
-          "rain": 4
+          "rain": 10
         },
         {
           "name": "Evening",
@@ -404,7 +404,7 @@
           "to": 21,
           "icon": "⛅",
           "label": "Partly cloudy",
-          "temp": 28,
+          "temp": 29,
           "rain": 4
         },
         {
@@ -435,6 +435,15 @@
           "humidity": 46,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Evening": {
+          "iso": "2026-10-23T18:00",
+          "time": "6:00 PM",
+          "temp": 30,
+          "feels": 30,
+          "humidity": 46,
+          "label": "Mostly clear",
+          "icon": "🌙"
         }
       }
     },
@@ -456,6 +465,15 @@
         "humidity": 46,
         "label": "Cloudy",
         "icon": "☁️"
+      },
+      "Evening": {
+        "iso": "2026-10-23T18:00",
+        "time": "6:00 PM",
+        "temp": 30,
+        "feels": 30,
+        "humidity": 46,
+        "label": "Mostly clear",
+        "icon": "🌙"
       }
     },
     "wx_office": {
@@ -465,19 +483,19 @@
       "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-10-23T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 31,
-        "feels": 34,
+        "iso": "2026-10-23T18:00",
+        "time": "6:00 PM",
+        "hour": 18.0,
+        "temp": 30,
+        "feels": 30,
         "humidity": 45,
-        "label": "Cloudy",
-        "icon": "☁️"
+        "label": "Mostly clear",
+        "icon": "🌙"
       },
       "high": 32,
       "low": 23,
-      "rain": 4,
-      "uv": 7.65,
+      "rain": 10,
+      "uv": 7.7,
       "periods": [
         {
           "name": "Morning",
@@ -492,10 +510,10 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "🌦️",
+          "label": "Light drizzle",
           "temp": 31,
-          "rain": 4
+          "rain": 10
         },
         {
           "name": "Evening",
@@ -512,7 +530,7 @@
           "to": 30,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 25,
+          "temp": 26,
           "rain": 0
         }
       ],
@@ -534,6 +552,15 @@
           "humidity": 45,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Evening": {
+          "iso": "2026-10-23T18:00",
+          "time": "6:00 PM",
+          "temp": 30,
+          "feels": 30,
+          "humidity": 45,
+          "label": "Mostly clear",
+          "icon": "🌙"
         }
       }
     },
@@ -555,6 +582,15 @@
         "humidity": 45,
         "label": "Cloudy",
         "icon": "☁️"
+      },
+      "Evening": {
+        "iso": "2026-10-23T18:00",
+        "time": "6:00 PM",
+        "temp": 30,
+        "feels": 30,
+        "humidity": 45,
+        "label": "Mostly clear",
+        "icon": "🌙"
       }
     },
     "gold": {
@@ -580,8 +616,8 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 12957,
-          "k24": 14145,
+          "k22": 12973,
+          "k24": 14163,
           "change22": null,
           "date": "23 October 2026",
           "url": "https://ibjarates.com/"
@@ -685,19 +721,19 @@
         "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-10-23T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 31,
-          "feels": 33,
+          "iso": "2026-10-23T18:00",
+          "time": "6:00 PM",
+          "hour": 18.0,
+          "temp": 30,
+          "feels": 30,
           "humidity": 46,
-          "label": "Cloudy",
-          "icon": "☁️"
+          "label": "Mostly clear",
+          "icon": "🌙"
         },
         "high": 32,
         "low": 24,
-        "rain": 4,
-        "uv": 7.5,
+        "rain": 10,
+        "uv": 7.55,
         "periods": [
           {
             "name": "Morning",
@@ -715,7 +751,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 31,
-            "rain": 4
+            "rain": 10
           },
           {
             "name": "Evening",
@@ -723,7 +759,7 @@
             "to": 21,
             "icon": "⛅",
             "label": "Partly cloudy",
-            "temp": 28,
+            "temp": 29,
             "rain": 4
           },
           {
@@ -754,6 +790,15 @@
             "humidity": 46,
             "label": "Cloudy",
             "icon": "☁️"
+          },
+          "Evening": {
+            "iso": "2026-10-23T18:00",
+            "time": "6:00 PM",
+            "temp": 30,
+            "feels": 30,
+            "humidity": 46,
+            "label": "Mostly clear",
+            "icon": "🌙"
           }
         }
       },
@@ -764,19 +809,19 @@
         "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-10-23T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 31,
-          "feels": 34,
+          "iso": "2026-10-23T18:00",
+          "time": "6:00 PM",
+          "hour": 18.0,
+          "temp": 30,
+          "feels": 30,
           "humidity": 45,
-          "label": "Cloudy",
-          "icon": "☁️"
+          "label": "Mostly clear",
+          "icon": "🌙"
         },
         "high": 32,
         "low": 23,
-        "rain": 4,
-        "uv": 7.65,
+        "rain": 10,
+        "uv": 7.7,
         "periods": [
           {
             "name": "Morning",
@@ -791,10 +836,10 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "🌦️",
+            "label": "Light drizzle",
             "temp": 31,
-            "rain": 4
+            "rain": 10
           },
           {
             "name": "Evening",
@@ -811,7 +856,7 @@
             "to": 30,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 25,
+            "temp": 26,
             "rain": 0
           }
         ],
@@ -833,6 +878,15 @@
             "humidity": 45,
             "label": "Cloudy",
             "icon": "☁️"
+          },
+          "Evening": {
+            "iso": "2026-10-23T18:00",
+            "time": "6:00 PM",
+            "temp": 30,
+            "feels": 30,
+            "humidity": 45,
+            "label": "Mostly clear",
+            "icon": "🌙"
           }
         }
       }
