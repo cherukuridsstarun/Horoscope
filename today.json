@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Saturday, 24 October 2026",
   "date_key": "2026-10-24",
-  "fetched_ist": "24 Oct 2026, 06:43 AM IST",
+  "fetched_ist": "24 Oct 2026, 10:11 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -188,9 +188,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 14247,
-        "k22": 13059,
-        "change22": -1,
+        "k24": 14258,
+        "k22": 13070,
+        "change22": 10,
         "date": "24 October 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -261,8 +261,8 @@
       },
       {
         "date": "Oct 24, 2026",
-        "k22": 13059,
-        "k24": 14247
+        "k22": 13070,
+        "k24": 14258
       }
     ]
   },
@@ -370,14 +370,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-24T06:30",
-        "time": "6:30 AM",
-        "hour": 6.5,
-        "temp": 24,
-        "feels": 25,
-        "humidity": 60,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "iso": "2026-10-24T10:00",
+        "time": "10:00 AM",
+        "hour": 10.0,
+        "temp": 29,
+        "feels": 29,
+        "humidity": 42,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 31,
       "low": 24,
@@ -423,25 +423,25 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-10-24T06:30",
-          "time": "6:30 AM",
-          "temp": 24,
-          "feels": 25,
-          "humidity": 60,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "iso": "2026-10-24T10:00",
+          "time": "10:00 AM",
+          "temp": 29,
+          "feels": 29,
+          "humidity": 42,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
     "wxlog_home": {
       "Morning": {
-        "iso": "2026-10-24T06:30",
-        "time": "6:30 AM",
-        "temp": 24,
-        "feels": 25,
-        "humidity": 60,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "iso": "2026-10-24T10:00",
+        "time": "10:00 AM",
+        "temp": 29,
+        "feels": 29,
+        "humidity": 42,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "wx_office": {
@@ -451,14 +451,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-24T06:30",
-        "time": "6:30 AM",
-        "hour": 6.5,
-        "temp": 24,
-        "feels": 25,
-        "humidity": 59,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "iso": "2026-10-24T10:00",
+        "time": "10:00 AM",
+        "hour": 10.0,
+        "temp": 29,
+        "feels": 29,
+        "humidity": 40,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 32,
       "low": 24,
@@ -504,25 +504,25 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-10-24T06:30",
-          "time": "6:30 AM",
-          "temp": 24,
-          "feels": 25,
-          "humidity": 59,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "iso": "2026-10-24T10:00",
+          "time": "10:00 AM",
+          "temp": 29,
+          "feels": 29,
+          "humidity": 40,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
     "wxlog_office": {
       "Morning": {
-        "iso": "2026-10-24T06:30",
-        "time": "6:30 AM",
-        "temp": 24,
-        "feels": 25,
-        "humidity": 59,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "iso": "2026-10-24T10:00",
+        "time": "10:00 AM",
+        "temp": 29,
+        "feels": 29,
+        "humidity": 40,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "gold": {
@@ -530,9 +530,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 14247,
-          "k22": 13059,
-          "change22": -1,
+          "k24": 14258,
+          "k22": 13070,
+          "change22": 10,
           "date": "24 October 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -603,8 +603,8 @@
         },
         {
           "date": "Oct 24, 2026",
-          "k22": 13059,
-          "k24": 14247
+          "k22": 13070,
+          "k24": 14258
         }
       ]
     }
@@ -647,14 +647,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-24T06:30",
-          "time": "6:30 AM",
-          "hour": 6.5,
-          "temp": 24,
-          "feels": 25,
-          "humidity": 60,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "iso": "2026-10-24T10:00",
+          "time": "10:00 AM",
+          "hour": 10.0,
+          "temp": 29,
+          "feels": 29,
+          "humidity": 42,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 31,
         "low": 24,
@@ -700,13 +700,13 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-10-24T06:30",
-            "time": "6:30 AM",
-            "temp": 24,
-            "feels": 25,
-            "humidity": 60,
-            "label": "Mostly clear",
-            "icon": "🌤️"
+            "iso": "2026-10-24T10:00",
+            "time": "10:00 AM",
+            "temp": 29,
+            "feels": 29,
+            "humidity": 42,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       },
@@ -717,14 +717,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-24T06:30",
-          "time": "6:30 AM",
-          "hour": 6.5,
-          "temp": 24,
-          "feels": 25,
-          "humidity": 59,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "iso": "2026-10-24T10:00",
+          "time": "10:00 AM",
+          "hour": 10.0,
+          "temp": 29,
+          "feels": 29,
+          "humidity": 40,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 32,
         "low": 24,
@@ -770,13 +770,13 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-10-24T06:30",
-            "time": "6:30 AM",
-            "temp": 24,
-            "feels": 25,
-            "humidity": 59,
-            "label": "Mostly clear",
-            "icon": "🌤️"
+            "iso": "2026-10-24T10:00",
+            "time": "10:00 AM",
+            "temp": 29,
+            "feels": 29,
+            "humidity": 40,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       }
