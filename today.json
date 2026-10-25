@@ -2,14 +2,14 @@
   "sign": "Taurus",
   "date_ist": "Sunday, 25 October 2026",
   "date_key": "2026-10-25",
-  "fetched_ist": "25 Oct 2026, 12:01 AM IST",
+  "fetched_ist": "25 Oct 2026, 06:08 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "24-10-2026",
-      "text": null
+      "ok": true,
+      "source_date": "25-10-2026",
+      "text": "Today, you may experience the juxtaposition of pleasure and pain. Household tasks may weigh you down around afternoon. Later in the day, you will be able to achieve whatever you desire solely on account of your determination and mental strength. Pleasure awaits in the warmth and company of your soul mate, says Ganesha."
     },
     {
       "name": "Horoscope.com",
@@ -65,6 +65,11 @@
     "career": {
       "readings": [
         {
+          "text": "You may not tend to work hard for success, rather you may depend more on your luck today. Achieving a certain result will be so important to you that you won’t mind compromising on the quality of work. However, you need to maintain efficiency and quality both, suggests Ganesha.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "Your perception is quite keen. You are able to see things that other people can't. This gives you a tremendous advantage over most everyone around you. As you move throughout the day, slowly and quietly gather pertinent facts and information.",
           "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
@@ -74,6 +79,11 @@
     },
     "money": {
       "readings": [
+        {
+          "text": "Ganesha feels that today you are going to make good money. As planetary positions are good, you will be able to earn through dual or more than two sources. It’s good time to talk to people about work.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "You would probably prefer not to have to worry about money, especially this week. But since it's a necessary part of life, you prefer to worry about broader things - that which you can't control. At this time, your money life is more ideas than reality, thanks to aspects happening in the area of your chart associated with past lives, institutions, the unconscious mind, and dreams. Your efforts to make any serious changes to your money situation now may need more time to develop.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
@@ -102,6 +112,11 @@
     "health": {
       "readings": [
         {
+          "text": "Ganesha does not find you facing any health issue today. You will however not be in a mood to put in long hours at work. You will want to relax. You will be trying to balance your energy by taking necessary rest.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "Today's aspect makes you feel more emotional for a couple of days. Notice what feelings come up and treat yourself gently. Keep on top of your health, though. There is no reason why you can't be gentle with yourself and still break a sweat in the gym, if possible! In fact, as emotions get processed it can be beneficial to exercise your body and release toxins at the same time. Be sure to drink plenty of water to make it a cleansing experience.",
           "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
@@ -127,7 +142,7 @@
     {
       "src": "GaneshaSpeaks",
       "number": "6",
-      "color": "Cream"
+      "color": "Emerald Green"
     },
     {
       "src": "AstroSage",
@@ -170,8 +185,8 @@
         "label": "Hyderabad jewellers",
         "k24": 14258,
         "k22": 13070,
-        "change22": 10,
-        "date": "24 October 2026",
+        "change22": 0,
+        "date": "25 October 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
       {
@@ -194,11 +209,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "Oct 15, 2026",
-        "k22": 13515,
-        "k24": 14744
-      },
       {
         "date": "Oct 16, 2026",
         "k22": 13515,
@@ -243,6 +253,11 @@
         "date": "Oct 24, 2026",
         "k22": 13070,
         "k24": 14258
+      },
+      {
+        "date": "Oct 25, 2026",
+        "k22": 13070,
+        "k24": 14258
       }
     ]
   },
@@ -250,14 +265,30 @@
     "ganesha": {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "24-10-2026",
-      "text": null,
+      "ok": true,
+      "source_date": "25-10-2026",
+      "text": "Today, you may experience the juxtaposition of pleasure and pain. Household tasks may weigh you down around afternoon. Later in the day, you will be able to achieve whatever you desire solely on account of your determination and mental strength. Pleasure awaits in the warmth and company of your soul mate, says Ganesha.",
       "lucky": {
         "number": "6",
-        "color": "Cream"
+        "color": "Emerald Green"
       },
-      "areas": {}
+      "areas": {
+        "health": {
+          "text": "Ganesha does not find you facing any health issue today. You will however not be in a mood to put in long hours at work. You will want to relax. You will be trying to balance your energy by taking necessary rest.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "money": {
+          "text": "Ganesha feels that today you are going to make good money. As planetary positions are good, you will be able to earn through dual or more than two sources. It’s good time to talk to people about work.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "career": {
+          "text": "You may not tend to work hard for success, rather you may depend more on your luck today. Achieving a certain result will be so important to you that you won’t mind compromising on the quality of work. However, you need to maintain efficiency and quality both, suggests Ganesha.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        }
+      }
     },
     "hc_general": {
       "text": "One of your ambitions in life is to be financially independent, and lately you might have made great strides toward attaining that goal. Today, through no fault of your own, you may receive information that indicates there may have been a setback. However, all is not as it seems. Don't go into a panic until you know all the facts, Taurus. You're probably still right on track.",
@@ -321,10 +352,168 @@
         }
       ]
     },
-    "wx_home": null,
-    "wxlog_home": {},
-    "wx_office": null,
-    "wxlog_office": {},
+    "wx_home": {
+      "key": "home",
+      "name": "Home",
+      "area": "",
+      "label": "Cloudy",
+      "icon": "☁️",
+      "now": {
+        "iso": "2026-10-25T06:00",
+        "time": "6:00 AM",
+        "hour": 6.0,
+        "temp": 22,
+        "feels": 21,
+        "humidity": 47,
+        "label": "Mostly clear",
+        "icon": "🌙"
+      },
+      "high": 31,
+      "low": 22,
+      "rain": 0,
+      "uv": 7.7,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "🌤️",
+          "label": "Mostly clear",
+          "temp": 27,
+          "rain": 0
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌤️",
+          "label": "Mostly clear",
+          "temp": 31,
+          "rain": 0
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 26,
+          "rain": 0
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌙",
+          "label": "Mostly clear",
+          "temp": 23,
+          "rain": 0
+        }
+      ],
+      "log": {
+        "Morning": {
+          "iso": "2026-10-25T06:00",
+          "time": "6:00 AM",
+          "temp": 22,
+          "feels": 21,
+          "humidity": 47,
+          "label": "Mostly clear",
+          "icon": "🌙"
+        }
+      }
+    },
+    "wxlog_home": {
+      "Morning": {
+        "iso": "2026-10-25T06:00",
+        "time": "6:00 AM",
+        "temp": 22,
+        "feels": 21,
+        "humidity": 47,
+        "label": "Mostly clear",
+        "icon": "🌙"
+      }
+    },
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Partly cloudy",
+      "icon": "⛅",
+      "now": {
+        "iso": "2026-10-25T06:00",
+        "time": "6:00 AM",
+        "hour": 6.0,
+        "temp": 22,
+        "feels": 21,
+        "humidity": 47,
+        "label": "Clear sky",
+        "icon": "🌙"
+      },
+      "high": 32,
+      "low": 22,
+      "rain": 0,
+      "uv": 7.7,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 27,
+          "rain": 0
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌤️",
+          "label": "Mostly clear",
+          "temp": 31,
+          "rain": 0
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 27,
+          "rain": 0
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 22,
+          "rain": 0
+        }
+      ],
+      "log": {
+        "Morning": {
+          "iso": "2026-10-25T06:00",
+          "time": "6:00 AM",
+          "temp": 22,
+          "feels": 21,
+          "humidity": 47,
+          "label": "Clear sky",
+          "icon": "🌙"
+        }
+      }
+    },
+    "wxlog_office": {
+      "Morning": {
+        "iso": "2026-10-25T06:00",
+        "time": "6:00 AM",
+        "temp": 22,
+        "feels": 21,
+        "humidity": 47,
+        "label": "Clear sky",
+        "icon": "🌙"
+      }
+    },
     "gold": {
       "rows": {
         "GoodReturns": {
@@ -332,8 +521,8 @@
           "label": "Hyderabad jewellers",
           "k24": 14258,
           "k22": 13070,
-          "change22": 10,
-          "date": "24 October 2026",
+          "change22": 0,
+          "date": "25 October 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
         "PolicyBazaar": {
@@ -356,11 +545,6 @@
         }
       },
       "trend": [
-        {
-          "date": "Oct 15, 2026",
-          "k22": 13515,
-          "k24": 14744
-        },
         {
           "date": "Oct 16, 2026",
           "k22": 13515,
@@ -405,6 +589,11 @@
           "date": "Oct 24, 2026",
           "k22": 13070,
           "k24": 14258
+        },
+        {
+          "date": "Oct 25, 2026",
+          "k22": 13070,
+          "k24": 14258
         }
       ]
     }
@@ -437,5 +626,149 @@
       "days": 1
     }
   },
-  "weather": null
+  "weather": {
+    "date": "2026-10-25",
+    "places": [
+      {
+        "key": "home",
+        "name": "Home",
+        "area": "",
+        "label": "Cloudy",
+        "icon": "☁️",
+        "now": {
+          "iso": "2026-10-25T06:00",
+          "time": "6:00 AM",
+          "hour": 6.0,
+          "temp": 22,
+          "feels": 21,
+          "humidity": 47,
+          "label": "Mostly clear",
+          "icon": "🌙"
+        },
+        "high": 31,
+        "low": 22,
+        "rain": 0,
+        "uv": 7.7,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "🌤️",
+            "label": "Mostly clear",
+            "temp": 27,
+            "rain": 0
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌤️",
+            "label": "Mostly clear",
+            "temp": 31,
+            "rain": 0
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 26,
+            "rain": 0
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌙",
+            "label": "Mostly clear",
+            "temp": 23,
+            "rain": 0
+          }
+        ],
+        "log": {
+          "Morning": {
+            "iso": "2026-10-25T06:00",
+            "time": "6:00 AM",
+            "temp": 22,
+            "feels": 21,
+            "humidity": 47,
+            "label": "Mostly clear",
+            "icon": "🌙"
+          }
+        }
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
+        "label": "Partly cloudy",
+        "icon": "⛅",
+        "now": {
+          "iso": "2026-10-25T06:00",
+          "time": "6:00 AM",
+          "hour": 6.0,
+          "temp": 22,
+          "feels": 21,
+          "humidity": 47,
+          "label": "Clear sky",
+          "icon": "🌙"
+        },
+        "high": 32,
+        "low": 22,
+        "rain": 0,
+        "uv": 7.7,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 27,
+            "rain": 0
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌤️",
+            "label": "Mostly clear",
+            "temp": 31,
+            "rain": 0
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 27,
+            "rain": 0
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 22,
+            "rain": 0
+          }
+        ],
+        "log": {
+          "Morning": {
+            "iso": "2026-10-25T06:00",
+            "time": "6:00 AM",
+            "temp": 22,
+            "feels": 21,
+            "humidity": 47,
+            "label": "Clear sky",
+            "icon": "🌙"
+          }
+        }
+      }
+    ]
+  }
 }
