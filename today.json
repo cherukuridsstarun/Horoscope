@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Sunday, 25 October 2026",
   "date_key": "2026-10-25",
-  "fetched_ist": "25 Oct 2026, 10:17 AM IST",
+  "fetched_ist": "25 Oct 2026, 12:32 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 25, 2026",
       "text": "One of your ambitions in life is to be financially independent, and lately you might have made great strides toward attaining that goal. Today, through no fault of your own, you may receive information that indicates there may have been a setback. However, all is not as it seems. Don't go into a panic until you know all the facts, Taurus. You're probably still right on track."
@@ -21,9 +21,9 @@
     {
       "name": "Astrology.com",
       "url": "https://www.astrology.com/horoscope/daily/taurus.html",
-      "ok": false,
-      "source_date": null,
-      "text": null
+      "ok": true,
+      "source_date": "October 25, 2026",
+      "text": "Applying self-care practices to your wellness agenda will make it easier to stay on track, darling bull. As Venus retrogrades into Libra, be mindful of your health, making adjustments to improve how you look and feel. Luckily, as the Aries Moon aligns with Jupiter, the nodes of fate, Chiron, and Venus rx, you'll find the support and motivation you need to establish and maintain workable goals. You'll shine vibrantly when the Full Moon rises in your sign this evening, which grants permission to prioritize personal needs. Try not to overextend yourself with unrealistic expectations when Pluto grows agitated tonight."
     },
     {
       "name": "AstroSage",
@@ -52,6 +52,14 @@
         "src": "Horoscope.com"
       },
       {
+        "t": "Luckily, as the Aries Moon aligns with Jupiter, the nodes of fate, Chiron, and Venus rx, you'll find the support and motivation you need to establish and maintain workable goals.",
+        "src": "Astrology.com"
+      },
+      {
+        "t": "Try not to overextend yourself with unrealistic expectations when Pluto grows agitated tonight.",
+        "src": "Astrology.com"
+      },
+      {
         "t": "Do not take any step or act in such a manner which can cause financial loss today without the advice of an experienced person.",
         "src": "AstroSage"
       },
@@ -71,11 +79,16 @@
         },
         {
           "text": "Your perception is quite keen. You are able to see things that other people can't. This gives you a tremendous advantage over most everyone around you. As you move throughout the day, slowly and quietly gather pertinent facts and information.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
-      "bits": []
+      "bits": [
+        {
+          "t": "Luckily, as the Aries Moon aligns with Jupiter, the nodes of fate, Chiron, and Venus rx, you'll find the support and motivation you need to establish and maintain workable goals.",
+          "src": "Astrology.com"
+        }
+      ]
     },
     "money": {
       "readings": [
@@ -118,11 +131,19 @@
         },
         {
           "text": "Today's aspect makes you feel more emotional for a couple of days. Notice what feelings come up and treat yourself gently. Keep on top of your health, though. There is no reason why you can't be gentle with yourself and still break a sweat in the gym, if possible! In fact, as emotions get processed it can be beneficial to exercise your body and release toxins at the same time. Be sure to drink plenty of water to make it a cleansing experience.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
       "bits": [
+        {
+          "t": "Applying self-care practices to your wellness agenda will make it easier to stay on track, darling bull.",
+          "src": "Astrology.com"
+        },
+        {
+          "t": "As Venus retrogrades into Libra, be mindful of your health, making adjustments to improve how you look and feel.",
+          "src": "Astrology.com"
+        },
         {
           "t": "The jovial nature of family members will lighten up the atmosphere at home.",
           "src": "AstroSage"
@@ -176,7 +197,13 @@
       }
     ]
   },
-  "extras": [],
+  "extras": [
+    {
+      "title": "Bonus",
+      "text": "Shop around in order to make the right choice today -- consult an objective source.",
+      "src": "Astrology.com"
+    }
+  ],
   "gold": {
     "city": "Hyderabad",
     "rows": [
@@ -293,26 +320,32 @@
     "hc_general": {
       "text": "One of your ambitions in life is to be financially independent, and lately you might have made great strides toward attaining that goal. Today, through no fault of your own, you may receive information that indicates there may have been a setback. However, all is not as it seems. Don't go into a panic until you know all the facts, Taurus. You're probably still right on track.",
       "date": "Oct 25, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Your perception is quite keen. You are able to see things that other people can't. This gives you a tremendous advantage over most everyone around you. As you move throughout the day, slowly and quietly gather pertinent facts and information.",
       "date": "Oct 25, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Today's aspect makes you feel more emotional for a couple of days. Notice what feelings come up and treat yourself gently. Keep on top of your health, though. There is no reason why you can't be gentle with yourself and still break a sweat in the gym, if possible! In fact, as emotions get processed it can be beneficial to exercise your body and release toxins at the same time. Be sure to drink plenty of water to make it a cleansing experience.",
       "date": "Oct 25, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You would probably prefer not to have to worry about money, especially this week.  But since it's a necessary part of life, you prefer to worry about broader things - that which you can't control. At this time, your money life is more ideas than reality, thanks to aspects happening in the area of your chart associated with past lives, institutions, the unconscious mind, and dreams. Your efforts to make any serious changes to your money situation now may need more time to develop.",
       "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2"
     },
     "ac": {
-      "text": null,
+      "text": "Applying self-care practices to your wellness agenda will make it easier to stay on track, darling bull. As Venus retrogrades into Libra, be mindful of your health, making adjustments to improve how you look and feel. A bit of tough love may be necessary if you've been cutting yourself too much slack. Luckily, as the Aries Moon aligns with Jupiter, the nodes of fate, Chiron, and Venus rx, you'll find the support and motivation you need to establish and maintain workable goals. You'll shine vibrantly when the Full Moon rises in your sign this evening, which grants permission to prioritize personal needs. Try not to overextend yourself with unrealistic expectations when Pluto grows agitated tonight.",
       "url": "https://www.astrology.com/horoscope/daily/taurus.html",
-      "extras": []
+      "extras": [
+        {
+          "title": "Bonus",
+          "text": "Shop around in order to make the right choice today -- consult an objective source.",
+          "src": "Astrology.com"
+        }
+      ]
     },
     "astrosage": {
       "name": "AstroSage",
@@ -359,19 +392,19 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-25T10:15",
-        "time": "10:15 AM",
-        "hour": 10.25,
-        "temp": 30,
-        "feels": 28,
-        "humidity": 29,
+        "iso": "2026-10-25T12:30",
+        "time": "12:30 PM",
+        "hour": 12.5,
+        "temp": 31,
+        "feels": 30,
+        "humidity": 26,
         "label": "Clear sky",
         "icon": "☀️"
       },
       "high": 31,
       "low": 22,
       "rain": 0,
-      "uv": 7.7,
+      "uv": 7.65,
       "periods": [
         {
           "name": "Morning",
@@ -419,6 +452,15 @@
           "humidity": 29,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-25T12:30",
+          "time": "12:30 PM",
+          "temp": 31,
+          "feels": 30,
+          "humidity": 26,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -431,6 +473,15 @@
         "humidity": 29,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-25T12:30",
+        "time": "12:30 PM",
+        "temp": 31,
+        "feels": 30,
+        "humidity": 26,
+        "label": "Clear sky",
+        "icon": "☀️"
       }
     },
     "wx_office": {
@@ -440,12 +491,12 @@
       "label": "Partly cloudy",
       "icon": "⛅",
       "now": {
-        "iso": "2026-10-25T10:15",
-        "time": "10:15 AM",
-        "hour": 10.25,
-        "temp": 30,
-        "feels": 28,
-        "humidity": 26,
+        "iso": "2026-10-25T12:30",
+        "time": "12:30 PM",
+        "hour": 12.5,
+        "temp": 32,
+        "feels": 31,
+        "humidity": 23,
         "label": "Clear sky",
         "icon": "☀️"
       },
@@ -500,6 +551,15 @@
           "humidity": 26,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-25T12:30",
+          "time": "12:30 PM",
+          "temp": 32,
+          "feels": 31,
+          "humidity": 23,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -510,6 +570,15 @@
         "temp": 30,
         "feels": 28,
         "humidity": 26,
+        "label": "Clear sky",
+        "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-25T12:30",
+        "time": "12:30 PM",
+        "temp": 32,
+        "feels": 31,
+        "humidity": 23,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -636,19 +705,19 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-25T10:15",
-          "time": "10:15 AM",
-          "hour": 10.25,
-          "temp": 30,
-          "feels": 28,
-          "humidity": 29,
+          "iso": "2026-10-25T12:30",
+          "time": "12:30 PM",
+          "hour": 12.5,
+          "temp": 31,
+          "feels": 30,
+          "humidity": 26,
           "label": "Clear sky",
           "icon": "☀️"
         },
         "high": 31,
         "low": 22,
         "rain": 0,
-        "uv": 7.7,
+        "uv": 7.65,
         "periods": [
           {
             "name": "Morning",
@@ -696,6 +765,15 @@
             "humidity": 29,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-25T12:30",
+            "time": "12:30 PM",
+            "temp": 31,
+            "feels": 30,
+            "humidity": 26,
+            "label": "Clear sky",
+            "icon": "☀️"
           }
         }
       },
@@ -706,12 +784,12 @@
         "label": "Partly cloudy",
         "icon": "⛅",
         "now": {
-          "iso": "2026-10-25T10:15",
-          "time": "10:15 AM",
-          "hour": 10.25,
-          "temp": 30,
-          "feels": 28,
-          "humidity": 26,
+          "iso": "2026-10-25T12:30",
+          "time": "12:30 PM",
+          "hour": 12.5,
+          "temp": 32,
+          "feels": 31,
+          "humidity": 23,
           "label": "Clear sky",
           "icon": "☀️"
         },
@@ -764,6 +842,15 @@
             "temp": 30,
             "feels": 28,
             "humidity": 26,
+            "label": "Clear sky",
+            "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-25T12:30",
+            "time": "12:30 PM",
+            "temp": 32,
+            "feels": 31,
+            "humidity": 23,
             "label": "Clear sky",
             "icon": "☀️"
           }
