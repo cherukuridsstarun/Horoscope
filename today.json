@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Sunday, 25 October 2026",
   "date_key": "2026-10-25",
-  "fetched_ist": "25 Oct 2026, 06:08 AM IST",
+  "fetched_ist": "25 Oct 2026, 10:17 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": false,
       "source_date": null,
       "text": null
@@ -311,7 +311,7 @@
     },
     "ac": {
       "text": null,
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": []
     },
     "astrosage": {
@@ -359,14 +359,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-25T06:00",
-        "time": "6:00 AM",
-        "hour": 6.0,
-        "temp": 22,
-        "feels": 21,
-        "humidity": 47,
-        "label": "Mostly clear",
-        "icon": "🌙"
+        "iso": "2026-10-25T10:15",
+        "time": "10:15 AM",
+        "hour": 10.25,
+        "temp": 30,
+        "feels": 28,
+        "humidity": 29,
+        "label": "Clear sky",
+        "icon": "☀️"
       },
       "high": 31,
       "low": 22,
@@ -412,25 +412,25 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-10-25T06:00",
-          "time": "6:00 AM",
-          "temp": 22,
-          "feels": 21,
-          "humidity": 47,
-          "label": "Mostly clear",
-          "icon": "🌙"
+          "iso": "2026-10-25T10:15",
+          "time": "10:15 AM",
+          "temp": 30,
+          "feels": 28,
+          "humidity": 29,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
     "wxlog_home": {
       "Morning": {
-        "iso": "2026-10-25T06:00",
-        "time": "6:00 AM",
-        "temp": 22,
-        "feels": 21,
-        "humidity": 47,
-        "label": "Mostly clear",
-        "icon": "🌙"
+        "iso": "2026-10-25T10:15",
+        "time": "10:15 AM",
+        "temp": 30,
+        "feels": 28,
+        "humidity": 29,
+        "label": "Clear sky",
+        "icon": "☀️"
       }
     },
     "wx_office": {
@@ -440,14 +440,14 @@
       "label": "Partly cloudy",
       "icon": "⛅",
       "now": {
-        "iso": "2026-10-25T06:00",
-        "time": "6:00 AM",
-        "hour": 6.0,
-        "temp": 22,
-        "feels": 21,
-        "humidity": 47,
+        "iso": "2026-10-25T10:15",
+        "time": "10:15 AM",
+        "hour": 10.25,
+        "temp": 30,
+        "feels": 28,
+        "humidity": 26,
         "label": "Clear sky",
-        "icon": "🌙"
+        "icon": "☀️"
       },
       "high": 32,
       "low": 22,
@@ -493,25 +493,25 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-10-25T06:00",
-          "time": "6:00 AM",
-          "temp": 22,
-          "feels": 21,
-          "humidity": 47,
+          "iso": "2026-10-25T10:15",
+          "time": "10:15 AM",
+          "temp": 30,
+          "feels": 28,
+          "humidity": 26,
           "label": "Clear sky",
-          "icon": "🌙"
+          "icon": "☀️"
         }
       }
     },
     "wxlog_office": {
       "Morning": {
-        "iso": "2026-10-25T06:00",
-        "time": "6:00 AM",
-        "temp": 22,
-        "feels": 21,
-        "humidity": 47,
+        "iso": "2026-10-25T10:15",
+        "time": "10:15 AM",
+        "temp": 30,
+        "feels": 28,
+        "humidity": 26,
         "label": "Clear sky",
-        "icon": "🌙"
+        "icon": "☀️"
       }
     },
     "gold": {
@@ -636,14 +636,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-25T06:00",
-          "time": "6:00 AM",
-          "hour": 6.0,
-          "temp": 22,
-          "feels": 21,
-          "humidity": 47,
-          "label": "Mostly clear",
-          "icon": "🌙"
+          "iso": "2026-10-25T10:15",
+          "time": "10:15 AM",
+          "hour": 10.25,
+          "temp": 30,
+          "feels": 28,
+          "humidity": 29,
+          "label": "Clear sky",
+          "icon": "☀️"
         },
         "high": 31,
         "low": 22,
@@ -689,13 +689,13 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-10-25T06:00",
-            "time": "6:00 AM",
-            "temp": 22,
-            "feels": 21,
-            "humidity": 47,
-            "label": "Mostly clear",
-            "icon": "🌙"
+            "iso": "2026-10-25T10:15",
+            "time": "10:15 AM",
+            "temp": 30,
+            "feels": 28,
+            "humidity": 29,
+            "label": "Clear sky",
+            "icon": "☀️"
           }
         }
       },
@@ -706,14 +706,14 @@
         "label": "Partly cloudy",
         "icon": "⛅",
         "now": {
-          "iso": "2026-10-25T06:00",
-          "time": "6:00 AM",
-          "hour": 6.0,
-          "temp": 22,
-          "feels": 21,
-          "humidity": 47,
+          "iso": "2026-10-25T10:15",
+          "time": "10:15 AM",
+          "hour": 10.25,
+          "temp": 30,
+          "feels": 28,
+          "humidity": 26,
           "label": "Clear sky",
-          "icon": "🌙"
+          "icon": "☀️"
         },
         "high": 32,
         "low": 22,
@@ -759,13 +759,13 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-10-25T06:00",
-            "time": "6:00 AM",
-            "temp": 22,
-            "feels": 21,
-            "humidity": 47,
+            "iso": "2026-10-25T10:15",
+            "time": "10:15 AM",
+            "temp": 30,
+            "feels": 28,
+            "humidity": 26,
             "label": "Clear sky",
-            "icon": "🌙"
+            "icon": "☀️"
           }
         }
       }
