@@ -2,14 +2,14 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 27 October 2026",
   "date_key": "2026-10-27",
-  "fetched_ist": "27 Oct 2026, 12:35 AM IST",
+  "fetched_ist": "27 Oct 2026, 02:20 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "26-10-2026",
-      "text": null
+      "ok": true,
+      "source_date": "27-10-2026",
+      "text": "You will be feeling listless, lazy and out of sorts today, and will tend to ignore and neglect important tasks scheduled for the day. Ganesha urges you to guard against this tendency as you could miss out on opportunities that others could then benefit from. That way, you will surely lose out professionally, particularly if you are in business. This aside, the day promises to be an eventful and fruitful one."
     },
     {
       "name": "Horoscope.com",
@@ -62,6 +62,10 @@
     ],
     "heads": [
       {
+        "t": "Ganesha urges you to guard against this tendency as you could miss out on opportunities that others could then benefit from.",
+        "src": "GaneshaSpeaks"
+      },
+      {
         "t": "You've worked hard to be where you are, and you aren't through climbing the ladder of success just yet.",
         "src": "Horoscope.com"
       },
@@ -85,12 +89,21 @@
     "career": {
       "readings": [
         {
+          "text": "The daily routine will keep you busy. You need to take an important decision regarding a major project. People around you are dependant on you. So make sure that you will understand the matter thoroughly before coming to conclusion. Say the right word at the right time, suggest Ganesha.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "Now is a good time for you to earn good karma for yourself. Build up your cosmic bank account. In short, do something nice for someone else. Offer a free service to someone. Then you will cash in big rewards in the future. Give and you shall receive.",
           "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
       "bits": [
+        {
+          "t": "That way, you will surely lose out professionally, particularly if you are in business.",
+          "src": "GaneshaSpeaks"
+        },
         {
           "t": "Extra time and attention that you have been devoting to your career should pay off about now.",
           "src": "Horoscope.com"
@@ -112,6 +125,11 @@
     "money": {
       "readings": [
         {
+          "text": "You will not be rash at all with your financial decisions. Unexpected expenses are most likely. You should avoid lending money to others today, as chances of easy recovery are very less.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "You have energy directed toward groups, politics, and self-employment. You have all the friends and contacts you need to begin a new venture, whether product, service, or project at your current job. You will also meet new people who can help you get where you want to be financially. At the same time, you're augmenting and transforming your union with other people. You have all the tools you need to get ahead.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
           "src": "Horoscope.com · this week"
@@ -126,6 +144,11 @@
     },
     "health": {
       "readings": [
+        {
+          "text": "Maintaning mental balance is very important today. This will adress your mood swings. You can also get rid of your bad habits by taking firm decisions. The day is also good to invest time in Yoga or any other spiritual practice.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "It's never too late to go in the direction you want to. Today's planetary alignment lights up the path not taken, and even a steadfast person can be inspired to turn and make its way to a new opportunity. Indeed, your inner voice will tell you something under this transit and it is in your best interest to listen. Calming, relaxing exercise will help you. Yoga, Pilates, stretching, lifting weights – do whatever you find grounds you. Hot baths are also recommended.",
           "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
@@ -151,8 +174,8 @@
   "lucky": [
     {
       "src": "GaneshaSpeaks",
-      "number": "5",
-      "color": "Pastel Pink"
+      "number": "8",
+      "color": "Light Olive Green"
     },
     {
       "src": "AstroSage",
@@ -281,14 +304,30 @@
     "ganesha": {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "26-10-2026",
-      "text": null,
+      "ok": true,
+      "source_date": "27-10-2026",
+      "text": "You will be feeling listless, lazy and out of sorts today, and will tend to ignore and neglect important tasks scheduled for the day. Ganesha urges you to guard against this tendency as you could miss out on opportunities that others could then benefit from. That way, you will surely lose out professionally, particularly if you are in business. This aside, the day promises to be an eventful and fruitful one.",
       "lucky": {
-        "number": "5",
-        "color": "Pastel Pink"
+        "number": "8",
+        "color": "Light Olive Green"
       },
-      "areas": {}
+      "areas": {
+        "health": {
+          "text": "Maintaning mental balance is very important today. This will adress your mood swings. You can also get rid of your bad habits by taking firm decisions. The day is also good to invest time in Yoga or any other spiritual practice.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "money": {
+          "text": "You will not be rash at all with your financial decisions. Unexpected expenses are most likely. You should avoid lending money to others today, as chances of easy recovery are very less.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "career": {
+          "text": "The daily routine will keep you busy. You need to take an important decision regarding a major project. People around you are dependant on you. So make sure that you will understand the matter thoroughly before coming to conclusion. Say the right word at the right time, suggest Ganesha.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        }
+      }
     },
     "hc_general": {
       "text": "Extra time and attention that you have been devoting to your career should pay off about now. You've worked hard to be where you are, and you aren't through climbing the ladder of success just yet. You aren't likely to rest on your laurels. Today you might spend a lot of time planning your next goal. A little ingenuity will definitely pay off here, Taurus. Use whatever advantages you have.",
@@ -365,14 +404,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-27T00:30",
-        "time": "12:30 AM",
-        "hour": 0.5,
-        "temp": 23,
-        "feels": 21,
-        "humidity": 43,
-        "label": "Cloudy",
-        "icon": "☁️"
+        "iso": "2026-10-27T02:15",
+        "time": "2:15 AM",
+        "hour": 2.25,
+        "temp": 22,
+        "feels": 20,
+        "humidity": 44,
+        "label": "Mostly clear",
+        "icon": "🌙"
       },
       "high": 30,
       "low": 22,
@@ -426,18 +465,18 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-27T00:30",
-        "time": "12:30 AM",
-        "hour": 0.5,
-        "temp": 23,
-        "feels": 21,
+        "iso": "2026-10-27T02:15",
+        "time": "2:15 AM",
+        "hour": 2.25,
+        "temp": 22,
+        "feels": 20,
         "humidity": 42,
         "label": "Mostly clear",
         "icon": "🌙"
       },
       "high": 31,
       "low": 22,
-      "rain": 6,
+      "rain": 12,
       "uv": 6.75,
       "periods": [
         {
@@ -456,7 +495,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 30,
-          "rain": 3
+          "rain": 0
         },
         {
           "name": "Evening",
@@ -474,7 +513,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 24,
-          "rain": 14
+          "rain": 18
         }
       ],
       "log": {}
@@ -602,14 +641,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-27T00:30",
-          "time": "12:30 AM",
-          "hour": 0.5,
-          "temp": 23,
-          "feels": 21,
-          "humidity": 43,
-          "label": "Cloudy",
-          "icon": "☁️"
+          "iso": "2026-10-27T02:15",
+          "time": "2:15 AM",
+          "hour": 2.25,
+          "temp": 22,
+          "feels": 20,
+          "humidity": 44,
+          "label": "Mostly clear",
+          "icon": "🌙"
         },
         "high": 30,
         "low": 22,
@@ -662,18 +701,18 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-27T00:30",
-          "time": "12:30 AM",
-          "hour": 0.5,
-          "temp": 23,
-          "feels": 21,
+          "iso": "2026-10-27T02:15",
+          "time": "2:15 AM",
+          "hour": 2.25,
+          "temp": 22,
+          "feels": 20,
           "humidity": 42,
           "label": "Mostly clear",
           "icon": "🌙"
         },
         "high": 31,
         "low": 22,
-        "rain": 6,
+        "rain": 12,
         "uv": 6.75,
         "periods": [
           {
@@ -692,7 +731,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 30,
-            "rain": 3
+            "rain": 0
           },
           {
             "name": "Evening",
@@ -710,7 +749,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 24,
-            "rain": 14
+            "rain": 18
           }
         ],
         "log": {}
