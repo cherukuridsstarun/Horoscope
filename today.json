@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Monday, 26 October 2026",
   "date_key": "2026-10-26",
-  "fetched_ist": "26 Oct 2026, 10:22 AM IST",
+  "fetched_ist": "26 Oct 2026, 12:39 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 26, 2026",
       "text": "You're feeling especially sharp, Taurus. Your thoughts are more focused than usual and your mind especially penetrating. Information about possible business opportunities could come through periodicals, and if you like them, check them out. The outlook on anything that comes your way today is especially bright."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 26, 2026",
       "text": "However, the prospect of rebuilding might leave you feeling paralyzed. Luckily, the Moon moves through your sign to provide reassurance, asking you to nurture your inner light before making any major decisions. A restless energy finds you when Luna squares Mars this evening, but rest and healthy activities will restore your equilibrium."
@@ -87,7 +87,7 @@
         },
         {
           "text": "You are at a decision point - a crossroads. Right now, your thinking is practical and critical. You are able to see the bumps in the road. This is a good time for you to weigh the pros and cons of your upcoming decision. Your thinking is clear.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -106,7 +106,7 @@
           "src": "GaneshaSpeaks"
         },
         {
-          "text": "You would probably prefer not to have to worry about money, especially this week. But since it's a necessary part of life, you prefer to worry about broader things - that which you can't control. At this time, your money life is more ideas than reality, thanks to aspects happening in the area of your chart associated with past lives, institutions, the unconscious mind, and dreams. Your efforts to make any serious changes to your money situation now may need more time to develop.",
+          "text": "You have energy directed toward groups, politics, and self-employment. You have all the friends and contacts you need to begin a new venture, whether product, service, or project at your current job. You will also meet new people who can help you get where you want to be financially. At the same time, you're augmenting and transforming your union with other people. You have all the tools you need to get ahead.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
           "src": "Horoscope.com · this week"
         }
@@ -135,7 +135,7 @@
         },
         {
           "text": "Do you feel a bit like a yo-yo sometimes? You may feel especially uneasy with today's planetary alignment. Well, it's important for you to know how to step back from a situation and let time work things out. Consider practicing yoga or going for a long run. This way you will feel like you have done what you can do for the day, instead of worrying about how to change things you really have no control over.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -224,10 +224,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 12973,
-        "k24": 14163,
+        "k22": 12942,
+        "k24": 14129,
         "change22": null,
-        "date": "23 October 2026",
+        "date": "26 October 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -316,25 +316,25 @@
     "hc_general": {
       "text": "You're feeling especially sharp, Taurus. Your thoughts are more focused than usual and your mind especially penetrating. A promised get-together with friends or loved ones may have to be delayed, but it will take place. Information about possible business opportunities could come through periodicals, and if you like them, check them out. The outlook on anything that comes your way today is especially bright.",
       "date": "Oct 26, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "You are at a decision point - a crossroads. Right now, your thinking is practical and critical. You are able to see the bumps in the road. This is a good time for you to weigh the pros and cons of your upcoming decision. Your thinking is clear.",
       "date": "Oct 26, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Do you feel a bit like a yo-yo sometimes? You may feel especially uneasy with today's planetary alignment. Well, it's important for you to know how to step back from a situation and let time work things out. Consider practicing yoga or going for a long run. This way you will feel like you have done what you can do for the day, instead of worrying about how to change things you really have no control over.",
       "date": "Oct 26, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
-      "text": "You would probably prefer not to have to worry about money, especially this week.  But since it's a necessary part of life, you prefer to worry about broader things - that which you can't control. At this time, your money life is more ideas than reality, thanks to aspects happening in the area of your chart associated with past lives, institutions, the unconscious mind, and dreams. Your efforts to make any serious changes to your money situation now may need more time to develop.",
+      "text": "You have energy directed toward groups, politics, and self-employment. You have all the friends and contacts you need to begin a new venture, whether product, service, or project at your current job. You will also meet new people who can help you get where you want to be financially. At the same time, you're augmenting and transforming your union with other people. You have all the tools you need to get ahead.",
       "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2"
     },
     "ac": {
       "text": "Romantic connections could feel somewhat restrictive, dearest Taurus, as the Scorpio Sun and Pluto square off. With your closest companions, consider setting new ground rules to promote teamwork and sustain harmonious bonds. These vibes may also bring revelations about matters of the heart, making you wonder whether it's time to strike out on your own. However, the prospect of rebuilding might leave you feeling paralyzed. Luckily, the Moon moves through your sign to provide reassurance, asking you to nurture your inner light before making any major decisions. A restless energy finds you when Luna squares Mars this evening, but rest and healthy activities will restore your equilibrium.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -388,19 +388,19 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-26T10:15",
-        "time": "10:15 AM",
-        "hour": 10.25,
-        "temp": 28,
-        "feels": 27,
-        "humidity": 34,
+        "iso": "2026-10-26T12:30",
+        "time": "12:30 PM",
+        "hour": 12.5,
+        "temp": 30,
+        "feels": 29,
+        "humidity": 29,
         "label": "Clear sky",
         "icon": "☀️"
       },
       "high": 30,
       "low": 21,
       "rain": 0,
-      "uv": 7.65,
+      "uv": 7.6,
       "periods": [
         {
           "name": "Morning",
@@ -408,15 +408,15 @@
           "to": 12,
           "icon": "☀️",
           "label": "Clear sky",
-          "temp": 26,
+          "temp": 25,
           "rain": 0
         },
         {
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 30,
           "rain": 0
         },
@@ -424,8 +424,8 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 26,
           "rain": 0
         },
@@ -448,6 +448,15 @@
           "humidity": 34,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-26T12:30",
+          "time": "12:30 PM",
+          "temp": 30,
+          "feels": 29,
+          "humidity": 29,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -460,21 +469,30 @@
         "humidity": 34,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-26T12:30",
+        "time": "12:30 PM",
+        "temp": 30,
+        "feels": 29,
+        "humidity": 29,
+        "label": "Clear sky",
+        "icon": "☀️"
       }
     },
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Partly cloudy",
-      "icon": "⛅",
+      "label": "Cloudy",
+      "icon": "☁️",
       "now": {
-        "iso": "2026-10-26T10:15",
-        "time": "10:15 AM",
-        "hour": 10.25,
-        "temp": 29,
-        "feels": 27,
-        "humidity": 32,
+        "iso": "2026-10-26T12:30",
+        "time": "12:30 PM",
+        "hour": 12.5,
+        "temp": 30,
+        "feels": 29,
+        "humidity": 27,
         "label": "Clear sky",
         "icon": "☀️"
       },
@@ -496,8 +514,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 30,
           "rain": 0
         },
@@ -529,6 +547,15 @@
           "humidity": 32,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-26T12:30",
+          "time": "12:30 PM",
+          "temp": 30,
+          "feels": 29,
+          "humidity": 27,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -539,6 +566,15 @@
         "temp": 29,
         "feels": 27,
         "humidity": 32,
+        "label": "Clear sky",
+        "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-26T12:30",
+        "time": "12:30 PM",
+        "temp": 30,
+        "feels": 29,
+        "humidity": 27,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -566,10 +602,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 12973,
-          "k24": 14163,
+          "k22": 12942,
+          "k24": 14129,
           "change22": null,
-          "date": "23 October 2026",
+          "date": "26 October 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -676,19 +712,19 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-26T10:15",
-          "time": "10:15 AM",
-          "hour": 10.25,
-          "temp": 28,
-          "feels": 27,
-          "humidity": 34,
+          "iso": "2026-10-26T12:30",
+          "time": "12:30 PM",
+          "hour": 12.5,
+          "temp": 30,
+          "feels": 29,
+          "humidity": 29,
           "label": "Clear sky",
           "icon": "☀️"
         },
         "high": 30,
         "low": 21,
         "rain": 0,
-        "uv": 7.65,
+        "uv": 7.6,
         "periods": [
           {
             "name": "Morning",
@@ -696,15 +732,15 @@
             "to": 12,
             "icon": "☀️",
             "label": "Clear sky",
-            "temp": 26,
+            "temp": 25,
             "rain": 0
           },
           {
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 30,
             "rain": 0
           },
@@ -712,8 +748,8 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 26,
             "rain": 0
           },
@@ -736,6 +772,15 @@
             "humidity": 34,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-26T12:30",
+            "time": "12:30 PM",
+            "temp": 30,
+            "feels": 29,
+            "humidity": 29,
+            "label": "Clear sky",
+            "icon": "☀️"
           }
         }
       },
@@ -743,15 +788,15 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Partly cloudy",
-        "icon": "⛅",
+        "label": "Cloudy",
+        "icon": "☁️",
         "now": {
-          "iso": "2026-10-26T10:15",
-          "time": "10:15 AM",
-          "hour": 10.25,
-          "temp": 29,
-          "feels": 27,
-          "humidity": 32,
+          "iso": "2026-10-26T12:30",
+          "time": "12:30 PM",
+          "hour": 12.5,
+          "temp": 30,
+          "feels": 29,
+          "humidity": 27,
           "label": "Clear sky",
           "icon": "☀️"
         },
@@ -773,8 +818,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 30,
             "rain": 0
           },
@@ -804,6 +849,15 @@
             "temp": 29,
             "feels": 27,
             "humidity": 32,
+            "label": "Clear sky",
+            "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-26T12:30",
+            "time": "12:30 PM",
+            "temp": 30,
+            "feels": 29,
+            "humidity": 27,
             "label": "Clear sky",
             "icon": "☀️"
           }
