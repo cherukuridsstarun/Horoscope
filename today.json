@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Monday, 26 October 2026",
   "date_key": "2026-10-26",
-  "fetched_ist": "26 Oct 2026, 06:18 AM IST",
+  "fetched_ist": "26 Oct 2026, 10:22 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -206,9 +206,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 14257,
-        "k22": 13069,
-        "change22": -1,
+        "k24": 14275,
+        "k22": 13085,
+        "change22": 15,
         "date": "26 October 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -279,8 +279,8 @@
       },
       {
         "date": "Oct 26, 2026",
-        "k22": 13069,
-        "k24": 14257
+        "k22": 13085,
+        "k24": 14275
       }
     ]
   },
@@ -388,12 +388,12 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-26T06:15",
-        "time": "6:15 AM",
-        "hour": 6.25,
-        "temp": 21,
-        "feels": 19,
-        "humidity": 50,
+        "iso": "2026-10-26T10:15",
+        "time": "10:15 AM",
+        "hour": 10.25,
+        "temp": 28,
+        "feels": 27,
+        "humidity": 34,
         "label": "Clear sky",
         "icon": "☀️"
       },
@@ -441,11 +441,11 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-10-26T06:15",
-          "time": "6:15 AM",
-          "temp": 21,
-          "feels": 19,
-          "humidity": 50,
+          "iso": "2026-10-26T10:15",
+          "time": "10:15 AM",
+          "temp": 28,
+          "feels": 27,
+          "humidity": 34,
           "label": "Clear sky",
           "icon": "☀️"
         }
@@ -453,11 +453,11 @@
     },
     "wxlog_home": {
       "Morning": {
-        "iso": "2026-10-26T06:15",
-        "time": "6:15 AM",
-        "temp": 21,
-        "feels": 19,
-        "humidity": 50,
+        "iso": "2026-10-26T10:15",
+        "time": "10:15 AM",
+        "temp": 28,
+        "feels": 27,
+        "humidity": 34,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -469,12 +469,12 @@
       "label": "Partly cloudy",
       "icon": "⛅",
       "now": {
-        "iso": "2026-10-26T06:15",
-        "time": "6:15 AM",
-        "hour": 6.25,
-        "temp": 21,
-        "feels": 19,
-        "humidity": 49,
+        "iso": "2026-10-26T10:15",
+        "time": "10:15 AM",
+        "hour": 10.25,
+        "temp": 29,
+        "feels": 27,
+        "humidity": 32,
         "label": "Clear sky",
         "icon": "☀️"
       },
@@ -522,11 +522,11 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-10-26T06:15",
-          "time": "6:15 AM",
-          "temp": 21,
-          "feels": 19,
-          "humidity": 49,
+          "iso": "2026-10-26T10:15",
+          "time": "10:15 AM",
+          "temp": 29,
+          "feels": 27,
+          "humidity": 32,
           "label": "Clear sky",
           "icon": "☀️"
         }
@@ -534,11 +534,11 @@
     },
     "wxlog_office": {
       "Morning": {
-        "iso": "2026-10-26T06:15",
-        "time": "6:15 AM",
-        "temp": 21,
-        "feels": 19,
-        "humidity": 49,
+        "iso": "2026-10-26T10:15",
+        "time": "10:15 AM",
+        "temp": 29,
+        "feels": 27,
+        "humidity": 32,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -548,9 +548,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 14257,
-          "k22": 13069,
-          "change22": -1,
+          "k24": 14275,
+          "k22": 13085,
+          "change22": 15,
           "date": "26 October 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -621,8 +621,8 @@
         },
         {
           "date": "Oct 26, 2026",
-          "k22": 13069,
-          "k24": 14257
+          "k22": 13085,
+          "k24": 14275
         }
       ]
     }
@@ -676,12 +676,12 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-26T06:15",
-          "time": "6:15 AM",
-          "hour": 6.25,
-          "temp": 21,
-          "feels": 19,
-          "humidity": 50,
+          "iso": "2026-10-26T10:15",
+          "time": "10:15 AM",
+          "hour": 10.25,
+          "temp": 28,
+          "feels": 27,
+          "humidity": 34,
           "label": "Clear sky",
           "icon": "☀️"
         },
@@ -729,11 +729,11 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-10-26T06:15",
-            "time": "6:15 AM",
-            "temp": 21,
-            "feels": 19,
-            "humidity": 50,
+            "iso": "2026-10-26T10:15",
+            "time": "10:15 AM",
+            "temp": 28,
+            "feels": 27,
+            "humidity": 34,
             "label": "Clear sky",
             "icon": "☀️"
           }
@@ -746,12 +746,12 @@
         "label": "Partly cloudy",
         "icon": "⛅",
         "now": {
-          "iso": "2026-10-26T06:15",
-          "time": "6:15 AM",
-          "hour": 6.25,
-          "temp": 21,
-          "feels": 19,
-          "humidity": 49,
+          "iso": "2026-10-26T10:15",
+          "time": "10:15 AM",
+          "hour": 10.25,
+          "temp": 29,
+          "feels": 27,
+          "humidity": 32,
           "label": "Clear sky",
           "icon": "☀️"
         },
@@ -799,11 +799,11 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-10-26T06:15",
-            "time": "6:15 AM",
-            "temp": 21,
-            "feels": 19,
-            "humidity": 49,
+            "iso": "2026-10-26T10:15",
+            "time": "10:15 AM",
+            "temp": 29,
+            "feels": 27,
+            "humidity": 32,
             "label": "Clear sky",
             "icon": "☀️"
           }
