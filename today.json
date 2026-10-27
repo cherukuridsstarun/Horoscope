@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 27 October 2026",
   "date_key": "2026-10-27",
-  "fetched_ist": "27 Oct 2026, 12:25 PM IST",
+  "fetched_ist": "27 Oct 2026, 06:41 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 27, 2026",
       "text": "Extra time and attention that you have been devoting to your career should pay off about now. You've worked hard to be where you are, and you aren't through climbing the ladder of success just yet. You aren't likely to rest on your laurels. Today you might spend a lot of time planning your next goal. A little ingenuity will definitely pay off here, Taurus. Use whatever advantages you have."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 27, 2026",
       "text": "The Moon takes its final steps through your sign today, sweet Taurus, aligning with Mercury RX, Jupiter, and the nodes of fate. Offer help or comfort within reason, and set boundaries so you have energy left for your own agenda. If you can't get away from people who need a shoulder to cry on, have them assist with projects you are currently working on once Luna enters Gemini this evening. Peaceful vibes surround you when Neptune and Pluto activate tonight, fighting the solace you crave after an emotionally demanding day."
@@ -95,7 +95,7 @@
         },
         {
           "text": "Now is a good time for you to earn good karma for yourself. Build up your cosmic bank account. In short, do something nice for someone else. Offer a free service to someone. Then you will cash in big rewards in the future. Give and you shall receive.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -151,7 +151,7 @@
         },
         {
           "text": "It's never too late to go in the direction you want to. Today's planetary alignment lights up the path not taken, and even a steadfast person can be inspired to turn and make its way to a new opportunity. Indeed, your inner voice will tell you something under this transit and it is in your best interest to listen. Calming, relaxing exercise will help you. Yoga, Pilates, stretching, lifting weights – do whatever you find grounds you. Hot baths are also recommended.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -240,8 +240,8 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 12923,
-        "k24": 14108,
+        "k22": 12955,
+        "k24": 14143,
         "change22": null,
         "date": "27 October 2026",
         "url": "https://ibjarates.com/"
@@ -332,17 +332,17 @@
     "hc_general": {
       "text": "Extra time and attention that you have been devoting to your career should pay off about now. You've worked hard to be where you are, and you aren't through climbing the ladder of success just yet. You aren't likely to rest on your laurels. Today you might spend a lot of time planning your next goal. A little ingenuity will definitely pay off here, Taurus. Use whatever advantages you have.",
       "date": "Oct 27, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Now is a good time for you to earn good karma for yourself. Build up your cosmic bank account. In short, do something nice for someone else. Offer a free service to someone. Then you will cash in big rewards in the future. Give and you shall receive.",
       "date": "Oct 27, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "It's never too late to go in the direction you want to. Today's planetary alignment lights up the path not taken, and even a steadfast person can be inspired to turn and make its way to a new opportunity. Indeed, your inner voice will tell you something under this transit and it is in your best interest to listen. Calming, relaxing exercise will help you. Yoga, Pilates, stretching, lifting weights – do whatever you find grounds you. Hot baths are also recommended.",
       "date": "Oct 27, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You have energy directed toward groups, politics, and self-employment. You have all the friends and contacts you need to begin a new venture, whether product, service, or project at your current job. You will also meet new people who can help you get where you want to be financially. At the same time, you're augmenting and transforming your union with other people. You have all the tools you need to get ahead.",
@@ -350,7 +350,7 @@
     },
     "ac": {
       "text": "The Moon takes its final steps through your sign today, sweet Taurus, aligning with Mercury RX, Jupiter, and the nodes of fate. Though you'll be eager to focus on personal goals and interests, loved ones could derail your plans by dumping their troubles in your lap. Offer help or comfort within reason, and set boundaries so you have energy left for your own agenda. If you can't get away from people who need a shoulder to cry on, have them assist with projects you are currently working on once Luna enters Gemini this evening. Peaceful vibes surround you when Neptune and Pluto activate tonight, fighting the solace you crave after an emotionally demanding day.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -404,18 +404,18 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-27T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
-        "temp": 30,
-        "feels": 29,
-        "humidity": 37,
+        "iso": "2026-10-27T18:30",
+        "time": "6:30 PM",
+        "hour": 18.5,
+        "temp": 27,
+        "feels": 27,
+        "humidity": 48,
         "label": "Cloudy",
         "icon": "☁️"
       },
       "high": 30,
       "low": 22,
-      "rain": 18,
+      "rain": 4,
       "uv": 7.05,
       "periods": [
         {
@@ -443,7 +443,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 27,
-          "rain": 8
+          "rain": 0
         },
         {
           "name": "Night",
@@ -451,8 +451,8 @@
           "to": 30,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 25,
-          "rain": 18
+          "temp": 24,
+          "rain": 16
         }
       ],
       "log": {
@@ -471,6 +471,15 @@
           "temp": 30,
           "feels": 29,
           "humidity": 37,
+          "label": "Cloudy",
+          "icon": "☁️"
+        },
+        "Evening": {
+          "iso": "2026-10-27T18:30",
+          "time": "6:30 PM",
+          "temp": 27,
+          "feels": 27,
+          "humidity": 48,
           "label": "Cloudy",
           "icon": "☁️"
         }
@@ -494,6 +503,15 @@
         "humidity": 37,
         "label": "Cloudy",
         "icon": "☁️"
+      },
+      "Evening": {
+        "iso": "2026-10-27T18:30",
+        "time": "6:30 PM",
+        "temp": 27,
+        "feels": 27,
+        "humidity": 48,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "wx_office": {
@@ -503,19 +521,19 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-10-27T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
-        "temp": 30,
-        "feels": 29,
-        "humidity": 34,
+        "iso": "2026-10-27T18:30",
+        "time": "6:30 PM",
+        "hour": 18.5,
+        "temp": 27,
+        "feels": 26,
+        "humidity": 47,
         "label": "Cloudy",
         "icon": "☁️"
       },
       "high": 30,
       "low": 21,
-      "rain": 18,
-      "uv": 6.85,
+      "rain": 4,
+      "uv": 6.8,
       "periods": [
         {
           "name": "Morning",
@@ -541,8 +559,8 @@
           "to": 21,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 27,
-          "rain": 8
+          "temp": 26,
+          "rain": 0
         },
         {
           "name": "Night",
@@ -551,7 +569,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 24,
-          "rain": 18
+          "rain": 16
         }
       ],
       "log": {
@@ -570,6 +588,15 @@
           "temp": 30,
           "feels": 29,
           "humidity": 34,
+          "label": "Cloudy",
+          "icon": "☁️"
+        },
+        "Evening": {
+          "iso": "2026-10-27T18:30",
+          "time": "6:30 PM",
+          "temp": 27,
+          "feels": 26,
+          "humidity": 47,
           "label": "Cloudy",
           "icon": "☁️"
         }
@@ -591,6 +618,15 @@
         "temp": 30,
         "feels": 29,
         "humidity": 34,
+        "label": "Cloudy",
+        "icon": "☁️"
+      },
+      "Evening": {
+        "iso": "2026-10-27T18:30",
+        "time": "6:30 PM",
+        "temp": 27,
+        "feels": 26,
+        "humidity": 47,
         "label": "Cloudy",
         "icon": "☁️"
       }
@@ -618,8 +654,8 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 12923,
-          "k24": 14108,
+          "k22": 12955,
+          "k24": 14143,
           "change22": null,
           "date": "27 October 2026",
           "url": "https://ibjarates.com/"
@@ -717,18 +753,18 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-27T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
-          "temp": 30,
-          "feels": 29,
-          "humidity": 37,
+          "iso": "2026-10-27T18:30",
+          "time": "6:30 PM",
+          "hour": 18.5,
+          "temp": 27,
+          "feels": 27,
+          "humidity": 48,
           "label": "Cloudy",
           "icon": "☁️"
         },
         "high": 30,
         "low": 22,
-        "rain": 18,
+        "rain": 4,
         "uv": 7.05,
         "periods": [
           {
@@ -756,7 +792,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 27,
-            "rain": 8
+            "rain": 0
           },
           {
             "name": "Night",
@@ -764,8 +800,8 @@
             "to": 30,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 25,
-            "rain": 18
+            "temp": 24,
+            "rain": 16
           }
         ],
         "log": {
@@ -786,6 +822,15 @@
             "humidity": 37,
             "label": "Cloudy",
             "icon": "☁️"
+          },
+          "Evening": {
+            "iso": "2026-10-27T18:30",
+            "time": "6:30 PM",
+            "temp": 27,
+            "feels": 27,
+            "humidity": 48,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       },
@@ -796,19 +841,19 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-10-27T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
-          "temp": 30,
-          "feels": 29,
-          "humidity": 34,
+          "iso": "2026-10-27T18:30",
+          "time": "6:30 PM",
+          "hour": 18.5,
+          "temp": 27,
+          "feels": 26,
+          "humidity": 47,
           "label": "Cloudy",
           "icon": "☁️"
         },
         "high": 30,
         "low": 21,
-        "rain": 18,
-        "uv": 6.85,
+        "rain": 4,
+        "uv": 6.8,
         "periods": [
           {
             "name": "Morning",
@@ -834,8 +879,8 @@
             "to": 21,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 27,
-            "rain": 8
+            "temp": 26,
+            "rain": 0
           },
           {
             "name": "Night",
@@ -844,7 +889,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 24,
-            "rain": 18
+            "rain": 16
           }
         ],
         "log": {
@@ -863,6 +908,15 @@
             "temp": 30,
             "feels": 29,
             "humidity": 34,
+            "label": "Cloudy",
+            "icon": "☁️"
+          },
+          "Evening": {
+            "iso": "2026-10-27T18:30",
+            "time": "6:30 PM",
+            "temp": 27,
+            "feels": 26,
+            "humidity": 47,
             "label": "Cloudy",
             "icon": "☁️"
           }
