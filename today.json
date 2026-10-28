@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 28 October 2026",
   "date_key": "2026-10-28",
-  "fetched_ist": "28 Oct 2026, 11:17 AM IST",
+  "fetched_ist": "28 Oct 2026, 01:07 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 28, 2026",
       "text": "The security wraps itself around you like a blanket as you consider the events leading up to this new sense of commitment. Mark this day in your memory so you can recall it whenever your insecurities get the better of you."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 28, 2026",
       "text": "You might be overdue for a serious rest or intensive self-care day, dearest Taurus. Be mindful of how stress impacts the body and mind while Venus Rx and Chiron face off. If you don't make wellness part of your routine, your health may begin to deteriorate. The idea of moving away from systems you're used to could become overwhelming if you demand too much from yourself at once. Meanwhile, Gemini Moon aligns with Uranus, Saturn, and Mars, urging you to embrace incremental changes instead of dramatic lifestyle shifts. Take a holistic approach to navigating this journey, looking for ways to synchronize your emotional, physical, and mental bodies."
@@ -86,7 +86,7 @@
         },
         {
           "text": "The buzzing of gossip and useless information is creating a difficult barrier around you. You cannot see the truth clearly, and others are not able to see you clearly either. Being aware of this strange shield will help you break out of it.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -134,7 +134,7 @@
         },
         {
           "text": "Water is the order of the day. Given the present celestial atmosphere, you may be prone to urinary tract infections, or something related, if you haven't been drinking enough water. It is vital that your kidneys, the organs that cleanse your system, get plenty of this purifying substance flushing through them at this time. All the discipline you ought to have around your renal health is important to consider.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -227,10 +227,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 12955,
-        "k24": 14143,
+        "k22": 13035,
+        "k24": 14230,
         "change22": null,
-        "date": "27 October 2026",
+        "date": "28 October 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -319,17 +319,17 @@
     "hc_general": {
       "text": "A love relationship seems more stable than usual today, Taurus. The security wraps itself around you like a blanket as you consider the events leading up to this new sense of commitment. You and your partner may spend the evening doing nothing more than being together, which feels great! Mark this day in your memory so you can recall it whenever your insecurities get the better of you.",
       "date": "Oct 28, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "The buzzing of gossip and useless information is creating a difficult barrier around you. You cannot see the truth clearly, and others are not able to see you clearly either. Being aware of this strange shield will help you break out of it.",
       "date": "Oct 28, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Water is the order of the day. Given the present celestial atmosphere, you may be prone to urinary tract infections, or something related, if you haven't been drinking enough water. It is vital that your kidneys, the organs that cleanse your system, get plenty of this purifying substance flushing through them at this time. All the discipline you ought to have around your renal health is important to consider.",
       "date": "Oct 28, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You have energy directed toward groups, politics, and self-employment. You have all the friends and contacts you need to begin a new venture, whether product, service, or project at your current job. You will also meet new people who can help you get where you want to be financially. At the same time, you're augmenting and transforming your union with other people. You have all the tools you need to get ahead.",
@@ -337,7 +337,7 @@
     },
     "ac": {
       "text": "You might be overdue for a serious rest or intensive self-care day, dearest Taurus. Be mindful of how stress impacts the body and mind while Venus Rx and Chiron face off. If you don't make wellness part of your routine, your health may begin to deteriorate. The idea of moving away from systems you're used to could become overwhelming if you demand too much from yourself at once. Meanwhile, Gemini Moon aligns with Uranus, Saturn, and Mars, urging you to embrace incremental changes instead of dramatic lifestyle shifts. Take a holistic approach to navigating this journey, looking for ways to synchronize your emotional, physical, and mental bodies.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -391,12 +391,12 @@
       "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-10-28T11:15",
-        "time": "11:15 AM",
-        "hour": 11.25,
-        "temp": 26,
-        "feels": 26,
-        "humidity": 65,
+        "iso": "2026-10-28T13:00",
+        "time": "1:00 PM",
+        "hour": 13.0,
+        "temp": 27,
+        "feels": 28,
+        "humidity": 62,
         "label": "Cloudy",
         "icon": "☁️"
       },
@@ -409,8 +409,8 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "🌦️",
-          "label": "Light drizzle",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 25,
           "rain": 25
         },
@@ -420,7 +420,7 @@
           "to": 17,
           "icon": "🌦️",
           "label": "Light drizzle",
-          "temp": 26,
+          "temp": 27,
           "rain": 55
         },
         {
@@ -438,7 +438,7 @@
           "to": 30,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 23,
+          "temp": 24,
           "rain": 4
         }
       ],
@@ -449,6 +449,15 @@
           "temp": 26,
           "feels": 26,
           "humidity": 65,
+          "label": "Cloudy",
+          "icon": "☁️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-28T13:00",
+          "time": "1:00 PM",
+          "temp": 27,
+          "feels": 28,
+          "humidity": 62,
           "label": "Cloudy",
           "icon": "☁️"
         }
@@ -463,6 +472,15 @@
         "humidity": 65,
         "label": "Cloudy",
         "icon": "☁️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-28T13:00",
+        "time": "1:00 PM",
+        "temp": 27,
+        "feels": 28,
+        "humidity": 62,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "wx_office": {
@@ -472,12 +490,12 @@
       "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-10-28T11:15",
-        "time": "11:15 AM",
-        "hour": 11.25,
-        "temp": 26,
-        "feels": 26,
-        "humidity": 63,
+        "iso": "2026-10-28T13:00",
+        "time": "1:00 PM",
+        "hour": 13.0,
+        "temp": 27,
+        "feels": 28,
+        "humidity": 60,
         "label": "Cloudy",
         "icon": "☁️"
       },
@@ -490,8 +508,8 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "🌦️",
-          "label": "Light drizzle",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 24,
           "rain": 25
         },
@@ -532,6 +550,15 @@
           "humidity": 63,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-28T13:00",
+          "time": "1:00 PM",
+          "temp": 27,
+          "feels": 28,
+          "humidity": 60,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -542,6 +569,15 @@
         "temp": 26,
         "feels": 26,
         "humidity": 63,
+        "label": "Cloudy",
+        "icon": "☁️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-28T13:00",
+        "time": "1:00 PM",
+        "temp": 27,
+        "feels": 28,
+        "humidity": 60,
         "label": "Cloudy",
         "icon": "☁️"
       }
@@ -569,10 +605,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 12955,
-          "k24": 14143,
+          "k22": 13035,
+          "k24": 14230,
           "change22": null,
-          "date": "27 October 2026",
+          "date": "28 October 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -668,12 +704,12 @@
         "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-10-28T11:15",
-          "time": "11:15 AM",
-          "hour": 11.25,
-          "temp": 26,
-          "feels": 26,
-          "humidity": 65,
+          "iso": "2026-10-28T13:00",
+          "time": "1:00 PM",
+          "hour": 13.0,
+          "temp": 27,
+          "feels": 28,
+          "humidity": 62,
           "label": "Cloudy",
           "icon": "☁️"
         },
@@ -686,8 +722,8 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "🌦️",
-            "label": "Light drizzle",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 25,
             "rain": 25
           },
@@ -697,7 +733,7 @@
             "to": 17,
             "icon": "🌦️",
             "label": "Light drizzle",
-            "temp": 26,
+            "temp": 27,
             "rain": 55
           },
           {
@@ -715,7 +751,7 @@
             "to": 30,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 23,
+            "temp": 24,
             "rain": 4
           }
         ],
@@ -728,6 +764,15 @@
             "humidity": 65,
             "label": "Cloudy",
             "icon": "☁️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-28T13:00",
+            "time": "1:00 PM",
+            "temp": 27,
+            "feels": 28,
+            "humidity": 62,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       },
@@ -738,12 +783,12 @@
         "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-10-28T11:15",
-          "time": "11:15 AM",
-          "hour": 11.25,
-          "temp": 26,
-          "feels": 26,
-          "humidity": 63,
+          "iso": "2026-10-28T13:00",
+          "time": "1:00 PM",
+          "hour": 13.0,
+          "temp": 27,
+          "feels": 28,
+          "humidity": 60,
           "label": "Cloudy",
           "icon": "☁️"
         },
@@ -756,8 +801,8 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "🌦️",
-            "label": "Light drizzle",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 24,
             "rain": 25
           },
@@ -796,6 +841,15 @@
             "temp": 26,
             "feels": 26,
             "humidity": 63,
+            "label": "Cloudy",
+            "icon": "☁️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-28T13:00",
+            "time": "1:00 PM",
+            "temp": 27,
+            "feels": 28,
+            "humidity": 60,
             "label": "Cloudy",
             "icon": "☁️"
           }
