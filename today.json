@@ -2,14 +2,14 @@
   "sign": "Taurus",
   "date_ist": "Friday, 30 October 2026",
   "date_key": "2026-10-30",
-  "fetched_ist": "30 Oct 2026, 12:21 AM IST",
+  "fetched_ist": "30 Oct 2026, 02:17 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "29-10-2026",
-      "text": null
+      "ok": true,
+      "source_date": "30-10-2026",
+      "text": "This is one of those days when not goes well, warns Ganesha. No matter how hard you try you may not be able to keep problems and difficulties at bay. You may not be pleased or comfortable doing what has been assigned, or required, and could simply sit sullenly, doing nothing. Do not, therefore, take up anything difficult or complex. Stick to simple and easy things. Knowing that this day will pass, you should try to remain positive and optimistic."
     },
     {
       "name": "Horoscope.com",
@@ -36,6 +36,14 @@
   "glance": {
     "good": [
       {
+        "t": "You may not be pleased or comfortable doing what has been assigned, or required, and could simply sit sullenly, doing nothing.",
+        "src": "GaneshaSpeaks"
+      },
+      {
+        "t": "Stick to simple and easy things.",
+        "src": "GaneshaSpeaks"
+      },
+      {
         "t": "For the last three weeks you've gone through a serious mental process that has helped you define what you stand for and believe in.",
         "src": "Horoscope.com"
       },
@@ -48,8 +56,21 @@
         "src": "AstroSage"
       }
     ],
-    "heads": [],
+    "heads": [
+      {
+        "t": "No matter how hard you try you may not be able to keep problems and difficulties at bay.",
+        "src": "GaneshaSpeaks"
+      }
+    ],
     "todo": [
+      {
+        "t": "Do not, therefore, take up anything difficult or complex.",
+        "src": "GaneshaSpeaks"
+      },
+      {
+        "t": "Knowing that this day will pass, you should try to remain positive and optimistic.",
+        "src": "GaneshaSpeaks"
+      },
       {
         "t": "Take time to beautify your world and the work you produce, dearest Taurus, as Venus rx aligns with the nodes of fate.",
         "src": "Astrology.com"
@@ -59,6 +80,11 @@
   "topics": {
     "career": {
       "readings": [
+        {
+          "text": "Your gift of the gab will come handy today in all verbal communications related to work, whether it’s a meeting or any informal discussion. The practical view will be helpful in solving complex problems whereas emotional opinions will catch the attention of your superior to explore new opportunities.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "Overall, the day will go smoothly, and you will receive tremendous emotional support for the work that you are doing. Others are able to sympathize with what you are going through - for better or for worse - and this is making your job much easier.",
           "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
@@ -78,6 +104,11 @@
     },
     "money": {
       "readings": [
+        {
+          "text": "You may feel confused about your financial future and may start speculating over various aspects related to your income. However, the day will also require other types of action on your part.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "You have energy directed toward groups, politics, and self-employment. You have all the friends and contacts you need to begin a new venture, whether product, service, or project at your current job. You will also meet new people who can help you get where you want to be financially. At the same time, you're augmenting and transforming your union with other people. You have all the tools you need to get ahead.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
@@ -101,6 +132,11 @@
     },
     "health": {
       "readings": [
+        {
+          "text": "The day will be pretty productive for you. You will try increasing your efficiency. Health wise too you won’t face any problem today. However, you should avoid too much verbal communication with others as it could make you feel tired.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "Today's transit gives you the chutzpa you need to get what you deserve! If you're carrying around the feeling that you don't have what you want in your life, today is the day to say something to someone who can give it to you, or talk to yourself about what you can do to get it. You may be considering a move of some kind. It can't hurt to do a little research on what it would take to make that happen in a desirable time frame.",
           "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
@@ -175,7 +211,7 @@
         "k24": 14395,
         "k22": 13195,
         "change22": 0,
-        "date": "29 October 2026",
+        "date": "30 October 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
       {
@@ -254,14 +290,30 @@
     "ganesha": {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "29-10-2026",
-      "text": null,
+      "ok": true,
+      "source_date": "30-10-2026",
+      "text": "This is one of those days when not goes well, warns Ganesha. No matter how hard you try you may not be able to keep problems and difficulties at bay. You may not be pleased or comfortable doing what has been assigned, or required, and could simply sit sullenly, doing nothing. Do not, therefore, take up anything difficult or complex. Stick to simple and easy things. Knowing that this day will pass, you should try to remain positive and optimistic.",
       "lucky": {
         "number": "8",
         "color": "Deep Pastel Pink"
       },
-      "areas": {}
+      "areas": {
+        "health": {
+          "text": "The day will be pretty productive for you. You will try increasing your efficiency. Health wise too you won’t face any problem today. However, you should avoid too much verbal communication with others as it could make you feel tired.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "money": {
+          "text": "You may feel confused about your financial future and may start speculating over various aspects related to your income. However, the day will also require other types of action on your part.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "career": {
+          "text": "Your gift of the gab will come handy today in all verbal communications related to work, whether it’s a meeting or any informal discussion. The practical view will be helpful in solving complex problems whereas emotional opinions will catch the attention of your superior to explore new opportunities.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        }
+      }
     },
     "hc_general": {
       "text": "It's time to take your communication to the next level, Taurus. Expand outward and upward. For the last three weeks you've gone through a serious mental process that has helped you define what you stand for and believe in. Now you're in a phase that urges you to put these ideas into motion. The expansive quality of the day is profound, so take advantage of it and get moving.",
@@ -331,9 +383,127 @@
         }
       ]
     },
-    "wx_home": null,
+    "wx_home": {
+      "key": "home",
+      "name": "Home",
+      "area": "",
+      "label": "Drizzle",
+      "icon": "🌦️",
+      "now": {
+        "iso": "2026-10-30T02:15",
+        "time": "2:15 AM",
+        "hour": 2.25,
+        "temp": 23,
+        "feels": 27,
+        "humidity": 87,
+        "label": "Light drizzle",
+        "icon": "🌦️"
+      },
+      "high": 31,
+      "low": 23,
+      "rain": 93,
+      "uv": 7.5,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 26,
+          "rain": 18
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌦️",
+          "label": "Drizzle",
+          "temp": 30,
+          "rain": 93
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 27,
+          "rain": 90
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌦️",
+          "label": "Drizzle",
+          "temp": 23,
+          "rain": 14
+        }
+      ],
+      "log": {}
+    },
     "wxlog_home": {},
-    "wx_office": null,
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Drizzle",
+      "icon": "🌦️",
+      "now": {
+        "iso": "2026-10-30T02:15",
+        "time": "2:15 AM",
+        "hour": 2.25,
+        "temp": 23,
+        "feels": 27,
+        "humidity": 87,
+        "label": "Light drizzle",
+        "icon": "🌦️"
+      },
+      "high": 31,
+      "low": 22,
+      "rain": 93,
+      "uv": 7.5,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 27,
+          "rain": 18
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 30,
+          "rain": 93
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 27,
+          "rain": 90
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌦️",
+          "label": "Drizzle",
+          "temp": 23,
+          "rain": 14
+        }
+      ],
+      "log": {}
+    },
     "wxlog_office": {},
     "gold": {
       "rows": {
@@ -343,7 +513,7 @@
           "k24": 14395,
           "k22": 13195,
           "change22": 0,
-          "date": "29 October 2026",
+          "date": "30 October 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
         "PolicyBazaar": {
@@ -447,5 +617,129 @@
       "days": 8
     }
   },
-  "weather": null
+  "weather": {
+    "date": "2026-10-30",
+    "places": [
+      {
+        "key": "home",
+        "name": "Home",
+        "area": "",
+        "label": "Drizzle",
+        "icon": "🌦️",
+        "now": {
+          "iso": "2026-10-30T02:15",
+          "time": "2:15 AM",
+          "hour": 2.25,
+          "temp": 23,
+          "feels": 27,
+          "humidity": 87,
+          "label": "Light drizzle",
+          "icon": "🌦️"
+        },
+        "high": 31,
+        "low": 23,
+        "rain": 93,
+        "uv": 7.5,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 26,
+            "rain": 18
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌦️",
+            "label": "Drizzle",
+            "temp": 30,
+            "rain": 93
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 27,
+            "rain": 90
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌦️",
+            "label": "Drizzle",
+            "temp": 23,
+            "rain": 14
+          }
+        ],
+        "log": {}
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
+        "label": "Drizzle",
+        "icon": "🌦️",
+        "now": {
+          "iso": "2026-10-30T02:15",
+          "time": "2:15 AM",
+          "hour": 2.25,
+          "temp": 23,
+          "feels": 27,
+          "humidity": 87,
+          "label": "Light drizzle",
+          "icon": "🌦️"
+        },
+        "high": 31,
+        "low": 22,
+        "rain": 93,
+        "uv": 7.5,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 27,
+            "rain": 18
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 30,
+            "rain": 93
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 27,
+            "rain": 90
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌦️",
+            "label": "Drizzle",
+            "temp": 23,
+            "rain": 14
+          }
+        ],
+        "log": {}
+      }
+    ]
+  }
 }
