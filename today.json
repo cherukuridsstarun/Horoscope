@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 30 October 2026",
   "date_key": "2026-10-30",
-  "fetched_ist": "30 Oct 2026, 07:36 PM IST",
+  "fetched_ist": "30 Oct 2026, 11:58 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -390,18 +390,18 @@
       "label": "Heavy drizzle",
       "icon": "🌧️",
       "now": {
-        "iso": "2026-10-30T19:30",
-        "time": "7:30 PM",
-        "hour": 19.5,
-        "temp": 25,
-        "feels": 29,
-        "humidity": 79,
+        "iso": "2026-10-30T23:45",
+        "time": "11:45 PM",
+        "hour": 23.75,
+        "temp": 22,
+        "feels": 26,
+        "humidity": 91,
         "label": "Mostly clear",
         "icon": "🌙"
       },
       "high": 31,
       "low": 22,
-      "rain": 90,
+      "rain": 96,
       "uv": 7.4,
       "periods": [
         {
@@ -420,7 +420,7 @@
           "icon": "🌧️",
           "label": "Heavy drizzle",
           "temp": 30,
-          "rain": 89
+          "rain": 96
         },
         {
           "name": "Evening",
@@ -438,7 +438,7 @@
           "icon": "🌦️",
           "label": "Light showers",
           "temp": 22,
-          "rain": 53
+          "rain": 66
         }
       ],
       "log": {
@@ -466,6 +466,15 @@
           "temp": 25,
           "feels": 29,
           "humidity": 79,
+          "label": "Mostly clear",
+          "icon": "🌙"
+        },
+        "Night": {
+          "iso": "2026-10-30T23:45",
+          "time": "11:45 PM",
+          "temp": 22,
+          "feels": 26,
+          "humidity": 91,
           "label": "Mostly clear",
           "icon": "🌙"
         }
@@ -498,6 +507,15 @@
         "humidity": 79,
         "label": "Mostly clear",
         "icon": "🌙"
+      },
+      "Night": {
+        "iso": "2026-10-30T23:45",
+        "time": "11:45 PM",
+        "temp": 22,
+        "feels": 26,
+        "humidity": 91,
+        "label": "Mostly clear",
+        "icon": "🌙"
       }
     },
     "wx_office": {
@@ -507,18 +525,18 @@
       "label": "Heavy drizzle",
       "icon": "🌧️",
       "now": {
-        "iso": "2026-10-30T19:30",
-        "time": "7:30 PM",
-        "hour": 19.5,
-        "temp": 25,
-        "feels": 30,
-        "humidity": 89,
-        "label": "Heavy drizzle",
-        "icon": "🌧️"
+        "iso": "2026-10-30T23:45",
+        "time": "11:45 PM",
+        "hour": 23.75,
+        "temp": 23,
+        "feels": 26,
+        "humidity": 85,
+        "label": "Clear sky",
+        "icon": "🌙"
       },
       "high": 30,
       "low": 22,
-      "rain": 90,
+      "rain": 96,
       "uv": 7.5,
       "periods": [
         {
@@ -537,7 +555,7 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 30,
-          "rain": 89
+          "rain": 96
         },
         {
           "name": "Evening",
@@ -555,7 +573,7 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 23,
-          "rain": 53
+          "rain": 66
         }
       ],
       "log": {
@@ -585,6 +603,15 @@
           "humidity": 89,
           "label": "Heavy drizzle",
           "icon": "🌧️"
+        },
+        "Night": {
+          "iso": "2026-10-30T23:45",
+          "time": "11:45 PM",
+          "temp": 23,
+          "feels": 26,
+          "humidity": 85,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -615,6 +642,15 @@
         "humidity": 89,
         "label": "Heavy drizzle",
         "icon": "🌧️"
+      },
+      "Night": {
+        "iso": "2026-10-30T23:45",
+        "time": "11:45 PM",
+        "temp": 23,
+        "feels": 26,
+        "humidity": 85,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "gold": {
@@ -739,18 +775,18 @@
         "label": "Heavy drizzle",
         "icon": "🌧️",
         "now": {
-          "iso": "2026-10-30T19:30",
-          "time": "7:30 PM",
-          "hour": 19.5,
-          "temp": 25,
-          "feels": 29,
-          "humidity": 79,
+          "iso": "2026-10-30T23:45",
+          "time": "11:45 PM",
+          "hour": 23.75,
+          "temp": 22,
+          "feels": 26,
+          "humidity": 91,
           "label": "Mostly clear",
           "icon": "🌙"
         },
         "high": 31,
         "low": 22,
-        "rain": 90,
+        "rain": 96,
         "uv": 7.4,
         "periods": [
           {
@@ -769,7 +805,7 @@
             "icon": "🌧️",
             "label": "Heavy drizzle",
             "temp": 30,
-            "rain": 89
+            "rain": 96
           },
           {
             "name": "Evening",
@@ -787,7 +823,7 @@
             "icon": "🌦️",
             "label": "Light showers",
             "temp": 22,
-            "rain": 53
+            "rain": 66
           }
         ],
         "log": {
@@ -817,6 +853,15 @@
             "humidity": 79,
             "label": "Mostly clear",
             "icon": "🌙"
+          },
+          "Night": {
+            "iso": "2026-10-30T23:45",
+            "time": "11:45 PM",
+            "temp": 22,
+            "feels": 26,
+            "humidity": 91,
+            "label": "Mostly clear",
+            "icon": "🌙"
           }
         }
       },
@@ -827,18 +872,18 @@
         "label": "Heavy drizzle",
         "icon": "🌧️",
         "now": {
-          "iso": "2026-10-30T19:30",
-          "time": "7:30 PM",
-          "hour": 19.5,
-          "temp": 25,
-          "feels": 30,
-          "humidity": 89,
-          "label": "Heavy drizzle",
-          "icon": "🌧️"
+          "iso": "2026-10-30T23:45",
+          "time": "11:45 PM",
+          "hour": 23.75,
+          "temp": 23,
+          "feels": 26,
+          "humidity": 85,
+          "label": "Clear sky",
+          "icon": "🌙"
         },
         "high": 30,
         "low": 22,
-        "rain": 90,
+        "rain": 96,
         "uv": 7.5,
         "periods": [
           {
@@ -857,7 +902,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 30,
-            "rain": 89
+            "rain": 96
           },
           {
             "name": "Evening",
@@ -875,7 +920,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 23,
-            "rain": 53
+            "rain": 66
           }
         ],
         "log": {
@@ -905,6 +950,15 @@
             "humidity": 89,
             "label": "Heavy drizzle",
             "icon": "🌧️"
+          },
+          "Night": {
+            "iso": "2026-10-30T23:45",
+            "time": "11:45 PM",
+            "temp": 23,
+            "feels": 26,
+            "humidity": 85,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       }
