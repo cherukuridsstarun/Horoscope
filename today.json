@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 30 October 2026",
   "date_key": "2026-10-30",
-  "fetched_ist": "30 Oct 2026, 11:24 AM IST",
+  "fetched_ist": "30 Oct 2026, 01:19 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Oct 30, 2026",
       "text": "It's time to take your communication to the next level, Taurus. Expand outward and upward. For the last three weeks you've gone through a serious mental process that has helped you define what you stand for and believe in. Now you're in a phase that urges you to put these ideas into motion. The expansive quality of the day is profound, so take advantage of it and get moving."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "October 30, 2026",
       "text": "Take time to beautify your world and the work you produce, dearest Taurus, as Venus rx aligns with the nodes of fate. This energy is all about investing in your home, health, and career to reach your highest potential. A sweet aspect between the Scorpio Sun and Cancer Moon harmonizes your mind, making it easier to let down your guard and connect. Just remember: maintain a healthy level of mystery while Luna squares Saturn."
@@ -87,7 +87,7 @@
         },
         {
           "text": "Overall, the day will go smoothly, and you will receive tremendous emotional support for the work that you are doing. Others are able to sympathize with what you are going through - for better or for worse - and this is making your job much easier.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -139,7 +139,7 @@
         },
         {
           "text": "Today's transit gives you the chutzpa you need to get what you deserve! If you're carrying around the feeling that you don't have what you want in your life, today is the day to say something to someone who can give it to you, or talk to yourself about what you can do to get it. You may be considering a move of some kind. It can't hurt to do a little research on what it would take to make that happen in a desirable time frame.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -226,10 +226,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13031,
-        "k24": 14226,
+        "k22": 12906,
+        "k24": 14089,
         "change22": null,
-        "date": "29 October 2026",
+        "date": "30 October 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -318,17 +318,17 @@
     "hc_general": {
       "text": "It's time to take your communication to the next level, Taurus. Expand outward and upward. For the last three weeks you've gone through a serious mental process that has helped you define what you stand for and believe in. Now you're in a phase that urges you to put these ideas into motion. The expansive quality of the day is profound, so take advantage of it and get moving.",
       "date": "Oct 30, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Overall, the day will go smoothly, and you will receive tremendous emotional support for the work that you are doing. Others are able to sympathize with what you are going through - for better or for worse - and this is making your job much easier.",
       "date": "Oct 30, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Today's transit gives you the chutzpa you need to get what you deserve! If you're carrying around the feeling that you don't have what you want in your life, today is the day to say something to someone who can give it to you, or talk to yourself about what you can do to get it. You may be considering a move of some kind. It can't hurt to do a little research on what it would take to make that happen in a desirable time frame.",
       "date": "Oct 30, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You have energy directed toward groups, politics, and self-employment. You have all the friends and contacts you need to begin a new venture, whether product, service, or project at your current job. You will also meet new people who can help you get where you want to be financially. At the same time, you're augmenting and transforming your union with other people. You have all the tools you need to get ahead.",
@@ -336,7 +336,7 @@
     },
     "ac": {
       "text": "Take time to beautify your world and the work you produce, dearest Taurus, as Venus rx aligns with the nodes of fate. This energy is all about investing in your home, health, and career to reach your highest potential. A sweet aspect between the Scorpio Sun and Cancer Moon harmonizes your mind, making it easier to let down your guard and connect. Just remember: maintain a healthy level of mystery while Luna squares Saturn. Try not to repeat past mistakes when Mercury Rx clashes with Mars, especially in family dynamics and matters of the heart.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -390,17 +390,17 @@
       "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-10-30T11:15",
-        "time": "11:15 AM",
-        "hour": 11.25,
+        "iso": "2026-10-30T13:15",
+        "time": "1:15 PM",
+        "hour": 13.25,
         "temp": 30,
         "feels": 34,
-        "humidity": 56,
-        "label": "Cloudy",
-        "icon": "☁️"
+        "humidity": 52,
+        "label": "Light drizzle",
+        "icon": "🌦️"
       },
       "high": 31,
-      "low": 22,
+      "low": 23,
       "rain": 86,
       "uv": 7.45,
       "periods": [
@@ -408,8 +408,8 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 26,
           "rain": 14
         },
@@ -418,8 +418,8 @@
           "from": 12,
           "to": 17,
           "icon": "🌦️",
-          "label": "Light drizzle",
-          "temp": 30,
+          "label": "Drizzle",
+          "temp": 29,
           "rain": 86
         },
         {
@@ -428,7 +428,7 @@
           "to": 21,
           "icon": "🌦️",
           "label": "Light drizzle",
-          "temp": 27,
+          "temp": 26,
           "rain": 84
         },
         {
@@ -436,8 +436,8 @@
           "from": 21,
           "to": 30,
           "icon": "🌦️",
-          "label": "Drizzle",
-          "temp": 22,
+          "label": "Light drizzle",
+          "temp": 23,
           "rain": 54
         }
       ],
@@ -450,6 +450,15 @@
           "humidity": 56,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-30T13:15",
+          "time": "1:15 PM",
+          "temp": 30,
+          "feels": 34,
+          "humidity": 52,
+          "label": "Light drizzle",
+          "icon": "🌦️"
         }
       }
     },
@@ -462,6 +471,15 @@
         "humidity": 56,
         "label": "Cloudy",
         "icon": "☁️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-30T13:15",
+        "time": "1:15 PM",
+        "temp": 30,
+        "feels": 34,
+        "humidity": 52,
+        "label": "Light drizzle",
+        "icon": "🌦️"
       }
     },
     "wx_office": {
@@ -471,11 +489,11 @@
       "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-10-30T11:15",
-        "time": "11:15 AM",
-        "hour": 11.25,
+        "iso": "2026-10-30T13:15",
+        "time": "1:15 PM",
+        "hour": 13.25,
         "temp": 29,
-        "feels": 33,
+        "feels": 32,
         "humidity": 57,
         "label": "Light drizzle",
         "icon": "🌦️"
@@ -489,8 +507,8 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "🌦️",
-          "label": "Light drizzle",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 26,
           "rain": 14
         },
@@ -500,7 +518,7 @@
           "to": 17,
           "icon": "🌦️",
           "label": "Light drizzle",
-          "temp": 30,
+          "temp": 29,
           "rain": 86
         },
         {
@@ -508,8 +526,8 @@
           "from": 17,
           "to": 21,
           "icon": "🌦️",
-          "label": "Drizzle",
-          "temp": 25,
+          "label": "Light drizzle",
+          "temp": 26,
           "rain": 84
         },
         {
@@ -518,7 +536,7 @@
           "to": 30,
           "icon": "🌦️",
           "label": "Drizzle",
-          "temp": 22,
+          "temp": 23,
           "rain": 54
         }
       ],
@@ -531,6 +549,15 @@
           "humidity": 57,
           "label": "Light drizzle",
           "icon": "🌦️"
+        },
+        "Afternoon": {
+          "iso": "2026-10-30T13:15",
+          "time": "1:15 PM",
+          "temp": 29,
+          "feels": 32,
+          "humidity": 57,
+          "label": "Light drizzle",
+          "icon": "🌦️"
         }
       }
     },
@@ -540,6 +567,15 @@
         "time": "11:15 AM",
         "temp": 29,
         "feels": 33,
+        "humidity": 57,
+        "label": "Light drizzle",
+        "icon": "🌦️"
+      },
+      "Afternoon": {
+        "iso": "2026-10-30T13:15",
+        "time": "1:15 PM",
+        "temp": 29,
+        "feels": 32,
         "humidity": 57,
         "label": "Light drizzle",
         "icon": "🌦️"
@@ -568,10 +604,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13031,
-          "k24": 14226,
+          "k22": 12906,
+          "k24": 14089,
           "change22": null,
-          "date": "29 October 2026",
+          "date": "30 October 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -667,17 +703,17 @@
         "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-10-30T11:15",
-          "time": "11:15 AM",
-          "hour": 11.25,
+          "iso": "2026-10-30T13:15",
+          "time": "1:15 PM",
+          "hour": 13.25,
           "temp": 30,
           "feels": 34,
-          "humidity": 56,
-          "label": "Cloudy",
-          "icon": "☁️"
+          "humidity": 52,
+          "label": "Light drizzle",
+          "icon": "🌦️"
         },
         "high": 31,
-        "low": 22,
+        "low": 23,
         "rain": 86,
         "uv": 7.45,
         "periods": [
@@ -685,8 +721,8 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 26,
             "rain": 14
           },
@@ -695,8 +731,8 @@
             "from": 12,
             "to": 17,
             "icon": "🌦️",
-            "label": "Light drizzle",
-            "temp": 30,
+            "label": "Drizzle",
+            "temp": 29,
             "rain": 86
           },
           {
@@ -705,7 +741,7 @@
             "to": 21,
             "icon": "🌦️",
             "label": "Light drizzle",
-            "temp": 27,
+            "temp": 26,
             "rain": 84
           },
           {
@@ -713,8 +749,8 @@
             "from": 21,
             "to": 30,
             "icon": "🌦️",
-            "label": "Drizzle",
-            "temp": 22,
+            "label": "Light drizzle",
+            "temp": 23,
             "rain": 54
           }
         ],
@@ -727,6 +763,15 @@
             "humidity": 56,
             "label": "Cloudy",
             "icon": "☁️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-30T13:15",
+            "time": "1:15 PM",
+            "temp": 30,
+            "feels": 34,
+            "humidity": 52,
+            "label": "Light drizzle",
+            "icon": "🌦️"
           }
         }
       },
@@ -737,11 +782,11 @@
         "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-10-30T11:15",
-          "time": "11:15 AM",
-          "hour": 11.25,
+          "iso": "2026-10-30T13:15",
+          "time": "1:15 PM",
+          "hour": 13.25,
           "temp": 29,
-          "feels": 33,
+          "feels": 32,
           "humidity": 57,
           "label": "Light drizzle",
           "icon": "🌦️"
@@ -755,8 +800,8 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "🌦️",
-            "label": "Light drizzle",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 26,
             "rain": 14
           },
@@ -766,7 +811,7 @@
             "to": 17,
             "icon": "🌦️",
             "label": "Light drizzle",
-            "temp": 30,
+            "temp": 29,
             "rain": 86
           },
           {
@@ -774,8 +819,8 @@
             "from": 17,
             "to": 21,
             "icon": "🌦️",
-            "label": "Drizzle",
-            "temp": 25,
+            "label": "Light drizzle",
+            "temp": 26,
             "rain": 84
           },
           {
@@ -784,7 +829,7 @@
             "to": 30,
             "icon": "🌦️",
             "label": "Drizzle",
-            "temp": 22,
+            "temp": 23,
             "rain": 54
           }
         ],
@@ -794,6 +839,15 @@
             "time": "11:15 AM",
             "temp": 29,
             "feels": 33,
+            "humidity": 57,
+            "label": "Light drizzle",
+            "icon": "🌦️"
+          },
+          "Afternoon": {
+            "iso": "2026-10-30T13:15",
+            "time": "1:15 PM",
+            "temp": 29,
+            "feels": 32,
             "humidity": 57,
             "label": "Light drizzle",
             "icon": "🌦️"
