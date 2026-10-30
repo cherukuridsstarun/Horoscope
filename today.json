@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 30 October 2026",
   "date_key": "2026-10-30",
-  "fetched_ist": "30 Oct 2026, 02:17 AM IST",
+  "fetched_ist": "30 Oct 2026, 07:43 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -208,9 +208,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 14395,
-        "k22": 13195,
-        "change22": 0,
+        "k24": 14394,
+        "k22": 13194,
+        "change22": -1,
         "date": "30 October 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -229,16 +229,11 @@
         "k22": 13031,
         "k24": 14226,
         "change22": null,
-        "date": "30 October 2026",
+        "date": "29 October 2026",
         "url": "https://ibjarates.com/"
       }
     ],
     "trend": [
-      {
-        "date": "Oct 20, 2026",
-        "k22": 13390,
-        "k24": 14608
-      },
       {
         "date": "Oct 21, 2026",
         "k22": 13390,
@@ -283,6 +278,11 @@
         "date": "Oct 29, 2026",
         "k22": 13195,
         "k24": 14395
+      },
+      {
+        "date": "Oct 30, 2026",
+        "k22": 13194,
+        "k24": 14394
       }
     ]
   },
@@ -390,18 +390,99 @@
       "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-10-30T02:15",
-        "time": "2:15 AM",
-        "hour": 2.25,
-        "temp": 23,
+        "iso": "2026-10-30T07:30",
+        "time": "7:30 AM",
+        "hour": 7.5,
+        "temp": 24,
         "feels": 27,
-        "humidity": 87,
-        "label": "Light drizzle",
-        "icon": "🌦️"
+        "humidity": 82,
+        "label": "Mostly clear",
+        "icon": "🌤️"
       },
       "high": 31,
-      "low": 23,
-      "rain": 93,
+      "low": 22,
+      "rain": 82,
+      "uv": 7.45,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 26,
+          "rain": 20
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 30,
+          "rain": 82
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 27,
+          "rain": 80
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌦️",
+          "label": "Drizzle",
+          "temp": 22,
+          "rain": 61
+        }
+      ],
+      "log": {
+        "Morning": {
+          "iso": "2026-10-30T07:30",
+          "time": "7:30 AM",
+          "temp": 24,
+          "feels": 27,
+          "humidity": 82,
+          "label": "Mostly clear",
+          "icon": "🌤️"
+        }
+      }
+    },
+    "wxlog_home": {
+      "Morning": {
+        "iso": "2026-10-30T07:30",
+        "time": "7:30 AM",
+        "temp": 24,
+        "feels": 27,
+        "humidity": 82,
+        "label": "Mostly clear",
+        "icon": "🌤️"
+      }
+    },
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Drizzle",
+      "icon": "🌦️",
+      "now": {
+        "iso": "2026-10-30T07:30",
+        "time": "7:30 AM",
+        "hour": 7.5,
+        "temp": 24,
+        "feels": 27,
+        "humidity": 81,
+        "label": "Mostly clear",
+        "icon": "🌤️"
+      },
+      "high": 31,
+      "low": 22,
+      "rain": 82,
       "uv": 7.5,
       "periods": [
         {
@@ -411,25 +492,25 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 26,
-          "rain": 18
+          "rain": 20
         },
         {
           "name": "Afternoon",
           "from": 12,
           "to": 17,
           "icon": "🌦️",
-          "label": "Drizzle",
+          "label": "Light drizzle",
           "temp": 30,
-          "rain": 93
+          "rain": 82
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
           "icon": "🌦️",
-          "label": "Light drizzle",
-          "temp": 27,
-          "rain": 90
+          "label": "Drizzle",
+          "temp": 25,
+          "rain": 80
         },
         {
           "name": "Night",
@@ -437,82 +518,41 @@
           "to": 30,
           "icon": "🌦️",
           "label": "Drizzle",
-          "temp": 23,
-          "rain": 14
+          "temp": 22,
+          "rain": 61
         }
       ],
-      "log": {}
+      "log": {
+        "Morning": {
+          "iso": "2026-10-30T07:30",
+          "time": "7:30 AM",
+          "temp": 24,
+          "feels": 27,
+          "humidity": 81,
+          "label": "Mostly clear",
+          "icon": "🌤️"
+        }
+      }
     },
-    "wxlog_home": {},
-    "wx_office": {
-      "key": "office",
-      "name": "Office",
-      "area": "",
-      "label": "Drizzle",
-      "icon": "🌦️",
-      "now": {
-        "iso": "2026-10-30T02:15",
-        "time": "2:15 AM",
-        "hour": 2.25,
-        "temp": 23,
+    "wxlog_office": {
+      "Morning": {
+        "iso": "2026-10-30T07:30",
+        "time": "7:30 AM",
+        "temp": 24,
         "feels": 27,
-        "humidity": 87,
-        "label": "Light drizzle",
-        "icon": "🌦️"
-      },
-      "high": 31,
-      "low": 22,
-      "rain": 93,
-      "uv": 7.5,
-      "periods": [
-        {
-          "name": "Morning",
-          "from": 6,
-          "to": 12,
-          "icon": "🌦️",
-          "label": "Light drizzle",
-          "temp": 27,
-          "rain": 18
-        },
-        {
-          "name": "Afternoon",
-          "from": 12,
-          "to": 17,
-          "icon": "🌦️",
-          "label": "Light drizzle",
-          "temp": 30,
-          "rain": 93
-        },
-        {
-          "name": "Evening",
-          "from": 17,
-          "to": 21,
-          "icon": "🌦️",
-          "label": "Light drizzle",
-          "temp": 27,
-          "rain": 90
-        },
-        {
-          "name": "Night",
-          "from": 21,
-          "to": 30,
-          "icon": "🌦️",
-          "label": "Drizzle",
-          "temp": 23,
-          "rain": 14
-        }
-      ],
-      "log": {}
+        "humidity": 81,
+        "label": "Mostly clear",
+        "icon": "🌤️"
+      }
     },
-    "wxlog_office": {},
     "gold": {
       "rows": {
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 14395,
-          "k22": 13195,
-          "change22": 0,
+          "k24": 14394,
+          "k22": 13194,
+          "change22": -1,
           "date": "30 October 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -531,16 +571,11 @@
           "k22": 13031,
           "k24": 14226,
           "change22": null,
-          "date": "30 October 2026",
+          "date": "29 October 2026",
           "url": "https://ibjarates.com/"
         }
       },
       "trend": [
-        {
-          "date": "Oct 20, 2026",
-          "k22": 13390,
-          "k24": 14608
-        },
         {
           "date": "Oct 21, 2026",
           "k22": 13390,
@@ -585,6 +620,11 @@
           "date": "Oct 29, 2026",
           "k22": 13195,
           "k24": 14395
+        },
+        {
+          "date": "Oct 30, 2026",
+          "k22": 13194,
+          "k24": 14394
         }
       ]
     }
@@ -627,18 +667,88 @@
         "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-10-30T02:15",
-          "time": "2:15 AM",
-          "hour": 2.25,
-          "temp": 23,
+          "iso": "2026-10-30T07:30",
+          "time": "7:30 AM",
+          "hour": 7.5,
+          "temp": 24,
           "feels": 27,
-          "humidity": 87,
-          "label": "Light drizzle",
-          "icon": "🌦️"
+          "humidity": 82,
+          "label": "Mostly clear",
+          "icon": "🌤️"
         },
         "high": 31,
-        "low": 23,
-        "rain": 93,
+        "low": 22,
+        "rain": 82,
+        "uv": 7.45,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 26,
+            "rain": 20
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 30,
+            "rain": 82
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 27,
+            "rain": 80
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌦️",
+            "label": "Drizzle",
+            "temp": 22,
+            "rain": 61
+          }
+        ],
+        "log": {
+          "Morning": {
+            "iso": "2026-10-30T07:30",
+            "time": "7:30 AM",
+            "temp": 24,
+            "feels": 27,
+            "humidity": 82,
+            "label": "Mostly clear",
+            "icon": "🌤️"
+          }
+        }
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
+        "label": "Drizzle",
+        "icon": "🌦️",
+        "now": {
+          "iso": "2026-10-30T07:30",
+          "time": "7:30 AM",
+          "hour": 7.5,
+          "temp": 24,
+          "feels": 27,
+          "humidity": 81,
+          "label": "Mostly clear",
+          "icon": "🌤️"
+        },
+        "high": 31,
+        "low": 22,
+        "rain": 82,
         "uv": 7.5,
         "periods": [
           {
@@ -648,67 +758,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 26,
-            "rain": 18
-          },
-          {
-            "name": "Afternoon",
-            "from": 12,
-            "to": 17,
-            "icon": "🌦️",
-            "label": "Drizzle",
-            "temp": 30,
-            "rain": 93
-          },
-          {
-            "name": "Evening",
-            "from": 17,
-            "to": 21,
-            "icon": "🌦️",
-            "label": "Light drizzle",
-            "temp": 27,
-            "rain": 90
-          },
-          {
-            "name": "Night",
-            "from": 21,
-            "to": 30,
-            "icon": "🌦️",
-            "label": "Drizzle",
-            "temp": 23,
-            "rain": 14
-          }
-        ],
-        "log": {}
-      },
-      {
-        "key": "office",
-        "name": "Office",
-        "area": "",
-        "label": "Drizzle",
-        "icon": "🌦️",
-        "now": {
-          "iso": "2026-10-30T02:15",
-          "time": "2:15 AM",
-          "hour": 2.25,
-          "temp": 23,
-          "feels": 27,
-          "humidity": 87,
-          "label": "Light drizzle",
-          "icon": "🌦️"
-        },
-        "high": 31,
-        "low": 22,
-        "rain": 93,
-        "uv": 7.5,
-        "periods": [
-          {
-            "name": "Morning",
-            "from": 6,
-            "to": 12,
-            "icon": "🌦️",
-            "label": "Light drizzle",
-            "temp": 27,
-            "rain": 18
+            "rain": 20
           },
           {
             "name": "Afternoon",
@@ -717,16 +767,16 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 30,
-            "rain": 93
+            "rain": 82
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
             "icon": "🌦️",
-            "label": "Light drizzle",
-            "temp": 27,
-            "rain": 90
+            "label": "Drizzle",
+            "temp": 25,
+            "rain": 80
           },
           {
             "name": "Night",
@@ -734,11 +784,21 @@
             "to": 30,
             "icon": "🌦️",
             "label": "Drizzle",
-            "temp": 23,
-            "rain": 14
+            "temp": 22,
+            "rain": 61
           }
         ],
-        "log": {}
+        "log": {
+          "Morning": {
+            "iso": "2026-10-30T07:30",
+            "time": "7:30 AM",
+            "temp": 24,
+            "feels": 27,
+            "humidity": 81,
+            "label": "Mostly clear",
+            "icon": "🌤️"
+          }
+        }
       }
     ]
   }
