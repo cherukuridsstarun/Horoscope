@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Sunday, 01 November 2026",
   "date_key": "2026-11-01",
-  "fetched_ist": "01 Nov 2026, 11:43 AM IST",
+  "fetched_ist": "01 Nov 2026, 01:47 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 1, 2026",
       "text": "Short visits in your neighborhood could catapult you into some negative situations, Taurus. It's best to stay close to home if you can. An angry letter or call could put you in a shaky mood. This isn't a day to socialize. Days like this are best spent keeping to yourself and throwing your energy into taking care of whatever you're working on."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 1, 2026",
       "text": "Don't be shocked to find your dreams have suddenly come true, dearest Taurus. As outer planets Neptune, Pluto, and Uranus activate, visions that once felt far away could manifest right before your eyes. If you don't see any obvious changes on the horizon, use this energy to make headway on goals that need a little more time to actualize. You'll operate at a higher level when the Leo quarter Moon and Saturn align this afternoon. Solitude and a quiet home amplify these sentiments, so block out distractions. Just try not to hole up for too long, or you may begin to feel isolated when Mercury rx activates tonight."
@@ -99,7 +99,7 @@
         },
         {
           "text": "You cannot fully trust other people's word. People may say one thing now, and promise you the world, but for them to deliver on this promise is another story. The bottom line is that they have their own agenda in mind - not yours. Watch out.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -151,7 +151,7 @@
         },
         {
           "text": "When something is bothering you, but you can't put your finger on what (like today), check in to see if your body is over-extended. Remember that the balancing act you accomplish on a daily basis can be very wearing on your body. You can help keep your balance from fresh juices: and I'm talking about the hard stuff: carrot, apple and ginger is a great mix for cleansing the kidneys (the organs responsible for balancing our bodies). In addition, you may want to stay out of the fray at home or work; if you see an argument or misunderstanding brewing, tell yourself it's not your responsibility to fix it.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -336,17 +336,17 @@
     "hc_general": {
       "text": "Short visits in your neighborhood could catapult you into some negative situations, Taurus. It's best to stay close to home if you can. An angry letter or call could put you in a shaky mood. This isn't a day to socialize. Days like this are best spent keeping to yourself and throwing your energy into taking care of whatever you're working on.",
       "date": "Nov 1, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "You cannot fully trust other people's word. People may say one thing now, and promise you the world, but for them to deliver on this promise is another story. The bottom line is that they have their own agenda in mind - not yours. Watch out.",
       "date": "Nov 1, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "When something is bothering you, but you can't put your finger on what (like today), check in to see if your body is over-extended. Remember that the balancing act you accomplish on a daily basis can be very wearing on your body. You can help keep your balance from fresh juices: and I'm talking about the hard stuff: carrot, apple and ginger is a great mix for cleansing the kidneys (the organs responsible for balancing our bodies). In addition, you may want to stay out of the fray at home or work; if you see an argument or misunderstanding brewing, tell yourself it's not your responsibility to fix it.",
       "date": "Nov 1, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You have energy directed toward groups, politics, and self-employment. You have all the friends and contacts you need to begin a new venture, whether product, service, or project at your current job. You will also meet new people who can help you get where you want to be financially. At the same time, you're augmenting and transforming your union with other people. You have all the tools you need to get ahead.",
@@ -354,7 +354,7 @@
     },
     "ac": {
       "text": "Don't be shocked to find your dreams have suddenly come true, dearest Taurus. As outer planets Neptune, Pluto, and Uranus activate, visions that once felt far away could manifest right before your eyes. If you don't see any obvious changes on the horizon, use this energy to make headway on goals that need a little more time to actualize. You'll operate at a higher level when the Leo quarter Moon and Saturn align this afternoon. Solitude and a quiet home amplify these sentiments, so block out distractions. Just try not to hole up for too long, or you may begin to feel isolated when Mercury rx activates tonight.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -405,19 +405,19 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Drizzle",
+      "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-01T11:30",
-        "time": "11:30 AM",
-        "hour": 11.5,
+        "iso": "2026-11-01T13:45",
+        "time": "1:45 PM",
+        "hour": 13.75,
         "temp": 30,
         "feels": 34,
         "humidity": 57,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "label": "Cloudy",
+        "icon": "☁️"
       },
-      "high": 31,
+      "high": 30,
       "low": 22,
       "rain": 88,
       "uv": 7.4,
@@ -436,7 +436,7 @@
           "from": 12,
           "to": 17,
           "icon": "🌦️",
-          "label": "Drizzle",
+          "label": "Light drizzle",
           "temp": 30,
           "rain": 71
         },
@@ -445,7 +445,7 @@
           "from": 17,
           "to": 21,
           "icon": "🌦️",
-          "label": "Drizzle",
+          "label": "Light drizzle",
           "temp": 25,
           "rain": 88
         },
@@ -455,7 +455,7 @@
           "to": 30,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 23,
+          "temp": 22,
           "rain": 33
         }
       ],
@@ -468,6 +468,15 @@
           "humidity": 57,
           "label": "Partly cloudy",
           "icon": "⛅"
+        },
+        "Afternoon": {
+          "iso": "2026-11-01T13:45",
+          "time": "1:45 PM",
+          "temp": 30,
+          "feels": 34,
+          "humidity": 57,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -480,21 +489,30 @@
         "humidity": 57,
         "label": "Partly cloudy",
         "icon": "⛅"
+      },
+      "Afternoon": {
+        "iso": "2026-11-01T13:45",
+        "time": "1:45 PM",
+        "temp": 30,
+        "feels": 34,
+        "humidity": 57,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Light drizzle",
+      "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-01T11:30",
-        "time": "11:30 AM",
-        "hour": 11.5,
-        "temp": 30,
-        "feels": 34,
-        "humidity": 57,
+        "iso": "2026-11-01T13:45",
+        "time": "1:45 PM",
+        "hour": 13.75,
+        "temp": 31,
+        "feels": 35,
+        "humidity": 52,
         "label": "Cloudy",
         "icon": "☁️"
       },
@@ -517,7 +535,7 @@
           "from": 12,
           "to": 17,
           "icon": "🌦️",
-          "label": "Light drizzle",
+          "label": "Drizzle",
           "temp": 30,
           "rain": 71
         },
@@ -527,7 +545,7 @@
           "to": 21,
           "icon": "🌦️",
           "label": "Light drizzle",
-          "temp": 25,
+          "temp": 26,
           "rain": 88
         },
         {
@@ -549,6 +567,15 @@
           "humidity": 57,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Afternoon": {
+          "iso": "2026-11-01T13:45",
+          "time": "1:45 PM",
+          "temp": 31,
+          "feels": 35,
+          "humidity": 52,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -559,6 +586,15 @@
         "temp": 30,
         "feels": 34,
         "humidity": 57,
+        "label": "Cloudy",
+        "icon": "☁️"
+      },
+      "Afternoon": {
+        "iso": "2026-11-01T13:45",
+        "time": "1:45 PM",
+        "temp": 31,
+        "feels": 35,
+        "humidity": 52,
         "label": "Cloudy",
         "icon": "☁️"
       }
@@ -682,19 +718,19 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Drizzle",
+        "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-01T11:30",
-          "time": "11:30 AM",
-          "hour": 11.5,
+          "iso": "2026-11-01T13:45",
+          "time": "1:45 PM",
+          "hour": 13.75,
           "temp": 30,
           "feels": 34,
           "humidity": 57,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "label": "Cloudy",
+          "icon": "☁️"
         },
-        "high": 31,
+        "high": 30,
         "low": 22,
         "rain": 88,
         "uv": 7.4,
@@ -713,7 +749,7 @@
             "from": 12,
             "to": 17,
             "icon": "🌦️",
-            "label": "Drizzle",
+            "label": "Light drizzle",
             "temp": 30,
             "rain": 71
           },
@@ -722,7 +758,7 @@
             "from": 17,
             "to": 21,
             "icon": "🌦️",
-            "label": "Drizzle",
+            "label": "Light drizzle",
             "temp": 25,
             "rain": 88
           },
@@ -732,7 +768,7 @@
             "to": 30,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 23,
+            "temp": 22,
             "rain": 33
           }
         ],
@@ -745,6 +781,15 @@
             "humidity": 57,
             "label": "Partly cloudy",
             "icon": "⛅"
+          },
+          "Afternoon": {
+            "iso": "2026-11-01T13:45",
+            "time": "1:45 PM",
+            "temp": 30,
+            "feels": 34,
+            "humidity": 57,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       },
@@ -752,15 +797,15 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Light drizzle",
+        "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-01T11:30",
-          "time": "11:30 AM",
-          "hour": 11.5,
-          "temp": 30,
-          "feels": 34,
-          "humidity": 57,
+          "iso": "2026-11-01T13:45",
+          "time": "1:45 PM",
+          "hour": 13.75,
+          "temp": 31,
+          "feels": 35,
+          "humidity": 52,
           "label": "Cloudy",
           "icon": "☁️"
         },
@@ -783,7 +828,7 @@
             "from": 12,
             "to": 17,
             "icon": "🌦️",
-            "label": "Light drizzle",
+            "label": "Drizzle",
             "temp": 30,
             "rain": 71
           },
@@ -793,7 +838,7 @@
             "to": 21,
             "icon": "🌦️",
             "label": "Light drizzle",
-            "temp": 25,
+            "temp": 26,
             "rain": 88
           },
           {
@@ -813,6 +858,15 @@
             "temp": 30,
             "feels": 34,
             "humidity": 57,
+            "label": "Cloudy",
+            "icon": "☁️"
+          },
+          "Afternoon": {
+            "iso": "2026-11-01T13:45",
+            "time": "1:45 PM",
+            "temp": 31,
+            "feels": 35,
+            "humidity": 52,
             "label": "Cloudy",
             "icon": "☁️"
           }
