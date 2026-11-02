@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 03 November 2026",
   "date_key": "2026-11-03",
-  "fetched_ist": "03 Nov 2026, 03:43 AM IST",
+  "fetched_ist": "03 Nov 2026, 04:46 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -219,7 +219,7 @@
         "k22": 12599,
         "k24": 13752,
         "change22": null,
-        "date": "3 November 2026",
+        "date": "2 November 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -380,9 +380,9 @@
       "label": "Thunderstorms",
       "icon": "⛈️",
       "now": {
-        "iso": "2026-11-03T03:30",
-        "time": "3:30 AM",
-        "hour": 3.5,
+        "iso": "2026-11-03T04:45",
+        "time": "4:45 AM",
+        "hour": 4.75,
         "temp": 22,
         "feels": 24,
         "humidity": 83,
@@ -391,7 +391,7 @@
       },
       "high": 29,
       "low": 22,
-      "rain": 62,
+      "rain": 57,
       "uv": 6.55,
       "periods": [
         {
@@ -401,7 +401,7 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 25,
-          "rain": 55
+          "rain": 27
         },
         {
           "name": "Afternoon",
@@ -410,7 +410,7 @@
           "icon": "⛈️",
           "label": "Thunderstorms",
           "temp": 25,
-          "rain": 62
+          "rain": 57
         },
         {
           "name": "Evening",
@@ -419,7 +419,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 23,
-          "rain": 57
+          "rain": 49
         },
         {
           "name": "Night",
@@ -428,7 +428,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 22,
-          "rain": 24
+          "rain": 8
         }
       ],
       "log": {}
@@ -441,9 +441,9 @@
       "label": "Thunderstorms",
       "icon": "⛈️",
       "now": {
-        "iso": "2026-11-03T03:30",
-        "time": "3:30 AM",
-        "hour": 3.5,
+        "iso": "2026-11-03T04:45",
+        "time": "4:45 AM",
+        "hour": 4.75,
         "temp": 22,
         "feels": 24,
         "humidity": 81,
@@ -452,7 +452,7 @@
       },
       "high": 29,
       "low": 22,
-      "rain": 62,
+      "rain": 57,
       "uv": 5.5,
       "periods": [
         {
@@ -462,7 +462,7 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 25,
-          "rain": 55
+          "rain": 27
         },
         {
           "name": "Afternoon",
@@ -471,7 +471,7 @@
           "icon": "⛈️",
           "label": "Thunderstorms",
           "temp": 26,
-          "rain": 62
+          "rain": 57
         },
         {
           "name": "Evening",
@@ -480,7 +480,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 23,
-          "rain": 57
+          "rain": 49
         },
         {
           "name": "Night",
@@ -489,7 +489,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 22,
-          "rain": 24
+          "rain": 8
         }
       ],
       "log": {}
@@ -521,7 +521,7 @@
           "k22": 12599,
           "k24": 13752,
           "change22": null,
-          "date": "3 November 2026",
+          "date": "2 November 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -617,9 +617,9 @@
         "label": "Thunderstorms",
         "icon": "⛈️",
         "now": {
-          "iso": "2026-11-03T03:30",
-          "time": "3:30 AM",
-          "hour": 3.5,
+          "iso": "2026-11-03T04:45",
+          "time": "4:45 AM",
+          "hour": 4.75,
           "temp": 22,
           "feels": 24,
           "humidity": 83,
@@ -628,7 +628,7 @@
         },
         "high": 29,
         "low": 22,
-        "rain": 62,
+        "rain": 57,
         "uv": 6.55,
         "periods": [
           {
@@ -638,7 +638,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 25,
-            "rain": 55
+            "rain": 27
           },
           {
             "name": "Afternoon",
@@ -647,7 +647,7 @@
             "icon": "⛈️",
             "label": "Thunderstorms",
             "temp": 25,
-            "rain": 62
+            "rain": 57
           },
           {
             "name": "Evening",
@@ -656,7 +656,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 23,
-            "rain": 57
+            "rain": 49
           },
           {
             "name": "Night",
@@ -665,7 +665,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 22,
-            "rain": 24
+            "rain": 8
           }
         ],
         "log": {}
@@ -677,9 +677,9 @@
         "label": "Thunderstorms",
         "icon": "⛈️",
         "now": {
-          "iso": "2026-11-03T03:30",
-          "time": "3:30 AM",
-          "hour": 3.5,
+          "iso": "2026-11-03T04:45",
+          "time": "4:45 AM",
+          "hour": 4.75,
           "temp": 22,
           "feels": 24,
           "humidity": 81,
@@ -688,7 +688,7 @@
         },
         "high": 29,
         "low": 22,
-        "rain": 62,
+        "rain": 57,
         "uv": 5.5,
         "periods": [
           {
@@ -698,7 +698,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 25,
-            "rain": 55
+            "rain": 27
           },
           {
             "name": "Afternoon",
@@ -707,7 +707,7 @@
             "icon": "⛈️",
             "label": "Thunderstorms",
             "temp": 26,
-            "rain": 62
+            "rain": 57
           },
           {
             "name": "Evening",
@@ -716,7 +716,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 23,
-            "rain": 57
+            "rain": 49
           },
           {
             "name": "Night",
@@ -725,7 +725,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 22,
-            "rain": 24
+            "rain": 8
           }
         ],
         "log": {}
