@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Monday, 02 November 2026",
   "date_key": "2026-11-02",
-  "fetched_ist": "02 Nov 2026, 11:43 AM IST",
+  "fetched_ist": "02 Nov 2026, 02:00 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 2, 2026",
       "text": "Taurus, you hide your emotional needs from others. You need to be able to trust someone in order to share your feeling. They have to guess at your deepest secrets. Talk about it."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 2, 2026",
       "text": "Embrace nurturing exercises before starting the day, dearest Taurus, as the Leo Moon and Mars unite. These vibes boost endurance, and supporting yourself will only prolong the benefits you receive. Your household and family are due for some good luck, and you'll likely hear news worth celebrating as Jupiter and Venus rx activate. Actions taken in service of your own goals will also help you reach major milestones. Make the most of your downtime at home when Luna aligns with the nodes of fate this evening, indicating that a promotion or professional breakthrough could lead to increased responsibilities in the near future. Chiron sends soothing energy your way later tonight, so enjoy a healing meditation session before drifting off to sleep."
@@ -99,7 +99,7 @@
         },
         {
           "text": "Others are pressuring you with regard to your work. They are urging you to push forward when you are more inclined to take it slowly. Don't let other people take control of your work situation. Go at your own pace. Do things your own way.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -122,7 +122,7 @@
           "src": "GaneshaSpeaks"
         },
         {
-          "text": "You have energy directed toward groups, politics, and self-employment. You have all the friends and contacts you need to begin a new venture, whether product, service, or project at your current job. You will also meet new people who can help you get where you want to be financially. At the same time, you're augmenting and transforming your union with other people. You have all the tools you need to get ahead.",
+          "text": "This week, you have positive and negative news about your financial life. If you've been true to your goals and kept within budget, this planet provides new opportunities to make more money. If you've overspent, sudden and perhaps unexpected changes in your career sector could mean that what you counted on to cover bills may not be there. Saving for the future can get you through this time.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
           "src": "Horoscope.com · this week"
         }
@@ -147,7 +147,7 @@
         },
         {
           "text": "Today's planetary energy may leave you feeling a bit melancholy. You may want to withdraw and have some quiet time for yourself. If you are saddened by any event in your family or even by scary global events, or feeling like you didn't accomplish what you wanted to during the past months, it would be helpful and purging to commit to some regular deep breathing exercises over the next few weeks.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -166,8 +166,8 @@
   "lucky": [
     {
       "src": "GaneshaSpeaks",
-      "number": "8",
-      "color": "Deep Pastel Pink"
+      "number": "7",
+      "color": "Olive Green"
     },
     {
       "src": "AstroSage",
@@ -232,10 +232,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 12829,
-        "k24": 14005,
+        "k22": 12620,
+        "k24": 13777,
         "change22": null,
-        "date": "30 October 2026",
+        "date": "2 November 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -300,8 +300,8 @@
       "source_date": "02-11-2026",
       "text": "Financial gains are on the cards today, predicts Ganesha. Happiness will fly in as you receive some good news from an overseas friend. If you have feelings that you haven’t expressed to someone you dearly love, today is a good day to go ahead and let them know. The evening promises rejoicing and relaxation, says Ganesha.",
       "lucky": {
-        "number": "8",
-        "color": "Deep Pastel Pink"
+        "number": "7",
+        "color": "Olive Green"
       },
       "areas": {
         "health": {
@@ -324,25 +324,25 @@
     "hc_general": {
       "text": "Taurus, you hide your emotional needs from others. You need to be able to trust someone in order to share your feeling. They have to guess at your deepest secrets. Today you could save a lot of time in your love life if you just tell your partner what you want out of your relationship or even what you'd like to change about it. Talk about it. Your partner is listening.",
       "date": "Nov 2, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Others are pressuring you with regard to your work. They are urging you to push forward when you are more inclined to take it slowly. Don't let other people take control of your work situation. Go at your own pace. Do things your own way.",
       "date": "Nov 2, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Today's planetary energy may leave you feeling a bit melancholy. You may want to withdraw and have some quiet time for yourself. If you are saddened by any event in your family or even by scary global events, or feeling like you didn't accomplish what you wanted to during the past months, it would be helpful and purging to commit to some regular deep breathing exercises over the next few weeks.",
       "date": "Nov 2, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
-      "text": "You have energy directed toward groups, politics, and self-employment. You have all the friends and contacts you need to begin a new venture, whether product, service, or project at your current job. You will also meet new people who can help you get where you want to be financially. At the same time, you're augmenting and transforming your union with other people. You have all the tools you need to get ahead.",
+      "text": "This week, you have positive and negative news about your financial life. If you've been true to your goals and kept within budget, this planet provides new opportunities to make more money. If you've overspent, sudden and perhaps unexpected changes in your career sector could mean that what you counted on to cover bills may not be there. Saving for the future can get you through this time.",
       "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2"
     },
     "ac": {
       "text": "Embrace nurturing exercises before starting the day, dearest Taurus, as the Leo Moon and Mars unite. These vibes boost endurance, and supporting yourself will only prolong the benefits you receive. Your household and family are due for some good luck, and you'll likely hear news worth celebrating as Jupiter and Venus rx activate. Actions taken in service of your own goals will also help you reach major milestones. Make the most of your downtime at home when Luna aligns with the nodes of fate this evening, indicating that a promotion or professional breakthrough could lead to increased responsibilities in the near future. Chiron sends soothing energy your way later tonight, so enjoy a healing meditation session before drifting off to sleep.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -393,19 +393,19 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Heavy drizzle",
-      "icon": "🌧️",
+      "label": "Light drizzle",
+      "icon": "🌦️",
       "now": {
-        "iso": "2026-11-02T11:30",
-        "time": "11:30 AM",
-        "hour": 11.5,
-        "temp": 28,
-        "feels": 29,
-        "humidity": 61,
-        "label": "Light drizzle",
-        "icon": "🌦️"
+        "iso": "2026-11-02T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
+        "temp": 26,
+        "feels": 28,
+        "humidity": 72,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
-      "high": 28,
+      "high": 27,
       "low": 22,
       "rain": 74,
       "uv": 6.9,
@@ -423,8 +423,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌧️",
-          "label": "Heavy drizzle",
+          "icon": "🌦️",
+          "label": "Light drizzle",
           "temp": 25,
           "rain": 74
         },
@@ -432,17 +432,17 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌦️",
-          "label": "Light drizzle",
-          "temp": 23,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 24,
           "rain": 33
         },
         {
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "🌦️",
-          "label": "Light drizzle",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 22,
           "rain": 39
         }
@@ -456,6 +456,15 @@
           "humidity": 61,
           "label": "Light drizzle",
           "icon": "🌦️"
+        },
+        "Afternoon": {
+          "iso": "2026-11-02T14:00",
+          "time": "2:00 PM",
+          "temp": 26,
+          "feels": 28,
+          "humidity": 72,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -468,6 +477,15 @@
         "humidity": 61,
         "label": "Light drizzle",
         "icon": "🌦️"
+      },
+      "Afternoon": {
+        "iso": "2026-11-02T14:00",
+        "time": "2:00 PM",
+        "temp": 26,
+        "feels": 28,
+        "humidity": 72,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "wx_office": {
@@ -477,16 +495,16 @@
       "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-02T11:30",
-        "time": "11:30 AM",
-        "hour": 11.5,
-        "temp": 29,
-        "feels": 31,
-        "humidity": 57,
+        "iso": "2026-11-02T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
+        "temp": 27,
+        "feels": 28,
+        "humidity": 65,
         "label": "Cloudy",
         "icon": "☁️"
       },
-      "high": 29,
+      "high": 28,
       "low": 22,
       "rain": 74,
       "uv": 6.9,
@@ -524,7 +542,7 @@
           "to": 30,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 23,
+          "temp": 22,
           "rain": 39
         }
       ],
@@ -537,6 +555,15 @@
           "humidity": 57,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Afternoon": {
+          "iso": "2026-11-02T14:00",
+          "time": "2:00 PM",
+          "temp": 27,
+          "feels": 28,
+          "humidity": 65,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -547,6 +574,15 @@
         "temp": 29,
         "feels": 31,
         "humidity": 57,
+        "label": "Cloudy",
+        "icon": "☁️"
+      },
+      "Afternoon": {
+        "iso": "2026-11-02T14:00",
+        "time": "2:00 PM",
+        "temp": 27,
+        "feels": 28,
+        "humidity": 65,
         "label": "Cloudy",
         "icon": "☁️"
       }
@@ -574,10 +610,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 12829,
-          "k24": 14005,
+          "k22": 12620,
+          "k24": 13777,
           "change22": null,
-          "date": "30 October 2026",
+          "date": "2 November 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -670,19 +706,19 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Heavy drizzle",
-        "icon": "🌧️",
+        "label": "Light drizzle",
+        "icon": "🌦️",
         "now": {
-          "iso": "2026-11-02T11:30",
-          "time": "11:30 AM",
-          "hour": 11.5,
-          "temp": 28,
-          "feels": 29,
-          "humidity": 61,
-          "label": "Light drizzle",
-          "icon": "🌦️"
+          "iso": "2026-11-02T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
+          "temp": 26,
+          "feels": 28,
+          "humidity": 72,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
-        "high": 28,
+        "high": 27,
         "low": 22,
         "rain": 74,
         "uv": 6.9,
@@ -700,8 +736,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌧️",
-            "label": "Heavy drizzle",
+            "icon": "🌦️",
+            "label": "Light drizzle",
             "temp": 25,
             "rain": 74
           },
@@ -709,17 +745,17 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌦️",
-            "label": "Light drizzle",
-            "temp": 23,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 24,
             "rain": 33
           },
           {
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "🌦️",
-            "label": "Light drizzle",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 22,
             "rain": 39
           }
@@ -733,6 +769,15 @@
             "humidity": 61,
             "label": "Light drizzle",
             "icon": "🌦️"
+          },
+          "Afternoon": {
+            "iso": "2026-11-02T14:00",
+            "time": "2:00 PM",
+            "temp": 26,
+            "feels": 28,
+            "humidity": 72,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       },
@@ -743,16 +788,16 @@
         "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-02T11:30",
-          "time": "11:30 AM",
-          "hour": 11.5,
-          "temp": 29,
-          "feels": 31,
-          "humidity": 57,
+          "iso": "2026-11-02T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
+          "temp": 27,
+          "feels": 28,
+          "humidity": 65,
           "label": "Cloudy",
           "icon": "☁️"
         },
-        "high": 29,
+        "high": 28,
         "low": 22,
         "rain": 74,
         "uv": 6.9,
@@ -790,7 +835,7 @@
             "to": 30,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 23,
+            "temp": 22,
             "rain": 39
           }
         ],
@@ -801,6 +846,15 @@
             "temp": 29,
             "feels": 31,
             "humidity": 57,
+            "label": "Cloudy",
+            "icon": "☁️"
+          },
+          "Afternoon": {
+            "iso": "2026-11-02T14:00",
+            "time": "2:00 PM",
+            "temp": 27,
+            "feels": 28,
+            "humidity": 65,
             "label": "Cloudy",
             "icon": "☁️"
           }
