@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 03 November 2026",
   "date_key": "2026-11-03",
-  "fetched_ist": "03 Nov 2026, 12:23 PM IST",
+  "fetched_ist": "03 Nov 2026, 02:13 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 3, 2026",
       "text": "Today's planetary configurations indicate that you can expect a very profitable period coming up, Taurus. You've worked hard lately, and it's only natural that you should finally arrive at this stage. You're going to be able to measure the distance you've come, and above all, evaluate your power. Whatever you do, think big!"
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 3, 2026",
       "text": "You'll feel inspired to perfect your craft as the Moon debuts in Virgo, dearest Taurus, blessing you with an influx of stamina and creativity. Your body craves movement, but the mind seeks stimulation, so be sure to take a hands-on approach to learning. Pace yourself to avoid simple mistakes while Uranus activates, or you could unleash unintended chaos. Luckily, transgressions such as these will be easily forgiven as your natural Charisma shines more brightly than usual."
@@ -83,7 +83,7 @@
         },
         {
           "text": "Take care of personal issues now so that you can have a fresh start as the week begins. This is the day to focus on yourself and your own needs. Be selfish. Put yourself first. This will give you a more solid foundation to work from next week.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -127,7 +127,7 @@
         },
         {
           "text": "An excellent day for you! If you are a lawyer, or someone who communicates two sides of an issue for a living, you are apt to have a successful day. There are two sides to every story, and in the case of the body it is important to rest as well as to exercise. The astral energy lends itself to increasing the balance in your physical health. If you're overtired, take a nap!",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -308,17 +308,17 @@
     "hc_general": {
       "text": "Today's planetary configurations indicate that you can expect a very profitable period coming up, Taurus. You've worked hard lately, and it's only natural that you should finally arrive at this stage. You're going to be able to measure the distance you've come, and above all, evaluate your power. Whatever you do, think big!",
       "date": "Nov 3, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Take care of personal issues now so that you can have a fresh start as the week begins. This is the day to focus on yourself and your own needs. Be selfish. Put yourself first. This will give you a more solid foundation to work from next week.",
       "date": "Nov 3, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "An excellent day for you! If you are a lawyer, or someone who communicates two sides of an issue for a living, you are apt to have a successful day. There are two sides to every story, and in the case of the body it is important to rest as well as to exercise. The astral energy lends itself to increasing the balance in your physical health. If you're overtired, take a nap! If you're feeling sluggish, getting in an hour's worth of exercise will increase your heart rate.",
       "date": "Nov 3, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "This week, you have positive and negative news about your financial life. If you've been true to your goals and kept within budget, this planet provides new opportunities to make more money. If you've overspent, sudden and perhaps unexpected changes in your career sector could mean that what you counted on to cover bills may not be there. Saving for the future can get you through this time.",
@@ -326,7 +326,7 @@
     },
     "ac": {
       "text": "You'll feel inspired to perfect your craft as the Moon debuts in Virgo, dearest Taurus, blessing you with an influx of stamina and creativity. Your body craves movement, but the mind seeks stimulation, so be sure to take a hands-on approach to learning. Pace yourself to avoid simple mistakes while Uranus activates, or you could unleash unintended chaos. Luckily, transgressions such as these will be easily forgiven as your natural Charisma shines more brightly than usual. Connect with loved ones through playful banter or by sharing old memories when Luna aspects the Scorpio Sun and Mercury Rx tonight.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -377,15 +377,15 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Light showers",
+      "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-03T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
-        "temp": 27,
-        "feels": 28,
-        "humidity": 62,
+        "iso": "2026-11-03T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
+        "temp": 28,
+        "feels": 29,
+        "humidity": 56,
         "label": "Light drizzle",
         "icon": "🌦️"
       },
@@ -408,17 +408,17 @@
           "from": 12,
           "to": 17,
           "icon": "🌦️",
-          "label": "Light showers",
-          "temp": 26,
+          "label": "Light drizzle",
+          "temp": 28,
           "rain": 57
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌦️",
-          "label": "Light drizzle",
-          "temp": 23,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 26,
           "rain": 41
         },
         {
@@ -442,11 +442,11 @@
           "icon": "☁️"
         },
         "Afternoon": {
-          "iso": "2026-11-03T12:15",
-          "time": "12:15 PM",
-          "temp": 27,
-          "feels": 28,
-          "humidity": 62,
+          "iso": "2026-11-03T14:00",
+          "time": "2:00 PM",
+          "temp": 28,
+          "feels": 29,
+          "humidity": 56,
           "label": "Light drizzle",
           "icon": "🌦️"
         }
@@ -463,11 +463,11 @@
         "icon": "☁️"
       },
       "Afternoon": {
-        "iso": "2026-11-03T12:15",
-        "time": "12:15 PM",
-        "temp": 27,
-        "feels": 28,
-        "humidity": 62,
+        "iso": "2026-11-03T14:00",
+        "time": "2:00 PM",
+        "temp": 28,
+        "feels": 29,
+        "humidity": 56,
         "label": "Light drizzle",
         "icon": "🌦️"
       }
@@ -479,14 +479,14 @@
       "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-03T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
+        "iso": "2026-11-03T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
         "temp": 29,
-        "feels": 31,
-        "humidity": 50,
-        "label": "Cloudy",
-        "icon": "☁️"
+        "feels": 29,
+        "humidity": 53,
+        "label": "Light drizzle",
+        "icon": "🌦️"
       },
       "high": 30,
       "low": 22,
@@ -541,13 +541,13 @@
           "icon": "☁️"
         },
         "Afternoon": {
-          "iso": "2026-11-03T12:15",
-          "time": "12:15 PM",
+          "iso": "2026-11-03T14:00",
+          "time": "2:00 PM",
           "temp": 29,
-          "feels": 31,
-          "humidity": 50,
-          "label": "Cloudy",
-          "icon": "☁️"
+          "feels": 29,
+          "humidity": 53,
+          "label": "Light drizzle",
+          "icon": "🌦️"
         }
       }
     },
@@ -562,13 +562,13 @@
         "icon": "☁️"
       },
       "Afternoon": {
-        "iso": "2026-11-03T12:15",
-        "time": "12:15 PM",
+        "iso": "2026-11-03T14:00",
+        "time": "2:00 PM",
         "temp": 29,
-        "feels": 31,
-        "humidity": 50,
-        "label": "Cloudy",
-        "icon": "☁️"
+        "feels": 29,
+        "humidity": 53,
+        "label": "Light drizzle",
+        "icon": "🌦️"
       }
     },
     "gold": {
@@ -690,15 +690,15 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Light showers",
+        "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-03T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
-          "temp": 27,
-          "feels": 28,
-          "humidity": 62,
+          "iso": "2026-11-03T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
+          "temp": 28,
+          "feels": 29,
+          "humidity": 56,
           "label": "Light drizzle",
           "icon": "🌦️"
         },
@@ -721,17 +721,17 @@
             "from": 12,
             "to": 17,
             "icon": "🌦️",
-            "label": "Light showers",
-            "temp": 26,
+            "label": "Light drizzle",
+            "temp": 28,
             "rain": 57
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌦️",
-            "label": "Light drizzle",
-            "temp": 23,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 26,
             "rain": 41
           },
           {
@@ -755,11 +755,11 @@
             "icon": "☁️"
           },
           "Afternoon": {
-            "iso": "2026-11-03T12:15",
-            "time": "12:15 PM",
-            "temp": 27,
-            "feels": 28,
-            "humidity": 62,
+            "iso": "2026-11-03T14:00",
+            "time": "2:00 PM",
+            "temp": 28,
+            "feels": 29,
+            "humidity": 56,
             "label": "Light drizzle",
             "icon": "🌦️"
           }
@@ -772,14 +772,14 @@
         "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-03T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
+          "iso": "2026-11-03T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
           "temp": 29,
-          "feels": 31,
-          "humidity": 50,
-          "label": "Cloudy",
-          "icon": "☁️"
+          "feels": 29,
+          "humidity": 53,
+          "label": "Light drizzle",
+          "icon": "🌦️"
         },
         "high": 30,
         "low": 22,
@@ -834,13 +834,13 @@
             "icon": "☁️"
           },
           "Afternoon": {
-            "iso": "2026-11-03T12:15",
-            "time": "12:15 PM",
+            "iso": "2026-11-03T14:00",
+            "time": "2:00 PM",
             "temp": 29,
-            "feels": 31,
-            "humidity": 50,
-            "label": "Cloudy",
-            "icon": "☁️"
+            "feels": 29,
+            "humidity": 53,
+            "label": "Light drizzle",
+            "icon": "🌦️"
           }
         }
       }
