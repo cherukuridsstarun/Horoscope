@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 04 November 2026",
   "date_key": "2026-11-04",
-  "fetched_ist": "04 Nov 2026, 12:01 PM IST",
+  "fetched_ist": "04 Nov 2026, 01:43 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 4, 2026",
       "text": "This is a very spiritual and creative day for you, Taurus. You're especially intuitive. Any creative effort will likely resonate deeply. Even if you don't feel you have the talent for it, why not try some form of artistic expression? You could dabble with a paintbrush or makes notes in a journal. Don't let that pesky internal editor kick in. Create for the sheer joy of it."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 4, 2026",
       "text": "You should feel settled and capable of handling your daily responsibilities, dearest Taurus, as Venus RX and Jupiter align. If you’ve felt behind or like you're constantly playing catch-up, rework your schedule to make more space for downtime. You are reminded that personal balance will impact your clarity, confidence, and stamina while the Scorpio Sun and Mercury RX unite."
@@ -82,7 +82,7 @@
         },
         {
           "text": "You are like the mighty king or queen sitting on the great thrown of power. Hold your chest high and speak with confidence. Your wish will come true so go ahead and make your command. You are the master of your kingdom at this time. Have fun.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -130,7 +130,7 @@
         },
         {
           "text": "You may feel frustrated by the judgments that your mind produces. The aspects today invite us to be compassionate with ourselves and others, yet your sign is so dedicated to fairness that you may find it difficult to be compassionate when someone or something is just plain \"wrong\" in your eyes. Step back and take a break from this kind of situation. Swimming would be recommended now, in order to feel your own weightlessness while you exercise out those frustrations.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -193,9 +193,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 13991,
-        "k22": 12825,
-        "change22": 25,
+        "k24": 14280,
+        "k22": 13090,
+        "change22": 290,
         "date": "4 November 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -211,10 +211,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 12602,
-        "k24": 13758,
+        "k22": 12921,
+        "k24": 14106,
         "change22": null,
-        "date": "3 November 2026",
+        "date": "4 November 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -266,8 +266,8 @@
       },
       {
         "date": "Nov 04, 2026",
-        "k22": 12825,
-        "k24": 13991
+        "k22": 13090,
+        "k24": 14280
       }
     ]
   },
@@ -303,17 +303,17 @@
     "hc_general": {
       "text": "This is a very spiritual and creative day for you, Taurus. You're especially intuitive. Any creative effort will likely resonate deeply. Even if you don't feel you have the talent for it, why not try some form of artistic expression? You could dabble with a paintbrush or makes notes in a journal. Don't let that pesky internal editor kick in. Create for the sheer joy of it.",
       "date": "Nov 4, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "You are like the mighty king or queen sitting on the great thrown of power. Hold your chest high and speak with confidence. Your wish will come true so go ahead and make your command. You are the master of your kingdom at this time. Have fun.",
       "date": "Nov 4, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "You may feel frustrated by the judgments that your mind produces. The aspects today invite us to be compassionate with ourselves and others, yet your sign is so dedicated to fairness that you may find it difficult to be compassionate when someone or something is just plain \"wrong\" in your eyes. Step back and take a break from this kind of situation. Swimming would be recommended now, in order to feel your own weightlessness while you exercise out those frustrations.",
       "date": "Nov 4, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "This week, you have positive and negative news about your financial life. If you've been true to your goals and kept within budget, this planet provides new opportunities to make more money. If you've overspent, sudden and perhaps unexpected changes in your career sector could mean that what you counted on to cover bills may not be there. Saving for the future can get you through this time.",
@@ -321,7 +321,7 @@
     },
     "ac": {
       "text": "You should feel settled and capable of handling your daily responsibilities, dearest Taurus, as Venus RX and Jupiter align. If you’ve felt behind or like you're constantly playing catch-up, rework your schedule to make more space for downtime. You are reminded that personal balance will impact your clarity, confidence, and stamina while the Scorpio Sun and Mercury RX unite. The celestial union also puts you in a romantic headspace, inspiring you to lay low with someone special. Meanwhile, Luna continues her journey through Virgo, nudging you to celebrate life by having fun and pursuing your passions.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -372,17 +372,17 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Drizzle",
-      "icon": "🌦️",
+      "label": "Cloudy",
+      "icon": "☁️",
       "now": {
-        "iso": "2026-11-04T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 28,
-        "feels": 29,
-        "humidity": 59,
-        "label": "Light drizzle",
-        "icon": "🌦️"
+        "iso": "2026-11-04T13:30",
+        "time": "1:30 PM",
+        "hour": 13.5,
+        "temp": 27,
+        "feels": 28,
+        "humidity": 60,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 28,
       "low": 21,
@@ -402,107 +402,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌦️",
-          "label": "Drizzle",
-          "temp": 28,
-          "rain": 22
-        },
-        {
-          "name": "Evening",
-          "from": 17,
-          "to": 21,
-          "icon": "⛅",
-          "label": "Partly cloudy",
-          "temp": 25,
-          "rain": 16
-        },
-        {
-          "name": "Night",
-          "from": 21,
-          "to": 30,
-          "icon": "🌙",
-          "label": "Mostly clear",
-          "temp": 22,
-          "rain": 2
-        }
-      ],
-      "log": {
-        "Morning": {
-          "iso": "2026-11-04T08:15",
-          "time": "8:15 AM",
-          "temp": 23,
-          "feels": 25,
-          "humidity": 76,
+          "icon": "☁️",
           "label": "Cloudy",
-          "icon": "☁️"
-        },
-        "Afternoon": {
-          "iso": "2026-11-04T12:00",
-          "time": "12:00 PM",
-          "temp": 28,
-          "feels": 29,
-          "humidity": 59,
-          "label": "Light drizzle",
-          "icon": "🌦️"
-        }
-      }
-    },
-    "wxlog_home": {
-      "Morning": {
-        "iso": "2026-11-04T08:15",
-        "time": "8:15 AM",
-        "temp": 23,
-        "feels": 25,
-        "humidity": 76,
-        "label": "Cloudy",
-        "icon": "☁️"
-      },
-      "Afternoon": {
-        "iso": "2026-11-04T12:00",
-        "time": "12:00 PM",
-        "temp": 28,
-        "feels": 29,
-        "humidity": 59,
-        "label": "Light drizzle",
-        "icon": "🌦️"
-      }
-    },
-    "wx_office": {
-      "key": "office",
-      "name": "Office",
-      "area": "",
-      "label": "Light drizzle",
-      "icon": "🌦️",
-      "now": {
-        "iso": "2026-11-04T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 28,
-        "feels": 30,
-        "humidity": 58,
-        "label": "Light drizzle",
-        "icon": "🌦️"
-      },
-      "high": 29,
-      "low": 21,
-      "rain": 22,
-      "uv": 4.85,
-      "periods": [
-        {
-          "name": "Morning",
-          "from": 6,
-          "to": 12,
-          "icon": "🌦️",
-          "label": "Light drizzle",
-          "temp": 24,
-          "rain": 14
-        },
-        {
-          "name": "Afternoon",
-          "from": 12,
-          "to": 17,
-          "icon": "🌦️",
-          "label": "Light drizzle",
           "temp": 28,
           "rain": 22
         },
@@ -519,8 +420,107 @@
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "🌙",
-          "label": "Clear sky",
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 21,
+          "rain": 2
+        }
+      ],
+      "log": {
+        "Morning": {
+          "iso": "2026-11-04T08:15",
+          "time": "8:15 AM",
+          "temp": 23,
+          "feels": 25,
+          "humidity": 76,
+          "label": "Cloudy",
+          "icon": "☁️"
+        },
+        "Afternoon": {
+          "iso": "2026-11-04T13:30",
+          "time": "1:30 PM",
+          "temp": 27,
+          "feels": 28,
+          "humidity": 60,
+          "label": "Cloudy",
+          "icon": "☁️"
+        }
+      }
+    },
+    "wxlog_home": {
+      "Morning": {
+        "iso": "2026-11-04T08:15",
+        "time": "8:15 AM",
+        "temp": 23,
+        "feels": 25,
+        "humidity": 76,
+        "label": "Cloudy",
+        "icon": "☁️"
+      },
+      "Afternoon": {
+        "iso": "2026-11-04T13:30",
+        "time": "1:30 PM",
+        "temp": 27,
+        "feels": 28,
+        "humidity": 60,
+        "label": "Cloudy",
+        "icon": "☁️"
+      }
+    },
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Light drizzle",
+      "icon": "🌦️",
+      "now": {
+        "iso": "2026-11-04T13:30",
+        "time": "1:30 PM",
+        "hour": 13.5,
+        "temp": 28,
+        "feels": 29,
+        "humidity": 57,
+        "label": "Partly cloudy",
+        "icon": "⛅"
+      },
+      "high": 29,
+      "low": 21,
+      "rain": 22,
+      "uv": 4.85,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 25,
+          "rain": 14
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 28,
+          "rain": 22
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "🌤️",
+          "label": "Mostly clear",
+          "temp": 25,
+          "rain": 16
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 22,
           "rain": 2
         }
@@ -536,13 +536,13 @@
           "icon": "☁️"
         },
         "Afternoon": {
-          "iso": "2026-11-04T12:00",
-          "time": "12:00 PM",
+          "iso": "2026-11-04T13:30",
+          "time": "1:30 PM",
           "temp": 28,
-          "feels": 30,
-          "humidity": 58,
-          "label": "Light drizzle",
-          "icon": "🌦️"
+          "feels": 29,
+          "humidity": 57,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         }
       }
     },
@@ -557,13 +557,13 @@
         "icon": "☁️"
       },
       "Afternoon": {
-        "iso": "2026-11-04T12:00",
-        "time": "12:00 PM",
+        "iso": "2026-11-04T13:30",
+        "time": "1:30 PM",
         "temp": 28,
-        "feels": 30,
-        "humidity": 58,
-        "label": "Light drizzle",
-        "icon": "🌦️"
+        "feels": 29,
+        "humidity": 57,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       }
     },
     "gold": {
@@ -571,9 +571,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 13991,
-          "k22": 12825,
-          "change22": 25,
+          "k24": 14280,
+          "k22": 13090,
+          "change22": 290,
           "date": "4 November 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -589,10 +589,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 12602,
-          "k24": 13758,
+          "k22": 12921,
+          "k24": 14106,
           "change22": null,
-          "date": "3 November 2026",
+          "date": "4 November 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -644,8 +644,8 @@
         },
         {
           "date": "Nov 04, 2026",
-          "k22": 12825,
-          "k24": 13991
+          "k22": 13090,
+          "k24": 14280
         }
       ]
     }
@@ -685,17 +685,17 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Drizzle",
-        "icon": "🌦️",
+        "label": "Cloudy",
+        "icon": "☁️",
         "now": {
-          "iso": "2026-11-04T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 28,
-          "feels": 29,
-          "humidity": 59,
-          "label": "Light drizzle",
-          "icon": "🌦️"
+          "iso": "2026-11-04T13:30",
+          "time": "1:30 PM",
+          "hour": 13.5,
+          "temp": 27,
+          "feels": 28,
+          "humidity": 60,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 28,
         "low": 21,
@@ -715,87 +715,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌦️",
-            "label": "Drizzle",
-            "temp": 28,
-            "rain": 22
-          },
-          {
-            "name": "Evening",
-            "from": 17,
-            "to": 21,
-            "icon": "⛅",
-            "label": "Partly cloudy",
-            "temp": 25,
-            "rain": 16
-          },
-          {
-            "name": "Night",
-            "from": 21,
-            "to": 30,
-            "icon": "🌙",
-            "label": "Mostly clear",
-            "temp": 22,
-            "rain": 2
-          }
-        ],
-        "log": {
-          "Morning": {
-            "iso": "2026-11-04T08:15",
-            "time": "8:15 AM",
-            "temp": 23,
-            "feels": 25,
-            "humidity": 76,
+            "icon": "☁️",
             "label": "Cloudy",
-            "icon": "☁️"
-          },
-          "Afternoon": {
-            "iso": "2026-11-04T12:00",
-            "time": "12:00 PM",
-            "temp": 28,
-            "feels": 29,
-            "humidity": 59,
-            "label": "Light drizzle",
-            "icon": "🌦️"
-          }
-        }
-      },
-      {
-        "key": "office",
-        "name": "Office",
-        "area": "",
-        "label": "Light drizzle",
-        "icon": "🌦️",
-        "now": {
-          "iso": "2026-11-04T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 28,
-          "feels": 30,
-          "humidity": 58,
-          "label": "Light drizzle",
-          "icon": "🌦️"
-        },
-        "high": 29,
-        "low": 21,
-        "rain": 22,
-        "uv": 4.85,
-        "periods": [
-          {
-            "name": "Morning",
-            "from": 6,
-            "to": 12,
-            "icon": "🌦️",
-            "label": "Light drizzle",
-            "temp": 24,
-            "rain": 14
-          },
-          {
-            "name": "Afternoon",
-            "from": 12,
-            "to": 17,
-            "icon": "🌦️",
-            "label": "Light drizzle",
             "temp": 28,
             "rain": 22
           },
@@ -812,8 +733,87 @@
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "🌙",
-            "label": "Clear sky",
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 21,
+            "rain": 2
+          }
+        ],
+        "log": {
+          "Morning": {
+            "iso": "2026-11-04T08:15",
+            "time": "8:15 AM",
+            "temp": 23,
+            "feels": 25,
+            "humidity": 76,
+            "label": "Cloudy",
+            "icon": "☁️"
+          },
+          "Afternoon": {
+            "iso": "2026-11-04T13:30",
+            "time": "1:30 PM",
+            "temp": 27,
+            "feels": 28,
+            "humidity": 60,
+            "label": "Cloudy",
+            "icon": "☁️"
+          }
+        }
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
+        "label": "Light drizzle",
+        "icon": "🌦️",
+        "now": {
+          "iso": "2026-11-04T13:30",
+          "time": "1:30 PM",
+          "hour": 13.5,
+          "temp": 28,
+          "feels": 29,
+          "humidity": 57,
+          "label": "Partly cloudy",
+          "icon": "⛅"
+        },
+        "high": 29,
+        "low": 21,
+        "rain": 22,
+        "uv": 4.85,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 25,
+            "rain": 14
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 28,
+            "rain": 22
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "🌤️",
+            "label": "Mostly clear",
+            "temp": 25,
+            "rain": 16
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 22,
             "rain": 2
           }
@@ -829,13 +829,13 @@
             "icon": "☁️"
           },
           "Afternoon": {
-            "iso": "2026-11-04T12:00",
-            "time": "12:00 PM",
+            "iso": "2026-11-04T13:30",
+            "time": "1:30 PM",
             "temp": 28,
-            "feels": 30,
-            "humidity": 58,
-            "label": "Light drizzle",
-            "icon": "🌦️"
+            "feels": 29,
+            "humidity": 57,
+            "label": "Partly cloudy",
+            "icon": "⛅"
           }
         }
       }
