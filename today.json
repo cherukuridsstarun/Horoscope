@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 05 November 2026",
   "date_key": "2026-11-05",
-  "fetched_ist": "05 Nov 2026, 01:50 AM IST",
+  "fetched_ist": "05 Nov 2026, 03:10 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -384,9 +384,9 @@
       "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-05T01:45",
-        "time": "1:45 AM",
-        "hour": 1.75,
+        "iso": "2026-11-05T03:00",
+        "time": "3:00 AM",
+        "hour": 3.0,
         "temp": 21,
         "feels": 24,
         "humidity": 93,
@@ -445,12 +445,12 @@
       "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-05T01:45",
-        "time": "1:45 AM",
-        "hour": 1.75,
+        "iso": "2026-11-05T03:00",
+        "time": "3:00 AM",
+        "hour": 3.0,
         "temp": 21,
         "feels": 24,
-        "humidity": 93,
+        "humidity": 92,
         "label": "Cloudy",
         "icon": "☁️"
       },
@@ -627,9 +627,9 @@
         "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-05T01:45",
-          "time": "1:45 AM",
-          "hour": 1.75,
+          "iso": "2026-11-05T03:00",
+          "time": "3:00 AM",
+          "hour": 3.0,
           "temp": 21,
           "feels": 24,
           "humidity": 93,
@@ -687,12 +687,12 @@
         "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-05T01:45",
-          "time": "1:45 AM",
-          "hour": 1.75,
+          "iso": "2026-11-05T03:00",
+          "time": "3:00 AM",
+          "hour": 3.0,
           "temp": 21,
           "feels": 24,
-          "humidity": 93,
+          "humidity": 92,
           "label": "Cloudy",
           "icon": "☁️"
         },
