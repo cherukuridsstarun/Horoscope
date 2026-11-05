@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 05 November 2026",
   "date_key": "2026-11-05",
-  "fetched_ist": "05 Nov 2026, 02:08 PM IST",
+  "fetched_ist": "05 Nov 2026, 08:56 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -220,8 +220,8 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13186,
-        "k24": 14395,
+        "k22": 13202,
+        "k24": 14413,
         "change22": null,
         "date": "5 November 2026",
         "url": "https://ibjarates.com/"
@@ -381,22 +381,22 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Drizzle",
-      "icon": "🌦️",
+      "label": "Heavy drizzle",
+      "icon": "🌧️",
       "now": {
-        "iso": "2026-11-05T14:00",
-        "time": "2:00 PM",
-        "hour": 14.0,
-        "temp": 27,
-        "feels": 29,
-        "humidity": 66,
-        "label": "Drizzle",
-        "icon": "🌦️"
+        "iso": "2026-11-05T20:45",
+        "time": "8:45 PM",
+        "hour": 20.75,
+        "temp": 24,
+        "feels": 28,
+        "humidity": 83,
+        "label": "Clear sky",
+        "icon": "🌙"
       },
       "high": 28,
       "low": 21,
-      "rain": 82,
-      "uv": 6.85,
+      "rain": 78,
+      "uv": 6.9,
       "periods": [
         {
           "name": "Morning",
@@ -405,34 +405,34 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 24,
-          "rain": 63
+          "rain": 39
         },
         {
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌦️",
-          "label": "Drizzle",
+          "icon": "🌧️",
+          "label": "Heavy drizzle",
           "temp": 27,
-          "rain": 82
+          "rain": 78
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌦️",
-          "label": "Light drizzle",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 25,
-          "rain": 53
+          "rain": 63
         },
         {
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "🌙",
-          "label": "Mostly clear",
+          "icon": "🌦️",
+          "label": "Light drizzle",
           "temp": 22,
-          "rain": 21
+          "rain": 34
         }
       ],
       "log": {
@@ -453,6 +453,15 @@
           "humidity": 66,
           "label": "Drizzle",
           "icon": "🌦️"
+        },
+        "Evening": {
+          "iso": "2026-11-05T20:45",
+          "time": "8:45 PM",
+          "temp": 24,
+          "feels": 28,
+          "humidity": 83,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -474,28 +483,37 @@
         "humidity": 66,
         "label": "Drizzle",
         "icon": "🌦️"
+      },
+      "Evening": {
+        "iso": "2026-11-05T20:45",
+        "time": "8:45 PM",
+        "temp": 24,
+        "feels": 28,
+        "humidity": 83,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Light showers",
-      "icon": "🌦️",
+      "label": "Heavy drizzle",
+      "icon": "🌧️",
       "now": {
-        "iso": "2026-11-05T14:00",
-        "time": "2:00 PM",
-        "hour": 14.0,
-        "temp": 28,
-        "feels": 30,
-        "humidity": 57,
-        "label": "Light showers",
-        "icon": "🌦️"
+        "iso": "2026-11-05T20:45",
+        "time": "8:45 PM",
+        "hour": 20.75,
+        "temp": 24,
+        "feels": 28,
+        "humidity": 82,
+        "label": "Clear sky",
+        "icon": "🌙"
       },
       "high": 29,
       "low": 21,
-      "rain": 82,
-      "uv": 6.25,
+      "rain": 78,
+      "uv": 6.9,
       "periods": [
         {
           "name": "Morning",
@@ -504,16 +522,16 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 25,
-          "rain": 63
+          "rain": 39
         },
         {
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌦️",
-          "label": "Light showers",
+          "icon": "🌧️",
+          "label": "Heavy drizzle",
           "temp": 28,
-          "rain": 82
+          "rain": 78
         },
         {
           "name": "Evening",
@@ -522,7 +540,7 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 25,
-          "rain": 53
+          "rain": 63
         },
         {
           "name": "Night",
@@ -531,7 +549,7 @@
           "icon": "🌙",
           "label": "Mostly clear",
           "temp": 22,
-          "rain": 21
+          "rain": 34
         }
       ],
       "log": {
@@ -552,6 +570,15 @@
           "humidity": 57,
           "label": "Light showers",
           "icon": "🌦️"
+        },
+        "Evening": {
+          "iso": "2026-11-05T20:45",
+          "time": "8:45 PM",
+          "temp": 24,
+          "feels": 28,
+          "humidity": 82,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -573,6 +600,15 @@
         "humidity": 57,
         "label": "Light showers",
         "icon": "🌦️"
+      },
+      "Evening": {
+        "iso": "2026-11-05T20:45",
+        "time": "8:45 PM",
+        "temp": 24,
+        "feels": 28,
+        "humidity": 82,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "gold": {
@@ -598,8 +634,8 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13186,
-          "k24": 14395,
+          "k22": 13202,
+          "k24": 14413,
           "change22": null,
           "date": "5 November 2026",
           "url": "https://ibjarates.com/"
@@ -700,22 +736,22 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Drizzle",
-        "icon": "🌦️",
+        "label": "Heavy drizzle",
+        "icon": "🌧️",
         "now": {
-          "iso": "2026-11-05T14:00",
-          "time": "2:00 PM",
-          "hour": 14.0,
-          "temp": 27,
-          "feels": 29,
-          "humidity": 66,
-          "label": "Drizzle",
-          "icon": "🌦️"
+          "iso": "2026-11-05T20:45",
+          "time": "8:45 PM",
+          "hour": 20.75,
+          "temp": 24,
+          "feels": 28,
+          "humidity": 83,
+          "label": "Clear sky",
+          "icon": "🌙"
         },
         "high": 28,
         "low": 21,
-        "rain": 82,
-        "uv": 6.85,
+        "rain": 78,
+        "uv": 6.9,
         "periods": [
           {
             "name": "Morning",
@@ -724,34 +760,34 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 24,
-            "rain": 63
+            "rain": 39
           },
           {
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌦️",
-            "label": "Drizzle",
+            "icon": "🌧️",
+            "label": "Heavy drizzle",
             "temp": 27,
-            "rain": 82
+            "rain": 78
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌦️",
-            "label": "Light drizzle",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 25,
-            "rain": 53
+            "rain": 63
           },
           {
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "🌙",
-            "label": "Mostly clear",
+            "icon": "🌦️",
+            "label": "Light drizzle",
             "temp": 22,
-            "rain": 21
+            "rain": 34
           }
         ],
         "log": {
@@ -772,6 +808,15 @@
             "humidity": 66,
             "label": "Drizzle",
             "icon": "🌦️"
+          },
+          "Evening": {
+            "iso": "2026-11-05T20:45",
+            "time": "8:45 PM",
+            "temp": 24,
+            "feels": 28,
+            "humidity": 83,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       },
@@ -779,22 +824,22 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Light showers",
-        "icon": "🌦️",
+        "label": "Heavy drizzle",
+        "icon": "🌧️",
         "now": {
-          "iso": "2026-11-05T14:00",
-          "time": "2:00 PM",
-          "hour": 14.0,
-          "temp": 28,
-          "feels": 30,
-          "humidity": 57,
-          "label": "Light showers",
-          "icon": "🌦️"
+          "iso": "2026-11-05T20:45",
+          "time": "8:45 PM",
+          "hour": 20.75,
+          "temp": 24,
+          "feels": 28,
+          "humidity": 82,
+          "label": "Clear sky",
+          "icon": "🌙"
         },
         "high": 29,
         "low": 21,
-        "rain": 82,
-        "uv": 6.25,
+        "rain": 78,
+        "uv": 6.9,
         "periods": [
           {
             "name": "Morning",
@@ -803,16 +848,16 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 25,
-            "rain": 63
+            "rain": 39
           },
           {
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌦️",
-            "label": "Light showers",
+            "icon": "🌧️",
+            "label": "Heavy drizzle",
             "temp": 28,
-            "rain": 82
+            "rain": 78
           },
           {
             "name": "Evening",
@@ -821,7 +866,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 25,
-            "rain": 53
+            "rain": 63
           },
           {
             "name": "Night",
@@ -830,7 +875,7 @@
             "icon": "🌙",
             "label": "Mostly clear",
             "temp": 22,
-            "rain": 21
+            "rain": 34
           }
         ],
         "log": {
@@ -851,6 +896,15 @@
             "humidity": 57,
             "label": "Light showers",
             "icon": "🌦️"
+          },
+          "Evening": {
+            "iso": "2026-11-05T20:45",
+            "time": "8:45 PM",
+            "temp": 24,
+            "feels": 28,
+            "humidity": 82,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       }
