@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 05 November 2026",
   "date_key": "2026-11-05",
-  "fetched_ist": "05 Nov 2026, 12:23 PM IST",
+  "fetched_ist": "05 Nov 2026, 02:08 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 5, 2026",
       "text": "It isn't a good idea to try to fit people into a mold today, Taurus. This will only annoy others and frustrate you. It's important that you relax and simply let people blossom into the people they want to be. If you have a preconceived notion of who they should be, you're only setting yourself up for failure and disappointment, as well as anger from the other party."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 5, 2026",
       "text": "Give your mind what it needs to think clearly and be prepared to act quickly, as the Libra Moon aligns with Neptune, Pluto, and Uranus. These electrifying vibes trigger exciting twists that can lead to major opportunities, dearest Taurus, even if you don't feel ready to take them on. Trust that your natural intellect and resourcefulness are enough for now. Though you prefer to be in control, the universe may be thwarting your plans in an attempt to guide you toward something bigger. Meditate on which areas of your life will require additional structure or discipline as you embark upon the next chapter once Luna opposes Saturn later tonight."
@@ -91,7 +91,7 @@
         },
         {
           "text": "Delegate duties instead of taking on everything yourself. You are in a key position. You have a good vantage point of everything around you. Give people tasks that will help the goal come to fruition. Make sure everyone is on the same page.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -139,7 +139,7 @@
         },
         {
           "text": "If you don't already keep a dream journal, it's time to start. What we see in our dreams is often a direct message from the subconscious about new roads we need to take. It's not uncommon to see foods and forms of exercise (and other health practices) in your dreams. Paying attention to these unconscious messages is part of taking care of yourself. With time and dedicated attention, we become more skilled at recognizing the signs. Why be cut off from such a valid source of self-knowledge?",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -312,17 +312,17 @@
     "hc_general": {
       "text": "It isn't a good idea to try to fit people into a mold today, Taurus. This will only annoy others and frustrate you. It's important that you relax and simply let people blossom into the people they want to be. If you have a preconceived notion of who they should be, you're only setting yourself up for failure and disappointment, as well as anger from the other party.",
       "date": "Nov 5, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Delegate duties instead of taking on everything yourself. You are in a key position. You have a good vantage point of everything around you. Give people tasks that will help the goal come to fruition. Make sure everyone is on the same page.",
       "date": "Nov 5, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "If you don't already keep a dream journal, it's time to start. What we see in our dreams is often a direct message from the subconscious about new roads we need to take. It's not uncommon to see foods and forms of exercise (and other health practices) in your dreams. Paying attention to these unconscious messages is part of taking care of yourself. With time and dedicated attention, we become more skilled at recognizing the signs. Why be cut off from such a valid source of self-knowledge?",
       "date": "Nov 5, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "This week, you have positive and negative news about your financial life. If you've been true to your goals and kept within budget, this planet provides new opportunities to make more money. If you've overspent, sudden and perhaps unexpected changes in your career sector could mean that what you counted on to cover bills may not be there. Saving for the future can get you through this time.",
@@ -330,7 +330,7 @@
     },
     "ac": {
       "text": "Give your mind what it needs to think clearly and be prepared to act quickly, as the Libra Moon aligns with Neptune, Pluto, and Uranus. These electrifying vibes trigger exciting twists that can lead to major opportunities, dearest Taurus, even if you don't feel ready to take them on. Trust that your natural intellect and resourcefulness are enough for now. Though you prefer to be in control, the universe may be thwarting your plans in an attempt to guide you toward something bigger. Meditate on which areas of your life will require additional structure or discipline as you embark upon the next chapter once Luna opposes Saturn later tonight.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -384,17 +384,17 @@
       "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-05T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
-        "temp": 28,
-        "feels": 30,
-        "humidity": 59,
-        "label": "Light drizzle",
+        "iso": "2026-11-05T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
+        "temp": 27,
+        "feels": 29,
+        "humidity": 66,
+        "label": "Drizzle",
         "icon": "🌦️"
       },
       "high": 28,
-      "low": 22,
+      "low": 21,
       "rain": 82,
       "uv": 6.85,
       "periods": [
@@ -429,8 +429,8 @@
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "🌫️",
-          "label": "Fog",
+          "icon": "🌙",
+          "label": "Mostly clear",
           "temp": 22,
           "rain": 21
         }
@@ -446,12 +446,12 @@
           "icon": "⛅"
         },
         "Afternoon": {
-          "iso": "2026-11-05T12:15",
-          "time": "12:15 PM",
-          "temp": 28,
-          "feels": 30,
-          "humidity": 59,
-          "label": "Light drizzle",
+          "iso": "2026-11-05T14:00",
+          "time": "2:00 PM",
+          "temp": 27,
+          "feels": 29,
+          "humidity": 66,
+          "label": "Drizzle",
           "icon": "🌦️"
         }
       }
@@ -467,12 +467,12 @@
         "icon": "⛅"
       },
       "Afternoon": {
-        "iso": "2026-11-05T12:15",
-        "time": "12:15 PM",
-        "temp": 28,
-        "feels": 30,
-        "humidity": 59,
-        "label": "Light drizzle",
+        "iso": "2026-11-05T14:00",
+        "time": "2:00 PM",
+        "temp": 27,
+        "feels": 29,
+        "humidity": 66,
+        "label": "Drizzle",
         "icon": "🌦️"
       }
     },
@@ -483,17 +483,17 @@
       "label": "Light showers",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-05T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
-        "temp": 29,
-        "feels": 31,
-        "humidity": 53,
-        "label": "Light drizzle",
+        "iso": "2026-11-05T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
+        "temp": 28,
+        "feels": 30,
+        "humidity": 57,
+        "label": "Light showers",
         "icon": "🌦️"
       },
       "high": 29,
-      "low": 22,
+      "low": 21,
       "rain": 82,
       "uv": 6.25,
       "periods": [
@@ -545,12 +545,12 @@
           "icon": "☁️"
         },
         "Afternoon": {
-          "iso": "2026-11-05T12:15",
-          "time": "12:15 PM",
-          "temp": 29,
-          "feels": 31,
-          "humidity": 53,
-          "label": "Light drizzle",
+          "iso": "2026-11-05T14:00",
+          "time": "2:00 PM",
+          "temp": 28,
+          "feels": 30,
+          "humidity": 57,
+          "label": "Light showers",
           "icon": "🌦️"
         }
       }
@@ -566,12 +566,12 @@
         "icon": "☁️"
       },
       "Afternoon": {
-        "iso": "2026-11-05T12:15",
-        "time": "12:15 PM",
-        "temp": 29,
-        "feels": 31,
-        "humidity": 53,
-        "label": "Light drizzle",
+        "iso": "2026-11-05T14:00",
+        "time": "2:00 PM",
+        "temp": 28,
+        "feels": 30,
+        "humidity": 57,
+        "label": "Light showers",
         "icon": "🌦️"
       }
     },
@@ -703,17 +703,17 @@
         "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-05T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
-          "temp": 28,
-          "feels": 30,
-          "humidity": 59,
-          "label": "Light drizzle",
+          "iso": "2026-11-05T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
+          "temp": 27,
+          "feels": 29,
+          "humidity": 66,
+          "label": "Drizzle",
           "icon": "🌦️"
         },
         "high": 28,
-        "low": 22,
+        "low": 21,
         "rain": 82,
         "uv": 6.85,
         "periods": [
@@ -748,8 +748,8 @@
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "🌫️",
-            "label": "Fog",
+            "icon": "🌙",
+            "label": "Mostly clear",
             "temp": 22,
             "rain": 21
           }
@@ -765,12 +765,12 @@
             "icon": "⛅"
           },
           "Afternoon": {
-            "iso": "2026-11-05T12:15",
-            "time": "12:15 PM",
-            "temp": 28,
-            "feels": 30,
-            "humidity": 59,
-            "label": "Light drizzle",
+            "iso": "2026-11-05T14:00",
+            "time": "2:00 PM",
+            "temp": 27,
+            "feels": 29,
+            "humidity": 66,
+            "label": "Drizzle",
             "icon": "🌦️"
           }
         }
@@ -782,17 +782,17 @@
         "label": "Light showers",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-05T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
-          "temp": 29,
-          "feels": 31,
-          "humidity": 53,
-          "label": "Light drizzle",
+          "iso": "2026-11-05T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
+          "temp": 28,
+          "feels": 30,
+          "humidity": 57,
+          "label": "Light showers",
           "icon": "🌦️"
         },
         "high": 29,
-        "low": 22,
+        "low": 21,
         "rain": 82,
         "uv": 6.25,
         "periods": [
@@ -844,12 +844,12 @@
             "icon": "☁️"
           },
           "Afternoon": {
-            "iso": "2026-11-05T12:15",
-            "time": "12:15 PM",
-            "temp": 29,
-            "feels": 31,
-            "humidity": 53,
-            "label": "Light drizzle",
+            "iso": "2026-11-05T14:00",
+            "time": "2:00 PM",
+            "temp": 28,
+            "feels": 30,
+            "humidity": 57,
+            "label": "Light showers",
             "icon": "🌦️"
           }
         }
