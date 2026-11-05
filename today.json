@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 06 November 2026",
   "date_key": "2026-11-06",
-  "fetched_ist": "06 Nov 2026, 02:01 AM IST",
+  "fetched_ist": "06 Nov 2026, 03:13 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -363,12 +363,12 @@
       "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-06T02:00",
-        "time": "2:00 AM",
-        "hour": 2.0,
+        "iso": "2026-11-06T03:00",
+        "time": "3:00 AM",
+        "hour": 3.0,
         "temp": 22,
         "feels": 26,
-        "humidity": 93,
+        "humidity": 95,
         "label": "Clear sky",
         "icon": "🌙"
       },
@@ -424,12 +424,12 @@
       "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-06T02:00",
-        "time": "2:00 AM",
-        "hour": 2.0,
+        "iso": "2026-11-06T03:00",
+        "time": "3:00 AM",
+        "hour": 3.0,
         "temp": 22,
         "feels": 26,
-        "humidity": 92,
+        "humidity": 94,
         "label": "Clear sky",
         "icon": "🌙"
       },
@@ -606,12 +606,12 @@
         "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-06T02:00",
-          "time": "2:00 AM",
-          "hour": 2.0,
+          "iso": "2026-11-06T03:00",
+          "time": "3:00 AM",
+          "hour": 3.0,
           "temp": 22,
           "feels": 26,
-          "humidity": 93,
+          "humidity": 95,
           "label": "Clear sky",
           "icon": "🌙"
         },
@@ -666,12 +666,12 @@
         "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-06T02:00",
-          "time": "2:00 AM",
-          "hour": 2.0,
+          "iso": "2026-11-06T03:00",
+          "time": "3:00 AM",
+          "hour": 3.0,
           "temp": 22,
           "feels": 26,
-          "humidity": 92,
+          "humidity": 94,
           "label": "Clear sky",
           "icon": "🌙"
         },
