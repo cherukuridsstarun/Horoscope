@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 06 November 2026",
   "date_key": "2026-11-06",
-  "fetched_ist": "06 Nov 2026, 12:23 PM IST",
+  "fetched_ist": "06 Nov 2026, 02:09 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 6, 2026",
       "text": "It's important that you abandon the myth that you don't have any gifts or talents, Taurus. Consider thinking about your talents in the same way you think about your body. When you exercise, eat right, and get plenty of rest, your body responds. Your talents are no different. They need care and nurturing, too."
@@ -21,9 +21,9 @@
     {
       "name": "Astrology.com",
       "url": "https://www.astrology.com/horoscope/daily/taurus.html",
-      "ok": false,
-      "source_date": null,
-      "text": null
+      "ok": true,
+      "source_date": "November 6, 2026",
+      "text": "Focus on simplifying your life as the Moon moves through Libra, darling Taurus, activating the sector of your chart that governs work, wellness, and daily routines. Notice how stress disrupts your peace each day, and what you can do to minimize its impact. Prioritize your health before looking at the bigger picture. When you recognize which physical, mental, and emotional needs aren't being met, it will be easier to determine where change is needed. A sweet connection between Luna and Mars encourages you to establish new ground rules at home that center around improving efficiency and a fair division of responsibilities."
     },
     {
       "name": "AstroSage",
@@ -40,6 +40,10 @@
         "src": "GaneshaSpeaks"
       },
       {
+        "t": "A sweet connection between Luna and Mars encourages you to establish new ground rules at home that center around improving efficiency and a fair division of responsibilities.",
+        "src": "Astrology.com"
+      },
+      {
         "t": "If you had borrowed some money from a member of your family, then it is best to return it today, or else that member can take legal action against you.",
         "src": "AstroSage"
       },
@@ -52,6 +56,10 @@
       {
         "t": "Don’t miss out on this opportunity.",
         "src": "GaneshaSpeaks"
+      },
+      {
+        "t": "Notice how stress disrupts your peace each day, and what you can do to minimize its impact.",
+        "src": "Astrology.com"
       },
       {
         "t": "Smile as it is best antidote for all your problems.",
@@ -70,6 +78,10 @@
       {
         "t": "Consider thinking about your talents in the same way you think about your body.",
         "src": "Horoscope.com"
+      },
+      {
+        "t": "Focus on simplifying your life as the Moon moves through Libra, darling Taurus, activating the sector of your chart that governs work, wellness, and daily routines.",
+        "src": "Astrology.com"
       }
     ]
   },
@@ -83,11 +95,16 @@
         },
         {
           "text": "Today marks the start of a four-week period that asks you to put more fun and creativity into your career. Let your work be an extension of your creative self-expression. Use this time to let your artistic spirit shine. Put yourself out in the world.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
-      "bits": []
+      "bits": [
+        {
+          "t": "Focus on simplifying your life as the Moon moves through Libra, darling Taurus, activating the sector of your chart that governs work, wellness, and daily routines.",
+          "src": "Astrology.com"
+        }
+      ]
     },
     "money": {
       "readings": [
@@ -122,7 +139,7 @@
         },
         {
           "text": "With today's planetary alignment, you will be especially sensitive to the needs of others - with a special emphasis on family and children. You may want to consider enhancing your home environment in some nurturing way. Is it time to upgrade your kitchen? A simple planter box by your kitchen window is attractive and practical. Rosemary, parsley, and basil are some suggestions.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -138,6 +155,18 @@
         {
           "t": "When you exercise, eat right, and get plenty of rest, your body responds.",
           "src": "Horoscope.com"
+        },
+        {
+          "t": "Focus on simplifying your life as the Moon moves through Libra, darling Taurus, activating the sector of your chart that governs work, wellness, and daily routines.",
+          "src": "Astrology.com"
+        },
+        {
+          "t": "Notice how stress disrupts your peace each day, and what you can do to minimize its impact.",
+          "src": "Astrology.com"
+        },
+        {
+          "t": "Prioritize your health before looking at the bigger picture.",
+          "src": "Astrology.com"
         }
       ]
     }
@@ -180,7 +209,13 @@
       }
     ]
   },
-  "extras": [],
+  "extras": [
+    {
+      "title": "Bonus",
+      "text": "Keep the pace brisk today. The faster you go, the sooner you'll hit your goals.",
+      "src": "Astrology.com"
+    }
+  ],
   "gold": {
     "city": "Hyderabad",
     "rows": [
@@ -297,26 +332,32 @@
     "hc_general": {
       "text": "It's important that you abandon the myth that you don't have any gifts or talents, Taurus. Consider thinking about your talents in the same way you think about your body. When you exercise, eat right, and get plenty of rest, your body responds. Your talents are no different. They need care and nurturing, too.",
       "date": "Nov 6, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Today marks the start of a four-week period that asks you to put more fun and creativity into your career. Let your work be an extension of your creative self-expression. Use this time to let your artistic spirit shine. Put yourself out in the world.",
       "date": "Nov 6, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "With today's planetary alignment, you will be especially sensitive to the needs of others - with a special emphasis on family and children. You may want to consider enhancing your home environment in some nurturing way. Is it time to upgrade your kitchen? Healthy herbs grown in your own home are a lovely way to heighten the pleasure of eating as well as cooking. A simple planter box by your kitchen window is attractive and practical. Rosemary, parsley, and basil are some suggestions.",
       "date": "Nov 6, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "This week, you have positive and negative news about your financial life. If you've been true to your goals and kept within budget, this planet provides new opportunities to make more money. If you've overspent, sudden and perhaps unexpected changes in your career sector could mean that what you counted on to cover bills may not be there. Saving for the future can get you through this time.",
       "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2"
     },
     "ac": {
-      "text": null,
+      "text": "Focus on simplifying your life as the Moon moves through Libra, darling Taurus, activating the sector of your chart that governs work, wellness, and daily routines. Notice how stress disrupts your peace each day, and what you can do to minimize its impact. Prioritize your health before looking at the bigger picture. When you recognize which physical, mental, and emotional needs aren't being met, it will be easier to determine where change is needed. A sweet connection between Luna and Mars encourages you to establish new ground rules at home that center around improving efficiency and a fair division of responsibilities.",
       "url": "https://www.astrology.com/horoscope/daily/taurus.html",
-      "extras": []
+      "extras": [
+        {
+          "title": "Bonus",
+          "text": "Keep the pace brisk today. The faster you go, the sooner you'll hit your goals.",
+          "src": "Astrology.com"
+        }
+      ]
     },
     "astrosage": {
       "name": "AstroSage",
@@ -363,16 +404,16 @@
       "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-06T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
+        "iso": "2026-11-06T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
         "temp": 29,
-        "feels": 32,
-        "humidity": 50,
+        "feels": 31,
+        "humidity": 52,
         "label": "Light drizzle",
         "icon": "🌦️"
       },
-      "high": 30,
+      "high": 29,
       "low": 21,
       "rain": 62,
       "uv": 7.25,
@@ -381,8 +422,8 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "🌦️",
-          "label": "Light drizzle",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 25,
           "rain": 18
         },
@@ -408,8 +449,8 @@
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "🌙",
+          "label": "Clear sky",
           "temp": 22,
           "rain": 0
         }
@@ -425,11 +466,11 @@
           "icon": "☀️"
         },
         "Afternoon": {
-          "iso": "2026-11-06T12:15",
-          "time": "12:15 PM",
+          "iso": "2026-11-06T14:00",
+          "time": "2:00 PM",
           "temp": 29,
-          "feels": 32,
-          "humidity": 50,
+          "feels": 31,
+          "humidity": 52,
           "label": "Light drizzle",
           "icon": "🌦️"
         }
@@ -446,11 +487,11 @@
         "icon": "☀️"
       },
       "Afternoon": {
-        "iso": "2026-11-06T12:15",
-        "time": "12:15 PM",
+        "iso": "2026-11-06T14:00",
+        "time": "2:00 PM",
         "temp": 29,
-        "feels": 32,
-        "humidity": 50,
+        "feels": 31,
+        "humidity": 52,
         "label": "Light drizzle",
         "icon": "🌦️"
       }
@@ -459,15 +500,15 @@
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Drizzle",
+      "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-06T12:15",
-        "time": "12:15 PM",
-        "hour": 12.25,
+        "iso": "2026-11-06T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
         "temp": 30,
         "feels": 32,
-        "humidity": 47,
+        "humidity": 48,
         "label": "Light drizzle",
         "icon": "🌦️"
       },
@@ -490,7 +531,7 @@
           "from": 12,
           "to": 17,
           "icon": "🌦️",
-          "label": "Drizzle",
+          "label": "Light drizzle",
           "temp": 29,
           "rain": 62
         },
@@ -498,8 +539,8 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 26,
           "rain": 61
         },
@@ -507,8 +548,8 @@
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "🌙",
+          "label": "Clear sky",
           "temp": 22,
           "rain": 0
         }
@@ -524,11 +565,11 @@
           "icon": "☀️"
         },
         "Afternoon": {
-          "iso": "2026-11-06T12:15",
-          "time": "12:15 PM",
+          "iso": "2026-11-06T14:00",
+          "time": "2:00 PM",
           "temp": 30,
           "feels": 32,
-          "humidity": 47,
+          "humidity": 48,
           "label": "Light drizzle",
           "icon": "🌦️"
         }
@@ -545,11 +586,11 @@
         "icon": "☀️"
       },
       "Afternoon": {
-        "iso": "2026-11-06T12:15",
-        "time": "12:15 PM",
+        "iso": "2026-11-06T14:00",
+        "time": "2:00 PM",
         "temp": 30,
         "feels": 32,
-        "humidity": 47,
+        "humidity": 48,
         "label": "Light drizzle",
         "icon": "🌦️"
       }
@@ -682,16 +723,16 @@
         "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-06T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
+          "iso": "2026-11-06T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
           "temp": 29,
-          "feels": 32,
-          "humidity": 50,
+          "feels": 31,
+          "humidity": 52,
           "label": "Light drizzle",
           "icon": "🌦️"
         },
-        "high": 30,
+        "high": 29,
         "low": 21,
         "rain": 62,
         "uv": 7.25,
@@ -700,8 +741,8 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "🌦️",
-            "label": "Light drizzle",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 25,
             "rain": 18
           },
@@ -727,8 +768,8 @@
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "🌙",
+            "label": "Clear sky",
             "temp": 22,
             "rain": 0
           }
@@ -744,11 +785,11 @@
             "icon": "☀️"
           },
           "Afternoon": {
-            "iso": "2026-11-06T12:15",
-            "time": "12:15 PM",
+            "iso": "2026-11-06T14:00",
+            "time": "2:00 PM",
             "temp": 29,
-            "feels": 32,
-            "humidity": 50,
+            "feels": 31,
+            "humidity": 52,
             "label": "Light drizzle",
             "icon": "🌦️"
           }
@@ -758,15 +799,15 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Drizzle",
+        "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-06T12:15",
-          "time": "12:15 PM",
-          "hour": 12.25,
+          "iso": "2026-11-06T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
           "temp": 30,
           "feels": 32,
-          "humidity": 47,
+          "humidity": 48,
           "label": "Light drizzle",
           "icon": "🌦️"
         },
@@ -789,7 +830,7 @@
             "from": 12,
             "to": 17,
             "icon": "🌦️",
-            "label": "Drizzle",
+            "label": "Light drizzle",
             "temp": 29,
             "rain": 62
           },
@@ -797,8 +838,8 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 26,
             "rain": 61
           },
@@ -806,8 +847,8 @@
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "🌙",
+            "label": "Clear sky",
             "temp": 22,
             "rain": 0
           }
@@ -823,11 +864,11 @@
             "icon": "☀️"
           },
           "Afternoon": {
-            "iso": "2026-11-06T12:15",
-            "time": "12:15 PM",
+            "iso": "2026-11-06T14:00",
+            "time": "2:00 PM",
             "temp": 30,
             "feels": 32,
-            "humidity": 47,
+            "humidity": 48,
             "label": "Light drizzle",
             "icon": "🌦️"
           }
