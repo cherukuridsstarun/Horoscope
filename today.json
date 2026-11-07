@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Saturday, 07 November 2026",
   "date_key": "2026-11-07",
-  "fetched_ist": "07 Nov 2026, 01:24 PM IST",
+  "fetched_ist": "07 Nov 2026, 07:29 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 7, 2026",
       "text": "Yes, Taurus, this is a good moment to abandon old beliefs and moral values. Your view of life has changed and, above all, you're more aware of how your outdated, preconceived ideas sometimes poison your life. The past no longer concerns you. It's time for you to make a clean break from the beliefs that are holding you back. You might shock your family, but they'll get over it."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 7, 2026",
       "text": "Devote your Saturday morning to releasing stress and living your best life, darling Taurus. As the Libra Moon aligns with Venus RX, Jupiter, the nodes of fate, and Chiron, you're probably due for some serious pampering. Lay low to avoid overstimulation, skipping bustling crowds and long brunch lines. If you're dealing with a full household, have everyone pitch in to prepare breakfast and assist with cleanup. Your softer side shines through once Luna enters Scorpio midafternoon, balancing your aura and creating a sense of levity. Cut ties with anyone or anything that tries to steal your peace when Pluto grows restless later tonight."
@@ -103,7 +103,7 @@
         },
         {
           "text": "Don't expect people to pull through for you the way you want them to. People are rather flighty today and won't remember a thing that you have said. It will most likely go in one ear and out the other. Don't put your full trust in others.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -146,7 +146,7 @@
         },
         {
           "text": "With today's astral energies at play, you may feel extra sensitive. If you don't know what you think or feel, perhaps you could take some time to yourself and do something relaxing. Take your mind off the job, the kids, the spouse, the boss - and spend some time getting distracted in a healthy way. Definitely exercise, definitely drink a lot of water. The balancing act of separating what you want from what others want will be easier if you give yourself some extra room.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -327,17 +327,17 @@
     "hc_general": {
       "text": "Yes, Taurus, this is a good moment to abandon old beliefs and moral values. Your view of life has changed and, above all, you're more aware of how your outdated, preconceived ideas sometimes poison your life. The past no longer concerns you. It's time for you to make a clean break from the beliefs that are holding you back. You might shock your family, but they'll get over it.",
       "date": "Nov 7, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Don't expect people to pull through for you the way you want them to. People are rather flighty today and won't remember a thing that you have said. It will most likely go in one ear and out the other. Don't put your full trust in others.",
       "date": "Nov 7, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "With today's astral energies at play, you may feel extra sensitive. If you don't know what you think or feel, perhaps you could take some time to yourself and do something relaxing. Take your mind off the job, the kids, the spouse, the boss - and spend some time getting distracted in a healthy way. Definitely exercise, definitely drink a lot of water. The balancing act of separating what you want from what others want will be easier if you give yourself some extra room.",
       "date": "Nov 7, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "This week, you have positive and negative news about your financial life. If you've been true to your goals and kept within budget, this planet provides new opportunities to make more money. If you've overspent, sudden and perhaps unexpected changes in your career sector could mean that what you counted on to cover bills may not be there. Saving for the future can get you through this time.",
@@ -345,7 +345,7 @@
     },
     "ac": {
       "text": "Devote your Saturday morning to releasing stress and living your best life, darling Taurus. As the Libra Moon aligns with Venus RX, Jupiter, the nodes of fate, and Chiron, you're probably due for some serious pampering. Lay low to avoid overstimulation, skipping bustling crowds and long brunch lines. If you're dealing with a full household, have everyone pitch in to prepare breakfast and assist with cleanup. Your softer side shines through once Luna enters Scorpio midafternoon, balancing your aura and creating a sense of levity. Cut ties with anyone or anything that tries to steal your peace when Pluto grows restless later tonight.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -396,21 +396,21 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Cloudy",
-      "icon": "☁️",
+      "label": "Light drizzle",
+      "icon": "🌦️",
       "now": {
-        "iso": "2026-11-07T13:15",
-        "time": "1:15 PM",
-        "hour": 13.25,
-        "temp": 30,
-        "feels": 32,
-        "humidity": 42,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "iso": "2026-11-07T19:15",
+        "time": "7:15 PM",
+        "hour": 19.25,
+        "temp": 26,
+        "feels": 27,
+        "humidity": 59,
+        "label": "Clear sky",
+        "icon": "🌙"
       },
       "high": 30,
       "low": 21,
-      "rain": 6,
+      "rain": 27,
       "uv": 7.2,
       "periods": [
         {
@@ -420,25 +420,25 @@
           "icon": "☀️",
           "label": "Clear sky",
           "temp": 26,
-          "rain": 0
+          "rain": 4
         },
         {
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "🌦️",
+          "label": "Light drizzle",
           "temp": 30,
-          "rain": 6
+          "rain": 27
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "☀️",
+          "label": "Clear sky",
           "temp": 26,
-          "rain": 0
+          "rain": 6
         },
         {
           "name": "Night",
@@ -468,6 +468,15 @@
           "humidity": 42,
           "label": "Mostly clear",
           "icon": "🌤️"
+        },
+        "Evening": {
+          "iso": "2026-11-07T19:15",
+          "time": "7:15 PM",
+          "temp": 26,
+          "feels": 27,
+          "humidity": 59,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -489,28 +498,37 @@
         "humidity": 42,
         "label": "Mostly clear",
         "icon": "🌤️"
+      },
+      "Evening": {
+        "iso": "2026-11-07T19:15",
+        "time": "7:15 PM",
+        "temp": 26,
+        "feels": 27,
+        "humidity": 59,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Partly cloudy",
-      "icon": "⛅",
+      "label": "Cloudy",
+      "icon": "☁️",
       "now": {
-        "iso": "2026-11-07T13:15",
-        "time": "1:15 PM",
-        "hour": 13.25,
-        "temp": 31,
-        "feels": 32,
-        "humidity": 40,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "iso": "2026-11-07T19:15",
+        "time": "7:15 PM",
+        "hour": 19.25,
+        "temp": 26,
+        "feels": 27,
+        "humidity": 56,
+        "label": "Clear sky",
+        "icon": "🌙"
       },
       "high": 31,
       "low": 21,
-      "rain": 6,
-      "uv": 7.2,
+      "rain": 27,
+      "uv": 7.25,
       "periods": [
         {
           "name": "Morning",
@@ -519,25 +537,25 @@
           "icon": "☀️",
           "label": "Clear sky",
           "temp": 26,
-          "rain": 0
+          "rain": 4
         },
         {
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 30,
-          "rain": 6
+          "rain": 27
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "☀️",
+          "label": "Clear sky",
           "temp": 26,
-          "rain": 0
+          "rain": 6
         },
         {
           "name": "Night",
@@ -567,6 +585,15 @@
           "humidity": 40,
           "label": "Mostly clear",
           "icon": "🌤️"
+        },
+        "Evening": {
+          "iso": "2026-11-07T19:15",
+          "time": "7:15 PM",
+          "temp": 26,
+          "feels": 27,
+          "humidity": 56,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -588,6 +615,15 @@
         "humidity": 40,
         "label": "Mostly clear",
         "icon": "🌤️"
+      },
+      "Evening": {
+        "iso": "2026-11-07T19:15",
+        "time": "7:15 PM",
+        "temp": 26,
+        "feels": 27,
+        "humidity": 56,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "gold": {
@@ -715,21 +751,21 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Cloudy",
-        "icon": "☁️",
+        "label": "Light drizzle",
+        "icon": "🌦️",
         "now": {
-          "iso": "2026-11-07T13:15",
-          "time": "1:15 PM",
-          "hour": 13.25,
-          "temp": 30,
-          "feels": 32,
-          "humidity": 42,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "iso": "2026-11-07T19:15",
+          "time": "7:15 PM",
+          "hour": 19.25,
+          "temp": 26,
+          "feels": 27,
+          "humidity": 59,
+          "label": "Clear sky",
+          "icon": "🌙"
         },
         "high": 30,
         "low": 21,
-        "rain": 6,
+        "rain": 27,
         "uv": 7.2,
         "periods": [
           {
@@ -739,25 +775,25 @@
             "icon": "☀️",
             "label": "Clear sky",
             "temp": 26,
-            "rain": 0
+            "rain": 4
           },
           {
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "🌦️",
+            "label": "Light drizzle",
             "temp": 30,
-            "rain": 6
+            "rain": 27
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "☀️",
+            "label": "Clear sky",
             "temp": 26,
-            "rain": 0
+            "rain": 6
           },
           {
             "name": "Night",
@@ -787,6 +823,15 @@
             "humidity": 42,
             "label": "Mostly clear",
             "icon": "🌤️"
+          },
+          "Evening": {
+            "iso": "2026-11-07T19:15",
+            "time": "7:15 PM",
+            "temp": 26,
+            "feels": 27,
+            "humidity": 59,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       },
@@ -794,22 +839,22 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Partly cloudy",
-        "icon": "⛅",
+        "label": "Cloudy",
+        "icon": "☁️",
         "now": {
-          "iso": "2026-11-07T13:15",
-          "time": "1:15 PM",
-          "hour": 13.25,
-          "temp": 31,
-          "feels": 32,
-          "humidity": 40,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "iso": "2026-11-07T19:15",
+          "time": "7:15 PM",
+          "hour": 19.25,
+          "temp": 26,
+          "feels": 27,
+          "humidity": 56,
+          "label": "Clear sky",
+          "icon": "🌙"
         },
         "high": 31,
         "low": 21,
-        "rain": 6,
-        "uv": 7.2,
+        "rain": 27,
+        "uv": 7.25,
         "periods": [
           {
             "name": "Morning",
@@ -818,25 +863,25 @@
             "icon": "☀️",
             "label": "Clear sky",
             "temp": 26,
-            "rain": 0
+            "rain": 4
           },
           {
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 30,
-            "rain": 6
+            "rain": 27
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "☀️",
+            "label": "Clear sky",
             "temp": 26,
-            "rain": 0
+            "rain": 6
           },
           {
             "name": "Night",
@@ -866,6 +911,15 @@
             "humidity": 40,
             "label": "Mostly clear",
             "icon": "🌤️"
+          },
+          "Evening": {
+            "iso": "2026-11-07T19:15",
+            "time": "7:15 PM",
+            "temp": 26,
+            "feels": 27,
+            "humidity": 56,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       }
