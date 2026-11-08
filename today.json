@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Sunday, 08 November 2026",
   "date_key": "2026-11-08",
-  "fetched_ist": "08 Nov 2026, 07:25 AM IST",
+  "fetched_ist": "08 Nov 2026, 11:38 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -388,14 +388,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-08T07:15",
-        "time": "7:15 AM",
-        "hour": 7.25,
-        "temp": 22,
-        "feels": 21,
-        "humidity": 51,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "iso": "2026-11-08T11:30",
+        "time": "11:30 AM",
+        "hour": 11.5,
+        "temp": 29,
+        "feels": 29,
+        "humidity": 33,
+        "label": "Clear sky",
+        "icon": "☀️"
       },
       "high": 30,
       "low": 21,
@@ -441,25 +441,25 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-11-08T07:15",
-          "time": "7:15 AM",
-          "temp": 22,
-          "feels": 21,
-          "humidity": 51,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "iso": "2026-11-08T11:30",
+          "time": "11:30 AM",
+          "temp": 29,
+          "feels": 29,
+          "humidity": 33,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
     "wxlog_home": {
       "Morning": {
-        "iso": "2026-11-08T07:15",
-        "time": "7:15 AM",
-        "temp": 22,
-        "feels": 21,
-        "humidity": 51,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "iso": "2026-11-08T11:30",
+        "time": "11:30 AM",
+        "temp": 29,
+        "feels": 29,
+        "humidity": 33,
+        "label": "Clear sky",
+        "icon": "☀️"
       }
     },
     "wx_office": {
@@ -469,14 +469,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-08T07:15",
-        "time": "7:15 AM",
-        "hour": 7.25,
-        "temp": 22,
-        "feels": 21,
-        "humidity": 52,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "iso": "2026-11-08T11:30",
+        "time": "11:30 AM",
+        "hour": 11.5,
+        "temp": 30,
+        "feels": 29,
+        "humidity": 29,
+        "label": "Clear sky",
+        "icon": "☀️"
       },
       "high": 30,
       "low": 20,
@@ -522,25 +522,25 @@
       ],
       "log": {
         "Morning": {
-          "iso": "2026-11-08T07:15",
-          "time": "7:15 AM",
-          "temp": 22,
-          "feels": 21,
-          "humidity": 52,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "iso": "2026-11-08T11:30",
+          "time": "11:30 AM",
+          "temp": 30,
+          "feels": 29,
+          "humidity": 29,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
     "wxlog_office": {
       "Morning": {
-        "iso": "2026-11-08T07:15",
-        "time": "7:15 AM",
-        "temp": 22,
-        "feels": 21,
-        "humidity": 52,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "iso": "2026-11-08T11:30",
+        "time": "11:30 AM",
+        "temp": 30,
+        "feels": 29,
+        "humidity": 29,
+        "label": "Clear sky",
+        "icon": "☀️"
       }
     },
     "gold": {
@@ -671,14 +671,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-08T07:15",
-          "time": "7:15 AM",
-          "hour": 7.25,
-          "temp": 22,
-          "feels": 21,
-          "humidity": 51,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "iso": "2026-11-08T11:30",
+          "time": "11:30 AM",
+          "hour": 11.5,
+          "temp": 29,
+          "feels": 29,
+          "humidity": 33,
+          "label": "Clear sky",
+          "icon": "☀️"
         },
         "high": 30,
         "low": 21,
@@ -724,13 +724,13 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-11-08T07:15",
-            "time": "7:15 AM",
-            "temp": 22,
-            "feels": 21,
-            "humidity": 51,
-            "label": "Partly cloudy",
-            "icon": "⛅"
+            "iso": "2026-11-08T11:30",
+            "time": "11:30 AM",
+            "temp": 29,
+            "feels": 29,
+            "humidity": 33,
+            "label": "Clear sky",
+            "icon": "☀️"
           }
         }
       },
@@ -741,14 +741,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-08T07:15",
-          "time": "7:15 AM",
-          "hour": 7.25,
-          "temp": 22,
-          "feels": 21,
-          "humidity": 52,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "iso": "2026-11-08T11:30",
+          "time": "11:30 AM",
+          "hour": 11.5,
+          "temp": 30,
+          "feels": 29,
+          "humidity": 29,
+          "label": "Clear sky",
+          "icon": "☀️"
         },
         "high": 30,
         "low": 20,
@@ -794,13 +794,13 @@
         ],
         "log": {
           "Morning": {
-            "iso": "2026-11-08T07:15",
-            "time": "7:15 AM",
-            "temp": 22,
-            "feels": 21,
-            "humidity": 52,
-            "label": "Partly cloudy",
-            "icon": "⛅"
+            "iso": "2026-11-08T11:30",
+            "time": "11:30 AM",
+            "temp": 30,
+            "feels": 29,
+            "humidity": 29,
+            "label": "Clear sky",
+            "icon": "☀️"
           }
         }
       }
