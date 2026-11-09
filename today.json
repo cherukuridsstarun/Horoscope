@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 10 November 2026",
   "date_key": "2026-11-10",
-  "fetched_ist": "10 Nov 2026, 04:25 AM IST",
+  "fetched_ist": "10 Nov 2026, 05:25 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -205,9 +205,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 14460,
-        "k22": 13255,
-        "change22": 95,
+        "k24": 14461,
+        "k22": 13256,
+        "change22": 1,
         "date": "10 November 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -231,11 +231,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "Oct 31, 2026",
-        "k22": 12730,
-        "k24": 13888
-      },
       {
         "date": "Nov 01, 2026",
         "k22": 12730,
@@ -280,6 +275,11 @@
         "date": "Nov 09, 2026",
         "k22": 13255,
         "k24": 14460
+      },
+      {
+        "date": "Nov 10, 2026",
+        "k22": 13256,
+        "k24": 14461
       }
     ]
   },
@@ -387,12 +387,12 @@
       "label": "Clear sky",
       "icon": "☀️",
       "now": {
-        "iso": "2026-11-10T04:15",
-        "time": "4:15 AM",
-        "hour": 4.25,
+        "iso": "2026-11-10T05:15",
+        "time": "5:15 AM",
+        "hour": 5.25,
         "temp": 20,
         "feels": 19,
-        "humidity": 50,
+        "humidity": 52,
         "label": "Clear sky",
         "icon": "🌙"
       },
@@ -448,12 +448,12 @@
       "label": "Clear sky",
       "icon": "☀️",
       "now": {
-        "iso": "2026-11-10T04:15",
-        "time": "4:15 AM",
-        "hour": 4.25,
+        "iso": "2026-11-10T05:15",
+        "time": "5:15 AM",
+        "hour": 5.25,
         "temp": 19,
         "feels": 18,
-        "humidity": 53,
+        "humidity": 55,
         "label": "Clear sky",
         "icon": "🌙"
       },
@@ -507,9 +507,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 14460,
-          "k22": 13255,
-          "change22": 95,
+          "k24": 14461,
+          "k22": 13256,
+          "change22": 1,
           "date": "10 November 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -533,11 +533,6 @@
         }
       },
       "trend": [
-        {
-          "date": "Oct 31, 2026",
-          "k22": 12730,
-          "k24": 13888
-        },
         {
           "date": "Nov 01, 2026",
           "k22": 12730,
@@ -582,6 +577,11 @@
           "date": "Nov 09, 2026",
           "k22": 13255,
           "k24": 14460
+        },
+        {
+          "date": "Nov 10, 2026",
+          "k22": 13256,
+          "k24": 14461
         }
       ]
     }
@@ -624,12 +624,12 @@
         "label": "Clear sky",
         "icon": "☀️",
         "now": {
-          "iso": "2026-11-10T04:15",
-          "time": "4:15 AM",
-          "hour": 4.25,
+          "iso": "2026-11-10T05:15",
+          "time": "5:15 AM",
+          "hour": 5.25,
           "temp": 20,
           "feels": 19,
-          "humidity": 50,
+          "humidity": 52,
           "label": "Clear sky",
           "icon": "🌙"
         },
@@ -684,12 +684,12 @@
         "label": "Clear sky",
         "icon": "☀️",
         "now": {
-          "iso": "2026-11-10T04:15",
-          "time": "4:15 AM",
-          "hour": 4.25,
+          "iso": "2026-11-10T05:15",
+          "time": "5:15 AM",
+          "hour": 5.25,
           "temp": 19,
           "feels": 18,
-          "humidity": 53,
+          "humidity": 55,
           "label": "Clear sky",
           "icon": "🌙"
         },
