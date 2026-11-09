@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Monday, 09 November 2026",
   "date_key": "2026-11-09",
-  "fetched_ist": "09 Nov 2026, 12:11 PM IST",
+  "fetched_ist": "09 Nov 2026, 02:17 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 9, 2026",
       "text": "Even if it's true in general that Taurus have strong bodies like you, there are times when it's important that they take care of themselves. This would be an ideal day to be more aware of that fact. It isn't that you're going to have health problems. Rather, the planets are positioned in the middle of abundant activity, suggesting that you'd be wise to take care of your body - your greatest asset."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 9, 2026",
       "text": "Rowdy vibes fill your space and disrupt peaceful connections, dearest Taurus, as the Scorpio Moon and Mars square off. It will be difficult to control your behavior when people test your patience, but try to take a deep breath if you start to feel reactive. Prioritize restorative activities and soft interactions while Jupiter stirs mid-afternoon. Reflect on lessons the day brought when Luna and the nodes of fate enter a t-square this evening, determining where stronger boundaries or structures should be implemented. Reset your nervous system by embracing your favorite wellness practices at home once Venus rx and Mars align tonight."
@@ -94,7 +94,7 @@
         },
         {
           "text": "Home issues are at the forefront of your mind and right now these things hold much more importance to you than work issues. Whether you are at work today or not, take care of these domestic questions and worries first so you can focus on work later.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -133,7 +133,7 @@
           "src": "GaneshaSpeaks"
         },
         {
-          "text": "This week, you have positive and negative news about your financial life. If you've been true to your goals and kept within budget, this planet provides new opportunities to make more money. If you've overspent, sudden and perhaps unexpected changes in your career sector could mean that what you counted on to cover bills may not be there. Saving for the future can get you through this time.",
+          "text": "Career activity brings excitement and drama but also a bit of unpredictability this week. Ideas are flying, but you need to monetize one before moving on to the next lest you find yourself with decreased cash flow. A lot is changing there, requiring you to be diplomatic with your attention at this time.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
           "src": "Horoscope.com · this week"
         }
@@ -154,7 +154,7 @@
         },
         {
           "text": "Keep things light today, in almost every area. Balance the deep with the superficial: water the plants, do the laundry, and clean the kitchen while you sense the emotional currents that run deep. Things need to \"gestate\" in your unconscious until they are ready to come up. I recommend taking an easy walk for exercise or swimming a few laps. Concentrate on the preparation of healthy meals such as vegetable soup or a vegetarian casserole. Notice the beauty in humble things.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -339,25 +339,25 @@
     "hc_general": {
       "text": "Even if it's true in general that Taurus have strong bodies like you, there are times when it's important that they take care of themselves. This would be an ideal day to be more aware of that fact. It isn't that you're going to have health problems. Rather, the planets are positioned in the middle of abundant activity, suggesting that you'd be wise to take care of your body - your greatest asset.",
       "date": "Nov 9, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Home issues are at the forefront of your mind and right now these things hold much more importance to you than work issues. Whether you are at work today or not, take care of these domestic questions and worries first so you can focus on work later.",
       "date": "Nov 9, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Keep things light today, in almost every area. Balance the deep with the superficial: water the plants, do the laundry, and clean the kitchen while you sense the emotional currents that run deep. Things need to \"gestate\" in your unconscious until they are ready to come up. I recommend taking an easy walk for exercise or swimming a few laps. Concentrate on the preparation of healthy meals such as vegetable soup or a vegetarian casserole. Notice the beauty in humble things.",
       "date": "Nov 9, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
-      "text": "This week, you have positive and negative news about your financial life. If you've been true to your goals and kept within budget, this planet provides new opportunities to make more money. If you've overspent, sudden and perhaps unexpected changes in your career sector could mean that what you counted on to cover bills may not be there. Saving for the future can get you through this time.",
+      "text": "Career activity brings excitement and drama but also a bit of unpredictability this week. Ideas are flying, but you need to monetize one before moving on to the next lest you find yourself with decreased cash flow. Aspects affect your relationship house, too. A lot is changing there, requiring you to be diplomatic with your attention at this time. Love dictates your decision.",
       "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2"
     },
     "ac": {
       "text": "Rowdy vibes fill your space and disrupt peaceful connections, dearest Taurus, as the Scorpio Moon and Mars square off. It will be difficult to control your behavior when people test your patience, but try to take a deep breath if you start to feel reactive. Prioritize restorative activities and soft interactions while Jupiter stirs mid-afternoon. Reflect on lessons the day brought when Luna and the nodes of fate enter a t-square this evening, determining where stronger boundaries or structures should be implemented. Reset your nervous system by embracing your favorite wellness practices at home once Venus rx and Mars align tonight.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -408,19 +408,19 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Clear sky",
-      "icon": "☀️",
+      "label": "Partly cloudy",
+      "icon": "⛅",
       "now": {
-        "iso": "2026-11-09T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
+        "iso": "2026-11-09T14:15",
+        "time": "2:15 PM",
+        "hour": 14.25,
         "temp": 29,
-        "feels": 28,
-        "humidity": 28,
-        "label": "Clear sky",
-        "icon": "☀️"
+        "feels": 29,
+        "humidity": 31,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       },
-      "high": 30,
+      "high": 29,
       "low": 20,
       "rain": 0,
       "uv": 7.15,
@@ -431,15 +431,15 @@
           "to": 12,
           "icon": "☀️",
           "label": "Clear sky",
-          "temp": 25,
+          "temp": 24,
           "rain": 0
         },
         {
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "⛅",
+          "label": "Partly cloudy",
           "temp": 29,
           "rain": 0
         },
@@ -449,7 +449,7 @@
           "to": 21,
           "icon": "☀️",
           "label": "Clear sky",
-          "temp": 25,
+          "temp": 24,
           "rain": 0
         },
         {
@@ -473,13 +473,13 @@
           "icon": "☀️"
         },
         "Afternoon": {
-          "iso": "2026-11-09T12:00",
-          "time": "12:00 PM",
+          "iso": "2026-11-09T14:15",
+          "time": "2:15 PM",
           "temp": 29,
-          "feels": 28,
-          "humidity": 28,
-          "label": "Clear sky",
-          "icon": "☀️"
+          "feels": 29,
+          "humidity": 31,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         }
       }
     },
@@ -494,30 +494,30 @@
         "icon": "☀️"
       },
       "Afternoon": {
-        "iso": "2026-11-09T12:00",
-        "time": "12:00 PM",
+        "iso": "2026-11-09T14:15",
+        "time": "2:15 PM",
         "temp": 29,
-        "feels": 28,
-        "humidity": 28,
-        "label": "Clear sky",
-        "icon": "☀️"
+        "feels": 29,
+        "humidity": 31,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       }
     },
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Clear sky",
-      "icon": "☀️",
+      "label": "Partly cloudy",
+      "icon": "⛅",
       "now": {
-        "iso": "2026-11-09T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 29,
+        "iso": "2026-11-09T14:15",
+        "time": "2:15 PM",
+        "hour": 14.25,
+        "temp": 30,
         "feels": 29,
-        "humidity": 27,
-        "label": "Clear sky",
-        "icon": "☀️"
+        "humidity": 29,
+        "label": "Mostly clear",
+        "icon": "🌤️"
       },
       "high": 30,
       "low": 20,
@@ -537,8 +537,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "⛅",
+          "label": "Partly cloudy",
           "temp": 29,
           "rain": 0
         },
@@ -548,7 +548,7 @@
           "to": 21,
           "icon": "☀️",
           "label": "Clear sky",
-          "temp": 25,
+          "temp": 24,
           "rain": 0
         },
         {
@@ -572,13 +572,13 @@
           "icon": "☀️"
         },
         "Afternoon": {
-          "iso": "2026-11-09T12:00",
-          "time": "12:00 PM",
-          "temp": 29,
+          "iso": "2026-11-09T14:15",
+          "time": "2:15 PM",
+          "temp": 30,
           "feels": 29,
-          "humidity": 27,
-          "label": "Clear sky",
-          "icon": "☀️"
+          "humidity": 29,
+          "label": "Mostly clear",
+          "icon": "🌤️"
         }
       }
     },
@@ -593,13 +593,13 @@
         "icon": "☀️"
       },
       "Afternoon": {
-        "iso": "2026-11-09T12:00",
-        "time": "12:00 PM",
-        "temp": 29,
+        "iso": "2026-11-09T14:15",
+        "time": "2:15 PM",
+        "temp": 30,
         "feels": 29,
-        "humidity": 27,
-        "label": "Clear sky",
-        "icon": "☀️"
+        "humidity": 29,
+        "label": "Mostly clear",
+        "icon": "🌤️"
       }
     },
     "gold": {
@@ -727,19 +727,19 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Clear sky",
-        "icon": "☀️",
+        "label": "Partly cloudy",
+        "icon": "⛅",
         "now": {
-          "iso": "2026-11-09T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
+          "iso": "2026-11-09T14:15",
+          "time": "2:15 PM",
+          "hour": 14.25,
           "temp": 29,
-          "feels": 28,
-          "humidity": 28,
-          "label": "Clear sky",
-          "icon": "☀️"
+          "feels": 29,
+          "humidity": 31,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         },
-        "high": 30,
+        "high": 29,
         "low": 20,
         "rain": 0,
         "uv": 7.15,
@@ -750,15 +750,15 @@
             "to": 12,
             "icon": "☀️",
             "label": "Clear sky",
-            "temp": 25,
+            "temp": 24,
             "rain": 0
           },
           {
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "⛅",
+            "label": "Partly cloudy",
             "temp": 29,
             "rain": 0
           },
@@ -768,7 +768,7 @@
             "to": 21,
             "icon": "☀️",
             "label": "Clear sky",
-            "temp": 25,
+            "temp": 24,
             "rain": 0
           },
           {
@@ -792,13 +792,13 @@
             "icon": "☀️"
           },
           "Afternoon": {
-            "iso": "2026-11-09T12:00",
-            "time": "12:00 PM",
+            "iso": "2026-11-09T14:15",
+            "time": "2:15 PM",
             "temp": 29,
-            "feels": 28,
-            "humidity": 28,
-            "label": "Clear sky",
-            "icon": "☀️"
+            "feels": 29,
+            "humidity": 31,
+            "label": "Partly cloudy",
+            "icon": "⛅"
           }
         }
       },
@@ -806,17 +806,17 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Clear sky",
-        "icon": "☀️",
+        "label": "Partly cloudy",
+        "icon": "⛅",
         "now": {
-          "iso": "2026-11-09T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 29,
+          "iso": "2026-11-09T14:15",
+          "time": "2:15 PM",
+          "hour": 14.25,
+          "temp": 30,
           "feels": 29,
-          "humidity": 27,
-          "label": "Clear sky",
-          "icon": "☀️"
+          "humidity": 29,
+          "label": "Mostly clear",
+          "icon": "🌤️"
         },
         "high": 30,
         "low": 20,
@@ -836,8 +836,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "⛅",
+            "label": "Partly cloudy",
             "temp": 29,
             "rain": 0
           },
@@ -847,7 +847,7 @@
             "to": 21,
             "icon": "☀️",
             "label": "Clear sky",
-            "temp": 25,
+            "temp": 24,
             "rain": 0
           },
           {
@@ -871,13 +871,13 @@
             "icon": "☀️"
           },
           "Afternoon": {
-            "iso": "2026-11-09T12:00",
-            "time": "12:00 PM",
-            "temp": 29,
+            "iso": "2026-11-09T14:15",
+            "time": "2:15 PM",
+            "temp": 30,
             "feels": 29,
-            "humidity": 27,
-            "label": "Clear sky",
-            "icon": "☀️"
+            "humidity": 29,
+            "label": "Mostly clear",
+            "icon": "🌤️"
           }
         }
       }
