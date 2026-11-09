@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Monday, 09 November 2026",
   "date_key": "2026-11-09",
-  "fetched_ist": "09 Nov 2026, 07:40 AM IST",
+  "fetched_ist": "09 Nov 2026, 12:11 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -229,9 +229,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 14356,
-        "k22": 13159,
-        "change22": -1,
+        "k24": 14460,
+        "k22": 13255,
+        "change22": 95,
         "date": "9 November 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -302,8 +302,8 @@
       },
       {
         "date": "Nov 09, 2026",
-        "k22": 13159,
-        "k24": 14356
+        "k22": 13255,
+        "k24": 14460
       }
     ]
   },
@@ -411,12 +411,12 @@
       "label": "Clear sky",
       "icon": "☀️",
       "now": {
-        "iso": "2026-11-09T07:30",
-        "time": "7:30 AM",
-        "hour": 7.5,
-        "temp": 22,
-        "feels": 20,
-        "humidity": 51,
+        "iso": "2026-11-09T12:00",
+        "time": "12:00 PM",
+        "hour": 12.0,
+        "temp": 29,
+        "feels": 28,
+        "humidity": 28,
         "label": "Clear sky",
         "icon": "☀️"
       },
@@ -471,6 +471,15 @@
           "humidity": 51,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-11-09T12:00",
+          "time": "12:00 PM",
+          "temp": 29,
+          "feels": 28,
+          "humidity": 28,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -483,6 +492,15 @@
         "humidity": 51,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-11-09T12:00",
+        "time": "12:00 PM",
+        "temp": 29,
+        "feels": 28,
+        "humidity": 28,
+        "label": "Clear sky",
+        "icon": "☀️"
       }
     },
     "wx_office": {
@@ -492,12 +510,12 @@
       "label": "Clear sky",
       "icon": "☀️",
       "now": {
-        "iso": "2026-11-09T07:30",
-        "time": "7:30 AM",
-        "hour": 7.5,
-        "temp": 22,
-        "feels": 20,
-        "humidity": 49,
+        "iso": "2026-11-09T12:00",
+        "time": "12:00 PM",
+        "hour": 12.0,
+        "temp": 29,
+        "feels": 29,
+        "humidity": 27,
         "label": "Clear sky",
         "icon": "☀️"
       },
@@ -552,6 +570,15 @@
           "humidity": 49,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-11-09T12:00",
+          "time": "12:00 PM",
+          "temp": 29,
+          "feels": 29,
+          "humidity": 27,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -564,6 +591,15 @@
         "humidity": 49,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-11-09T12:00",
+        "time": "12:00 PM",
+        "temp": 29,
+        "feels": 29,
+        "humidity": 27,
+        "label": "Clear sky",
+        "icon": "☀️"
       }
     },
     "gold": {
@@ -571,9 +607,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 14356,
-          "k22": 13159,
-          "change22": -1,
+          "k24": 14460,
+          "k22": 13255,
+          "change22": 95,
           "date": "9 November 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -644,8 +680,8 @@
         },
         {
           "date": "Nov 09, 2026",
-          "k22": 13159,
-          "k24": 14356
+          "k22": 13255,
+          "k24": 14460
         }
       ]
     }
@@ -694,12 +730,12 @@
         "label": "Clear sky",
         "icon": "☀️",
         "now": {
-          "iso": "2026-11-09T07:30",
-          "time": "7:30 AM",
-          "hour": 7.5,
-          "temp": 22,
-          "feels": 20,
-          "humidity": 51,
+          "iso": "2026-11-09T12:00",
+          "time": "12:00 PM",
+          "hour": 12.0,
+          "temp": 29,
+          "feels": 28,
+          "humidity": 28,
           "label": "Clear sky",
           "icon": "☀️"
         },
@@ -754,6 +790,15 @@
             "humidity": 51,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-11-09T12:00",
+            "time": "12:00 PM",
+            "temp": 29,
+            "feels": 28,
+            "humidity": 28,
+            "label": "Clear sky",
+            "icon": "☀️"
           }
         }
       },
@@ -764,12 +809,12 @@
         "label": "Clear sky",
         "icon": "☀️",
         "now": {
-          "iso": "2026-11-09T07:30",
-          "time": "7:30 AM",
-          "hour": 7.5,
-          "temp": 22,
-          "feels": 20,
-          "humidity": 49,
+          "iso": "2026-11-09T12:00",
+          "time": "12:00 PM",
+          "hour": 12.0,
+          "temp": 29,
+          "feels": 29,
+          "humidity": 27,
           "label": "Clear sky",
           "icon": "☀️"
         },
@@ -822,6 +867,15 @@
             "temp": 22,
             "feels": 20,
             "humidity": 49,
+            "label": "Clear sky",
+            "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-11-09T12:00",
+            "time": "12:00 PM",
+            "temp": 29,
+            "feels": 29,
+            "humidity": 27,
             "label": "Clear sky",
             "icon": "☀️"
           }
