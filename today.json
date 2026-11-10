@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 10 November 2026",
   "date_key": "2026-11-10",
-  "fetched_ist": "10 Nov 2026, 05:25 AM IST",
+  "fetched_ist": "10 Nov 2026, 09:53 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -205,9 +205,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 14461,
-        "k22": 13256,
-        "change22": 1,
+        "k24": 14411,
+        "k22": 13210,
+        "change22": -45,
         "date": "10 November 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -278,8 +278,8 @@
       },
       {
         "date": "Nov 10, 2026",
-        "k22": 13256,
-        "k24": 14461
+        "k22": 13210,
+        "k24": 14411
       }
     ]
   },
@@ -384,17 +384,17 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Clear sky",
-      "icon": "☀️",
+      "label": "Mostly clear",
+      "icon": "🌤️",
       "now": {
-        "iso": "2026-11-10T05:15",
-        "time": "5:15 AM",
-        "hour": 5.25,
-        "temp": 20,
-        "feels": 19,
-        "humidity": 52,
+        "iso": "2026-11-10T09:45",
+        "time": "9:45 AM",
+        "hour": 9.75,
+        "temp": 27,
+        "feels": 25,
+        "humidity": 31,
         "label": "Clear sky",
-        "icon": "🌙"
+        "icon": "☀️"
       },
       "high": 30,
       "low": 19,
@@ -407,76 +407,15 @@
           "to": 12,
           "icon": "☀️",
           "label": "Clear sky",
-          "temp": 25,
+          "temp": 24,
           "rain": 0
         },
         {
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "☀️",
-          "label": "Clear sky",
-          "temp": 29,
-          "rain": 0
-        },
-        {
-          "name": "Evening",
-          "from": 17,
-          "to": 21,
-          "icon": "☀️",
-          "label": "Clear sky",
-          "temp": 25,
-          "rain": 0
-        },
-        {
-          "name": "Night",
-          "from": 21,
-          "to": 30,
-          "icon": "🌙",
+          "icon": "🌤️",
           "label": "Mostly clear",
-          "temp": 21,
-          "rain": 0
-        }
-      ],
-      "log": {}
-    },
-    "wxlog_home": {},
-    "wx_office": {
-      "key": "office",
-      "name": "Office",
-      "area": "",
-      "label": "Clear sky",
-      "icon": "☀️",
-      "now": {
-        "iso": "2026-11-10T05:15",
-        "time": "5:15 AM",
-        "hour": 5.25,
-        "temp": 19,
-        "feels": 18,
-        "humidity": 55,
-        "label": "Clear sky",
-        "icon": "🌙"
-      },
-      "high": 30,
-      "low": 19,
-      "rain": 0,
-      "uv": 7.15,
-      "periods": [
-        {
-          "name": "Morning",
-          "from": 6,
-          "to": 12,
-          "icon": "☀️",
-          "label": "Clear sky",
-          "temp": 25,
-          "rain": 0
-        },
-        {
-          "name": "Afternoon",
-          "from": 12,
-          "to": 17,
-          "icon": "☀️",
-          "label": "Clear sky",
           "temp": 29,
           "rain": 0
         },
@@ -484,8 +423,8 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 25,
           "rain": 0
         },
@@ -499,17 +438,118 @@
           "rain": 0
         }
       ],
-      "log": {}
+      "log": {
+        "Morning": {
+          "iso": "2026-11-10T09:45",
+          "time": "9:45 AM",
+          "temp": 27,
+          "feels": 25,
+          "humidity": 31,
+          "label": "Clear sky",
+          "icon": "☀️"
+        }
+      }
     },
-    "wxlog_office": {},
+    "wxlog_home": {
+      "Morning": {
+        "iso": "2026-11-10T09:45",
+        "time": "9:45 AM",
+        "temp": 27,
+        "feels": 25,
+        "humidity": 31,
+        "label": "Clear sky",
+        "icon": "☀️"
+      }
+    },
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Mostly clear",
+      "icon": "🌤️",
+      "now": {
+        "iso": "2026-11-10T09:45",
+        "time": "9:45 AM",
+        "hour": 9.75,
+        "temp": 27,
+        "feels": 25,
+        "humidity": 30,
+        "label": "Clear sky",
+        "icon": "☀️"
+      },
+      "high": 30,
+      "low": 18,
+      "rain": 0,
+      "uv": 7.15,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 24,
+          "rain": 0
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌤️",
+          "label": "Mostly clear",
+          "temp": 29,
+          "rain": 0
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "🌤️",
+          "label": "Mostly clear",
+          "temp": 25,
+          "rain": 0
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌙",
+          "label": "Mostly clear",
+          "temp": 20,
+          "rain": 0
+        }
+      ],
+      "log": {
+        "Morning": {
+          "iso": "2026-11-10T09:45",
+          "time": "9:45 AM",
+          "temp": 27,
+          "feels": 25,
+          "humidity": 30,
+          "label": "Clear sky",
+          "icon": "☀️"
+        }
+      }
+    },
+    "wxlog_office": {
+      "Morning": {
+        "iso": "2026-11-10T09:45",
+        "time": "9:45 AM",
+        "temp": 27,
+        "feels": 25,
+        "humidity": 30,
+        "label": "Clear sky",
+        "icon": "☀️"
+      }
+    },
     "gold": {
       "rows": {
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 14461,
-          "k22": 13256,
-          "change22": 1,
+          "k24": 14411,
+          "k22": 13210,
+          "change22": -45,
           "date": "10 November 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -580,8 +620,8 @@
         },
         {
           "date": "Nov 10, 2026",
-          "k22": 13256,
-          "k24": 14461
+          "k22": 13210,
+          "k24": 14411
         }
       ]
     }
@@ -621,17 +661,17 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Clear sky",
-        "icon": "☀️",
+        "label": "Mostly clear",
+        "icon": "🌤️",
         "now": {
-          "iso": "2026-11-10T05:15",
-          "time": "5:15 AM",
-          "hour": 5.25,
-          "temp": 20,
-          "feels": 19,
-          "humidity": 52,
+          "iso": "2026-11-10T09:45",
+          "time": "9:45 AM",
+          "hour": 9.75,
+          "temp": 27,
+          "feels": 25,
+          "humidity": 31,
           "label": "Clear sky",
-          "icon": "🌙"
+          "icon": "☀️"
         },
         "high": 30,
         "low": 19,
@@ -644,75 +684,15 @@
             "to": 12,
             "icon": "☀️",
             "label": "Clear sky",
-            "temp": 25,
+            "temp": 24,
             "rain": 0
           },
           {
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "☀️",
-            "label": "Clear sky",
-            "temp": 29,
-            "rain": 0
-          },
-          {
-            "name": "Evening",
-            "from": 17,
-            "to": 21,
-            "icon": "☀️",
-            "label": "Clear sky",
-            "temp": 25,
-            "rain": 0
-          },
-          {
-            "name": "Night",
-            "from": 21,
-            "to": 30,
-            "icon": "🌙",
+            "icon": "🌤️",
             "label": "Mostly clear",
-            "temp": 21,
-            "rain": 0
-          }
-        ],
-        "log": {}
-      },
-      {
-        "key": "office",
-        "name": "Office",
-        "area": "",
-        "label": "Clear sky",
-        "icon": "☀️",
-        "now": {
-          "iso": "2026-11-10T05:15",
-          "time": "5:15 AM",
-          "hour": 5.25,
-          "temp": 19,
-          "feels": 18,
-          "humidity": 55,
-          "label": "Clear sky",
-          "icon": "🌙"
-        },
-        "high": 30,
-        "low": 19,
-        "rain": 0,
-        "uv": 7.15,
-        "periods": [
-          {
-            "name": "Morning",
-            "from": 6,
-            "to": 12,
-            "icon": "☀️",
-            "label": "Clear sky",
-            "temp": 25,
-            "rain": 0
-          },
-          {
-            "name": "Afternoon",
-            "from": 12,
-            "to": 17,
-            "icon": "☀️",
-            "label": "Clear sky",
             "temp": 29,
             "rain": 0
           },
@@ -720,8 +700,8 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 25,
             "rain": 0
           },
@@ -735,7 +715,87 @@
             "rain": 0
           }
         ],
-        "log": {}
+        "log": {
+          "Morning": {
+            "iso": "2026-11-10T09:45",
+            "time": "9:45 AM",
+            "temp": 27,
+            "feels": 25,
+            "humidity": 31,
+            "label": "Clear sky",
+            "icon": "☀️"
+          }
+        }
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
+        "label": "Mostly clear",
+        "icon": "🌤️",
+        "now": {
+          "iso": "2026-11-10T09:45",
+          "time": "9:45 AM",
+          "hour": 9.75,
+          "temp": 27,
+          "feels": 25,
+          "humidity": 30,
+          "label": "Clear sky",
+          "icon": "☀️"
+        },
+        "high": 30,
+        "low": 18,
+        "rain": 0,
+        "uv": 7.15,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 24,
+            "rain": 0
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌤️",
+            "label": "Mostly clear",
+            "temp": 29,
+            "rain": 0
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "🌤️",
+            "label": "Mostly clear",
+            "temp": 25,
+            "rain": 0
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌙",
+            "label": "Mostly clear",
+            "temp": 20,
+            "rain": 0
+          }
+        ],
+        "log": {
+          "Morning": {
+            "iso": "2026-11-10T09:45",
+            "time": "9:45 AM",
+            "temp": 27,
+            "feels": 25,
+            "humidity": 30,
+            "label": "Clear sky",
+            "icon": "☀️"
+          }
+        }
       }
     ]
   }
