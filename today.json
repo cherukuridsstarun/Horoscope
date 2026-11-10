@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 11 November 2026",
   "date_key": "2026-11-11",
-  "fetched_ist": "11 Nov 2026, 01:50 AM IST",
+  "fetched_ist": "11 Nov 2026, 03:06 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -379,14 +379,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-11T01:45",
-        "time": "1:45 AM",
-        "hour": 1.75,
-        "temp": 21,
-        "feels": 20,
-        "humidity": 50,
-        "label": "Cloudy",
-        "icon": "☁️"
+        "iso": "2026-11-11T03:00",
+        "time": "3:00 AM",
+        "hour": 3.0,
+        "temp": 20,
+        "feels": 19,
+        "humidity": 52,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       },
       "high": 30,
       "low": 20,
@@ -440,12 +440,12 @@
       "label": "Partly cloudy",
       "icon": "⛅",
       "now": {
-        "iso": "2026-11-11T01:45",
-        "time": "1:45 AM",
-        "hour": 1.75,
+        "iso": "2026-11-11T03:00",
+        "time": "3:00 AM",
+        "hour": 3.0,
         "temp": 20,
         "feels": 19,
-        "humidity": 52,
+        "humidity": 55,
         "label": "Partly cloudy",
         "icon": "⛅"
       },
@@ -616,14 +616,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-11T01:45",
-          "time": "1:45 AM",
-          "hour": 1.75,
-          "temp": 21,
-          "feels": 20,
-          "humidity": 50,
-          "label": "Cloudy",
-          "icon": "☁️"
+          "iso": "2026-11-11T03:00",
+          "time": "3:00 AM",
+          "hour": 3.0,
+          "temp": 20,
+          "feels": 19,
+          "humidity": 52,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         },
         "high": 30,
         "low": 20,
@@ -676,12 +676,12 @@
         "label": "Partly cloudy",
         "icon": "⛅",
         "now": {
-          "iso": "2026-11-11T01:45",
-          "time": "1:45 AM",
-          "hour": 1.75,
+          "iso": "2026-11-11T03:00",
+          "time": "3:00 AM",
+          "hour": 3.0,
           "temp": 20,
           "feels": 19,
-          "humidity": 52,
+          "humidity": 55,
           "label": "Partly cloudy",
           "icon": "⛅"
         },
