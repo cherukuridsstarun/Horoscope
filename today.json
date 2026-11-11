@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 11 November 2026",
   "date_key": "2026-11-11",
-  "fetched_ist": "11 Nov 2026, 02:01 PM IST",
+  "fetched_ist": "11 Nov 2026, 08:39 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -224,8 +224,8 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 12898,
-        "k24": 14081,
+        "k22": 12879,
+        "k24": 14060,
         "change22": null,
         "date": "11 November 2026",
         "url": "https://ibjarates.com/"
@@ -388,16 +388,16 @@
       "label": "Mostly clear",
       "icon": "🌤️",
       "now": {
-        "iso": "2026-11-11T14:00",
-        "time": "2:00 PM",
-        "hour": 14.0,
-        "temp": 29,
-        "feels": 28,
-        "humidity": 26,
+        "iso": "2026-11-11T20:30",
+        "time": "8:30 PM",
+        "hour": 20.5,
+        "temp": 23,
+        "feels": 23,
+        "humidity": 50,
         "label": "Clear sky",
-        "icon": "☀️"
+        "icon": "🌙"
       },
-      "high": 29,
+      "high": 30,
       "low": 19,
       "rain": 0,
       "uv": 7.1,
@@ -457,6 +457,15 @@
           "humidity": 26,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Evening": {
+          "iso": "2026-11-11T20:30",
+          "time": "8:30 PM",
+          "temp": 23,
+          "feels": 23,
+          "humidity": 50,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -478,6 +487,15 @@
         "humidity": 26,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Evening": {
+        "iso": "2026-11-11T20:30",
+        "time": "8:30 PM",
+        "temp": 23,
+        "feels": 23,
+        "humidity": 50,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "wx_office": {
@@ -487,14 +505,14 @@
       "label": "Mostly clear",
       "icon": "🌤️",
       "now": {
-        "iso": "2026-11-11T14:00",
-        "time": "2:00 PM",
-        "hour": 14.0,
-        "temp": 30,
-        "feels": 28,
-        "humidity": 25,
+        "iso": "2026-11-11T20:30",
+        "time": "8:30 PM",
+        "hour": 20.5,
+        "temp": 24,
+        "feels": 23,
+        "humidity": 45,
         "label": "Clear sky",
-        "icon": "☀️"
+        "icon": "🌙"
       },
       "high": 30,
       "low": 18,
@@ -556,6 +574,15 @@
           "humidity": 25,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Evening": {
+          "iso": "2026-11-11T20:30",
+          "time": "8:30 PM",
+          "temp": 24,
+          "feels": 23,
+          "humidity": 45,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -577,6 +604,15 @@
         "humidity": 25,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Evening": {
+        "iso": "2026-11-11T20:30",
+        "time": "8:30 PM",
+        "temp": 24,
+        "feels": 23,
+        "humidity": 45,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "gold": {
@@ -602,8 +638,8 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 12898,
-          "k24": 14081,
+          "k22": 12879,
+          "k24": 14060,
           "change22": null,
           "date": "11 November 2026",
           "url": "https://ibjarates.com/"
@@ -701,16 +737,16 @@
         "label": "Mostly clear",
         "icon": "🌤️",
         "now": {
-          "iso": "2026-11-11T14:00",
-          "time": "2:00 PM",
-          "hour": 14.0,
-          "temp": 29,
-          "feels": 28,
-          "humidity": 26,
+          "iso": "2026-11-11T20:30",
+          "time": "8:30 PM",
+          "hour": 20.5,
+          "temp": 23,
+          "feels": 23,
+          "humidity": 50,
           "label": "Clear sky",
-          "icon": "☀️"
+          "icon": "🌙"
         },
-        "high": 29,
+        "high": 30,
         "low": 19,
         "rain": 0,
         "uv": 7.1,
@@ -770,6 +806,15 @@
             "humidity": 26,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Evening": {
+            "iso": "2026-11-11T20:30",
+            "time": "8:30 PM",
+            "temp": 23,
+            "feels": 23,
+            "humidity": 50,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       },
@@ -780,14 +825,14 @@
         "label": "Mostly clear",
         "icon": "🌤️",
         "now": {
-          "iso": "2026-11-11T14:00",
-          "time": "2:00 PM",
-          "hour": 14.0,
-          "temp": 30,
-          "feels": 28,
-          "humidity": 25,
+          "iso": "2026-11-11T20:30",
+          "time": "8:30 PM",
+          "hour": 20.5,
+          "temp": 24,
+          "feels": 23,
+          "humidity": 45,
           "label": "Clear sky",
-          "icon": "☀️"
+          "icon": "🌙"
         },
         "high": 30,
         "low": 18,
@@ -849,6 +894,15 @@
             "humidity": 25,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Evening": {
+            "iso": "2026-11-11T20:30",
+            "time": "8:30 PM",
+            "temp": 24,
+            "feels": 23,
+            "humidity": 45,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       }
