@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 11 November 2026",
   "date_key": "2026-11-11",
-  "fetched_ist": "11 Nov 2026, 12:02 PM IST",
+  "fetched_ist": "11 Nov 2026, 02:01 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 11, 2026",
       "text": "Your sense of responsibility is probably the catalyst for most of your motivation, Taurus. But what happens when events are beyond your control and you're powerless to do anything about them? You may have to admit that sometimes you can't control everything, especially your family and friends. Today you should think about letting things happen occasionally. Your life will be a lot less complicated."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 11, 2026",
       "text": "Channel your energy wisely, darling Taurus, as a Sagittarius Moon brings transformative vibes your way. Choose the most empowering path, fully considering what you can gain, even when the road ahead seems challenging. Now it's also a good time to analyze any sources of emotional strain that have been compromising your peace. Once you've identified the culprit, set strict boundaries to make more space for yourself. Take a mindful approach to stress relief as Luna and Venus rx align later tonight."
@@ -91,7 +91,7 @@
         },
         {
           "text": "You are a good judge of what is good and what is bad. You have a strong knowledge of the truth, so don't be afraid to share this knowledge with the people you work with. During the morning is when you efforts will be most useful and applicable.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -131,7 +131,7 @@
         },
         {
           "text": "Balance is difficult to achieve when you feel distracted. It is important to choose the food and the kind of exercise that is right for you. As an individual that depends on balance, you might do well learning some meditation practice - no matter how big or how small the practice, it will aid you tremendously. Some aspects of yoga involve meditation, and you can find online classes or tutorials that fit your needs. A more expanded technique is Transcendental Meditation, or TM.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -224,10 +224,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 13046,
-        "k24": 14242,
+        "k22": 12898,
+        "k24": 14081,
         "change22": null,
-        "date": "10 November 2026",
+        "date": "11 November 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -316,17 +316,17 @@
     "hc_general": {
       "text": "Your sense of responsibility is probably the catalyst for most of your motivation, Taurus. But what happens when events are beyond your control and you're powerless to do anything about them? You may have to admit that sometimes you can't control everything, especially your family and friends. Today you should think about letting things happen occasionally. Your life will be a lot less complicated.",
       "date": "Nov 11, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "You are a good judge of what is good and what is bad. You have a strong knowledge of the truth, so don't be afraid to share this knowledge with the people you work with. During the morning is when you efforts will be most useful and applicable.",
       "date": "Nov 11, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Balance is difficult to achieve when you feel distracted. It is important to choose the food and the kind of exercise that is right for you. As an individual that depends on balance, you might do well learning some meditation practice - no matter how big or how small the practice, it will aid you tremendously. Some aspects of yoga involve meditation, and you can find online classes or tutorials that fit your needs. A more expanded technique is Transcendental Meditation, or TM.",
       "date": "Nov 11, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "Career activity brings excitement and drama but also a bit of unpredictability this week. Ideas are flying, but you need to monetize one before moving on to the next lest you find yourself with decreased cash flow. Aspects affect your relationship house, too. A lot is changing there, requiring you to be diplomatic with your attention at this time. Love dictates your decision.",
@@ -334,7 +334,7 @@
     },
     "ac": {
       "text": "Channel your energy wisely, darling Taurus, as a Sagittarius Moon brings transformative vibes your way. Choose the most empowering path, fully considering what you can gain, even when the road ahead seems challenging. Manage the expectations you place on yourself and loved ones as Jupiter aligns with the nodes of fate, especially if you have overachieving tendencies. Now it's also a good time to analyze any sources of emotional strain that have been compromising your peace. Once you've identified the culprit, set strict boundaries to make more space for yourself. Take a mindful approach to stress relief as Luna and Venus rx align later tonight.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -388,12 +388,12 @@
       "label": "Mostly clear",
       "icon": "🌤️",
       "now": {
-        "iso": "2026-11-11T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
+        "iso": "2026-11-11T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
         "temp": 29,
         "feels": 28,
-        "humidity": 27,
+        "humidity": 26,
         "label": "Clear sky",
         "icon": "☀️"
       },
@@ -415,8 +415,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 29,
           "rain": 0
         },
@@ -450,11 +450,11 @@
           "icon": "☀️"
         },
         "Afternoon": {
-          "iso": "2026-11-11T12:00",
-          "time": "12:00 PM",
+          "iso": "2026-11-11T14:00",
+          "time": "2:00 PM",
           "temp": 29,
           "feels": 28,
-          "humidity": 27,
+          "humidity": 26,
           "label": "Clear sky",
           "icon": "☀️"
         }
@@ -471,11 +471,11 @@
         "icon": "☀️"
       },
       "Afternoon": {
-        "iso": "2026-11-11T12:00",
-        "time": "12:00 PM",
+        "iso": "2026-11-11T14:00",
+        "time": "2:00 PM",
         "temp": 29,
         "feels": 28,
-        "humidity": 27,
+        "humidity": 26,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -487,12 +487,12 @@
       "label": "Mostly clear",
       "icon": "🌤️",
       "now": {
-        "iso": "2026-11-11T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 29,
+        "iso": "2026-11-11T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
+        "temp": 30,
         "feels": 28,
-        "humidity": 26,
+        "humidity": 25,
         "label": "Clear sky",
         "icon": "☀️"
       },
@@ -549,11 +549,11 @@
           "icon": "☀️"
         },
         "Afternoon": {
-          "iso": "2026-11-11T12:00",
-          "time": "12:00 PM",
-          "temp": 29,
+          "iso": "2026-11-11T14:00",
+          "time": "2:00 PM",
+          "temp": 30,
           "feels": 28,
-          "humidity": 26,
+          "humidity": 25,
           "label": "Clear sky",
           "icon": "☀️"
         }
@@ -570,11 +570,11 @@
         "icon": "☀️"
       },
       "Afternoon": {
-        "iso": "2026-11-11T12:00",
-        "time": "12:00 PM",
-        "temp": 29,
+        "iso": "2026-11-11T14:00",
+        "time": "2:00 PM",
+        "temp": 30,
         "feels": 28,
-        "humidity": 26,
+        "humidity": 25,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -602,10 +602,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 13046,
-          "k24": 14242,
+          "k22": 12898,
+          "k24": 14081,
           "change22": null,
-          "date": "10 November 2026",
+          "date": "11 November 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -701,12 +701,12 @@
         "label": "Mostly clear",
         "icon": "🌤️",
         "now": {
-          "iso": "2026-11-11T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
+          "iso": "2026-11-11T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
           "temp": 29,
           "feels": 28,
-          "humidity": 27,
+          "humidity": 26,
           "label": "Clear sky",
           "icon": "☀️"
         },
@@ -728,8 +728,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 29,
             "rain": 0
           },
@@ -763,11 +763,11 @@
             "icon": "☀️"
           },
           "Afternoon": {
-            "iso": "2026-11-11T12:00",
-            "time": "12:00 PM",
+            "iso": "2026-11-11T14:00",
+            "time": "2:00 PM",
             "temp": 29,
             "feels": 28,
-            "humidity": 27,
+            "humidity": 26,
             "label": "Clear sky",
             "icon": "☀️"
           }
@@ -780,12 +780,12 @@
         "label": "Mostly clear",
         "icon": "🌤️",
         "now": {
-          "iso": "2026-11-11T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 29,
+          "iso": "2026-11-11T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
+          "temp": 30,
           "feels": 28,
-          "humidity": 26,
+          "humidity": 25,
           "label": "Clear sky",
           "icon": "☀️"
         },
@@ -842,11 +842,11 @@
             "icon": "☀️"
           },
           "Afternoon": {
-            "iso": "2026-11-11T12:00",
-            "time": "12:00 PM",
-            "temp": 29,
+            "iso": "2026-11-11T14:00",
+            "time": "2:00 PM",
+            "temp": 30,
             "feels": 28,
-            "humidity": 26,
+            "humidity": 25,
             "label": "Clear sky",
             "icon": "☀️"
           }
