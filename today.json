@@ -1,83 +1,95 @@
 {
   "sign": "Taurus",
-  "date_ist": "Wednesday, 11 November 2026",
-  "date_key": "2026-11-11",
-  "fetched_ist": "11 Nov 2026, 08:39 PM IST",
+  "date_ist": "Thursday, 12 November 2026",
+  "date_key": "2026-11-12",
+  "fetched_ist": "12 Nov 2026, 01:34 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
       "ok": true,
-      "source_date": "11-11-2026",
-      "text": "Your enthusiasm will be as contagious as your smile today, predicts Ganesha. People will stand charmed by your high spirits. There will be stressful moments, but things will look up later in the day. Take some time off if things get too hectic for you."
+      "source_date": "12-11-2026",
+      "text": "You are likely to have differences with your parents in the early hours of the day. Ganesha urge you not to quarrel or confront them. Do not retaliate in any way. Act decent and discreet. Respect their views, wishes and sentiments. Be careful. You may have health problems later in the day. If your health does deteriorate, do not take things casually. Don’t think twice. Go consult a medical specialist without delay."
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
       "ok": true,
-      "source_date": "Nov 11, 2026",
-      "text": "Your sense of responsibility is probably the catalyst for most of your motivation, Taurus. But what happens when events are beyond your control and you're powerless to do anything about them? You may have to admit that sometimes you can't control everything, especially your family and friends. Today you should think about letting things happen occasionally. Your life will be a lot less complicated."
+      "source_date": "Nov 12, 2026",
+      "text": "A lot of activity could occur at home today, Taurus. Perhaps you will have visitors or do some work on the house. Your intuition is particularly strong right now, and you could pick up too much of the thoughts and feelings of others, even strangers. You will probably be most in tune with your family. Take care to guard your thoughts. Today you might find that whatever you think of could actually manifest."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
       "ok": true,
-      "source_date": "November 11, 2026",
-      "text": "Channel your energy wisely, darling Taurus, as a Sagittarius Moon brings transformative vibes your way. Choose the most empowering path, fully considering what you can gain, even when the road ahead seems challenging. Now it's also a good time to analyze any sources of emotional strain that have been compromising your peace. Once you've identified the culprit, set strict boundaries to make more space for yourself. Take a mindful approach to stress relief as Luna and Venus rx align later tonight."
+      "source_date": "November 12, 2026",
+      "text": "Allow your troubles to burn away, and rise like a phoenix from the ashes. The Sagittarius Moon and Chiron form an invigorating aspect, darling Taurus, providing you with the fire necessary to release what does not serve you. Work with positive mantras as the morning unfolds, focusing on transformation, empowerment, and cleansing. You'll feel lighter and spiritually fulfilled after Luna enters Capricorn this afternoon, bringing you closer to the divine powers that watch over you each day. Your imagination grows stronger once Neptune stirs later today, and prolonged meditation sessions can lead to inspired ideas or personal epiphanies. Share what you discover with someone you trust while Mercury rx activates tonight."
     },
     {
       "name": "AstroSage",
       "url": "https://www.astrosage.com/horoscope/daily-taurus-horoscope.asp",
       "ok": true,
-      "source_date": "Wednesday, November 11, 2026",
-      "text": "Your fondest dream will materialize. But keep your excitement under control as too much happiness may cause some problems. Your efforts to save money can fail today. Although you do not have to worry about it, as the situation will soon improve. Those associated with foreign trade are expected to get the desired results today. With this, the working natives of this zodiac sign can make full use of their talent at the workplace today. Although free time should be used properly, but today you'll misuse your free time. Due to this, your mood will also deteriorate. Today, you will go back in your teenage with your spouse, remembering and having all that innocent fun again."
+      "source_date": "Thursday, November 12, 2026",
+      "text": "Get involved in activities that are exciting and keep you relaxed. Be careful not to get roped into dubious financial deals. For some- a new arrival in the family brings in moments for celebration and party. Wedding bells for some while others will find romance to keep them in high spirits. Today you will have the stamina and the know-how to raise your earning power. Your ability to help those in need will bring you respect. Your spouse will remind you the time of your teenage today along with some notorious stuff."
     }
   ],
   "glance": {
     "good": [
       {
-        "t": "People will stand charmed by your high spirits.",
-        "src": "GaneshaSpeaks"
-      },
-      {
-        "t": "But what happens when events are beyond your control and you're powerless to do anything about them?",
+        "t": "Your intuition is particularly strong right now, and you could pick up too much of the thoughts and feelings of others, even strangers.",
         "src": "Horoscope.com"
       },
       {
-        "t": "Now it's also a good time to analyze any sources of emotional strain that have been compromising your peace.",
+        "t": "Work with positive mantras as the morning unfolds, focusing on transformation, empowerment, and cleansing.",
         "src": "Astrology.com"
+      },
+      {
+        "t": "You'll feel lighter and spiritually fulfilled after Luna enters Capricorn this afternoon, bringing you closer to the divine powers that watch over you each day.",
+        "src": "Astrology.com"
+      },
+      {
+        "t": "Your imagination grows stronger once Neptune stirs later today, and prolonged meditation sessions can lead to inspired ideas or personal epiphanies.",
+        "src": "Astrology.com"
+      },
+      {
+        "t": "Your ability to help those in need will bring you respect.",
+        "src": "AstroSage"
       }
     ],
     "heads": [
       {
-        "t": "There will be stressful moments, but things will look up later in the day.",
+        "t": "You may have health problems later in the day.",
         "src": "GaneshaSpeaks"
-      },
-      {
-        "t": "Choose the most empowering path, fully considering what you can gain, even when the road ahead seems challenging.",
-        "src": "Astrology.com"
-      },
-      {
-        "t": "But keep your excitement under control as too much happiness may cause some problems.",
-        "src": "AstroSage"
-      },
-      {
-        "t": "Although you do not have to worry about it, as the situation will soon improve.",
-        "src": "AstroSage"
       }
     ],
     "todo": [
       {
-        "t": "Take some time off if things get too hectic for you.",
+        "t": "Do not retaliate in any way.",
         "src": "GaneshaSpeaks"
       },
       {
-        "t": "Today you should think about letting things happen occasionally.",
+        "t": "Go consult a medical specialist without delay.",
+        "src": "GaneshaSpeaks"
+      },
+      {
+        "t": "Take care to guard your thoughts.",
         "src": "Horoscope.com"
       },
       {
-        "t": "Take a mindful approach to stress relief as Luna and Venus rx align later tonight.",
+        "t": "Allow your troubles to burn away, and rise like a phoenix from the ashes.",
         "src": "Astrology.com"
+      },
+      {
+        "t": "Share what you discover with someone you trust while Mercury rx activates tonight.",
+        "src": "Astrology.com"
+      },
+      {
+        "t": "Get involved in activities that are exciting and keep you relaxed.",
+        "src": "AstroSage"
+      },
+      {
+        "t": "Be careful not to get roped into dubious financial deals.",
+        "src": "AstroSage"
       }
     ]
   },
@@ -85,27 +97,31 @@
     "career": {
       "readings": [
         {
-          "text": "The day promises complete satisfaction on the professional front. The skill with which you handle responsibilities at the office will be appreciated. The satisfaction you get by performing the tasks today will motivate you to take up more responsibilities. You are not afraid of taking up challenges.",
+          "text": "It’s in your hand to safeguard your professional image till afternoon. Someone may behave in a very bizarre way at the office. You will be looking for the valuable outputs you are giving. In short, money and work may be compared, says Ganesha.",
           "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
           "src": "GaneshaSpeaks"
         },
         {
-          "text": "You are a good judge of what is good and what is bad. You have a strong knowledge of the truth, so don't be afraid to share this knowledge with the people you work with. During the morning is when you efforts will be most useful and applicable.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
+          "text": "Your spirit feels caged. You feel like your work is suffocating you in some way. Make a conscious effort to unleash yourself. Talk to your employers honestly about what your needs are and how they can be better met. Work together as a team.",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
       "bits": [
         {
-          "t": "With this, the working natives of this zodiac sign can make full use of their talent at the workplace today.",
-          "src": "AstroSage"
+          "t": "Perhaps you will have visitors or do some work on the house.",
+          "src": "Horoscope.com"
+        },
+        {
+          "t": "Work with positive mantras as the morning unfolds, focusing on transformation, empowerment, and cleansing.",
+          "src": "Astrology.com"
         }
       ]
     },
     "money": {
       "readings": [
         {
-          "text": "Ganesha feels that today you are going to be your best friend and you will be your worst enemy when it comes to money. You are a money conscious person, and people will be after your money.",
+          "text": "During first half of the day, you are not going to be money conscious. You will be dealing with worldly affairs in such a way that you will hardly have any time to think about money matters.",
           "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
           "src": "GaneshaSpeaks"
         },
@@ -117,7 +133,7 @@
       ],
       "bits": [
         {
-          "t": "Your efforts to save money can fail today.",
+          "t": "Be careful not to get roped into dubious financial deals.",
           "src": "AstroSage"
         }
       ]
@@ -125,32 +141,24 @@
     "health": {
       "readings": [
         {
-          "text": "Being diligent, practical and skillful in professional front shall help you achieve targets at work. You may be little confused at first, but you’ll get a clear view of your task. Health looks good and you may even enroll yourself in sports, feels Ganehsa.",
+          "text": "Ganesha feels that the day is going to keep you busy with professional and personal activities so you will be investing lot of energy in everything that you deal with. As the day progresses, you will need more and more energy.",
           "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
           "src": "GaneshaSpeaks"
         },
         {
-          "text": "Balance is difficult to achieve when you feel distracted. It is important to choose the food and the kind of exercise that is right for you. As an individual that depends on balance, you might do well learning some meditation practice - no matter how big or how small the practice, it will aid you tremendously. Some aspects of yoga involve meditation, and you can find online classes or tutorials that fit your needs. A more expanded technique is Transcendental Meditation, or TM.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
+          "text": "You may have learned ways to ignore your need for balance - putting your finger on these will be part of the challenge in creating a structure that gives you more of it. Have you considered what foods make you feel light yet satisfied, energized and happy? We all have specific foods that work best in our system, but too few of us are conscientious enough to notice what they are. Today's planetary configuration encourages you to examine your personal habits.",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
       "bits": [
         {
-          "t": "There will be stressful moments, but things will look up later in the day.",
+          "t": "You may have health problems later in the day.",
           "src": "GaneshaSpeaks"
         },
         {
-          "t": "Channel your energy wisely, darling Taurus, as a Sagittarius Moon brings transformative vibes your way.",
-          "src": "Astrology.com"
-        },
-        {
-          "t": "Take a mindful approach to stress relief as Luna and Venus rx align later tonight.",
-          "src": "Astrology.com"
-        },
-        {
-          "t": "Due to this, your mood will also deteriorate.",
-          "src": "AstroSage"
+          "t": "If your health does deteriorate, do not take things casually.",
+          "src": "GaneshaSpeaks"
         }
       ]
     }
@@ -158,14 +166,14 @@
   "lucky": [
     {
       "src": "GaneshaSpeaks",
-      "number": "8",
-      "color": "Deep Olive Green"
+      "number": "6",
+      "color": "Deep Cream"
     },
     {
       "src": "AstroSage",
-      "number": "1",
-      "color": "Orange and Gold",
-      "remedy": "To achieve good income, keep silver coin in a gangajal and keep in home."
+      "number": "5",
+      "color": "Green and Turquoise",
+      "remedy": "Prepare dessert (kheer) made of milk, sugar and rice and distribute it among young girls for excellent financial benefits"
     }
   ],
   "ratings": {
@@ -173,7 +181,7 @@
     "items": [
       {
         "label": "Health",
-        "stars": 5
+        "stars": 3
       },
       {
         "label": "Wealth",
@@ -181,7 +189,7 @@
       },
       {
         "label": "Family",
-        "stars": 3
+        "stars": 5
       },
       {
         "label": "Occupation",
@@ -189,14 +197,14 @@
       },
       {
         "label": "Married Life",
-        "stars": 3
+        "stars": 5
       }
     ]
   },
   "extras": [
     {
       "title": "Bonus",
-      "text": "Turn away from making connections with other people -- devote time to yourself.",
+      "text": "Friends are seeing you with a new level of respect. Your hard work is paying off.",
       "src": "Astrology.com"
     }
   ],
@@ -209,7 +217,7 @@
         "k24": 14198,
         "k22": 13015,
         "change22": -65,
-        "date": "11 November 2026",
+        "date": "12 November 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
       {
@@ -218,7 +226,7 @@
         "k22": 13210,
         "k24": null,
         "change22": null,
-        "date": "11 November 2026",
+        "date": "12 November 2026",
         "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
       },
       {
@@ -227,7 +235,7 @@
         "k22": 12879,
         "k24": 14060,
         "change22": null,
-        "date": "11 November 2026",
+        "date": "12 November 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -289,56 +297,56 @@
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
       "ok": true,
-      "source_date": "11-11-2026",
-      "text": "Your enthusiasm will be as contagious as your smile today, predicts Ganesha. People will stand charmed by your high spirits. There will be stressful moments, but things will look up later in the day. Take some time off if things get too hectic for you.",
+      "source_date": "12-11-2026",
+      "text": "You are likely to have differences with your parents in the early hours of the day. Ganesha urge you not to quarrel or confront them. Do not retaliate in any way. Act decent and discreet. Respect their views, wishes and sentiments. Be careful. You may have health problems later in the day. If your health does deteriorate, do not take things casually. Don’t think twice. Go consult a medical specialist without delay.",
       "lucky": {
-        "number": "8",
-        "color": "Deep Olive Green"
+        "number": "6",
+        "color": "Deep Cream"
       },
       "areas": {
         "health": {
-          "text": "Being diligent, practical and skillful in professional front shall help you achieve targets at work. You may be little confused at first, but you’ll get a clear view of your task. Health looks good and you may even enroll yourself in sports, feels Ganehsa.",
+          "text": "Ganesha feels that the day is going to keep you busy with professional and personal activities so you will be investing lot of energy in everything that you deal with. As the day progresses, you will need more and more energy.",
           "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
           "src": "GaneshaSpeaks"
         },
         "money": {
-          "text": "Ganesha feels that today you are going to be your best friend and you will be your worst enemy when it comes to money. You are a money conscious person, and people will be after your money.",
+          "text": "During first half of the day, you are not going to be money conscious. You will be dealing with worldly affairs in such a way that you will hardly have any time to think about money matters.",
           "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
           "src": "GaneshaSpeaks"
         },
         "career": {
-          "text": "The day promises complete satisfaction on the professional front. The skill with which you handle responsibilities at the office will be appreciated. The satisfaction you get by performing the tasks today will motivate you to take up more responsibilities. You are not afraid of taking up challenges.",
+          "text": "It’s in your hand to safeguard your professional image till afternoon. Someone may behave in a very bizarre way at the office. You will be looking for the valuable outputs you are giving. In short, money and work may be compared, says Ganesha.",
           "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
           "src": "GaneshaSpeaks"
         }
       }
     },
     "hc_general": {
-      "text": "Your sense of responsibility is probably the catalyst for most of your motivation, Taurus. But what happens when events are beyond your control and you're powerless to do anything about them? You may have to admit that sometimes you can't control everything, especially your family and friends. Today you should think about letting things happen occasionally. Your life will be a lot less complicated.",
-      "date": "Nov 11, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
+      "text": "A lot of activity could occur at home today, Taurus. Perhaps you will have visitors or do some work on the house. Your intuition is particularly strong right now, and you could pick up too much of the thoughts and feelings of others, even strangers. You will probably be most in tune with your family. Take care to guard your thoughts. Today you might find that whatever you think of could actually manifest.",
+      "date": "Nov 12, 2026",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
     },
     "hc_career": {
-      "text": "You are a good judge of what is good and what is bad. You have a strong knowledge of the truth, so don't be afraid to share this knowledge with the people you work with. During the morning is when you efforts will be most useful and applicable.",
-      "date": "Nov 11, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
+      "text": "Your spirit feels caged. You feel like your work is suffocating you in some way. Make a conscious effort to unleash yourself. Talk to your employers honestly about what your needs are and how they can be better met. Work together as a team.",
+      "date": "Nov 12, 2026",
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
     },
     "hc_wellness": {
-      "text": "Balance is difficult to achieve when you feel distracted. It is important to choose the food and the kind of exercise that is right for you. As an individual that depends on balance, you might do well learning some meditation practice - no matter how big or how small the practice, it will aid you tremendously. Some aspects of yoga involve meditation, and you can find online classes or tutorials that fit your needs. A more expanded technique is Transcendental Meditation, or TM.",
-      "date": "Nov 11, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
+      "text": "You may have learned ways to ignore your need for balance - putting your finger on these will be part of the challenge in creating a structure that gives you more of it. Have you considered what foods make you feel light yet satisfied, energized and happy? We all have specific foods that work best in our system, but too few of us are conscientious enough to notice what they are. Today's planetary configuration encourages you to examine your personal habits.",
+      "date": "Nov 12, 2026",
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
     },
     "hc_money": {
       "text": "Career activity brings excitement and drama but also a bit of unpredictability this week. Ideas are flying, but you need to monetize one before moving on to the next lest you find yourself with decreased cash flow. Aspects affect your relationship house, too. A lot is changing there, requiring you to be diplomatic with your attention at this time. Love dictates your decision.",
       "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2"
     },
     "ac": {
-      "text": "Channel your energy wisely, darling Taurus, as a Sagittarius Moon brings transformative vibes your way. Choose the most empowering path, fully considering what you can gain, even when the road ahead seems challenging. Manage the expectations you place on yourself and loved ones as Jupiter aligns with the nodes of fate, especially if you have overachieving tendencies. Now it's also a good time to analyze any sources of emotional strain that have been compromising your peace. Once you've identified the culprit, set strict boundaries to make more space for yourself. Take a mindful approach to stress relief as Luna and Venus rx align later tonight.",
-      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
+      "text": "Allow your troubles to burn away, and rise like a phoenix from the ashes. The Sagittarius Moon and Chiron form an invigorating aspect, darling Taurus, providing you with the fire necessary to release what does not serve you. Work with positive mantras as the morning unfolds, focusing on transformation, empowerment, and cleansing. You'll feel lighter and spiritually fulfilled after Luna enters Capricorn this afternoon, bringing you closer to the divine powers that watch over you each day. Your imagination grows stronger once Neptune stirs later today, and prolonged meditation sessions can lead to inspired ideas or personal epiphanies. Share what you discover with someone you trust while Mercury rx activates tonight.",
+      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
       "extras": [
         {
           "title": "Bonus",
-          "text": "Turn away from making connections with other people -- devote time to yourself.",
+          "text": "Friends are seeing you with a new level of respect. Your hard work is paying off.",
           "src": "Astrology.com"
         }
       ]
@@ -347,17 +355,17 @@
       "name": "AstroSage",
       "url": "https://www.astrosage.com/horoscope/daily-taurus-horoscope.asp",
       "ok": true,
-      "source_date": "Wednesday, November 11, 2026",
-      "text": "Your fondest dream will materialize. But keep your excitement under control as too much happiness may cause some problems. Your efforts to save money can fail today. Although you do not have to worry about it, as the situation will soon improve.  Friends and family members provide you with assistance and love. May find someone to experience the ecstasy of love. Those associated with foreign trade are expected to get the desired results today. With this, the working natives of this zodiac sign can make full use of their talent at the workplace today.  Although free time should be used properly, but today you'll misuse your free time. Due to this, your mood will also deteriorate.  Today, you will go back in your teenage with your spouse, remembering and having all that innocent fun again.",
+      "source_date": "Thursday, November 12, 2026",
+      "text": "Get involved in activities that are exciting and keep you relaxed. Be careful not to get roped into dubious financial deals. For some- a new arrival in the family brings in moments for celebration and party.  Wedding bells for some while others will find romance to keep them in high spirits.  Today you will have the stamina and the know-how to raise your earning power. Your ability to help those in need will bring you respect. Your spouse will remind you the time of your teenage today along with some notorious stuff.",
       "lucky": {
-        "number": "1",
-        "color": "Orange and Gold",
-        "remedy": "To achieve good income, keep silver coin in a gangajal and keep in home."
+        "number": "5",
+        "color": "Green and Turquoise",
+        "remedy": "Prepare dessert (kheer) made of milk, sugar and rice and distribute it among young girls for excellent financial benefits"
       },
       "ratings": [
         {
           "label": "Health",
-          "stars": 5
+          "stars": 3
         },
         {
           "label": "Wealth",
@@ -365,11 +373,11 @@
         },
         {
           "label": "Family",
-          "stars": 3
+          "stars": 5
         },
         {
           "label": "Love",
-          "stars": 3
+          "stars": 5
         },
         {
           "label": "Occupation",
@@ -377,7 +385,7 @@
         },
         {
           "label": "Married Life",
-          "stars": 3
+          "stars": 5
         }
       ]
     },
@@ -385,16 +393,16 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Mostly clear",
-      "icon": "🌤️",
+      "label": "Cloudy",
+      "icon": "☁️",
       "now": {
-        "iso": "2026-11-11T20:30",
-        "time": "8:30 PM",
-        "hour": 20.5,
-        "temp": 23,
-        "feels": 23,
-        "humidity": 50,
-        "label": "Clear sky",
+        "iso": "2026-11-12T01:30",
+        "time": "1:30 AM",
+        "hour": 1.5,
+        "temp": 21,
+        "feels": 21,
+        "humidity": 57,
+        "label": "Mostly clear",
         "icon": "🌙"
       },
       "high": 30,
@@ -406,17 +414,17 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "☀️",
-          "label": "Clear sky",
-          "temp": 24,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 25,
           "rain": 0
         },
         {
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 29,
           "rain": 0
         },
@@ -433,89 +441,33 @@
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "🌙",
+          "label": "Clear sky",
           "temp": 21,
           "rain": 0
         }
       ],
-      "log": {
-        "Morning": {
-          "iso": "2026-11-11T07:45",
-          "time": "7:45 AM",
-          "temp": 22,
-          "feels": 21,
-          "humidity": 48,
-          "label": "Clear sky",
-          "icon": "☀️"
-        },
-        "Afternoon": {
-          "iso": "2026-11-11T14:00",
-          "time": "2:00 PM",
-          "temp": 29,
-          "feels": 28,
-          "humidity": 26,
-          "label": "Clear sky",
-          "icon": "☀️"
-        },
-        "Evening": {
-          "iso": "2026-11-11T20:30",
-          "time": "8:30 PM",
-          "temp": 23,
-          "feels": 23,
-          "humidity": 50,
-          "label": "Clear sky",
-          "icon": "🌙"
-        }
-      }
+      "log": {}
     },
-    "wxlog_home": {
-      "Morning": {
-        "iso": "2026-11-11T07:45",
-        "time": "7:45 AM",
-        "temp": 22,
-        "feels": 21,
-        "humidity": 48,
-        "label": "Clear sky",
-        "icon": "☀️"
-      },
-      "Afternoon": {
-        "iso": "2026-11-11T14:00",
-        "time": "2:00 PM",
-        "temp": 29,
-        "feels": 28,
-        "humidity": 26,
-        "label": "Clear sky",
-        "icon": "☀️"
-      },
-      "Evening": {
-        "iso": "2026-11-11T20:30",
-        "time": "8:30 PM",
-        "temp": 23,
-        "feels": 23,
-        "humidity": 50,
-        "label": "Clear sky",
-        "icon": "🌙"
-      }
-    },
+    "wxlog_home": {},
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Mostly clear",
-      "icon": "🌤️",
+      "label": "Cloudy",
+      "icon": "☁️",
       "now": {
-        "iso": "2026-11-11T20:30",
-        "time": "8:30 PM",
-        "hour": 20.5,
-        "temp": 24,
-        "feels": 23,
-        "humidity": 45,
-        "label": "Clear sky",
+        "iso": "2026-11-12T01:30",
+        "time": "1:30 AM",
+        "hour": 1.5,
+        "temp": 21,
+        "feels": 20,
+        "humidity": 54,
+        "label": "Mostly clear",
         "icon": "🌙"
       },
       "high": 30,
-      "low": 18,
+      "low": 20,
       "rain": 0,
       "uv": 7.1,
       "periods": [
@@ -523,18 +475,18 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "☀️",
-          "label": "Clear sky",
-          "temp": 24,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 25,
           "rain": 0
         },
         {
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "☀️",
-          "label": "Clear sky",
-          "temp": 29,
+          "icon": "⛅",
+          "label": "Partly cloudy",
+          "temp": 30,
           "rain": 0
         },
         {
@@ -543,78 +495,22 @@
           "to": 21,
           "icon": "☀️",
           "label": "Clear sky",
-          "temp": 25,
+          "temp": 26,
           "rain": 0
         },
         {
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "🌙",
+          "label": "Clear sky",
           "temp": 21,
           "rain": 0
         }
       ],
-      "log": {
-        "Morning": {
-          "iso": "2026-11-11T07:45",
-          "time": "7:45 AM",
-          "temp": 22,
-          "feels": 21,
-          "humidity": 49,
-          "label": "Clear sky",
-          "icon": "☀️"
-        },
-        "Afternoon": {
-          "iso": "2026-11-11T14:00",
-          "time": "2:00 PM",
-          "temp": 30,
-          "feels": 28,
-          "humidity": 25,
-          "label": "Clear sky",
-          "icon": "☀️"
-        },
-        "Evening": {
-          "iso": "2026-11-11T20:30",
-          "time": "8:30 PM",
-          "temp": 24,
-          "feels": 23,
-          "humidity": 45,
-          "label": "Clear sky",
-          "icon": "🌙"
-        }
-      }
+      "log": {}
     },
-    "wxlog_office": {
-      "Morning": {
-        "iso": "2026-11-11T07:45",
-        "time": "7:45 AM",
-        "temp": 22,
-        "feels": 21,
-        "humidity": 49,
-        "label": "Clear sky",
-        "icon": "☀️"
-      },
-      "Afternoon": {
-        "iso": "2026-11-11T14:00",
-        "time": "2:00 PM",
-        "temp": 30,
-        "feels": 28,
-        "humidity": 25,
-        "label": "Clear sky",
-        "icon": "☀️"
-      },
-      "Evening": {
-        "iso": "2026-11-11T20:30",
-        "time": "8:30 PM",
-        "temp": 24,
-        "feels": 23,
-        "humidity": 45,
-        "label": "Clear sky",
-        "icon": "🌙"
-      }
-    },
+    "wxlog_office": {},
     "gold": {
       "rows": {
         "GoodReturns": {
@@ -623,7 +519,7 @@
           "k24": 14198,
           "k22": 13015,
           "change22": -65,
-          "date": "11 November 2026",
+          "date": "12 November 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
         "PolicyBazaar": {
@@ -632,7 +528,7 @@
           "k22": 13210,
           "k24": 13871,
           "change22": null,
-          "date": "11 November 2026",
+          "date": "12 November 2026",
           "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
         },
         "IBJA": {
@@ -641,7 +537,7 @@
           "k22": 12879,
           "k24": 14060,
           "change22": null,
-          "date": "11 November 2026",
+          "date": "12 November 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -701,21 +597,21 @@
   },
   "panchang": {
     "city": "Hyderabad",
-    "date": "2026-11-11",
-    "sunrise": "6:17 AM",
+    "date": "2026-11-12",
+    "sunrise": "6:18 AM",
     "sunset": "5:42 PM",
-    "sunrise_iso": "2026-11-11T06:17+05:30",
-    "sunset_iso": "2026-11-11T17:42+05:30",
-    "tithi": "Shukla Dwitiya",
-    "tithi_until": "3:54 PM",
-    "tithi_next": "Shukla Tritiya",
-    "nakshatra": "Anuradha",
-    "nak_until": "11:37 AM",
-    "nak_next": "Jyeshtha",
+    "sunrise_iso": "2026-11-12T06:18+05:30",
+    "sunset_iso": "2026-11-12T17:42+05:30",
+    "tithi": "Shukla Tritiya",
+    "tithi_until": "6:10 PM",
+    "tithi_next": "Shukla Chaturthi",
+    "nakshatra": "Jyeshtha",
+    "nak_until": "2:19 PM",
+    "nak_next": "Mula",
     "paksha": "Shukla Paksha · waxing moon",
-    "rahu": "11:59 AM to 1:25 PM",
-    "rahu_start": "2026-11-11T11:59+05:30",
-    "rahu_end": "2026-11-11T13:25+05:30"
+    "rahu": "1:25 PM to 2:51 PM",
+    "rahu_start": "2026-11-12T13:25+05:30",
+    "rahu_end": "2026-11-12T14:51+05:30"
   },
   "festivals": {
     "today": [],
@@ -724,26 +620,26 @@
       "moon": false,
       "date": "2026-11-24",
       "label": "Tue, 24 Nov",
-      "days": 13
+      "days": 12
     }
   },
   "weather": {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "places": [
       {
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Mostly clear",
-        "icon": "🌤️",
+        "label": "Cloudy",
+        "icon": "☁️",
         "now": {
-          "iso": "2026-11-11T20:30",
-          "time": "8:30 PM",
-          "hour": 20.5,
-          "temp": 23,
-          "feels": 23,
-          "humidity": 50,
-          "label": "Clear sky",
+          "iso": "2026-11-12T01:30",
+          "time": "1:30 AM",
+          "hour": 1.5,
+          "temp": 21,
+          "feels": 21,
+          "humidity": 57,
+          "label": "Mostly clear",
           "icon": "🌙"
         },
         "high": 30,
@@ -755,17 +651,17 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "☀️",
-            "label": "Clear sky",
-            "temp": 24,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 25,
             "rain": 0
           },
           {
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 29,
             "rain": 0
           },
@@ -782,60 +678,32 @@
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "🌙",
+            "label": "Clear sky",
             "temp": 21,
             "rain": 0
           }
         ],
-        "log": {
-          "Morning": {
-            "iso": "2026-11-11T07:45",
-            "time": "7:45 AM",
-            "temp": 22,
-            "feels": 21,
-            "humidity": 48,
-            "label": "Clear sky",
-            "icon": "☀️"
-          },
-          "Afternoon": {
-            "iso": "2026-11-11T14:00",
-            "time": "2:00 PM",
-            "temp": 29,
-            "feels": 28,
-            "humidity": 26,
-            "label": "Clear sky",
-            "icon": "☀️"
-          },
-          "Evening": {
-            "iso": "2026-11-11T20:30",
-            "time": "8:30 PM",
-            "temp": 23,
-            "feels": 23,
-            "humidity": 50,
-            "label": "Clear sky",
-            "icon": "🌙"
-          }
-        }
+        "log": {}
       },
       {
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Mostly clear",
-        "icon": "🌤️",
+        "label": "Cloudy",
+        "icon": "☁️",
         "now": {
-          "iso": "2026-11-11T20:30",
-          "time": "8:30 PM",
-          "hour": 20.5,
-          "temp": 24,
-          "feels": 23,
-          "humidity": 45,
-          "label": "Clear sky",
+          "iso": "2026-11-12T01:30",
+          "time": "1:30 AM",
+          "hour": 1.5,
+          "temp": 21,
+          "feels": 20,
+          "humidity": 54,
+          "label": "Mostly clear",
           "icon": "🌙"
         },
         "high": 30,
-        "low": 18,
+        "low": 20,
         "rain": 0,
         "uv": 7.1,
         "periods": [
@@ -843,18 +711,18 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "☀️",
-            "label": "Clear sky",
-            "temp": 24,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 25,
             "rain": 0
           },
           {
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "☀️",
-            "label": "Clear sky",
-            "temp": 29,
+            "icon": "⛅",
+            "label": "Partly cloudy",
+            "temp": 30,
             "rain": 0
           },
           {
@@ -863,48 +731,20 @@
             "to": 21,
             "icon": "☀️",
             "label": "Clear sky",
-            "temp": 25,
+            "temp": 26,
             "rain": 0
           },
           {
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "🌙",
+            "label": "Clear sky",
             "temp": 21,
             "rain": 0
           }
         ],
-        "log": {
-          "Morning": {
-            "iso": "2026-11-11T07:45",
-            "time": "7:45 AM",
-            "temp": 22,
-            "feels": 21,
-            "humidity": 49,
-            "label": "Clear sky",
-            "icon": "☀️"
-          },
-          "Afternoon": {
-            "iso": "2026-11-11T14:00",
-            "time": "2:00 PM",
-            "temp": 30,
-            "feels": 28,
-            "humidity": 25,
-            "label": "Clear sky",
-            "icon": "☀️"
-          },
-          "Evening": {
-            "iso": "2026-11-11T20:30",
-            "time": "8:30 PM",
-            "temp": 24,
-            "feels": 23,
-            "humidity": 45,
-            "label": "Clear sky",
-            "icon": "🌙"
-          }
-        }
+        "log": {}
       }
     ]
   }
