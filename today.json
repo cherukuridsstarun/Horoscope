@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 12 November 2026",
   "date_key": "2026-11-12",
-  "fetched_ist": "12 Nov 2026, 01:34 AM IST",
+  "fetched_ist": "12 Nov 2026, 03:55 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -396,17 +396,17 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-12T01:30",
-        "time": "1:30 AM",
-        "hour": 1.5,
-        "temp": 21,
-        "feels": 21,
-        "humidity": 57,
-        "label": "Mostly clear",
-        "icon": "🌙"
+        "iso": "2026-11-12T03:45",
+        "time": "3:45 AM",
+        "hour": 3.75,
+        "temp": 20,
+        "feels": 20,
+        "humidity": 55,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 30,
-      "low": 19,
+      "low": 20,
       "rain": 0,
       "uv": 7.1,
       "periods": [
@@ -423,8 +423,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "⛅",
+          "label": "Partly cloudy",
           "temp": 29,
           "rain": 0
         },
@@ -457,14 +457,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-12T01:30",
-        "time": "1:30 AM",
-        "hour": 1.5,
-        "temp": 21,
+        "iso": "2026-11-12T03:45",
+        "time": "3:45 AM",
+        "hour": 3.75,
+        "temp": 20,
         "feels": 20,
-        "humidity": 54,
-        "label": "Mostly clear",
-        "icon": "🌙"
+        "humidity": 56,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 30,
       "low": 20,
@@ -633,17 +633,17 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-12T01:30",
-          "time": "1:30 AM",
-          "hour": 1.5,
-          "temp": 21,
-          "feels": 21,
-          "humidity": 57,
-          "label": "Mostly clear",
-          "icon": "🌙"
+          "iso": "2026-11-12T03:45",
+          "time": "3:45 AM",
+          "hour": 3.75,
+          "temp": 20,
+          "feels": 20,
+          "humidity": 55,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 30,
-        "low": 19,
+        "low": 20,
         "rain": 0,
         "uv": 7.1,
         "periods": [
@@ -660,8 +660,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "⛅",
+            "label": "Partly cloudy",
             "temp": 29,
             "rain": 0
           },
@@ -693,14 +693,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-12T01:30",
-          "time": "1:30 AM",
-          "hour": 1.5,
-          "temp": 21,
+          "iso": "2026-11-12T03:45",
+          "time": "3:45 AM",
+          "hour": 3.75,
+          "temp": 20,
           "feels": 20,
-          "humidity": 54,
-          "label": "Mostly clear",
-          "icon": "🌙"
+          "humidity": 56,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 30,
         "low": 20,
