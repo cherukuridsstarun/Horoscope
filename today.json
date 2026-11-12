@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 12 November 2026",
   "date_key": "2026-11-12",
-  "fetched_ist": "12 Nov 2026, 12:46 PM IST",
+  "fetched_ist": "12 Nov 2026, 02:24 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 12, 2026",
       "text": "A lot of activity could occur at home today, Taurus. Perhaps you will have visitors or do some work on the house. Your intuition is particularly strong right now, and you could pick up too much of the thoughts and feelings of others, even strangers. You will probably be most in tune with your family. Take care to guard your thoughts. Today you might find that whatever you think of could actually manifest."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 12, 2026",
       "text": "Allow your troubles to burn away, and rise like a phoenix from the ashes. The Sagittarius Moon and Chiron form an invigorating aspect, darling Taurus, providing you with the fire necessary to release what does not serve you. Work with positive mantras as the morning unfolds, focusing on transformation, empowerment, and cleansing. You'll feel lighter and spiritually fulfilled after Luna enters Capricorn this afternoon, bringing you closer to the divine powers that watch over you each day. Your imagination grows stronger once Neptune stirs later today, and prolonged meditation sessions can lead to inspired ideas or personal epiphanies. Share what you discover with someone you trust while Mercury rx activates tonight."
@@ -103,7 +103,7 @@
         },
         {
           "text": "Your spirit feels caged. You feel like your work is suffocating you in some way. Make a conscious effort to unleash yourself. Talk to your employers honestly about what your needs are and how they can be better met. Work together as a team.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -147,7 +147,7 @@
         },
         {
           "text": "You may have learned ways to ignore your need for balance - putting your finger on these will be part of the challenge in creating a structure that gives you more of it. Have you considered what foods make you feel light yet satisfied, energized and happy? We all have specific foods that work best in our system, but too few of us are conscientious enough to notice what they are. Today's planetary configuration encourages you to examine your personal habits.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -324,17 +324,17 @@
     "hc_general": {
       "text": "A lot of activity could occur at home today, Taurus. Perhaps you will have visitors or do some work on the house. Your intuition is particularly strong right now, and you could pick up too much of the thoughts and feelings of others, even strangers. You will probably be most in tune with your family. Take care to guard your thoughts. Today you might find that whatever you think of could actually manifest.",
       "date": "Nov 12, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Your spirit feels caged. You feel like your work is suffocating you in some way. Make a conscious effort to unleash yourself. Talk to your employers honestly about what your needs are and how they can be better met. Work together as a team.",
       "date": "Nov 12, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "You may have learned ways to ignore your need for balance - putting your finger on these will be part of the challenge in creating a structure that gives you more of it. Have you considered what foods make you feel light yet satisfied, energized and happy? We all have specific foods that work best in our system, but too few of us are conscientious enough to notice what they are. Today's planetary configuration encourages you to examine your personal habits.",
       "date": "Nov 12, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "Career activity brings excitement and drama but also a bit of unpredictability this week. Ideas are flying, but you need to monetize one before moving on to the next lest you find yourself with decreased cash flow. Aspects affect your relationship house, too. A lot is changing there, requiring you to be diplomatic with your attention at this time. Love dictates your decision.",
@@ -342,7 +342,7 @@
     },
     "ac": {
       "text": "Allow your troubles to burn away, and rise like a phoenix from the ashes. The Sagittarius Moon and Chiron form an invigorating aspect, darling Taurus, providing you with the fire necessary to release what does not serve you. Work with positive mantras as the morning unfolds, focusing on transformation, empowerment, and cleansing. You'll feel lighter and spiritually fulfilled after Luna enters Capricorn this afternoon, bringing you closer to the divine powers that watch over you each day. Your imagination grows stronger once Neptune stirs later today, and prolonged meditation sessions can lead to inspired ideas or personal epiphanies. Share what you discover with someone you trust while Mercury rx activates tonight.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -396,14 +396,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-12T12:45",
-        "time": "12:45 PM",
-        "hour": 12.75,
+        "iso": "2026-11-12T14:15",
+        "time": "2:15 PM",
+        "hour": 14.25,
         "temp": 29,
-        "feels": 29,
+        "feels": 28,
         "humidity": 31,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "label": "Clear sky",
+        "icon": "☀️"
       },
       "high": 29,
       "low": 19,
@@ -416,7 +416,7 @@
           "to": 12,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 25,
+          "temp": 24,
           "rain": 0
         },
         {
@@ -442,7 +442,7 @@
           "from": 21,
           "to": 30,
           "icon": "🌙",
-          "label": "Mostly clear",
+          "label": "Clear sky",
           "temp": 21,
           "rain": 0
         }
@@ -458,13 +458,13 @@
           "icon": "☁️"
         },
         "Afternoon": {
-          "iso": "2026-11-12T12:45",
-          "time": "12:45 PM",
+          "iso": "2026-11-12T14:15",
+          "time": "2:15 PM",
           "temp": 29,
-          "feels": 29,
+          "feels": 28,
           "humidity": 31,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -479,13 +479,13 @@
         "icon": "☁️"
       },
       "Afternoon": {
-        "iso": "2026-11-12T12:45",
-        "time": "12:45 PM",
+        "iso": "2026-11-12T14:15",
+        "time": "2:15 PM",
         "temp": 29,
-        "feels": 29,
+        "feels": 28,
         "humidity": 31,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "label": "Clear sky",
+        "icon": "☀️"
       }
     },
     "wx_office": {
@@ -495,14 +495,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-12T12:45",
-        "time": "12:45 PM",
-        "hour": 12.75,
+        "iso": "2026-11-12T14:15",
+        "time": "2:15 PM",
+        "hour": 14.25,
         "temp": 30,
         "feels": 29,
         "humidity": 30,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "label": "Clear sky",
+        "icon": "☀️"
       },
       "high": 30,
       "low": 19,
@@ -531,8 +531,8 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 25,
           "rain": 0
         },
@@ -541,7 +541,7 @@
           "from": 21,
           "to": 30,
           "icon": "🌙",
-          "label": "Mostly clear",
+          "label": "Clear sky",
           "temp": 21,
           "rain": 0
         }
@@ -557,13 +557,13 @@
           "icon": "☁️"
         },
         "Afternoon": {
-          "iso": "2026-11-12T12:45",
-          "time": "12:45 PM",
+          "iso": "2026-11-12T14:15",
+          "time": "2:15 PM",
           "temp": 30,
           "feels": 29,
           "humidity": 30,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -578,13 +578,13 @@
         "icon": "☁️"
       },
       "Afternoon": {
-        "iso": "2026-11-12T12:45",
-        "time": "12:45 PM",
+        "iso": "2026-11-12T14:15",
+        "time": "2:15 PM",
         "temp": 30,
         "feels": 29,
         "humidity": 30,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "label": "Clear sky",
+        "icon": "☀️"
       }
     },
     "gold": {
@@ -709,14 +709,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-12T12:45",
-          "time": "12:45 PM",
-          "hour": 12.75,
+          "iso": "2026-11-12T14:15",
+          "time": "2:15 PM",
+          "hour": 14.25,
           "temp": 29,
-          "feels": 29,
+          "feels": 28,
           "humidity": 31,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "label": "Clear sky",
+          "icon": "☀️"
         },
         "high": 29,
         "low": 19,
@@ -729,7 +729,7 @@
             "to": 12,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 25,
+            "temp": 24,
             "rain": 0
           },
           {
@@ -755,7 +755,7 @@
             "from": 21,
             "to": 30,
             "icon": "🌙",
-            "label": "Mostly clear",
+            "label": "Clear sky",
             "temp": 21,
             "rain": 0
           }
@@ -771,13 +771,13 @@
             "icon": "☁️"
           },
           "Afternoon": {
-            "iso": "2026-11-12T12:45",
-            "time": "12:45 PM",
+            "iso": "2026-11-12T14:15",
+            "time": "2:15 PM",
             "temp": 29,
-            "feels": 29,
+            "feels": 28,
             "humidity": 31,
-            "label": "Partly cloudy",
-            "icon": "⛅"
+            "label": "Clear sky",
+            "icon": "☀️"
           }
         }
       },
@@ -788,14 +788,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-12T12:45",
-          "time": "12:45 PM",
-          "hour": 12.75,
+          "iso": "2026-11-12T14:15",
+          "time": "2:15 PM",
+          "hour": 14.25,
           "temp": 30,
           "feels": 29,
           "humidity": 30,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "label": "Clear sky",
+          "icon": "☀️"
         },
         "high": 30,
         "low": 19,
@@ -824,8 +824,8 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 25,
             "rain": 0
           },
@@ -834,7 +834,7 @@
             "from": 21,
             "to": 30,
             "icon": "🌙",
-            "label": "Mostly clear",
+            "label": "Clear sky",
             "temp": 21,
             "rain": 0
           }
@@ -850,13 +850,13 @@
             "icon": "☁️"
           },
           "Afternoon": {
-            "iso": "2026-11-12T12:45",
-            "time": "12:45 PM",
+            "iso": "2026-11-12T14:15",
+            "time": "2:15 PM",
             "temp": 30,
             "feels": 29,
             "humidity": 30,
-            "label": "Partly cloudy",
-            "icon": "⛅"
+            "label": "Clear sky",
+            "icon": "☀️"
           }
         }
       }
