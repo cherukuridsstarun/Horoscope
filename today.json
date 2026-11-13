@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 13 November 2026",
   "date_key": "2026-11-13",
-  "fetched_ist": "13 Nov 2026, 12:20 PM IST",
+  "fetched_ist": "13 Nov 2026, 02:21 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 13, 2026",
       "text": "Today you might hear of opportunities to make extra money through creative work of some kind, Taurus. This could be a genuine lucky break achieved by being in the right place at the right time. You will probably take advantage of it, because right now you're full of inspiration. You might have a hard time keeping track of all your ideas. Write them down!"
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 13, 2026",
       "text": "The universe holds you to high standards this morning, dearest Taurus, as the Capricorn Moon and Saturn align. Follow through on any promises you've made to yourself or your higher power, especially if related wishes have already manifested. Expand upon existing success to go further, acknowledging the vital role discipline and practicality play in this process. Be mindful of who or what has been throwing your thoughts out of balance as Mercury ends its retrograde journey. Luckily, you'll have a chance to establish healthier dynamics and communication practices as Venus stations direct this evening."
@@ -95,7 +95,7 @@
         },
         {
           "text": "Your thinking is clear and grounded. You will learn important details that will help you put together your master plan. Fit the big pieces into place first and then let the details fill in the holes. Everything is coming into position as it should.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -147,7 +147,7 @@
         },
         {
           "text": "The current planetary influence encourages you to question your personal habits - at the same time, you feel mistrustful of the exercise, as though there would be criticism from the universe for anything less than perfect. It is important to notice if this is going on, because it is the key to breaking down a system of denial. When we feel judged, we deny the behavior in question. When we feel a sense of acceptance, we can embrace change.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -240,10 +240,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 12613,
-        "k24": 13769,
+        "k22": 12447,
+        "k24": 13588,
         "change22": null,
-        "date": "12 November 2026",
+        "date": "13 November 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -332,17 +332,17 @@
     "hc_general": {
       "text": "Today you might hear of opportunities to make extra money through creative work of some kind, Taurus. This could be a genuine lucky break achieved by being in the right place at the right time. You will probably take advantage of it, because right now you're full of inspiration. You might have a hard time keeping track of all your ideas. Write them down!",
       "date": "Nov 13, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Your thinking is clear and grounded. You will learn important details that will help you put together your master plan. Fit the big pieces into place first and then let the details fill in the holes. Everything is coming into position as it should.",
       "date": "Nov 13, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "The current planetary influence encourages you to question your personal habits - at the same time, you feel mistrustful of the exercise, as though there would be criticism from the universe for anything less than perfect. It is important to notice if this is going on, because it is the key to breaking down a system of denial. When we feel judged, we deny the behavior in question. When we feel a sense of acceptance, we can embrace change.",
       "date": "Nov 13, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "Career activity brings excitement and drama but also a bit of unpredictability this week. Ideas are flying, but you need to monetize one before moving on to the next lest you find yourself with decreased cash flow. Aspects affect your relationship house, too. A lot is changing there, requiring you to be diplomatic with your attention at this time. Love dictates your decision.",
@@ -350,7 +350,7 @@
     },
     "ac": {
       "text": "The universe holds you to high standards this morning, dearest Taurus, as the Capricorn Moon and Saturn align. Follow through on any promises you've made to yourself or your higher power, especially if related wishes have already manifested. Expand upon existing success to go further, acknowledging the vital role discipline and practicality play in this process. Be mindful of who or what has been throwing your thoughts out of balance as Mercury ends its retrograde journey. Watch for romantic conflict, as issues that have quietly brewed will finally come to a head. Luckily, you'll have a chance to establish healthier dynamics and communication practices as Venus stations direct this evening.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -618,10 +618,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 12613,
-          "k24": 13769,
+          "k22": 12447,
+          "k24": 13588,
           "change22": null,
-          "date": "12 November 2026",
+          "date": "13 November 2026",
           "url": "https://ibjarates.com/"
         }
       },
