@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Saturday, 14 November 2026",
   "date_key": "2026-11-14",
-  "fetched_ist": "14 Nov 2026, 12:01 PM IST",
+  "fetched_ist": "14 Nov 2026, 01:43 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 14, 2026",
       "text": "With today's energy, you might want to let your imagination run free for a while, Taurus. This can add a real boost, as it will connect you with your inner self. Let your imagination be your ticket to your creative and artistic abilities. Problem-solving skills can also be accented or realized when the mind has time to roam."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 14, 2026",
       "text": "Go with the flow while the Capricorn Moon aligns with Mercury and Venus, dearest Taurus. Inspiring, optimistic energy surrounds you, but a desire to fully experience life could trigger control issues. Lean into messy or chaotic moments, recognizing that beauty and magic are often found when plans go awry. Try not to overexert yourself when Mars connects with the nodes of fate. If you've been running on fumes recently, now is a good time to rest up at home and establish better structures to avoid future burnout. Spiritual epiphanies trickle through when you embrace quiet, as Luna aspects Chiron this evening."
@@ -115,7 +115,7 @@
         },
         {
           "text": "A woman in power is of great importance to you today. This woman could be a female co-worker or employer. Perhaps she is someone outside your workplace. Either way, you should listen and respect her. She has important advice to give to you.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -163,7 +163,7 @@
         },
         {
           "text": "Take a look at what matters most to you in the world. Somewhere on your list is probably a sense of well-being for all, and a safe community for our children to grow up in. One of the ways you can balance your own needs and the needs of the community is through participation in organic farming. Consider getting knowledgeable about the issues surrounding organic farming. Being aware of what you can do will add to your sense of well-being. Buying organic is a political statement as well as a nutritional one!",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -360,17 +360,17 @@
     "hc_general": {
       "text": "With today's energy, you might want to let your imagination run free for a while, Taurus. This can add a real boost, as it will connect you with your inner self. Let your imagination be your ticket to your creative and artistic abilities. Problem-solving skills can also be accented or realized when the mind has time to roam. This part of you is as important as your heart, so use it to the fullest.",
       "date": "Nov 14, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "A woman in power is of great importance to you today. This woman could be a female co-worker or employer. Perhaps she is someone outside your workplace. Either way, you should listen and respect her. She has important advice to give to you.",
       "date": "Nov 14, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Take a look at what matters most to you in the world. Somewhere on your list is probably a sense of well-being for all, and a safe community for our children to grow up in. One of the ways you can balance your own needs and the needs of the community is through participation in organic farming. Consider getting knowledgeable about the issues surrounding organic farming. Being aware of what you can do will add to your sense of well-being. Buying organic is a political statement as well as a nutritional one!",
       "date": "Nov 14, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "Career activity brings excitement and drama but also a bit of unpredictability this week. Ideas are flying, but you need to monetize one before moving on to the next lest you find yourself with decreased cash flow. Aspects affect your relationship house, too. A lot is changing there, requiring you to be diplomatic with your attention at this time. Love dictates your decision.",
@@ -378,7 +378,7 @@
     },
     "ac": {
       "text": "Go with the flow while the Capricorn Moon aligns with Mercury and Venus, dearest Taurus. Inspiring, optimistic energy surrounds you, but a desire to fully experience life could trigger control issues. Lean into messy or chaotic moments, recognizing that beauty and magic are often found when plans go awry. Try not to overexert yourself when Mars connects with the nodes of fate. If you've been running on fumes recently, now is a good time to rest up at home and establish better structures to avoid future burnout. Spiritual epiphanies trickle through when you embrace quiet, as Luna aspects Chiron this evening.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
