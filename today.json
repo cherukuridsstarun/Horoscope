@@ -2,14 +2,14 @@
   "sign": "Taurus",
   "date_ist": "Sunday, 15 November 2026",
   "date_key": "2026-11-15",
-  "fetched_ist": "15 Nov 2026, 12:10 AM IST",
+  "fetched_ist": "15 Nov 2026, 01:47 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "14-11-2026",
-      "text": null
+      "ok": true,
+      "source_date": "15-11-2026",
+      "text": "Today might be a day of untying and getting out of the tangles, says Ganesha. You may take the blame for the actions of another. Things may get frustrating around the afternoon and your confidence levels may stoop. Work on your strength and work out your weaknesses, advises Ganesha."
     },
     {
       "name": "Horoscope.com",
@@ -50,6 +50,14 @@
     ],
     "heads": [
       {
+        "t": "You may take the blame for the actions of another.",
+        "src": "GaneshaSpeaks"
+      },
+      {
+        "t": "Things may get frustrating around the afternoon and your confidence levels may stoop.",
+        "src": "GaneshaSpeaks"
+      },
+      {
         "t": "You can too suffer from the same problem.",
         "src": "AstroSage"
       }
@@ -69,12 +77,21 @@
     "career": {
       "readings": [
         {
+          "text": "Health may not be at its best. Your mental and emotional stress may affect your work life. It is advisable that you don’t push yourself to work today. In short, you should relax with your teammates throughout the day as it will make you feel better.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "Do some independent research today into new technology and tools that can aid you in your business. Do not get left behind as the people around you charge ahead with the help of new gadgets and software. Now is the time for you to play catch up.",
           "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
       "bits": [
+        {
+          "t": "Work on your strength and work out your weaknesses, advises Ganesha.",
+          "src": "GaneshaSpeaks"
+        },
         {
           "t": "Your days' planning might get disturbed due to your spouse's urgent work, but at last you will realize that it happened for good.",
           "src": "AstroSage"
@@ -83,6 +100,11 @@
     },
     "money": {
       "readings": [
+        {
+          "text": "Fortune will favour you today with her blessings. The Goddess of Fortune is in your favour, so if you happen to be facing a financial crisis, you shall gain victory today.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "Career activity brings excitement and drama but also a bit of unpredictability this week. Ideas are flying, but you need to monetize one before moving on to the next lest you find yourself with decreased cash flow. A lot is changing there, requiring you to be diplomatic with your attention at this time.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
@@ -98,6 +120,11 @@
     },
     "health": {
       "readings": [
+        {
+          "text": "You won’t face any major health issue today, says Ganesha. There may be some positive changes in you today. This will also make you save your energy. You will control your diet today which is going to help you maintain good health.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "The balancing acts our bodies perform daily takes place in the kidneys, where the blood is cleansed of impurities. To give your kidneys a hand, include borage (cleanses), gravel root (clears urinary stones) and buchu (kidney stimulant) in your diet. To learn about these and other nutritious substances, begin to frequent the more \"conscious\" produce markets in your area. Growers often sell direct to these markets, which speaks of a relatively balanced economic and environmental structure that you may want to support.",
           "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
@@ -120,7 +147,7 @@
     {
       "src": "GaneshaSpeaks",
       "number": "6",
-      "color": "Pastel Pink"
+      "color": "Olive Green"
     },
     {
       "src": "AstroSage",
@@ -170,7 +197,7 @@
         "k24": 13762,
         "k22": 12615,
         "change22": 25,
-        "date": "14 November 2026",
+        "date": "15 November 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
       {
@@ -249,14 +276,30 @@
     "ganesha": {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "14-11-2026",
-      "text": null,
+      "ok": true,
+      "source_date": "15-11-2026",
+      "text": "Today might be a day of untying and getting out of the tangles, says Ganesha. You may take the blame for the actions of another. Things may get frustrating around the afternoon and your confidence levels may stoop. Work on your strength and work out your weaknesses, advises Ganesha.",
       "lucky": {
         "number": "6",
-        "color": "Pastel Pink"
+        "color": "Olive Green"
       },
-      "areas": {}
+      "areas": {
+        "health": {
+          "text": "You won’t face any major health issue today, says Ganesha. There may be some positive changes in you today. This will also make you save your energy. You will control your diet today which is going to help you maintain good health.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "money": {
+          "text": "Fortune will favour you today with her blessings. The Goddess of Fortune is in your favour, so if you happen to be facing a financial crisis, you shall gain victory today.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "career": {
+          "text": "Health may not be at its best. Your mental and emotional stress may affect your work life. It is advisable that you don’t push yourself to work today. In short, you should relax with your teammates throughout the day as it will make you feel better.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        }
+      }
     },
     "hc_general": {
       "text": "If someone takes too long to do something today, Taurus, your temper may flare up. Patience isn't always your strong suit, and you may believe in the \"if you want it done right, do it yourself\" philosophy. This isn't always fair. Others need to do things at their own pace, and in some cases, it's essential that you give them the room to do so. Take a deep breath if you have to, and be patient.",
@@ -326,9 +369,127 @@
         }
       ]
     },
-    "wx_home": null,
+    "wx_home": {
+      "key": "home",
+      "name": "Home",
+      "area": "",
+      "label": "Cloudy",
+      "icon": "☁️",
+      "now": {
+        "iso": "2026-11-15T01:45",
+        "time": "1:45 AM",
+        "hour": 1.75,
+        "temp": 21,
+        "feels": 21,
+        "humidity": 54,
+        "label": "Mostly clear",
+        "icon": "🌙"
+      },
+      "high": 30,
+      "low": 20,
+      "rain": 0,
+      "uv": 6.0,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 25,
+          "rain": 0
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 30,
+          "rain": 0
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 26,
+          "rain": 0
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 22,
+          "rain": 0
+        }
+      ],
+      "log": {}
+    },
     "wxlog_home": {},
-    "wx_office": null,
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Cloudy",
+      "icon": "☁️",
+      "now": {
+        "iso": "2026-11-15T01:45",
+        "time": "1:45 AM",
+        "hour": 1.75,
+        "temp": 21,
+        "feels": 21,
+        "humidity": 53,
+        "label": "Mostly clear",
+        "icon": "🌙"
+      },
+      "high": 31,
+      "low": 20,
+      "rain": 0,
+      "uv": 5.9,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 25,
+          "rain": 0
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 30,
+          "rain": 0
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 26,
+          "rain": 0
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 22,
+          "rain": 0
+        }
+      ],
+      "log": {}
+    },
     "wxlog_office": {},
     "gold": {
       "rows": {
@@ -338,7 +499,7 @@
           "k24": 13762,
           "k22": 12615,
           "change22": 25,
-          "date": "14 November 2026",
+          "date": "15 November 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
         "PolicyBazaar": {
@@ -442,5 +603,129 @@
       "days": 9
     }
   },
-  "weather": null
+  "weather": {
+    "date": "2026-11-15",
+    "places": [
+      {
+        "key": "home",
+        "name": "Home",
+        "area": "",
+        "label": "Cloudy",
+        "icon": "☁️",
+        "now": {
+          "iso": "2026-11-15T01:45",
+          "time": "1:45 AM",
+          "hour": 1.75,
+          "temp": 21,
+          "feels": 21,
+          "humidity": 54,
+          "label": "Mostly clear",
+          "icon": "🌙"
+        },
+        "high": 30,
+        "low": 20,
+        "rain": 0,
+        "uv": 6.0,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 25,
+            "rain": 0
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 30,
+            "rain": 0
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 26,
+            "rain": 0
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 22,
+            "rain": 0
+          }
+        ],
+        "log": {}
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
+        "label": "Cloudy",
+        "icon": "☁️",
+        "now": {
+          "iso": "2026-11-15T01:45",
+          "time": "1:45 AM",
+          "hour": 1.75,
+          "temp": 21,
+          "feels": 21,
+          "humidity": 53,
+          "label": "Mostly clear",
+          "icon": "🌙"
+        },
+        "high": 31,
+        "low": 20,
+        "rain": 0,
+        "uv": 5.9,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 25,
+            "rain": 0
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 30,
+            "rain": 0
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 26,
+            "rain": 0
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 22,
+            "rain": 0
+          }
+        ],
+        "log": {}
+      }
+    ]
+  }
 }
