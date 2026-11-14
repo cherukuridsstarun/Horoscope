@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Saturday, 14 November 2026",
   "date_key": "2026-11-14",
-  "fetched_ist": "14 Nov 2026, 08:16 AM IST",
+  "fetched_ist": "14 Nov 2026, 12:01 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -250,9 +250,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 13734,
-        "k22": 12589,
-        "change22": -1,
+        "k24": 13762,
+        "k22": 12615,
+        "change22": 25,
         "date": "14 November 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -323,8 +323,8 @@
       },
       {
         "date": "Nov 14, 2026",
-        "k22": 12589,
-        "k24": 13734
+        "k22": 12615,
+        "k24": 13762
       }
     ]
   },
@@ -592,9 +592,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 13734,
-          "k22": 12589,
-          "change22": -1,
+          "k24": 13762,
+          "k22": 12615,
+          "change22": 25,
           "date": "14 November 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -665,8 +665,8 @@
         },
         {
           "date": "Nov 14, 2026",
-          "k22": 12589,
-          "k24": 13734
+          "k22": 12615,
+          "k24": 13762
         }
       ]
     }
