@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Saturday, 14 November 2026",
   "date_key": "2026-11-14",
-  "fetched_ist": "14 Nov 2026, 03:15 AM IST",
+  "fetched_ist": "14 Nov 2026, 08:16 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -250,9 +250,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 13735,
-        "k22": 12590,
-        "change22": -225,
+        "k24": 13734,
+        "k22": 12589,
+        "change22": -1,
         "date": "14 November 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -264,14 +264,18 @@
         "change22": null,
         "date": "14 November 2026",
         "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
+      },
+      {
+        "src": "IBJA",
+        "label": "India benchmark (wholesale)",
+        "k22": 12440,
+        "k24": 13581,
+        "change22": null,
+        "date": "13 November 2026",
+        "url": "https://ibjarates.com/"
       }
     ],
     "trend": [
-      {
-        "date": "Nov 04, 2026",
-        "k22": 13090,
-        "k24": 14280
-      },
       {
         "date": "Nov 05, 2026",
         "k22": 13385,
@@ -316,6 +320,11 @@
         "date": "Nov 13, 2026",
         "k22": 12590,
         "k24": 13735
+      },
+      {
+        "date": "Nov 14, 2026",
+        "k22": 12589,
+        "k24": 13734
       }
     ]
   },
@@ -416,18 +425,176 @@
         }
       ]
     },
-    "wx_home": null,
-    "wxlog_home": {},
-    "wx_office": null,
-    "wxlog_office": {},
+    "wx_home": {
+      "key": "home",
+      "name": "Home",
+      "area": "",
+      "label": "Cloudy",
+      "icon": "☁️",
+      "now": {
+        "iso": "2026-11-14T08:15",
+        "time": "8:15 AM",
+        "hour": 8.25,
+        "temp": 23,
+        "feels": 23,
+        "humidity": 52,
+        "label": "Cloudy",
+        "icon": "☁️"
+      },
+      "high": 30,
+      "low": 19,
+      "rain": 0,
+      "uv": 7.0,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 24,
+          "rain": 0
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "⛅",
+          "label": "Partly cloudy",
+          "temp": 30,
+          "rain": 0
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 26,
+          "rain": 0
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "⛅",
+          "label": "Partly cloudy",
+          "temp": 21,
+          "rain": 0
+        }
+      ],
+      "log": {
+        "Morning": {
+          "iso": "2026-11-14T08:15",
+          "time": "8:15 AM",
+          "temp": 23,
+          "feels": 23,
+          "humidity": 52,
+          "label": "Cloudy",
+          "icon": "☁️"
+        }
+      }
+    },
+    "wxlog_home": {
+      "Morning": {
+        "iso": "2026-11-14T08:15",
+        "time": "8:15 AM",
+        "temp": 23,
+        "feels": 23,
+        "humidity": 52,
+        "label": "Cloudy",
+        "icon": "☁️"
+      }
+    },
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Cloudy",
+      "icon": "☁️",
+      "now": {
+        "iso": "2026-11-14T08:15",
+        "time": "8:15 AM",
+        "hour": 8.25,
+        "temp": 23,
+        "feels": 23,
+        "humidity": 53,
+        "label": "Cloudy",
+        "icon": "☁️"
+      },
+      "high": 31,
+      "low": 19,
+      "rain": 0,
+      "uv": 7.0,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 24,
+          "rain": 0
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 30,
+          "rain": 0
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "☀️",
+          "label": "Clear sky",
+          "temp": 26,
+          "rain": 0
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 22,
+          "rain": 0
+        }
+      ],
+      "log": {
+        "Morning": {
+          "iso": "2026-11-14T08:15",
+          "time": "8:15 AM",
+          "temp": 23,
+          "feels": 23,
+          "humidity": 53,
+          "label": "Cloudy",
+          "icon": "☁️"
+        }
+      }
+    },
+    "wxlog_office": {
+      "Morning": {
+        "iso": "2026-11-14T08:15",
+        "time": "8:15 AM",
+        "temp": 23,
+        "feels": 23,
+        "humidity": 53,
+        "label": "Cloudy",
+        "icon": "☁️"
+      }
+    },
     "gold": {
       "rows": {
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 13735,
-          "k22": 12590,
-          "change22": -225,
+          "k24": 13734,
+          "k22": 12589,
+          "change22": -1,
           "date": "14 November 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -440,14 +607,17 @@
           "date": "14 November 2026",
           "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
         },
-        "IBJA": null
+        "IBJA": {
+          "src": "IBJA",
+          "label": "India benchmark (wholesale)",
+          "k22": 12440,
+          "k24": 13581,
+          "change22": null,
+          "date": "13 November 2026",
+          "url": "https://ibjarates.com/"
+        }
       },
       "trend": [
-        {
-          "date": "Nov 04, 2026",
-          "k22": 13090,
-          "k24": 14280
-        },
         {
           "date": "Nov 05, 2026",
           "k22": 13385,
@@ -492,6 +662,11 @@
           "date": "Nov 13, 2026",
           "k22": 12590,
           "k24": 13735
+        },
+        {
+          "date": "Nov 14, 2026",
+          "k22": 12589,
+          "k24": 13734
         }
       ]
     }
@@ -524,5 +699,149 @@
       "days": 10
     }
   },
-  "weather": null
+  "weather": {
+    "date": "2026-11-14",
+    "places": [
+      {
+        "key": "home",
+        "name": "Home",
+        "area": "",
+        "label": "Cloudy",
+        "icon": "☁️",
+        "now": {
+          "iso": "2026-11-14T08:15",
+          "time": "8:15 AM",
+          "hour": 8.25,
+          "temp": 23,
+          "feels": 23,
+          "humidity": 52,
+          "label": "Cloudy",
+          "icon": "☁️"
+        },
+        "high": 30,
+        "low": 19,
+        "rain": 0,
+        "uv": 7.0,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 24,
+            "rain": 0
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "⛅",
+            "label": "Partly cloudy",
+            "temp": 30,
+            "rain": 0
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 26,
+            "rain": 0
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "⛅",
+            "label": "Partly cloudy",
+            "temp": 21,
+            "rain": 0
+          }
+        ],
+        "log": {
+          "Morning": {
+            "iso": "2026-11-14T08:15",
+            "time": "8:15 AM",
+            "temp": 23,
+            "feels": 23,
+            "humidity": 52,
+            "label": "Cloudy",
+            "icon": "☁️"
+          }
+        }
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
+        "label": "Cloudy",
+        "icon": "☁️",
+        "now": {
+          "iso": "2026-11-14T08:15",
+          "time": "8:15 AM",
+          "hour": 8.25,
+          "temp": 23,
+          "feels": 23,
+          "humidity": 53,
+          "label": "Cloudy",
+          "icon": "☁️"
+        },
+        "high": 31,
+        "low": 19,
+        "rain": 0,
+        "uv": 7.0,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 24,
+            "rain": 0
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 30,
+            "rain": 0
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "☀️",
+            "label": "Clear sky",
+            "temp": 26,
+            "rain": 0
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 22,
+            "rain": 0
+          }
+        ],
+        "log": {
+          "Morning": {
+            "iso": "2026-11-14T08:15",
+            "time": "8:15 AM",
+            "temp": 23,
+            "feels": 23,
+            "humidity": 53,
+            "label": "Cloudy",
+            "icon": "☁️"
+          }
+        }
+      }
+    ]
+  }
 }
