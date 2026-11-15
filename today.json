@@ -2,14 +2,14 @@
   "sign": "Taurus",
   "date_ist": "Monday, 16 November 2026",
   "date_key": "2026-11-16",
-  "fetched_ist": "16 Nov 2026, 12:47 AM IST",
+  "fetched_ist": "16 Nov 2026, 02:12 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "15-11-2026",
-      "text": null
+      "ok": true,
+      "source_date": "16-11-2026",
+      "text": "There will be a positive surge in your career prospects today. However, this progress may not be in the direction that you expected. Financial opportunities and success will knock at your door, a rare combination of guests. You will also achieve material progress, predicts Ganesha."
     },
     {
       "name": "Horoscope.com",
@@ -35,6 +35,22 @@
   ],
   "glance": {
     "good": [
+      {
+        "t": "There will be a positive surge in your career prospects today.",
+        "src": "GaneshaSpeaks"
+      },
+      {
+        "t": "However, this progress may not be in the direction that you expected.",
+        "src": "GaneshaSpeaks"
+      },
+      {
+        "t": "Financial opportunities and success will knock at your door, a rare combination of guests.",
+        "src": "GaneshaSpeaks"
+      },
+      {
+        "t": "You will also achieve material progress, predicts Ganesha.",
+        "src": "GaneshaSpeaks"
+      },
       {
         "t": "Your emotions are solid, and you feel good, Taurus.",
         "src": "Horoscope.com"
@@ -72,15 +88,30 @@
     "career": {
       "readings": [
         {
+          "text": "Luck comes to you when you least expect it. It’s better to keep up with your hard work to achieve the targets. Your colleagues may dislike you since they feel you are forcing them to follow your decision. Your flexible attitude will help you get support when you will be in trouble.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "In your constant effort to stay grounded and practical with regard to your current work situation, you may have lost touch with the creative, whimsical side of the equation. Use this day to let your mind go. You will find the answers in the clouds.",
           "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
-      "bits": []
+      "bits": [
+        {
+          "t": "There will be a positive surge in your career prospects today.",
+          "src": "GaneshaSpeaks"
+        }
+      ]
     },
     "money": {
       "readings": [
+        {
+          "text": "On the financial front, today is going to be a favourable day for you, as the cosmos will be working in your favour. You are likely to be extremely happy to see your efforts fructifying.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "Career activity brings excitement and drama but also a bit of unpredictability this week. Ideas are flying, but you need to monetize one before moving on to the next lest you find yourself with decreased cash flow. A lot is changing there, requiring you to be diplomatic with your attention at this time.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
@@ -89,6 +120,10 @@
       ],
       "bits": [
         {
+          "t": "Financial opportunities and success will knock at your door, a rare combination of guests.",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "t": "Even if you keep tackling money issues throughout the day, you are likely to attain profits in the evening.",
           "src": "AstroSage"
         }
@@ -96,6 +131,11 @@
     },
     "health": {
       "readings": [
+        {
+          "text": "You will try to save your energy today. This will help you give better output at work or in any other area of life. Ganesha feels that you will be controlling your diet today, which too will help maintain good health.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "Today's planetary configuration could make you feel a sense of loneliness, as you realize that there are imbalances in the world that you alone cannot change. You may experience a sense of isolation when considering certain health issues. Try to share your thoughts and ideas with supportive friends and family.",
           "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
@@ -117,8 +157,8 @@
   "lucky": [
     {
       "src": "GaneshaSpeaks",
-      "number": "6",
-      "color": "Olive Green"
+      "number": "2",
+      "color": "Cream"
     },
     {
       "src": "AstroSage",
@@ -247,14 +287,30 @@
     "ganesha": {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "15-11-2026",
-      "text": null,
+      "ok": true,
+      "source_date": "16-11-2026",
+      "text": "There will be a positive surge in your career prospects today. However, this progress may not be in the direction that you expected. Financial opportunities and success will knock at your door, a rare combination of guests. You will also achieve material progress, predicts Ganesha.",
       "lucky": {
-        "number": "6",
-        "color": "Olive Green"
+        "number": "2",
+        "color": "Cream"
       },
-      "areas": {}
+      "areas": {
+        "health": {
+          "text": "You will try to save your energy today. This will help you give better output at work or in any other area of life. Ganesha feels that you will be controlling your diet today, which too will help maintain good health.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "money": {
+          "text": "On the financial front, today is going to be a favourable day for you, as the cosmos will be working in your favour. You are likely to be extremely happy to see your efforts fructifying.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "career": {
+          "text": "Luck comes to you when you least expect it. It’s better to keep up with your hard work to achieve the targets. Your colleagues may dislike you since they feel you are forcing them to follow your decision. Your flexible attitude will help you get support when you will be in trouble.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        }
+      }
     },
     "hc_general": {
       "text": "Your emotions are solid, and you feel good, Taurus. At the same time, you may be tongue-tied. You're having a hard time expressing your true feelings in the way you'd like to, especially when it comes to love and romance. Perhaps you have so many thoughts that you don't know how to sort them out, or which to disclose and which to keep hidden.",
@@ -331,17 +387,17 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-16T00:45",
-        "time": "12:45 AM",
-        "hour": 0.75,
+        "iso": "2026-11-16T02:00",
+        "time": "2:00 AM",
+        "hour": 2.0,
         "temp": 21,
         "feels": 21,
-        "humidity": 56,
+        "humidity": 57,
         "label": "Cloudy",
         "icon": "☁️"
       },
       "high": 30,
-      "low": 20,
+      "low": 21,
       "rain": 0,
       "uv": 6.95,
       "periods": [
@@ -358,8 +414,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 29,
           "rain": 0
         },
@@ -367,8 +423,8 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 26,
           "rain": 0
         },
@@ -376,9 +432,9 @@
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "⛅",
-          "label": "Partly cloudy",
-          "temp": 21,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 22,
           "rain": 0
         }
       ],
@@ -392,12 +448,12 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-16T00:45",
-        "time": "12:45 AM",
-        "hour": 0.75,
+        "iso": "2026-11-16T02:00",
+        "time": "2:00 AM",
+        "hour": 2.0,
         "temp": 21,
         "feels": 20,
-        "humidity": 56,
+        "humidity": 57,
         "label": "Cloudy",
         "icon": "☁️"
       },
@@ -419,8 +475,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 30,
           "rain": 0
         },
@@ -428,8 +484,8 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 26,
           "rain": 0
         },
@@ -437,9 +493,9 @@
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "⛅",
-          "label": "Partly cloudy",
-          "temp": 21,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 22,
           "rain": 0
         }
       ],
@@ -568,17 +624,17 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-16T00:45",
-          "time": "12:45 AM",
-          "hour": 0.75,
+          "iso": "2026-11-16T02:00",
+          "time": "2:00 AM",
+          "hour": 2.0,
           "temp": 21,
           "feels": 21,
-          "humidity": 56,
+          "humidity": 57,
           "label": "Cloudy",
           "icon": "☁️"
         },
         "high": 30,
-        "low": 20,
+        "low": 21,
         "rain": 0,
         "uv": 6.95,
         "periods": [
@@ -595,8 +651,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 29,
             "rain": 0
           },
@@ -604,8 +660,8 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 26,
             "rain": 0
           },
@@ -613,9 +669,9 @@
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "⛅",
-            "label": "Partly cloudy",
-            "temp": 21,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 22,
             "rain": 0
           }
         ],
@@ -628,12 +684,12 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-16T00:45",
-          "time": "12:45 AM",
-          "hour": 0.75,
+          "iso": "2026-11-16T02:00",
+          "time": "2:00 AM",
+          "hour": 2.0,
           "temp": 21,
           "feels": 20,
-          "humidity": 56,
+          "humidity": 57,
           "label": "Cloudy",
           "icon": "☁️"
         },
@@ -655,8 +711,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 30,
             "rain": 0
           },
@@ -664,8 +720,8 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 26,
             "rain": 0
           },
@@ -673,9 +729,9 @@
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "⛅",
-            "label": "Partly cloudy",
-            "temp": 21,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 22,
             "rain": 0
           }
         ],
