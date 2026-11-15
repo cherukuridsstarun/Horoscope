@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Sunday, 15 November 2026",
   "date_key": "2026-11-15",
-  "fetched_ist": "15 Nov 2026, 12:10 PM IST",
+  "fetched_ist": "15 Nov 2026, 02:02 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 15, 2026",
       "text": "If someone takes too long to do something today, Taurus, your temper may flare up. Patience isn't always your strong suit, and you may believe in the \"if you want it done right, do it yourself\" philosophy. This isn't always fair. Others need to do things at their own pace, and in some cases, it's essential that you give them the room to do so. Take a deep breath if you have to, and be patient."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 15, 2026",
       "text": "Honor your inner rebel, dear Taurus, as the Aquarius Moon aligns with Neptune, Pluto, and Uranus. Rather than making obvious waves, focus on outsmarting rules or structures that have created unnecessary obstacles. With a bit of daring and imagination, your reality could dramatically change. Just be mindful of the potential costs your actions may bring when Mercury stirs this afternoon. Throw yourself into a practical brainstorming session once Luna and Saturn align this evening, setting up guardrails to ensure you maintain control."
@@ -83,7 +83,7 @@
         },
         {
           "text": "Do some independent research today into new technology and tools that can aid you in your business. Do not get left behind as the people around you charge ahead with the help of new gadgets and software. Now is the time for you to play catch up.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -127,7 +127,7 @@
         },
         {
           "text": "The balancing acts our bodies perform daily takes place in the kidneys, where the blood is cleansed of impurities. To give your kidneys a hand, include borage (cleanses), gravel root (clears urinary stones) and buchu (kidney stimulant) in your diet. To learn about these and other nutritious substances, begin to frequent the more \"conscious\" produce markets in your area. Growers often sell direct to these markets, which speaks of a relatively balanced economic and environmental structure that you may want to support.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -304,17 +304,17 @@
     "hc_general": {
       "text": "If someone takes too long to do something today, Taurus, your temper may flare up. Patience isn't always your strong suit, and you may believe in the \"if you want it done right, do it yourself\" philosophy. This isn't always fair. Others need to do things at their own pace, and in some cases, it's essential that you give them the room to do so. Take a deep breath if you have to, and be patient.",
       "date": "Nov 15, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Do some independent research today into new technology and tools that can aid you in your business. Do not get left behind as the people around you charge ahead with the help of new gadgets and software. Now is the time for you to play catch up.",
       "date": "Nov 15, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "The balancing acts our bodies perform daily takes place in the kidneys, where the blood is cleansed of impurities. To give your kidneys a hand, include borage (cleanses), gravel root (clears urinary stones) and buchu (kidney stimulant) in your diet. To learn about these and other nutritious substances, begin to frequent the more \"conscious\" produce markets in your area. Growers often sell direct to these markets, which speaks of a relatively balanced economic and environmental structure that you may want to support.",
       "date": "Nov 15, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "Career activity brings excitement and drama but also a bit of unpredictability this week. Ideas are flying, but you need to monetize one before moving on to the next lest you find yourself with decreased cash flow. Aspects affect your relationship house, too. A lot is changing there, requiring you to be diplomatic with your attention at this time. Love dictates your decision.",
@@ -322,7 +322,7 @@
     },
     "ac": {
       "text": "Honor your inner rebel, dear Taurus, as the Aquarius Moon aligns with Neptune, Pluto, and Uranus. Rather than making obvious waves, focus on outsmarting rules or structures that have created unnecessary obstacles. With a bit of daring and imagination, your reality could dramatically change. Just be mindful of the potential costs your actions may bring when Mercury stirs this afternoon. Be extra considerate of how loved ones will be impacted if you upset the balance of your lives. Throw yourself into a practical brainstorming session once Luna and Saturn align this evening, setting up guardrails to ensure you maintain control. Allow passion to guide you when Mars and Jupiter unite tonight.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -376,14 +376,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-15T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 29,
-        "feels": 29,
-        "humidity": 27,
-        "label": "Clear sky",
-        "icon": "☀️"
+        "iso": "2026-11-15T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
+        "temp": 30,
+        "feels": 28,
+        "humidity": 26,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 30,
       "low": 19,
@@ -396,15 +396,15 @@
           "to": 12,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 25,
+          "temp": 24,
           "rain": 0
         },
         {
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "🌤️",
-          "label": "Mostly clear",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 29,
           "rain": 0
         },
@@ -438,13 +438,13 @@
           "icon": "☁️"
         },
         "Afternoon": {
-          "iso": "2026-11-15T12:00",
-          "time": "12:00 PM",
-          "temp": 29,
-          "feels": 29,
-          "humidity": 27,
-          "label": "Clear sky",
-          "icon": "☀️"
+          "iso": "2026-11-15T14:00",
+          "time": "2:00 PM",
+          "temp": 30,
+          "feels": 28,
+          "humidity": 26,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -459,13 +459,13 @@
         "icon": "☁️"
       },
       "Afternoon": {
-        "iso": "2026-11-15T12:00",
-        "time": "12:00 PM",
-        "temp": 29,
-        "feels": 29,
-        "humidity": 27,
-        "label": "Clear sky",
-        "icon": "☀️"
+        "iso": "2026-11-15T14:00",
+        "time": "2:00 PM",
+        "temp": 30,
+        "feels": 28,
+        "humidity": 26,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "wx_office": {
@@ -475,14 +475,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-15T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 29,
-        "feels": 29,
-        "humidity": 25,
-        "label": "Clear sky",
-        "icon": "☀️"
+        "iso": "2026-11-15T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
+        "temp": 30,
+        "feels": 28,
+        "humidity": 24,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 30,
       "low": 19,
@@ -493,18 +493,18 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "⛅",
-          "label": "Partly cloudy",
-          "temp": 25,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 24,
           "rain": 0
         },
         {
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "⛅",
-          "label": "Partly cloudy",
-          "temp": 30,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 29,
           "rain": 0
         },
         {
@@ -537,13 +537,13 @@
           "icon": "⛅"
         },
         "Afternoon": {
-          "iso": "2026-11-15T12:00",
-          "time": "12:00 PM",
-          "temp": 29,
-          "feels": 29,
-          "humidity": 25,
-          "label": "Clear sky",
-          "icon": "☀️"
+          "iso": "2026-11-15T14:00",
+          "time": "2:00 PM",
+          "temp": 30,
+          "feels": 28,
+          "humidity": 24,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -558,13 +558,13 @@
         "icon": "⛅"
       },
       "Afternoon": {
-        "iso": "2026-11-15T12:00",
-        "time": "12:00 PM",
-        "temp": 29,
-        "feels": 29,
-        "humidity": 25,
-        "label": "Clear sky",
-        "icon": "☀️"
+        "iso": "2026-11-15T14:00",
+        "time": "2:00 PM",
+        "temp": 30,
+        "feels": 28,
+        "humidity": 24,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "gold": {
@@ -689,14 +689,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-15T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 29,
-          "feels": 29,
-          "humidity": 27,
-          "label": "Clear sky",
-          "icon": "☀️"
+          "iso": "2026-11-15T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
+          "temp": 30,
+          "feels": 28,
+          "humidity": 26,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 30,
         "low": 19,
@@ -709,15 +709,15 @@
             "to": 12,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 25,
+            "temp": 24,
             "rain": 0
           },
           {
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "🌤️",
-            "label": "Mostly clear",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 29,
             "rain": 0
           },
@@ -751,13 +751,13 @@
             "icon": "☁️"
           },
           "Afternoon": {
-            "iso": "2026-11-15T12:00",
-            "time": "12:00 PM",
-            "temp": 29,
-            "feels": 29,
-            "humidity": 27,
-            "label": "Clear sky",
-            "icon": "☀️"
+            "iso": "2026-11-15T14:00",
+            "time": "2:00 PM",
+            "temp": 30,
+            "feels": 28,
+            "humidity": 26,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       },
@@ -768,14 +768,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-15T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 29,
-          "feels": 29,
-          "humidity": 25,
-          "label": "Clear sky",
-          "icon": "☀️"
+          "iso": "2026-11-15T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
+          "temp": 30,
+          "feels": 28,
+          "humidity": 24,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 30,
         "low": 19,
@@ -786,18 +786,18 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "⛅",
-            "label": "Partly cloudy",
-            "temp": 25,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 24,
             "rain": 0
           },
           {
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "⛅",
-            "label": "Partly cloudy",
-            "temp": 30,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 29,
             "rain": 0
           },
           {
@@ -830,13 +830,13 @@
             "icon": "⛅"
           },
           "Afternoon": {
-            "iso": "2026-11-15T12:00",
-            "time": "12:00 PM",
-            "temp": 29,
-            "feels": 29,
-            "humidity": 25,
-            "label": "Clear sky",
-            "icon": "☀️"
+            "iso": "2026-11-15T14:00",
+            "time": "2:00 PM",
+            "temp": 30,
+            "feels": 28,
+            "humidity": 24,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       }
