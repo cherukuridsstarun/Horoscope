@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Monday, 16 November 2026",
   "date_key": "2026-11-16",
-  "fetched_ist": "16 Nov 2026, 12:06 PM IST",
+  "fetched_ist": "16 Nov 2026, 02:12 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 16, 2026",
       "text": "Your emotions are solid, and you feel good, Taurus. At the same time, you may be tongue-tied. Perhaps you have so many thoughts that you don't know how to sort them out, or which to disclose and which to keep hidden."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 16, 2026",
       "text": "Persistence pays off while the Moon moves through Aquarius, dearest Taurus. Miraculous breakthroughs bring you closer to hopes and dreams you've been focused on for quite some time. If a lack of progress has triggered doubt, don't accept defeat just yet. The energy you put toward long-term aspirations brings fast rewards, though you might not get everything you want all at once. Celebrate wins as they come, recognizing how minor milestones add up to big achievements. Get organized when Luna and Venus align tonight, establishing solid routines to ensure your life flows smoothly each day."
@@ -94,7 +94,7 @@
         },
         {
           "text": "In your constant effort to stay grounded and practical with regard to your current work situation, you may have lost touch with the creative, whimsical side of the equation. Use this day to let your mind go. You will find the answers in the clouds.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -113,7 +113,7 @@
           "src": "GaneshaSpeaks"
         },
         {
-          "text": "Career activity brings excitement and drama but also a bit of unpredictability this week. Ideas are flying, but you need to monetize one before moving on to the next lest you find yourself with decreased cash flow. A lot is changing there, requiring you to be diplomatic with your attention at this time.",
+          "text": "You may need more than ever to spend time focusing the lens on your goals. These aspects can create wonderful ideas or just downtime to ponder and woolgather. Future-oriented thoughts and ideas are featured as you think about how to take them to a wider and more profitable market. It will affect your house of travel, learning, teaching, publishing, spirituality, and the law. You're coming into your own one step at a time.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
           "src": "Horoscope.com · this week"
         }
@@ -138,7 +138,7 @@
         },
         {
           "text": "Today's planetary configuration could make you feel a sense of loneliness, as you realize that there are imbalances in the world that you alone cannot change. You may experience a sense of isolation when considering certain health issues. Try to share your thoughts and ideas with supportive friends and family.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -315,25 +315,25 @@
     "hc_general": {
       "text": "Your emotions are solid, and you feel good, Taurus. At the same time, you may be tongue-tied. You're having a hard time expressing your true feelings in the way you'd like to, especially when it comes to love and romance. Perhaps you have so many thoughts that you don't know how to sort them out, or which to disclose and which to keep hidden.",
       "date": "Nov 16, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "In your constant effort to stay grounded and practical with regard to your current work situation, you may have lost touch with the creative, whimsical side of the equation. Use this day to let your mind go. You will find the answers in the clouds.",
       "date": "Nov 16, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Today's planetary configuration could make you feel a sense of loneliness, as you realize that there are imbalances in the world that you alone cannot change. You may experience a sense of isolation when considering certain health issues. Try to share your thoughts and ideas with supportive friends and family. This planetary energy is telling you to share what is in your heart and mind with those you trust.",
       "date": "Nov 16, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
-      "text": "Career activity brings excitement and drama but also a bit of unpredictability this week. Ideas are flying, but you need to monetize one before moving on to the next lest you find yourself with decreased cash flow. Aspects affect your relationship house, too. A lot is changing there, requiring you to be diplomatic with your attention at this time. Love dictates your decision.",
+      "text": "You may need more than ever to spend time focusing the lens on your goals. These aspects can create wonderful ideas or just downtime to ponder and woolgather. Future-oriented thoughts and ideas are featured as you think about how to take them to a wider and more profitable market. It will affect your house of travel, learning, teaching, publishing, spirituality, and the law. You're coming into your own one step at a time.",
       "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2"
     },
     "ac": {
       "text": "Persistence pays off while the Moon moves through Aquarius, dearest Taurus. Miraculous breakthroughs bring you closer to hopes and dreams you've been focused on for quite some time. If a lack of progress has triggered doubt, don't accept defeat just yet. The energy you put toward long-term aspirations brings fast rewards, though you might not get everything you want all at once. Celebrate wins as they come, recognizing how minor milestones add up to big achievements. Get organized when Luna and Venus align tonight, establishing solid routines to ensure your life flows smoothly each day.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -387,17 +387,17 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-16T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 28,
-        "feels": 29,
-        "humidity": 32,
+        "iso": "2026-11-16T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
+        "temp": 29,
+        "feels": 28,
+        "humidity": 30,
         "label": "Cloudy",
         "icon": "☁️"
       },
       "high": 29,
-      "low": 20,
+      "low": 19,
       "rain": 0,
       "uv": 6.95,
       "periods": [
@@ -432,8 +432,8 @@
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "🌙",
-          "label": "Mostly clear",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 21,
           "rain": 0
         }
@@ -449,11 +449,11 @@
           "icon": "☁️"
         },
         "Afternoon": {
-          "iso": "2026-11-16T12:00",
-          "time": "12:00 PM",
-          "temp": 28,
-          "feels": 29,
-          "humidity": 32,
+          "iso": "2026-11-16T14:00",
+          "time": "2:00 PM",
+          "temp": 29,
+          "feels": 28,
+          "humidity": 30,
           "label": "Cloudy",
           "icon": "☁️"
         }
@@ -470,11 +470,11 @@
         "icon": "☁️"
       },
       "Afternoon": {
-        "iso": "2026-11-16T12:00",
-        "time": "12:00 PM",
-        "temp": 28,
-        "feels": 29,
-        "humidity": 32,
+        "iso": "2026-11-16T14:00",
+        "time": "2:00 PM",
+        "temp": 29,
+        "feels": 28,
+        "humidity": 30,
         "label": "Cloudy",
         "icon": "☁️"
       }
@@ -486,12 +486,12 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-16T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 29,
-        "feels": 29,
-        "humidity": 31,
+        "iso": "2026-11-16T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
+        "temp": 30,
+        "feels": 28,
+        "humidity": 28,
         "label": "Cloudy",
         "icon": "☁️"
       },
@@ -522,8 +522,8 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 26,
           "rain": 0
         },
@@ -548,11 +548,11 @@
           "icon": "☁️"
         },
         "Afternoon": {
-          "iso": "2026-11-16T12:00",
-          "time": "12:00 PM",
-          "temp": 29,
-          "feels": 29,
-          "humidity": 31,
+          "iso": "2026-11-16T14:00",
+          "time": "2:00 PM",
+          "temp": 30,
+          "feels": 28,
+          "humidity": 28,
           "label": "Cloudy",
           "icon": "☁️"
         }
@@ -569,11 +569,11 @@
         "icon": "☁️"
       },
       "Afternoon": {
-        "iso": "2026-11-16T12:00",
-        "time": "12:00 PM",
-        "temp": 29,
-        "feels": 29,
-        "humidity": 31,
+        "iso": "2026-11-16T14:00",
+        "time": "2:00 PM",
+        "temp": 30,
+        "feels": 28,
+        "humidity": 28,
         "label": "Cloudy",
         "icon": "☁️"
       }
@@ -700,17 +700,17 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-16T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 28,
-          "feels": 29,
-          "humidity": 32,
+          "iso": "2026-11-16T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
+          "temp": 29,
+          "feels": 28,
+          "humidity": 30,
           "label": "Cloudy",
           "icon": "☁️"
         },
         "high": 29,
-        "low": 20,
+        "low": 19,
         "rain": 0,
         "uv": 6.95,
         "periods": [
@@ -745,8 +745,8 @@
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "🌙",
-            "label": "Mostly clear",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 21,
             "rain": 0
           }
@@ -762,11 +762,11 @@
             "icon": "☁️"
           },
           "Afternoon": {
-            "iso": "2026-11-16T12:00",
-            "time": "12:00 PM",
-            "temp": 28,
-            "feels": 29,
-            "humidity": 32,
+            "iso": "2026-11-16T14:00",
+            "time": "2:00 PM",
+            "temp": 29,
+            "feels": 28,
+            "humidity": 30,
             "label": "Cloudy",
             "icon": "☁️"
           }
@@ -779,12 +779,12 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-16T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 29,
-          "feels": 29,
-          "humidity": 31,
+          "iso": "2026-11-16T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
+          "temp": 30,
+          "feels": 28,
+          "humidity": 28,
           "label": "Cloudy",
           "icon": "☁️"
         },
@@ -815,8 +815,8 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 26,
             "rain": 0
           },
@@ -841,11 +841,11 @@
             "icon": "☁️"
           },
           "Afternoon": {
-            "iso": "2026-11-16T12:00",
-            "time": "12:00 PM",
-            "temp": 29,
-            "feels": 29,
-            "humidity": 31,
+            "iso": "2026-11-16T14:00",
+            "time": "2:00 PM",
+            "temp": 30,
+            "feels": 28,
+            "humidity": 28,
             "label": "Cloudy",
             "icon": "☁️"
           }
