@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 17 November 2026",
   "date_key": "2026-11-17",
-  "fetched_ist": "17 Nov 2026, 04:18 AM IST",
+  "fetched_ist": "17 Nov 2026, 05:26 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -218,9 +218,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 13680,
-        "k22": 12540,
-        "change22": -75,
+        "k24": 13679,
+        "k22": 12539,
+        "change22": -1,
         "date": "17 November 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -239,16 +239,11 @@
         "k22": 12363,
         "k24": 13497,
         "change22": null,
-        "date": "17 November 2026",
+        "date": "16 November 2026",
         "url": "https://ibjarates.com/"
       }
     ],
     "trend": [
-      {
-        "date": "Nov 07, 2026",
-        "k22": 13160,
-        "k24": 14357
-      },
       {
         "date": "Nov 08, 2026",
         "k22": 13160,
@@ -293,6 +288,11 @@
         "date": "Nov 16, 2026",
         "k22": 12540,
         "k24": 13680
+      },
+      {
+        "date": "Nov 17, 2026",
+        "k22": 12539,
+        "k24": 13679
       }
     ]
   },
@@ -400,19 +400,19 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-17T04:15",
-        "time": "4:15 AM",
-        "hour": 4.25,
+        "iso": "2026-11-17T05:15",
+        "time": "5:15 AM",
+        "hour": 5.25,
         "temp": 20,
         "feels": 20,
-        "humidity": 54,
-        "label": "Mostly clear",
+        "humidity": 55,
+        "label": "Clear sky",
         "icon": "🌙"
       },
       "high": 30,
       "low": 20,
       "rain": 0,
-      "uv": 6.65,
+      "uv": 6.95,
       "periods": [
         {
           "name": "Morning",
@@ -461,19 +461,19 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-17T04:15",
-        "time": "4:15 AM",
-        "hour": 4.25,
+        "iso": "2026-11-17T05:15",
+        "time": "5:15 AM",
+        "hour": 5.25,
         "temp": 20,
         "feels": 20,
-        "humidity": 55,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "humidity": 57,
+        "label": "Clear sky",
+        "icon": "🌙"
       },
       "high": 30,
       "low": 19,
       "rain": 0,
-      "uv": 6.8,
+      "uv": 6.95,
       "periods": [
         {
           "name": "Morning",
@@ -520,9 +520,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 13680,
-          "k22": 12540,
-          "change22": -75,
+          "k24": 13679,
+          "k22": 12539,
+          "change22": -1,
           "date": "17 November 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -541,16 +541,11 @@
           "k22": 12363,
           "k24": 13497,
           "change22": null,
-          "date": "17 November 2026",
+          "date": "16 November 2026",
           "url": "https://ibjarates.com/"
         }
       },
       "trend": [
-        {
-          "date": "Nov 07, 2026",
-          "k22": 13160,
-          "k24": 14357
-        },
         {
           "date": "Nov 08, 2026",
           "k22": 13160,
@@ -595,6 +590,11 @@
           "date": "Nov 16, 2026",
           "k22": 12540,
           "k24": 13680
+        },
+        {
+          "date": "Nov 17, 2026",
+          "k22": 12539,
+          "k24": 13679
         }
       ]
     }
@@ -637,19 +637,19 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-17T04:15",
-          "time": "4:15 AM",
-          "hour": 4.25,
+          "iso": "2026-11-17T05:15",
+          "time": "5:15 AM",
+          "hour": 5.25,
           "temp": 20,
           "feels": 20,
-          "humidity": 54,
-          "label": "Mostly clear",
+          "humidity": 55,
+          "label": "Clear sky",
           "icon": "🌙"
         },
         "high": 30,
         "low": 20,
         "rain": 0,
-        "uv": 6.65,
+        "uv": 6.95,
         "periods": [
           {
             "name": "Morning",
@@ -697,19 +697,19 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-17T04:15",
-          "time": "4:15 AM",
-          "hour": 4.25,
+          "iso": "2026-11-17T05:15",
+          "time": "5:15 AM",
+          "hour": 5.25,
           "temp": 20,
           "feels": 20,
-          "humidity": 55,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "humidity": 57,
+          "label": "Clear sky",
+          "icon": "🌙"
         },
         "high": 30,
         "low": 19,
         "rain": 0,
-        "uv": 6.8,
+        "uv": 6.95,
         "periods": [
           {
             "name": "Morning",
