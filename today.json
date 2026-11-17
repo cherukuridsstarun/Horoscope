@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 18 November 2026",
   "date_key": "2026-11-18",
-  "fetched_ist": "18 Nov 2026, 03:07 AM IST",
+  "fetched_ist": "18 Nov 2026, 04:47 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -198,7 +198,7 @@
         "k22": 12293,
         "k24": 13420,
         "change22": null,
-        "date": "18 November 2026",
+        "date": "17 November 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -359,13 +359,13 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-18T03:00",
-        "time": "3:00 AM",
-        "hour": 3.0,
-        "temp": 22,
-        "feels": 21,
-        "humidity": 55,
-        "label": "Clear sky",
+        "iso": "2026-11-18T04:45",
+        "time": "4:45 AM",
+        "hour": 4.75,
+        "temp": 21,
+        "feels": 20,
+        "humidity": 56,
+        "label": "Mostly clear",
         "icon": "🌙"
       },
       "high": 30,
@@ -420,13 +420,13 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-18T03:00",
-        "time": "3:00 AM",
-        "hour": 3.0,
-        "temp": 22,
-        "feels": 21,
+        "iso": "2026-11-18T04:45",
+        "time": "4:45 AM",
+        "hour": 4.75,
+        "temp": 21,
+        "feels": 20,
         "humidity": 55,
-        "label": "Clear sky",
+        "label": "Mostly clear",
         "icon": "🌙"
       },
       "high": 30,
@@ -500,7 +500,7 @@
           "k22": 12293,
           "k24": 13420,
           "change22": null,
-          "date": "18 November 2026",
+          "date": "17 November 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -596,13 +596,13 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-18T03:00",
-          "time": "3:00 AM",
-          "hour": 3.0,
-          "temp": 22,
-          "feels": 21,
-          "humidity": 55,
-          "label": "Clear sky",
+          "iso": "2026-11-18T04:45",
+          "time": "4:45 AM",
+          "hour": 4.75,
+          "temp": 21,
+          "feels": 20,
+          "humidity": 56,
+          "label": "Mostly clear",
           "icon": "🌙"
         },
         "high": 30,
@@ -656,13 +656,13 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-18T03:00",
-          "time": "3:00 AM",
-          "hour": 3.0,
-          "temp": 22,
-          "feels": 21,
+          "iso": "2026-11-18T04:45",
+          "time": "4:45 AM",
+          "hour": 4.75,
+          "temp": 21,
+          "feels": 20,
           "humidity": 55,
-          "label": "Clear sky",
+          "label": "Mostly clear",
           "icon": "🌙"
         },
         "high": 30,
