@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 17 November 2026",
   "date_key": "2026-11-17",
-  "fetched_ist": "17 Nov 2026, 01:28 PM IST",
+  "fetched_ist": "17 Nov 2026, 03:19 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 17, 2026",
       "text": "Taurus, you're demystifying the concept of talent. You used to look enviously at other people and think, \"I wish I had a natural ability like that.\" Now you understand that the person who aroused your envy with is just someone who had the self-confidence to go to work and refine and develop an aptitude. It's a matter of hard work, belief in oneself, and bravery in the face of risk. You can do it, too!"
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 17, 2026",
       "text": "Emotional buildup must be addressed before you can steadily move forward, darling Taurus. Sit with your feelings while the Aquarius quarter Moon aspects the nodes of fate, Jupiter, Mars, and Chiron. Identify what you need to feel nurtured and balanced, noting how much of this you can provide for yourself and whether outside support is necessary. Enjoy nostalgic comforts without getting stuck in the past. Lean into practices that will fortify the spirit so you can find the strength to get on with your life. A desire for community brings you out of your shell once Luna enters Pisces this afternoon. However, you should avoid social spheres that stir up insecurities when Uranus grows restless tonight."
@@ -91,7 +91,7 @@
         },
         {
           "text": "A new work cycle begins today that is likely to bring you a great deal of luck with regard to your career. This is a wonderful time to plan for a raise or promotion of some sort. You deserve it and you will most certainly get it.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -143,7 +143,7 @@
         },
         {
           "text": "In order to be an active thinker, it helps to keep an active body. Especially for a sign which tends to get bogged down by the inequalities of everyday life. Try thinking of exercise as something the body deserves. When your mind wants to talk you out of it or wants to convince you that procrastination is OK, remember that the body can be ignored by the mind (up to a point) and you must be the champion of the silent and oppressed! It's only fair.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -328,17 +328,17 @@
     "hc_general": {
       "text": "Taurus, you're demystifying the concept of talent. You used to look enviously at other people and think, \"I wish I had a natural ability like that.\" Now you understand that the person who aroused your envy with is just someone who had the self-confidence to go to work and refine and develop an aptitude. It's a matter of hard work, belief in oneself, and bravery in the face of risk. You can do it, too!",
       "date": "Nov 17, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "A new work cycle begins today that is likely to bring you a great deal of luck with regard to your career. This is a wonderful time to plan for a raise or promotion of some sort. You deserve it and you will most certainly get it.",
       "date": "Nov 17, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "In order to be an active thinker, it helps to keep an active body. Especially for a sign which tends to get bogged down by the inequalities of everyday life. Try thinking of exercise as something the body deserves. When your mind wants to talk you out of it or wants to convince you that procrastination is OK, remember that the body can be ignored by the mind (up to a point) and you must be the champion of the silent and oppressed! It's only fair.",
       "date": "Nov 17, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You may need more than ever to spend time focusing the lens on your goals. These aspects can create wonderful ideas or just downtime to ponder and woolgather. Future-oriented thoughts and ideas are featured as you think about how to take them to a wider and more profitable market. It will affect your house of travel, learning, teaching, publishing, spirituality, and the law. You're coming into your own one step at a time.",
@@ -346,7 +346,7 @@
     },
     "ac": {
       "text": "Emotional buildup must be addressed before you can steadily move forward, darling Taurus. Sit with your feelings while the Aquarius quarter Moon aspects the nodes of fate, Jupiter, Mars, and Chiron. Identify what you need to feel nurtured and balanced, noting how much of this you can provide for yourself and whether outside support is necessary. Enjoy nostalgic comforts without getting stuck in the past. Lean into practices that will fortify the spirit so you can find the strength to get on with your life. A desire for community brings you out of your shell once Luna enters Pisces this afternoon. However, you should avoid social spheres that stir up insecurities when Uranus grows restless tonight.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
