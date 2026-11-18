@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 18 November 2026",
   "date_key": "2026-11-18",
-  "fetched_ist": "18 Nov 2026, 01:05 PM IST",
+  "fetched_ist": "18 Nov 2026, 02:51 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 18, 2026",
       "text": "The tension has been building up and today, Taurus, you're likely to boil over with the rage that comes from one too many doubts and suspicions. But making up after the quarrel promises to be lots of fun."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 18, 2026",
       "text": "Enjoy some alone time and work with an activity that stirs inspiration when Mars aspects Chiron tonight."
@@ -75,7 +75,7 @@
         },
         {
           "text": "Other people are not speaking your language today. This makes it difficult for you to get anything accomplished. Do your best to concentrate on your own tasks without letting others confuse you with their opinions.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -119,7 +119,7 @@
         },
         {
           "text": "There could be some rejection from within to \"doing the right thing.\" It is important to understand this resistance and to take measures to handle it. For instance, if you feel that eating only rich foods will satisfy you today - try choosing a salad that has rich ingredients. Or, if exercise is not on your program, elect to take a short walk after a meal. As you make these small compromises, you will have given your \"evil twin\" some feedback, and a heated discussion is likely to ensue!",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -287,17 +287,17 @@
     "hc_general": {
       "text": "Lately, you've been nursing a feeling that your partner is inattentive. The tension has been building up and today, Taurus, you're likely to boil over with the rage that comes from one too many doubts and suspicions. The forecast for love is stormy, without a doubt. But making up after the quarrel promises to be lots of fun.",
       "date": "Nov 18, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Other people are not speaking your language today. This makes it difficult for you to get anything accomplished. Do your best to concentrate on your own tasks without letting others confuse you with their opinions.",
       "date": "Nov 18, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "There could be some rejection from within to \"doing the right thing.\" It is important to understand this resistance and to take measures to handle it. For instance, if you feel that eating only rich foods will satisfy you today - try choosing a salad that has rich ingredients. Or, if exercise is not on your program, elect to take a short walk after a meal. As you make these small compromises, you will have given your \"evil twin\" some feedback, and a heated discussion is likely to ensue!",
       "date": "Nov 18, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You may need more than ever to spend time focusing the lens on your goals. These aspects can create wonderful ideas or just downtime to ponder and woolgather. Future-oriented thoughts and ideas are featured as you think about how to take them to a wider and more profitable market. It will affect your house of travel, learning, teaching, publishing, spirituality, and the law. You're coming into your own one step at a time.",
@@ -305,7 +305,7 @@
     },
     "ac": {
       "text": "An admirer may reveal themselves early this morning, darling Taurus, as the Pisces Moon and Mercury align. Pay special attention to any messages or social media interactions you received overnight, and you could uncover a new crush to flirt with. Try not to let your emotions run wild while the Scorpio Sun and Jupiter square off, or you might scare yourself out of romantic pursuits that are actually worth the effort. Also, watch the energy others project, and notice when loved ones seem moody or out of sorts. Enjoy some alone time and work with an activity that stirs inspiration when Mars aspects Chiron tonight.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -359,17 +359,17 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-18T13:00",
-        "time": "1:00 PM",
-        "hour": 13.0,
-        "temp": 29,
-        "feels": 29,
+        "iso": "2026-11-18T14:45",
+        "time": "2:45 PM",
+        "hour": 14.75,
+        "temp": 28,
+        "feels": 27,
         "humidity": 35,
         "label": "Cloudy",
         "icon": "☁️"
       },
       "high": 29,
-      "low": 21,
+      "low": 20,
       "rain": 0,
       "uv": 6.9,
       "periods": [
@@ -388,15 +388,15 @@
           "to": 17,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 29,
+          "temp": 28,
           "rain": 0
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "☀️",
+          "label": "Clear sky",
           "temp": 25,
           "rain": 0
         },
@@ -404,8 +404,8 @@
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "🌙",
+          "label": "Clear sky",
           "temp": 20,
           "rain": 0
         }
@@ -421,10 +421,10 @@
           "icon": "☁️"
         },
         "Afternoon": {
-          "iso": "2026-11-18T13:00",
-          "time": "1:00 PM",
-          "temp": 29,
-          "feels": 29,
+          "iso": "2026-11-18T14:45",
+          "time": "2:45 PM",
+          "temp": 28,
+          "feels": 27,
           "humidity": 35,
           "label": "Cloudy",
           "icon": "☁️"
@@ -442,10 +442,10 @@
         "icon": "☁️"
       },
       "Afternoon": {
-        "iso": "2026-11-18T13:00",
-        "time": "1:00 PM",
-        "temp": 29,
-        "feels": 29,
+        "iso": "2026-11-18T14:45",
+        "time": "2:45 PM",
+        "temp": 28,
+        "feels": 27,
         "humidity": 35,
         "label": "Cloudy",
         "icon": "☁️"
@@ -458,14 +458,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-18T13:00",
-        "time": "1:00 PM",
-        "hour": 13.0,
+        "iso": "2026-11-18T14:45",
+        "time": "2:45 PM",
+        "hour": 14.75,
         "temp": 29,
-        "feels": 29,
+        "feels": 27,
         "humidity": 33,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 29,
       "low": 20,
@@ -485,8 +485,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 29,
           "rain": 0
         },
@@ -494,8 +494,8 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "☀️",
+          "label": "Clear sky",
           "temp": 25,
           "rain": 0
         },
@@ -503,8 +503,8 @@
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "🌙",
+          "label": "Clear sky",
           "temp": 20,
           "rain": 0
         }
@@ -520,13 +520,13 @@
           "icon": "☁️"
         },
         "Afternoon": {
-          "iso": "2026-11-18T13:00",
-          "time": "1:00 PM",
+          "iso": "2026-11-18T14:45",
+          "time": "2:45 PM",
           "temp": 29,
-          "feels": 29,
+          "feels": 27,
           "humidity": 33,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -541,13 +541,13 @@
         "icon": "☁️"
       },
       "Afternoon": {
-        "iso": "2026-11-18T13:00",
-        "time": "1:00 PM",
+        "iso": "2026-11-18T14:45",
+        "time": "2:45 PM",
         "temp": 29,
-        "feels": 29,
+        "feels": 27,
         "humidity": 33,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "gold": {
@@ -672,17 +672,17 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-18T13:00",
-          "time": "1:00 PM",
-          "hour": 13.0,
-          "temp": 29,
-          "feels": 29,
+          "iso": "2026-11-18T14:45",
+          "time": "2:45 PM",
+          "hour": 14.75,
+          "temp": 28,
+          "feels": 27,
           "humidity": 35,
           "label": "Cloudy",
           "icon": "☁️"
         },
         "high": 29,
-        "low": 21,
+        "low": 20,
         "rain": 0,
         "uv": 6.9,
         "periods": [
@@ -701,15 +701,15 @@
             "to": 17,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 29,
+            "temp": 28,
             "rain": 0
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "☀️",
+            "label": "Clear sky",
             "temp": 25,
             "rain": 0
           },
@@ -717,8 +717,8 @@
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "🌙",
+            "label": "Clear sky",
             "temp": 20,
             "rain": 0
           }
@@ -734,10 +734,10 @@
             "icon": "☁️"
           },
           "Afternoon": {
-            "iso": "2026-11-18T13:00",
-            "time": "1:00 PM",
-            "temp": 29,
-            "feels": 29,
+            "iso": "2026-11-18T14:45",
+            "time": "2:45 PM",
+            "temp": 28,
+            "feels": 27,
             "humidity": 35,
             "label": "Cloudy",
             "icon": "☁️"
@@ -751,14 +751,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-18T13:00",
-          "time": "1:00 PM",
-          "hour": 13.0,
+          "iso": "2026-11-18T14:45",
+          "time": "2:45 PM",
+          "hour": 14.75,
           "temp": 29,
-          "feels": 29,
+          "feels": 27,
           "humidity": 33,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 29,
         "low": 20,
@@ -778,8 +778,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 29,
             "rain": 0
           },
@@ -787,8 +787,8 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "☀️",
+            "label": "Clear sky",
             "temp": 25,
             "rain": 0
           },
@@ -796,8 +796,8 @@
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "🌙",
+            "label": "Clear sky",
             "temp": 20,
             "rain": 0
           }
@@ -813,13 +813,13 @@
             "icon": "☁️"
           },
           "Afternoon": {
-            "iso": "2026-11-18T13:00",
-            "time": "1:00 PM",
+            "iso": "2026-11-18T14:45",
+            "time": "2:45 PM",
             "temp": 29,
-            "feels": 29,
+            "feels": 27,
             "humidity": 33,
-            "label": "Partly cloudy",
-            "icon": "⛅"
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       }
