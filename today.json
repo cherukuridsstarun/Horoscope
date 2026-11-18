@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 18 November 2026",
   "date_key": "2026-11-18",
-  "fetched_ist": "18 Nov 2026, 02:51 PM IST",
+  "fetched_ist": "18 Nov 2026, 09:55 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -186,7 +186,7 @@
       {
         "src": "PolicyBazaar",
         "label": "Hyderabad retail · 22K only",
-        "k22": 12470,
+        "k22": 12215,
         "k24": null,
         "change22": null,
         "date": "18 November 2026",
@@ -195,8 +195,8 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 12046,
-        "k24": 13151,
+        "k22": 12015,
+        "k24": 13116,
         "change22": null,
         "date": "18 November 2026",
         "url": "https://ibjarates.com/"
@@ -359,16 +359,16 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-18T14:45",
-        "time": "2:45 PM",
-        "hour": 14.75,
-        "temp": 28,
-        "feels": 27,
-        "humidity": 35,
-        "label": "Cloudy",
-        "icon": "☁️"
+        "iso": "2026-11-18T21:45",
+        "time": "9:45 PM",
+        "hour": 21.75,
+        "temp": 22,
+        "feels": 21,
+        "humidity": 47,
+        "label": "Clear sky",
+        "icon": "🌙"
       },
-      "high": 29,
+      "high": 28,
       "low": 20,
       "rain": 0,
       "uv": 6.9,
@@ -395,9 +395,9 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "☀️",
-          "label": "Clear sky",
-          "temp": 25,
+          "icon": "⛅",
+          "label": "Partly cloudy",
+          "temp": 24,
           "rain": 0
         },
         {
@@ -428,6 +428,15 @@
           "humidity": 35,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Night": {
+          "iso": "2026-11-18T21:45",
+          "time": "9:45 PM",
+          "temp": 22,
+          "feels": 21,
+          "humidity": 47,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -449,6 +458,15 @@
         "humidity": 35,
         "label": "Cloudy",
         "icon": "☁️"
+      },
+      "Night": {
+        "iso": "2026-11-18T21:45",
+        "time": "9:45 PM",
+        "temp": 22,
+        "feels": 21,
+        "humidity": 47,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "wx_office": {
@@ -458,14 +476,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-18T14:45",
-        "time": "2:45 PM",
-        "hour": 14.75,
-        "temp": 29,
-        "feels": 27,
-        "humidity": 33,
-        "label": "Cloudy",
-        "icon": "☁️"
+        "iso": "2026-11-18T21:45",
+        "time": "9:45 PM",
+        "hour": 21.75,
+        "temp": 22,
+        "feels": 21,
+        "humidity": 47,
+        "label": "Clear sky",
+        "icon": "🌙"
       },
       "high": 29,
       "low": 20,
@@ -487,15 +505,15 @@
           "to": 17,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 29,
+          "temp": 28,
           "rain": 0
         },
         {
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 25,
           "rain": 0
         },
@@ -527,6 +545,15 @@
           "humidity": 33,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Night": {
+          "iso": "2026-11-18T21:45",
+          "time": "9:45 PM",
+          "temp": 22,
+          "feels": 21,
+          "humidity": 47,
+          "label": "Clear sky",
+          "icon": "🌙"
         }
       }
     },
@@ -548,6 +575,15 @@
         "humidity": 33,
         "label": "Cloudy",
         "icon": "☁️"
+      },
+      "Night": {
+        "iso": "2026-11-18T21:45",
+        "time": "9:45 PM",
+        "temp": 22,
+        "feels": 21,
+        "humidity": 47,
+        "label": "Clear sky",
+        "icon": "🌙"
       }
     },
     "gold": {
@@ -564,8 +600,8 @@
         "PolicyBazaar": {
           "src": "PolicyBazaar",
           "label": "Hyderabad retail",
-          "k22": 12470,
-          "k24": 13094,
+          "k22": 12215,
+          "k24": 12826,
           "change22": null,
           "date": "18 November 2026",
           "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
@@ -573,8 +609,8 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 12046,
-          "k24": 13151,
+          "k22": 12015,
+          "k24": 13116,
           "change22": null,
           "date": "18 November 2026",
           "url": "https://ibjarates.com/"
@@ -672,16 +708,16 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-18T14:45",
-          "time": "2:45 PM",
-          "hour": 14.75,
-          "temp": 28,
-          "feels": 27,
-          "humidity": 35,
-          "label": "Cloudy",
-          "icon": "☁️"
+          "iso": "2026-11-18T21:45",
+          "time": "9:45 PM",
+          "hour": 21.75,
+          "temp": 22,
+          "feels": 21,
+          "humidity": 47,
+          "label": "Clear sky",
+          "icon": "🌙"
         },
-        "high": 29,
+        "high": 28,
         "low": 20,
         "rain": 0,
         "uv": 6.9,
@@ -708,9 +744,9 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "☀️",
-            "label": "Clear sky",
-            "temp": 25,
+            "icon": "⛅",
+            "label": "Partly cloudy",
+            "temp": 24,
             "rain": 0
           },
           {
@@ -741,6 +777,15 @@
             "humidity": 35,
             "label": "Cloudy",
             "icon": "☁️"
+          },
+          "Night": {
+            "iso": "2026-11-18T21:45",
+            "time": "9:45 PM",
+            "temp": 22,
+            "feels": 21,
+            "humidity": 47,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       },
@@ -751,14 +796,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-18T14:45",
-          "time": "2:45 PM",
-          "hour": 14.75,
-          "temp": 29,
-          "feels": 27,
-          "humidity": 33,
-          "label": "Cloudy",
-          "icon": "☁️"
+          "iso": "2026-11-18T21:45",
+          "time": "9:45 PM",
+          "hour": 21.75,
+          "temp": 22,
+          "feels": 21,
+          "humidity": 47,
+          "label": "Clear sky",
+          "icon": "🌙"
         },
         "high": 29,
         "low": 20,
@@ -780,15 +825,15 @@
             "to": 17,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 29,
+            "temp": 28,
             "rain": 0
           },
           {
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 25,
             "rain": 0
           },
@@ -820,6 +865,15 @@
             "humidity": 33,
             "label": "Cloudy",
             "icon": "☁️"
+          },
+          "Night": {
+            "iso": "2026-11-18T21:45",
+            "time": "9:45 PM",
+            "temp": 22,
+            "feels": 21,
+            "humidity": 47,
+            "label": "Clear sky",
+            "icon": "🌙"
           }
         }
       }
