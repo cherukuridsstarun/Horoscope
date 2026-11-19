@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 19 November 2026",
   "date_key": "2026-11-19",
-  "fetched_ist": "19 Nov 2026, 03:05 PM IST",
+  "fetched_ist": "19 Nov 2026, 10:02 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -239,8 +239,8 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 11907,
-        "k24": 12999,
+        "k22": 11865,
+        "k24": 12953,
         "change22": null,
         "date": "19 November 2026",
         "url": "https://ibjarates.com/"
@@ -403,111 +403,12 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-19T15:00",
-        "time": "3:00 PM",
-        "hour": 15.0,
-        "temp": 28,
-        "feels": 25,
-        "humidity": 28,
-        "label": "Cloudy",
-        "icon": "☁️"
-      },
-      "high": 28,
-      "low": 18,
-      "rain": 0,
-      "uv": 6.9,
-      "periods": [
-        {
-          "name": "Morning",
-          "from": 6,
-          "to": 12,
-          "icon": "☁️",
-          "label": "Cloudy",
-          "temp": 22,
-          "rain": 0
-        },
-        {
-          "name": "Afternoon",
-          "from": 12,
-          "to": 17,
-          "icon": "☁️",
-          "label": "Cloudy",
-          "temp": 27,
-          "rain": 0
-        },
-        {
-          "name": "Evening",
-          "from": 17,
-          "to": 21,
-          "icon": "☁️",
-          "label": "Cloudy",
-          "temp": 24,
-          "rain": 0
-        },
-        {
-          "name": "Night",
-          "from": 21,
-          "to": 30,
-          "icon": "☁️",
-          "label": "Cloudy",
-          "temp": 19,
-          "rain": 0
-        }
-      ],
-      "log": {
-        "Morning": {
-          "iso": "2026-11-19T09:15",
-          "time": "9:15 AM",
-          "temp": 23,
-          "feels": 20,
-          "humidity": 38,
-          "label": "Partly cloudy",
-          "icon": "⛅"
-        },
-        "Afternoon": {
-          "iso": "2026-11-19T15:00",
-          "time": "3:00 PM",
-          "temp": 28,
-          "feels": 25,
-          "humidity": 28,
-          "label": "Cloudy",
-          "icon": "☁️"
-        }
-      }
-    },
-    "wxlog_home": {
-      "Morning": {
-        "iso": "2026-11-19T09:15",
-        "time": "9:15 AM",
-        "temp": 23,
-        "feels": 20,
-        "humidity": 38,
-        "label": "Partly cloudy",
-        "icon": "⛅"
-      },
-      "Afternoon": {
-        "iso": "2026-11-19T15:00",
-        "time": "3:00 PM",
-        "temp": 28,
-        "feels": 25,
-        "humidity": 28,
-        "label": "Cloudy",
-        "icon": "☁️"
-      }
-    },
-    "wx_office": {
-      "key": "office",
-      "name": "Office",
-      "area": "",
-      "label": "Cloudy",
-      "icon": "☁️",
-      "now": {
-        "iso": "2026-11-19T15:00",
-        "time": "3:00 PM",
-        "hour": 15.0,
-        "temp": 28,
-        "feels": 25,
-        "humidity": 28,
+        "iso": "2026-11-19T22:00",
+        "time": "10:00 PM",
+        "hour": 22.0,
+        "temp": 21,
+        "feels": 19,
+        "humidity": 45,
         "label": "Partly cloudy",
         "icon": "⛅"
       },
@@ -529,8 +430,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "⛅",
+          "label": "Partly cloudy",
           "temp": 27,
           "rain": 0
         },
@@ -540,7 +441,7 @@
           "to": 21,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 23,
+          "temp": 24,
           "rain": 0
         },
         {
@@ -549,7 +450,124 @@
           "to": 30,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 18,
+          "temp": 20,
+          "rain": 0
+        }
+      ],
+      "log": {
+        "Morning": {
+          "iso": "2026-11-19T09:15",
+          "time": "9:15 AM",
+          "temp": 23,
+          "feels": 20,
+          "humidity": 38,
+          "label": "Partly cloudy",
+          "icon": "⛅"
+        },
+        "Afternoon": {
+          "iso": "2026-11-19T15:00",
+          "time": "3:00 PM",
+          "temp": 28,
+          "feels": 25,
+          "humidity": 28,
+          "label": "Cloudy",
+          "icon": "☁️"
+        },
+        "Night": {
+          "iso": "2026-11-19T22:00",
+          "time": "10:00 PM",
+          "temp": 21,
+          "feels": 19,
+          "humidity": 45,
+          "label": "Partly cloudy",
+          "icon": "⛅"
+        }
+      }
+    },
+    "wxlog_home": {
+      "Morning": {
+        "iso": "2026-11-19T09:15",
+        "time": "9:15 AM",
+        "temp": 23,
+        "feels": 20,
+        "humidity": 38,
+        "label": "Partly cloudy",
+        "icon": "⛅"
+      },
+      "Afternoon": {
+        "iso": "2026-11-19T15:00",
+        "time": "3:00 PM",
+        "temp": 28,
+        "feels": 25,
+        "humidity": 28,
+        "label": "Cloudy",
+        "icon": "☁️"
+      },
+      "Night": {
+        "iso": "2026-11-19T22:00",
+        "time": "10:00 PM",
+        "temp": 21,
+        "feels": 19,
+        "humidity": 45,
+        "label": "Partly cloudy",
+        "icon": "⛅"
+      }
+    },
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Partly cloudy",
+      "icon": "⛅",
+      "now": {
+        "iso": "2026-11-19T22:00",
+        "time": "10:00 PM",
+        "hour": 22.0,
+        "temp": 20,
+        "feels": 18,
+        "humidity": 46,
+        "label": "Partly cloudy",
+        "icon": "⛅"
+      },
+      "high": 28,
+      "low": 18,
+      "rain": 0,
+      "uv": 6.95,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "⛅",
+          "label": "Partly cloudy",
+          "temp": 22,
+          "rain": 0
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "⛅",
+          "label": "Partly cloudy",
+          "temp": 27,
+          "rain": 0
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "⛅",
+          "label": "Partly cloudy",
+          "temp": 23,
+          "rain": 0
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "⛅",
+          "label": "Partly cloudy",
+          "temp": 19,
           "rain": 0
         }
       ],
@@ -571,6 +589,15 @@
           "humidity": 28,
           "label": "Partly cloudy",
           "icon": "⛅"
+        },
+        "Night": {
+          "iso": "2026-11-19T22:00",
+          "time": "10:00 PM",
+          "temp": 20,
+          "feels": 18,
+          "humidity": 46,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         }
       }
     },
@@ -590,6 +617,15 @@
         "temp": 28,
         "feels": 25,
         "humidity": 28,
+        "label": "Partly cloudy",
+        "icon": "⛅"
+      },
+      "Night": {
+        "iso": "2026-11-19T22:00",
+        "time": "10:00 PM",
+        "temp": 20,
+        "feels": 18,
+        "humidity": 46,
         "label": "Partly cloudy",
         "icon": "⛅"
       }
@@ -617,8 +653,8 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 11907,
-          "k24": 12999,
+          "k22": 11865,
+          "k24": 12953,
           "change22": null,
           "date": "19 November 2026",
           "url": "https://ibjarates.com/"
@@ -716,91 +752,12 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-19T15:00",
-          "time": "3:00 PM",
-          "hour": 15.0,
-          "temp": 28,
-          "feels": 25,
-          "humidity": 28,
-          "label": "Cloudy",
-          "icon": "☁️"
-        },
-        "high": 28,
-        "low": 18,
-        "rain": 0,
-        "uv": 6.9,
-        "periods": [
-          {
-            "name": "Morning",
-            "from": 6,
-            "to": 12,
-            "icon": "☁️",
-            "label": "Cloudy",
-            "temp": 22,
-            "rain": 0
-          },
-          {
-            "name": "Afternoon",
-            "from": 12,
-            "to": 17,
-            "icon": "☁️",
-            "label": "Cloudy",
-            "temp": 27,
-            "rain": 0
-          },
-          {
-            "name": "Evening",
-            "from": 17,
-            "to": 21,
-            "icon": "☁️",
-            "label": "Cloudy",
-            "temp": 24,
-            "rain": 0
-          },
-          {
-            "name": "Night",
-            "from": 21,
-            "to": 30,
-            "icon": "☁️",
-            "label": "Cloudy",
-            "temp": 19,
-            "rain": 0
-          }
-        ],
-        "log": {
-          "Morning": {
-            "iso": "2026-11-19T09:15",
-            "time": "9:15 AM",
-            "temp": 23,
-            "feels": 20,
-            "humidity": 38,
-            "label": "Partly cloudy",
-            "icon": "⛅"
-          },
-          "Afternoon": {
-            "iso": "2026-11-19T15:00",
-            "time": "3:00 PM",
-            "temp": 28,
-            "feels": 25,
-            "humidity": 28,
-            "label": "Cloudy",
-            "icon": "☁️"
-          }
-        }
-      },
-      {
-        "key": "office",
-        "name": "Office",
-        "area": "",
-        "label": "Cloudy",
-        "icon": "☁️",
-        "now": {
-          "iso": "2026-11-19T15:00",
-          "time": "3:00 PM",
-          "hour": 15.0,
-          "temp": 28,
-          "feels": 25,
-          "humidity": 28,
+          "iso": "2026-11-19T22:00",
+          "time": "10:00 PM",
+          "hour": 22.0,
+          "temp": 21,
+          "feels": 19,
+          "humidity": 45,
           "label": "Partly cloudy",
           "icon": "⛅"
         },
@@ -822,8 +779,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "⛅",
+            "label": "Partly cloudy",
             "temp": 27,
             "rain": 0
           },
@@ -833,7 +790,7 @@
             "to": 21,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 23,
+            "temp": 24,
             "rain": 0
           },
           {
@@ -842,7 +799,95 @@
             "to": 30,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 18,
+            "temp": 20,
+            "rain": 0
+          }
+        ],
+        "log": {
+          "Morning": {
+            "iso": "2026-11-19T09:15",
+            "time": "9:15 AM",
+            "temp": 23,
+            "feels": 20,
+            "humidity": 38,
+            "label": "Partly cloudy",
+            "icon": "⛅"
+          },
+          "Afternoon": {
+            "iso": "2026-11-19T15:00",
+            "time": "3:00 PM",
+            "temp": 28,
+            "feels": 25,
+            "humidity": 28,
+            "label": "Cloudy",
+            "icon": "☁️"
+          },
+          "Night": {
+            "iso": "2026-11-19T22:00",
+            "time": "10:00 PM",
+            "temp": 21,
+            "feels": 19,
+            "humidity": 45,
+            "label": "Partly cloudy",
+            "icon": "⛅"
+          }
+        }
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
+        "label": "Partly cloudy",
+        "icon": "⛅",
+        "now": {
+          "iso": "2026-11-19T22:00",
+          "time": "10:00 PM",
+          "hour": 22.0,
+          "temp": 20,
+          "feels": 18,
+          "humidity": 46,
+          "label": "Partly cloudy",
+          "icon": "⛅"
+        },
+        "high": 28,
+        "low": 18,
+        "rain": 0,
+        "uv": 6.95,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "⛅",
+            "label": "Partly cloudy",
+            "temp": 22,
+            "rain": 0
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "⛅",
+            "label": "Partly cloudy",
+            "temp": 27,
+            "rain": 0
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "⛅",
+            "label": "Partly cloudy",
+            "temp": 23,
+            "rain": 0
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "⛅",
+            "label": "Partly cloudy",
+            "temp": 19,
             "rain": 0
           }
         ],
@@ -862,6 +907,15 @@
             "temp": 28,
             "feels": 25,
             "humidity": 28,
+            "label": "Partly cloudy",
+            "icon": "⛅"
+          },
+          "Night": {
+            "iso": "2026-11-19T22:00",
+            "time": "10:00 PM",
+            "temp": 20,
+            "feels": 18,
+            "humidity": 46,
             "label": "Partly cloudy",
             "icon": "⛅"
           }
