@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 20 November 2026",
   "date_key": "2026-11-20",
-  "fetched_ist": "20 Nov 2026, 04:21 AM IST",
+  "fetched_ist": "20 Nov 2026, 09:16 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -198,9 +198,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 13069,
-        "k22": 11980,
-        "change22": -235,
+        "k24": 13068,
+        "k22": 11979,
+        "change22": -1,
         "date": "20 November 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -219,16 +219,11 @@
         "k22": 11865,
         "k24": 12953,
         "change22": null,
-        "date": "20 November 2026",
+        "date": "19 November 2026",
         "url": "https://ibjarates.com/"
       }
     ],
     "trend": [
-      {
-        "date": "Nov 10, 2026",
-        "k22": 13080,
-        "k24": 14269
-      },
       {
         "date": "Nov 11, 2026",
         "k22": 13015,
@@ -273,6 +268,11 @@
         "date": "Nov 19, 2026",
         "k22": 11980,
         "k24": 13069
+      },
+      {
+        "date": "Nov 20, 2026",
+        "k22": 11979,
+        "k24": 13068
       }
     ]
   },
@@ -500,9 +500,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 13069,
-          "k22": 11980,
-          "change22": -235,
+          "k24": 13068,
+          "k22": 11979,
+          "change22": -1,
           "date": "20 November 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -521,16 +521,11 @@
           "k22": 11865,
           "k24": 12953,
           "change22": null,
-          "date": "20 November 2026",
+          "date": "19 November 2026",
           "url": "https://ibjarates.com/"
         }
       },
       "trend": [
-        {
-          "date": "Nov 10, 2026",
-          "k22": 13080,
-          "k24": 14269
-        },
         {
           "date": "Nov 11, 2026",
           "k22": 13015,
@@ -575,6 +570,11 @@
           "date": "Nov 19, 2026",
           "k22": 11980,
           "k24": 13069
+        },
+        {
+          "date": "Nov 20, 2026",
+          "k22": 11979,
+          "k24": 13068
         }
       ]
     }
