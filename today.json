@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Saturday, 21 November 2026",
   "date_key": "2026-11-21",
-  "fetched_ist": "21 Nov 2026, 12:45 PM IST",
+  "fetched_ist": "21 Nov 2026, 02:24 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 21, 2026",
       "text": "This is the end of the first stage in your \"socialization,\" Taurus. Are you satisfied with the people you've met? You can usually make the most out of these encounters, but did your political savvy let you down? Did it lead you in directions you didn't want to go? Take advantage of this pause to catch your breath and figure out where you are today and where you want to be tomorrow."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 21, 2026",
       "text": "A day of solitude will spark fresh inspiration, darling Taurus, as the Aries Moon carves out new pathways in the mind. Remember that the key to manifesting any vision is organization and hard work once Venus activates. Taking your goals seriously will help you feel more optimistic about the future as the nodes of fate stir. Stay close to home and back up your agenda with methodical action while Luna aligns with Jupiter, Chiron, and Mars tonight. Dramatic transformations will unfold throughout the coming weeks after the Sun debuts in Sagittarius, helping you find empowerment through sacrifice."
@@ -103,7 +103,7 @@
         },
         {
           "text": "Your patience has paid off and finally you are reaping the rewards of the hard work you have been doing. Don't stop now! Today is a good day to plant the seeds for future success, but don't forget to stop and reward yourself for how far you've come.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -151,7 +151,7 @@
         },
         {
           "text": "Spoken words that are unfair or mean can irritate you greatly, throwing you off balance. In order to deal with this, consider healthful practices heavily involving breathing, namely, running and yoga. There is a natural balance that takes place when you use these practices to calm yourself. Learning to incorporate breathing into your daily health regimen on a more conscious level will not only calm you, it will also support clear thinking and seeing better. You will notice the difference.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -324,17 +324,17 @@
     "hc_general": {
       "text": "This is the end of the first stage in your \"socialization,\" Taurus. Are you satisfied with the people you've met? You can usually make the most out of these encounters, but did your political savvy let you down? Did it lead you in directions you didn't want to go? Take advantage of this pause to catch your breath and figure out where you are today and where you want to be tomorrow.",
       "date": "Nov 21, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Your patience has paid off and finally you are reaping the rewards of the hard work you have been doing. Don't stop now! Today is a good day to plant the seeds for future success, but don't forget to stop and reward yourself for how far you've come.",
       "date": "Nov 21, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Spoken words that are unfair or mean can irritate you greatly, throwing you off balance. In order to deal with this, consider healthful practices heavily involving breathing, namely, running and yoga. There is a natural balance that takes place when you use these practices to calm yourself. Learning to incorporate breathing into your daily health regimen on a more conscious level will not only calm you, it will also support clear thinking and seeing better. You will notice the difference.",
       "date": "Nov 21, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You may need more than ever to spend time focusing the lens on your goals. These aspects can create wonderful ideas or just downtime to ponder and woolgather. Future-oriented thoughts and ideas are featured as you think about how to take them to a wider and more profitable market. It will affect your house of travel, learning, teaching, publishing, spirituality, and the law. You're coming into your own one step at a time.",
@@ -342,7 +342,7 @@
     },
     "ac": {
       "text": "A day of solitude will spark fresh inspiration, darling Taurus, as the Aries Moon carves out new pathways in the mind. Remember that the key to manifesting any vision is organization and hard work once Venus activates. Taking your goals seriously will help you feel more optimistic about the future as the nodes of fate stir. Stay close to home and back up your agenda with methodical action while Luna aligns with Jupiter, Chiron, and Mars tonight. Dramatic transformations will unfold throughout the coming weeks after the Sun debuts in Sagittarius, helping you find empowerment through sacrifice.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -396,12 +396,12 @@
       "label": "Mostly clear",
       "icon": "🌤️",
       "now": {
-        "iso": "2026-11-21T12:45",
-        "time": "12:45 PM",
-        "hour": 12.75,
-        "temp": 30,
-        "feels": 32,
-        "humidity": 39,
+        "iso": "2026-11-21T14:15",
+        "time": "2:15 PM",
+        "hour": 14.25,
+        "temp": 31,
+        "feels": 31,
+        "humidity": 34,
         "label": "Clear sky",
         "icon": "☀️"
       },
@@ -449,11 +449,11 @@
       ],
       "log": {
         "Afternoon": {
-          "iso": "2026-11-21T12:45",
-          "time": "12:45 PM",
-          "temp": 30,
-          "feels": 32,
-          "humidity": 39,
+          "iso": "2026-11-21T14:15",
+          "time": "2:15 PM",
+          "temp": 31,
+          "feels": 31,
+          "humidity": 34,
           "label": "Clear sky",
           "icon": "☀️"
         }
@@ -461,11 +461,11 @@
     },
     "wxlog_home": {
       "Afternoon": {
-        "iso": "2026-11-21T12:45",
-        "time": "12:45 PM",
-        "temp": 30,
-        "feels": 32,
-        "humidity": 39,
+        "iso": "2026-11-21T14:15",
+        "time": "2:15 PM",
+        "temp": 31,
+        "feels": 31,
+        "humidity": 34,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -477,12 +477,12 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-21T12:45",
-        "time": "12:45 PM",
-        "hour": 12.75,
-        "temp": 29,
-        "feels": 31,
-        "humidity": 41,
+        "iso": "2026-11-21T14:15",
+        "time": "2:15 PM",
+        "hour": 14.25,
+        "temp": 30,
+        "feels": 30,
+        "humidity": 37,
         "label": "Clear sky",
         "icon": "☀️"
       },
@@ -530,11 +530,11 @@
       ],
       "log": {
         "Afternoon": {
-          "iso": "2026-11-21T12:45",
-          "time": "12:45 PM",
-          "temp": 29,
-          "feels": 31,
-          "humidity": 41,
+          "iso": "2026-11-21T14:15",
+          "time": "2:15 PM",
+          "temp": 30,
+          "feels": 30,
+          "humidity": 37,
           "label": "Clear sky",
           "icon": "☀️"
         }
@@ -542,11 +542,11 @@
     },
     "wxlog_office": {
       "Afternoon": {
-        "iso": "2026-11-21T12:45",
-        "time": "12:45 PM",
-        "temp": 29,
-        "feels": 31,
-        "humidity": 41,
+        "iso": "2026-11-21T14:15",
+        "time": "2:15 PM",
+        "temp": 30,
+        "feels": 30,
+        "humidity": 37,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -679,12 +679,12 @@
         "label": "Mostly clear",
         "icon": "🌤️",
         "now": {
-          "iso": "2026-11-21T12:45",
-          "time": "12:45 PM",
-          "hour": 12.75,
-          "temp": 30,
-          "feels": 32,
-          "humidity": 39,
+          "iso": "2026-11-21T14:15",
+          "time": "2:15 PM",
+          "hour": 14.25,
+          "temp": 31,
+          "feels": 31,
+          "humidity": 34,
           "label": "Clear sky",
           "icon": "☀️"
         },
@@ -732,11 +732,11 @@
         ],
         "log": {
           "Afternoon": {
-            "iso": "2026-11-21T12:45",
-            "time": "12:45 PM",
-            "temp": 30,
-            "feels": 32,
-            "humidity": 39,
+            "iso": "2026-11-21T14:15",
+            "time": "2:15 PM",
+            "temp": 31,
+            "feels": 31,
+            "humidity": 34,
             "label": "Clear sky",
             "icon": "☀️"
           }
@@ -749,12 +749,12 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-21T12:45",
-          "time": "12:45 PM",
-          "hour": 12.75,
-          "temp": 29,
-          "feels": 31,
-          "humidity": 41,
+          "iso": "2026-11-21T14:15",
+          "time": "2:15 PM",
+          "hour": 14.25,
+          "temp": 30,
+          "feels": 30,
+          "humidity": 37,
           "label": "Clear sky",
           "icon": "☀️"
         },
@@ -802,11 +802,11 @@
         ],
         "log": {
           "Afternoon": {
-            "iso": "2026-11-21T12:45",
-            "time": "12:45 PM",
-            "temp": 29,
-            "feels": 31,
-            "humidity": 41,
+            "iso": "2026-11-21T14:15",
+            "time": "2:15 PM",
+            "temp": 30,
+            "feels": 30,
+            "humidity": 37,
             "label": "Clear sky",
             "icon": "☀️"
           }
