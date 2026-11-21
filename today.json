@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Saturday, 21 November 2026",
   "date_key": "2026-11-21",
-  "fetched_ist": "21 Nov 2026, 03:57 AM IST",
+  "fetched_ist": "21 Nov 2026, 09:06 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -214,9 +214,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 12557,
-        "k22": 11510,
-        "change22": -470,
+        "k24": 12556,
+        "k22": 11509,
+        "change22": -1,
         "date": "21 November 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -228,14 +228,18 @@
         "change22": null,
         "date": "21 November 2026",
         "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
+      },
+      {
+        "src": "IBJA",
+        "label": "India benchmark (wholesale)",
+        "k22": 11349,
+        "k24": 12389,
+        "change22": null,
+        "date": "20 November 2026",
+        "url": "https://ibjarates.com/"
       }
     ],
     "trend": [
-      {
-        "date": "Nov 11, 2026",
-        "k22": 13015,
-        "k24": 14198
-      },
       {
         "date": "Nov 12, 2026",
         "k22": 12815,
@@ -280,6 +284,11 @@
         "date": "Nov 20, 2026",
         "k22": 11510,
         "k24": 12557
+      },
+      {
+        "date": "Nov 21, 2026",
+        "k22": 11509,
+        "k24": 12556
       }
     ]
   },
@@ -507,9 +516,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 12557,
-          "k22": 11510,
-          "change22": -470,
+          "k24": 12556,
+          "k22": 11509,
+          "change22": -1,
           "date": "21 November 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -522,14 +531,17 @@
           "date": "21 November 2026",
           "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
         },
-        "IBJA": null
+        "IBJA": {
+          "src": "IBJA",
+          "label": "India benchmark (wholesale)",
+          "k22": 11349,
+          "k24": 12389,
+          "change22": null,
+          "date": "20 November 2026",
+          "url": "https://ibjarates.com/"
+        }
       },
       "trend": [
-        {
-          "date": "Nov 11, 2026",
-          "k22": 13015,
-          "k24": 14198
-        },
         {
           "date": "Nov 12, 2026",
           "k22": 12815,
@@ -574,6 +586,11 @@
           "date": "Nov 20, 2026",
           "k22": 11510,
           "k24": 12557
+        },
+        {
+          "date": "Nov 21, 2026",
+          "k22": 11509,
+          "k24": 12556
         }
       ]
     }
