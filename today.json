@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Sunday, 22 November 2026",
   "date_key": "2026-11-22",
-  "fetched_ist": "22 Nov 2026, 12:25 PM IST",
+  "fetched_ist": "22 Nov 2026, 02:26 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 22, 2026",
       "text": "Today may be one of those days in which you're trying to paint a large area, but you only have a small brush. Your strokes are careful and calculated. You're doing a neat and precise job, but you're also doing things the hard way. Go easy on yourself and get a large brush. Make your strokes gigantic so you can cover more area with less effort."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 22, 2026",
       "text": "Take initiative and boldly pursue greatness, dearest Taurus, as the Moon debuts in your sign. This cosmic shift boosts your charisma, and following your dreams will only make your light shine brighter. A revolutionary energy helps you shatter obstacles that once seemed formidable, thanks to a helping hand from transformative Pluto. If you are persistent and believe in yourself, people will respond to the power you project."
@@ -95,7 +95,7 @@
         },
         {
           "text": "You are in a fantastic position to make your next major career move. Don't lose sight of this as being one of your major strong points.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -139,7 +139,7 @@
         },
         {
           "text": "Being stuck in a rut can be a very frustrating experience, as everything you try to do to extricate yourself from the situation only seems to make it worse! If you are feeling stuck, remember to immediately lower your expectations of yourself. This doesn't mean forget working out or forget your daily intake of water; it means don't expect yourself to do everything \"right\" all the time! Cut yourself the slack you need in order to catch up to your positive attitude.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -324,17 +324,17 @@
     "hc_general": {
       "text": "Today may be one of those days in which you're trying to paint a large area, but you only have a small brush. Your strokes are careful and calculated. You're doing a neat and precise job, but you're also doing things the hard way. Go easy on yourself and get a large brush. Make your strokes gigantic so you can cover more area with less effort.",
       "date": "Nov 22, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "You are in a fantastic position to make your next major career move. Keep in mind that at this time, your interpersonal relationships with others are a key part of your success. Don't lose sight of this as being one of your major strong points.",
       "date": "Nov 22, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Being stuck in a rut can be a very frustrating experience, as everything you try to do to extricate yourself from the situation only seems to make it worse! If you are feeling stuck, remember to immediately lower your expectations of yourself. This doesn't mean forget working out or forget your daily intake of water; it means don't expect yourself to do everything \"right\" all the time! Cut yourself the slack you need in order to catch up to your positive attitude.",
       "date": "Nov 22, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You may need more than ever to spend time focusing the lens on your goals. These aspects can create wonderful ideas or just downtime to ponder and woolgather. Future-oriented thoughts and ideas are featured as you think about how to take them to a wider and more profitable market. It will affect your house of travel, learning, teaching, publishing, spirituality, and the law. You're coming into your own one step at a time.",
@@ -342,7 +342,7 @@
     },
     "ac": {
       "text": "Take initiative and boldly pursue greatness, dearest Taurus, as the Moon debuts in your sign. This cosmic shift boosts your charisma, and following your dreams will only make your light shine brighter. A revolutionary energy helps you shatter obstacles that once seemed formidable, thanks to a helping hand from transformative Pluto. If you are persistent and believe in yourself, people will respond to the power you project. Conflict or personal attacks may cause you to question certain relationships while Luna opposes Mercury later tonight. Matters of the heart could prove exceptionally difficult to navigate, and it might be best to blow off steam before addressing issues.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
