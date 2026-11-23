@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Monday, 23 November 2026",
   "date_key": "2026-11-23",
-  "fetched_ist": "23 Nov 2026, 01:15 PM IST",
+  "fetched_ist": "23 Nov 2026, 03:24 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 23, 2026",
       "text": "You might not have heard from a close friend in a long time and worry a little, Taurus. Perhaps this person wasn't well the last time you talked. If you can, it might be a good idea to call. Strange and unsettling dreams could plague your sleep tonight, but don't get too agitated. They aren't prophetic in any way. The symbols probably represent nothing more than psychic detritus released through sleep."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 23, 2026",
       "text": "Following your intuition may not be enough to get where you want to be, sweet Taurus. As Venus aligns with the Nodes of Fate, destiny is seized through careful planning and hard work. Outline a structured agenda to build from, trusting your instincts when it is time to improvise. Reworking strategies will open the door to innovative breakthroughs, thanks to a supportive aspect between the Sagittarius Sun and Neptune. These vibes also bring an extra dose of power to your visualization or meditation practices, guiding you toward transformation. Your focus sharpens as Luna moves through your sign, though unbalanced aspects with the Nodes of Fate and Venus urge you to slow down and rest if you begin to hit a wall."
@@ -83,7 +83,7 @@
         },
         {
           "text": "Be careful at work today because someone will try to manipulate you in some way. Most likely, a co-worker of yours will try to \"pull rank\" and make it seem as if he or she knows more than you do. Don't be fooled. Ultimately, trust only yourself.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -106,7 +106,7 @@
           "src": "GaneshaSpeaks"
         },
         {
-          "text": "You may need more than ever to spend time focusing the lens on your goals. These aspects can create wonderful ideas or just downtime to ponder and woolgather. Future-oriented thoughts and ideas are featured as you think about how to take them to a wider and more profitable market. It will affect your house of travel, learning, teaching, publishing, spirituality, and the law. You're coming into your own one step at a time.",
+          "text": "You're poised to take advantage of new opportunities. Your masculine and feminine energies are working together, which has a positive effect on your bottom line. Your shared investments and property may require some action on your part. Just wait a few days before signing any paperwork or agreements.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
           "src": "Horoscope.com · this week"
         }
@@ -127,7 +127,7 @@
         },
         {
           "text": "Today you may want two opposite things at the same time: a good workout followed by some chocolate cake! Crazier things have happened! The planetary alignment impels you to desire comfort and security (your usual routine, comfort from approval and other good feelings) on one hand, yet on the other, you think it would be erotic and fun to stay up late and do things that give immediate, \"sinful\" pleasure. The challenge is to find the middle ground and suspend judgment.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -150,8 +150,8 @@
   "lucky": [
     {
       "src": "GaneshaSpeaks",
-      "number": "6",
-      "color": "Olive Green"
+      "number": "1",
+      "color": "Cream"
     },
     {
       "src": "AstroSage",
@@ -284,8 +284,8 @@
       "source_date": "23-11-2026",
       "text": "You are likely to get into arguments today, predicts Ganesha. You should avoid any open confrontation. Legal disputes may bother you as well. Try your hand at meditation or resort to music of your preference to relax and unwind. It is best if you delay the start of any important activity today, suggests Ganesha.",
       "lucky": {
-        "number": "6",
-        "color": "Olive Green"
+        "number": "1",
+        "color": "Cream"
       },
       "areas": {
         "health": {
@@ -308,25 +308,25 @@
     "hc_general": {
       "text": "You might not have heard from a close friend in a long time and worry a little, Taurus. Perhaps this person wasn't well the last time you talked. If you can, it might be a good idea to call. Strange and unsettling dreams could plague your sleep tonight, but don't get too agitated. They aren't prophetic in any way. The symbols probably represent nothing more than psychic detritus released through sleep.",
       "date": "Nov 23, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Be careful at work today because someone will try to manipulate you in some way. Most likely, a co-worker of yours will try to \"pull rank\" and make it seem as if he or she knows more than you do. Don't be fooled. Ultimately, trust only yourself.",
       "date": "Nov 23, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Today you may want two opposite things at the same time: a good workout followed by some chocolate cake! Crazier things have happened! The planetary alignment impels you to desire comfort and security (your usual routine, comfort from approval and other good feelings) on one hand, yet on the other, you think it would be erotic and fun to stay up late and do things that give immediate, \"sinful\" pleasure. The challenge is to find the middle ground and suspend judgment.",
       "date": "Nov 23, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
-      "text": "You may need more than ever to spend time focusing the lens on your goals. These aspects can create wonderful ideas or just downtime to ponder and woolgather. Future-oriented thoughts and ideas are featured as you think about how to take them to a wider and more profitable market. It will affect your house of travel, learning, teaching, publishing, spirituality, and the law. You're coming into your own one step at a time.",
+      "text": "You're poised to take advantage of new opportunities. Your masculine and feminine energies are working together, which has a positive effect on your bottom line. Your shared investments and property may require some action on your part. Just wait a few days before signing any paperwork or agreements. You and your partner should be on the same page, regardless.",
       "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2"
     },
     "ac": {
       "text": "Following your intuition may not be enough to get where you want to be, sweet Taurus. As Venus aligns with the Nodes of Fate, destiny is seized through careful planning and hard work. Outline a structured agenda to build from, trusting your instincts when it is time to improvise. Reworking strategies will open the door to innovative breakthroughs, thanks to a supportive aspect between the Sagittarius Sun and Neptune. These vibes also bring an extra dose of power to your visualization or meditation practices, guiding you toward transformation. Your focus sharpens as Luna moves through your sign, though unbalanced aspects with the Nodes of Fate and Venus urge you to slow down and rest if you begin to hit a wall.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
