@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Monday, 23 November 2026",
   "date_key": "2026-11-23",
-  "fetched_ist": "23 Nov 2026, 08:48 AM IST",
+  "fetched_ist": "23 Nov 2026, 01:15 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -198,9 +198,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 12507,
-        "k22": 11464,
-        "change22": -1,
+        "k24": 12656,
+        "k22": 11600,
+        "change22": 135,
         "date": "23 November 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -216,10 +216,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 11349,
-        "k24": 12389,
+        "k22": 11461,
+        "k24": 12512,
         "change22": null,
-        "date": "20 November 2026",
+        "date": "23 November 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -271,8 +271,8 @@
       },
       {
         "date": "Nov 23, 2026",
-        "k22": 11464,
-        "k24": 12507
+        "k22": 11600,
+        "k24": 12656
       }
     ]
   },
@@ -380,16 +380,16 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-23T08:45",
-        "time": "8:45 AM",
-        "hour": 8.75,
-        "temp": 25,
-        "feels": 27,
-        "humidity": 67,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "iso": "2026-11-23T13:15",
+        "time": "1:15 PM",
+        "hour": 13.25,
+        "temp": 30,
+        "feels": 31,
+        "humidity": 39,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
-      "high": 30,
+      "high": 31,
       "low": 21,
       "rain": 0,
       "uv": 6.75,
@@ -440,6 +440,15 @@
           "humidity": 67,
           "label": "Partly cloudy",
           "icon": "⛅"
+        },
+        "Afternoon": {
+          "iso": "2026-11-23T13:15",
+          "time": "1:15 PM",
+          "temp": 30,
+          "feels": 31,
+          "humidity": 39,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -452,6 +461,15 @@
         "humidity": 67,
         "label": "Partly cloudy",
         "icon": "⛅"
+      },
+      "Afternoon": {
+        "iso": "2026-11-23T13:15",
+        "time": "1:15 PM",
+        "temp": 30,
+        "feels": 31,
+        "humidity": 39,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "wx_office": {
@@ -461,14 +479,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-23T08:45",
-        "time": "8:45 AM",
-        "hour": 8.75,
-        "temp": 25,
-        "feels": 27,
-        "humidity": 64,
-        "label": "Partly cloudy",
-        "icon": "⛅"
+        "iso": "2026-11-23T13:15",
+        "time": "1:15 PM",
+        "hour": 13.25,
+        "temp": 31,
+        "feels": 32,
+        "humidity": 36,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 31,
       "low": 21,
@@ -481,7 +499,7 @@
           "to": 12,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 26,
+          "temp": 25,
           "rain": 0
         },
         {
@@ -490,7 +508,7 @@
           "to": 17,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 30,
+          "temp": 31,
           "rain": 0
         },
         {
@@ -506,8 +524,8 @@
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "⛅",
-          "label": "Partly cloudy",
+          "icon": "☁️",
+          "label": "Cloudy",
           "temp": 24,
           "rain": 0
         }
@@ -521,6 +539,15 @@
           "humidity": 64,
           "label": "Partly cloudy",
           "icon": "⛅"
+        },
+        "Afternoon": {
+          "iso": "2026-11-23T13:15",
+          "time": "1:15 PM",
+          "temp": 31,
+          "feels": 32,
+          "humidity": 36,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -533,6 +560,15 @@
         "humidity": 64,
         "label": "Partly cloudy",
         "icon": "⛅"
+      },
+      "Afternoon": {
+        "iso": "2026-11-23T13:15",
+        "time": "1:15 PM",
+        "temp": 31,
+        "feels": 32,
+        "humidity": 36,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "gold": {
@@ -540,9 +576,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 12507,
-          "k22": 11464,
-          "change22": -1,
+          "k24": 12656,
+          "k22": 11600,
+          "change22": 135,
           "date": "23 November 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -558,10 +594,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 11349,
-          "k24": 12389,
+          "k22": 11461,
+          "k24": 12512,
           "change22": null,
-          "date": "20 November 2026",
+          "date": "23 November 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -613,8 +649,8 @@
         },
         {
           "date": "Nov 23, 2026",
-          "k22": 11464,
-          "k24": 12507
+          "k22": 11600,
+          "k24": 12656
         }
       ]
     }
@@ -657,16 +693,16 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-23T08:45",
-          "time": "8:45 AM",
-          "hour": 8.75,
-          "temp": 25,
-          "feels": 27,
-          "humidity": 67,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "iso": "2026-11-23T13:15",
+          "time": "1:15 PM",
+          "hour": 13.25,
+          "temp": 30,
+          "feels": 31,
+          "humidity": 39,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
-        "high": 30,
+        "high": 31,
         "low": 21,
         "rain": 0,
         "uv": 6.75,
@@ -717,6 +753,15 @@
             "humidity": 67,
             "label": "Partly cloudy",
             "icon": "⛅"
+          },
+          "Afternoon": {
+            "iso": "2026-11-23T13:15",
+            "time": "1:15 PM",
+            "temp": 30,
+            "feels": 31,
+            "humidity": 39,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       },
@@ -727,14 +772,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-23T08:45",
-          "time": "8:45 AM",
-          "hour": 8.75,
-          "temp": 25,
-          "feels": 27,
-          "humidity": 64,
-          "label": "Partly cloudy",
-          "icon": "⛅"
+          "iso": "2026-11-23T13:15",
+          "time": "1:15 PM",
+          "hour": 13.25,
+          "temp": 31,
+          "feels": 32,
+          "humidity": 36,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 31,
         "low": 21,
@@ -747,7 +792,7 @@
             "to": 12,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 26,
+            "temp": 25,
             "rain": 0
           },
           {
@@ -756,7 +801,7 @@
             "to": 17,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 30,
+            "temp": 31,
             "rain": 0
           },
           {
@@ -772,8 +817,8 @@
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "⛅",
-            "label": "Partly cloudy",
+            "icon": "☁️",
+            "label": "Cloudy",
             "temp": 24,
             "rain": 0
           }
@@ -787,6 +832,15 @@
             "humidity": 64,
             "label": "Partly cloudy",
             "icon": "⛅"
+          },
+          "Afternoon": {
+            "iso": "2026-11-23T13:15",
+            "time": "1:15 PM",
+            "temp": 31,
+            "feels": 32,
+            "humidity": 36,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       }
