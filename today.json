@@ -2,14 +2,14 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 25 November 2026",
   "date_key": "2026-11-25",
-  "fetched_ist": "25 Nov 2026, 12:22 AM IST",
+  "fetched_ist": "25 Nov 2026, 04:27 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "24-11-2026",
-      "text": null
+      "ok": true,
+      "source_date": "25-11-2026",
+      "text": "You will wake up feeling determined and decisive today, says Ganesha. Be careful as your rigid views may make you seem stubborn. You may not be willing to come half way during a conflict and will make a habit of articulating your viewpoint. Tension at the workplace will eat through most of your time today, feels Ganesha."
     },
     {
       "name": "Horoscope.com",
@@ -46,6 +46,14 @@
     ],
     "heads": [
       {
+        "t": "You may not be willing to come half way during a conflict and will make a habit of articulating your viewpoint.",
+        "src": "GaneshaSpeaks"
+      },
+      {
+        "t": "Tension at the workplace will eat through most of your time today, feels Ganesha.",
+        "src": "GaneshaSpeaks"
+      },
+      {
         "t": "Temptations emerge unexpectedly as the Sagittarius Sun aligns with Pluto and Uranus, dearest Taurus, challenging your ability to stay strong.",
         "src": "Astrology.com"
       },
@@ -55,6 +63,10 @@
       }
     ],
     "todo": [
+      {
+        "t": "Be careful as your rigid views may make you seem stubborn.",
+        "src": "GaneshaSpeaks"
+      },
       {
         "t": "Watch your spending, or you could succumb to impulse purchases that compromise long-term financial goals.",
         "src": "Astrology.com"
@@ -73,12 +85,21 @@
     "career": {
       "readings": [
         {
+          "text": "Ganesha likes to call this a power day as your innate qualities will come to the fore. You will be able to manage your tasks smoothly and meet deadlines by getting systematic. Your practical approach will find out the root cause of things.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "Be conservative with your words today. If you are not careful, you are apt to give something away that you shouldn't. In short, you have some special information that someone else wants. Use this to your advantage. Your secrets are valuable.",
           "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
       "bits": [
+        {
+          "t": "Tension at the workplace will eat through most of your time today, feels Ganesha.",
+          "src": "GaneshaSpeaks"
+        },
         {
           "t": "Your focus shifts toward more productive topics once Mars enters Virgo later today, inspiring you to take on a creative project or learn a new skill throughout the coming weeks.",
           "src": "Astrology.com"
@@ -95,6 +116,11 @@
     },
     "money": {
       "readings": [
+        {
+          "text": "This is the right time to think about setting aside a sum in some fixed deposit schemes or in something that gives you regular returns. You will avoid taking financially risky decisions.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
         {
           "text": "You're poised to take advantage of new opportunities. Your masculine and feminine energies are working together, which has a positive effect on your bottom line. Your shared investments and property may require some action on your part. Just wait a few days before signing any paperwork or agreements.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
@@ -115,12 +141,21 @@
     "health": {
       "readings": [
         {
+          "text": "Today you will remain focussed on your health. In the morning, you shall go for a jog, or exercise at home. After shedding some calories, and consuming a healthy breakfast, you shall obviously feel peppy and your productivity will scale new heights.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "The alignment of the planets today makes you feel more confident and at the same time, perhaps a little bit high strung. Emotions are fluctuating and hard to put into compartments. You tend to want to give a name to things and be able to organize like with like. You may feel frustrated, therefore, if you feel more emotional in areas where you are accustomed to feeling \"organized.\" The aspect at play tends to bring out the irrational. Use exercise to help feel more in control.",
           "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
       "bits": [
+        {
+          "t": "You may not be willing to come half way during a conflict and will make a habit of articulating your viewpoint.",
+          "src": "GaneshaSpeaks"
+        },
         {
           "t": "You will have abundance of energy- but work pressure seems to get you irritated.",
           "src": "AstroSage"
@@ -135,8 +170,8 @@
   "lucky": [
     {
       "src": "GaneshaSpeaks",
-      "number": "1",
-      "color": "Cream"
+      "number": "2",
+      "color": "Emerald Green"
     },
     {
       "src": "AstroSage",
@@ -265,14 +300,30 @@
     "ganesha": {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "24-11-2026",
-      "text": null,
+      "ok": true,
+      "source_date": "25-11-2026",
+      "text": "You will wake up feeling determined and decisive today, says Ganesha. Be careful as your rigid views may make you seem stubborn. You may not be willing to come half way during a conflict and will make a habit of articulating your viewpoint. Tension at the workplace will eat through most of your time today, feels Ganesha.",
       "lucky": {
-        "number": "1",
-        "color": "Cream"
+        "number": "2",
+        "color": "Emerald Green"
       },
-      "areas": {}
+      "areas": {
+        "health": {
+          "text": "Today you will remain focussed on your health. In the morning, you shall go for a jog, or exercise at home. After shedding some calories, and consuming a healthy breakfast, you shall obviously feel peppy and your productivity will scale new heights.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "money": {
+          "text": "This is the right time to think about setting aside a sum in some fixed deposit schemes or in something that gives you regular returns. You will avoid taking financially risky decisions.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "career": {
+          "text": "Ganesha likes to call this a power day as your innate qualities will come to the fore. You will be able to manage your tasks smoothly and meet deadlines by getting systematic. Your practical approach will find out the root cause of things.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        }
+      }
     },
     "hc_general": {
       "text": "A friend or family member is slowly poisoning your relationship, Taurus. A misunderstanding between the two of you will ultimately prove beneficial in the long run. Why? It makes you realize how uncomfortable you are with vague, ill-defined relationships. Today would be a good day to write a letter to the person in question. You're likely to find the results gratifying.",
@@ -342,9 +393,127 @@
         }
       ]
     },
-    "wx_home": null,
+    "wx_home": {
+      "key": "home",
+      "name": "Home",
+      "area": "",
+      "label": "Light showers",
+      "icon": "🌦️",
+      "now": {
+        "iso": "2026-11-25T04:15",
+        "time": "4:15 AM",
+        "hour": 4.25,
+        "temp": 23,
+        "feels": 26,
+        "humidity": 90,
+        "label": "Cloudy",
+        "icon": "☁️"
+      },
+      "high": 30,
+      "low": 22,
+      "rain": 96,
+      "uv": 6.05,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 26,
+          "rain": 18
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌦️",
+          "label": "Light showers",
+          "temp": 27,
+          "rain": 96
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 24,
+          "rain": 96
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 22,
+          "rain": 64
+        }
+      ],
+      "log": {}
+    },
     "wxlog_home": {},
-    "wx_office": null,
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Showers",
+      "icon": "🌧️",
+      "now": {
+        "iso": "2026-11-25T04:15",
+        "time": "4:15 AM",
+        "hour": 4.25,
+        "temp": 23,
+        "feels": 26,
+        "humidity": 88,
+        "label": "Cloudy",
+        "icon": "☁️"
+      },
+      "high": 31,
+      "low": 23,
+      "rain": 96,
+      "uv": 6.25,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 26,
+          "rain": 18
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌧️",
+          "label": "Showers",
+          "temp": 28,
+          "rain": 96
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 24,
+          "rain": 96
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 23,
+          "rain": 64
+        }
+      ],
+      "log": {}
+    },
     "wxlog_office": {},
     "gold": {
       "rows": {
@@ -458,5 +627,129 @@
       "days": 29
     }
   },
-  "weather": null
+  "weather": {
+    "date": "2026-11-25",
+    "places": [
+      {
+        "key": "home",
+        "name": "Home",
+        "area": "",
+        "label": "Light showers",
+        "icon": "🌦️",
+        "now": {
+          "iso": "2026-11-25T04:15",
+          "time": "4:15 AM",
+          "hour": 4.25,
+          "temp": 23,
+          "feels": 26,
+          "humidity": 90,
+          "label": "Cloudy",
+          "icon": "☁️"
+        },
+        "high": 30,
+        "low": 22,
+        "rain": 96,
+        "uv": 6.05,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 26,
+            "rain": 18
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌦️",
+            "label": "Light showers",
+            "temp": 27,
+            "rain": 96
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 24,
+            "rain": 96
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 22,
+            "rain": 64
+          }
+        ],
+        "log": {}
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
+        "label": "Showers",
+        "icon": "🌧️",
+        "now": {
+          "iso": "2026-11-25T04:15",
+          "time": "4:15 AM",
+          "hour": 4.25,
+          "temp": 23,
+          "feels": 26,
+          "humidity": 88,
+          "label": "Cloudy",
+          "icon": "☁️"
+        },
+        "high": 31,
+        "low": 23,
+        "rain": 96,
+        "uv": 6.25,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 26,
+            "rain": 18
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌧️",
+            "label": "Showers",
+            "temp": 28,
+            "rain": 96
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 24,
+            "rain": 96
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 23,
+            "rain": 64
+          }
+        ],
+        "log": {}
+      }
+    ]
+  }
 }
