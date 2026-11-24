@@ -2,14 +2,14 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 24 November 2026",
   "date_key": "2026-11-24",
-  "fetched_ist": "24 Nov 2026, 12:43 AM IST",
+  "fetched_ist": "24 Nov 2026, 06:09 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "23-11-2026",
-      "text": null
+      "ok": true,
+      "source_date": "24-11-2026",
+      "text": "Overall, it will be a good day to relax and enjoy good health, says Ganesha. However, there is a catch: you will need to be vigilant when it comes to money matters as there is a looming threat of swindling or mismanaging."
     },
     {
       "name": "Horoscope.com",
@@ -35,6 +35,10 @@
   ],
   "glance": {
     "good": [
+      {
+        "t": "Overall, it will be a good day to relax and enjoy good health, says Ganesha.",
+        "src": "GaneshaSpeaks"
+      },
       {
         "t": "Now is the perfect time to say something to someone that you've been meaning to say for quite some time, Taurus.",
         "src": "Horoscope.com"
@@ -77,6 +81,11 @@
     "career": {
       "readings": [
         {
+          "text": "You may not be fast and furious at the workplace today. In your quest for improved techniques at work, you may end up wasting a lot of time. Ganesha advises you to take up important projects only post lunch.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "Someone is likely to present an alternate plan to you today that may throw you off balance with regard to your career. Accumulate facts and information but don't sign anything just yet. Be sure you sleep on these ideas before you act.",
           "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
@@ -92,12 +101,21 @@
     "money": {
       "readings": [
         {
+          "text": "Today is favourable for you to market your myriad talents. You will be able to think more imaginatively about financial matters. You will make the best of all chances you get.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "You're poised to take advantage of new opportunities. Your masculine and feminine energies are working together, which has a positive effect on your bottom line. Your shared investments and property may require some action on your part. Just wait a few days before signing any paperwork or agreements.",
           "url": "https://www.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2",
           "src": "Horoscope.com · this week"
         }
       ],
       "bits": [
+        {
+          "t": "However, there is a catch: you will need to be vigilant when it comes to money matters as there is a looming threat of swindling or mismanaging.",
+          "src": "GaneshaSpeaks"
+        },
         {
           "t": "Check in with your emotional and monetary investments to ensure you're on the right path while the Gemini Full Moon aligns with Neptune, Pluto, and Uranus.",
           "src": "Astrology.com"
@@ -115,19 +133,29 @@
     "health": {
       "readings": [
         {
+          "text": "With regards to your health and well-being, this day begins on a slightly negative side. However, you will soon feel better as your energy levels shall rise during the latter part of the day. Wisely utilise your energy to maintain fitness.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        {
           "text": "The aspect at play reminds you that your future starts today. This is a good time to ask yourself: what do you want for your health? Do you want to ignore your body until invasive medical measures are required? Or do you want to have an informed, delightful experience of nurturing your body and your mind in a more preventive fashion? If you prefer the latter, maybe it's time to invest in an informative text: a healthy cookbook, a holistic hygiene reference, or a book on feng shui.",
           "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
-      "bits": []
+      "bits": [
+        {
+          "t": "Overall, it will be a good day to relax and enjoy good health, says Ganesha.",
+          "src": "GaneshaSpeaks"
+        }
+      ]
     }
   },
   "lucky": [
     {
       "src": "GaneshaSpeaks",
-      "number": "6",
-      "color": "Olive Green"
+      "number": "1",
+      "color": "Cream"
     },
     {
       "src": "AstroSage",
@@ -174,9 +202,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 12656,
-        "k22": 11600,
-        "change22": 135,
+        "k24": 12657,
+        "k22": 11601,
+        "change22": 1,
         "date": "24 November 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -195,16 +223,11 @@
         "k22": 11445,
         "k24": 12495,
         "change22": null,
-        "date": "24 November 2026",
+        "date": "23 November 2026",
         "url": "https://ibjarates.com/"
       }
     ],
     "trend": [
-      {
-        "date": "Nov 14, 2026",
-        "k22": 12615,
-        "k24": 13762
-      },
       {
         "date": "Nov 15, 2026",
         "k22": 12615,
@@ -249,6 +272,11 @@
         "date": "Nov 23, 2026",
         "k22": 11600,
         "k24": 12656
+      },
+      {
+        "date": "Nov 24, 2026",
+        "k22": 11601,
+        "k24": 12657
       }
     ]
   },
@@ -256,14 +284,30 @@
     "ganesha": {
       "name": "GaneshaSpeaks",
       "url": "https://www.ganeshaspeaks.com/horoscopes/daily-horoscope/taurus/",
-      "ok": false,
-      "source_date": "23-11-2026",
-      "text": null,
+      "ok": true,
+      "source_date": "24-11-2026",
+      "text": "Overall, it will be a good day to relax and enjoy good health, says Ganesha. However, there is a catch: you will need to be vigilant when it comes to money matters as there is a looming threat of swindling or mismanaging. An evening of merry-making will subdue your love for delicacies and good food.",
       "lucky": {
-        "number": "6",
-        "color": "Olive Green"
+        "number": "1",
+        "color": "Cream"
       },
-      "areas": {}
+      "areas": {
+        "health": {
+          "text": "With regards to your health and well-being, this day begins on a slightly negative side. However, you will soon feel better as your energy levels shall rise during the latter part of the day. Wisely utilise your energy to maintain fitness.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-health-and-well-being-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "money": {
+          "text": "Today is favourable for you to market your myriad talents. You will be able to think more imaginatively about financial matters. You will make the best of all chances you get.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-money-and-finance-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        },
+        "career": {
+          "text": "You may not be fast and furious at the workplace today. In your quest for improved techniques at work, you may end up wasting a lot of time. Ganesha advises you to take up important projects only post lunch.",
+          "url": "https://www.ganeshaspeaks.com/horoscopes/daily-career-and-business-horoscope/taurus/",
+          "src": "GaneshaSpeaks"
+        }
+      }
     },
     "hc_general": {
       "text": "Now is the perfect time to say something to someone that you've been meaning to say for quite some time, Taurus. Get it out in the open. Keeping it inside will only eat away at you. Stop worrying about the consequences and make the move. Today is the time to be bold and aggressive. Other people might respond in a similar fashion, so if you dish it out, be prepared to take it.",
@@ -340,80 +384,19 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-24T00:30",
-        "time": "12:30 AM",
-        "hour": 0.5,
-        "temp": 24,
-        "feels": 26,
-        "humidity": 69,
-        "label": "Mostly clear",
-        "icon": "🌙"
+        "iso": "2026-11-24T06:00",
+        "time": "6:00 AM",
+        "hour": 6.0,
+        "temp": 22,
+        "feels": 24,
+        "humidity": 77,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 31,
       "low": 22,
-      "rain": 6,
-      "uv": 6.1,
-      "periods": [
-        {
-          "name": "Morning",
-          "from": 6,
-          "to": 12,
-          "icon": "☁️",
-          "label": "Cloudy",
-          "temp": 25,
-          "rain": 0
-        },
-        {
-          "name": "Afternoon",
-          "from": 12,
-          "to": 17,
-          "icon": "☁️",
-          "label": "Cloudy",
-          "temp": 30,
-          "rain": 3
-        },
-        {
-          "name": "Evening",
-          "from": 17,
-          "to": 21,
-          "icon": "⛅",
-          "label": "Partly cloudy",
-          "temp": 28,
-          "rain": 6
-        },
-        {
-          "name": "Night",
-          "from": 21,
-          "to": 30,
-          "icon": "⛅",
-          "label": "Partly cloudy",
-          "temp": 23,
-          "rain": 4
-        }
-      ],
-      "log": {}
-    },
-    "wxlog_home": {},
-    "wx_office": {
-      "key": "office",
-      "name": "Office",
-      "area": "",
-      "label": "Cloudy",
-      "icon": "☁️",
-      "now": {
-        "iso": "2026-11-24T00:30",
-        "time": "12:30 AM",
-        "hour": 0.5,
-        "temp": 24,
-        "feels": 25,
-        "humidity": 67,
-        "label": "Partly cloudy",
-        "icon": "⛅"
-      },
-      "high": 32,
-      "low": 22,
-      "rain": 6,
-      "uv": 6.15,
+      "rain": 0,
+      "uv": 6.55,
       "periods": [
         {
           "name": "Morning",
@@ -431,7 +414,88 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 31,
-          "rain": 3
+          "rain": 0
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "⛅",
+          "label": "Partly cloudy",
+          "temp": 28,
+          "rain": 0
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "⛅",
+          "label": "Partly cloudy",
+          "temp": 23,
+          "rain": 2
+        }
+      ],
+      "log": {
+        "Morning": {
+          "iso": "2026-11-24T06:00",
+          "time": "6:00 AM",
+          "temp": 22,
+          "feels": 24,
+          "humidity": 77,
+          "label": "Cloudy",
+          "icon": "☁️"
+        }
+      }
+    },
+    "wxlog_home": {
+      "Morning": {
+        "iso": "2026-11-24T06:00",
+        "time": "6:00 AM",
+        "temp": 22,
+        "feels": 24,
+        "humidity": 77,
+        "label": "Cloudy",
+        "icon": "☁️"
+      }
+    },
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Cloudy",
+      "icon": "☁️",
+      "now": {
+        "iso": "2026-11-24T06:00",
+        "time": "6:00 AM",
+        "hour": 6.0,
+        "temp": 22,
+        "feels": 24,
+        "humidity": 75,
+        "label": "Cloudy",
+        "icon": "☁️"
+      },
+      "high": 32,
+      "low": 22,
+      "rain": 0,
+      "uv": 6.6,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 26,
+          "rain": 0
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "☁️",
+          "label": "Cloudy",
+          "temp": 31,
+          "rain": 0
         },
         {
           "name": "Evening",
@@ -440,7 +504,7 @@
           "icon": "☁️",
           "label": "Cloudy",
           "temp": 28,
-          "rain": 6
+          "rain": 0
         },
         {
           "name": "Night",
@@ -448,21 +512,41 @@
           "to": 30,
           "icon": "🌙",
           "label": "Clear sky",
-          "temp": 23,
-          "rain": 4
+          "temp": 24,
+          "rain": 2
         }
       ],
-      "log": {}
+      "log": {
+        "Morning": {
+          "iso": "2026-11-24T06:00",
+          "time": "6:00 AM",
+          "temp": 22,
+          "feels": 24,
+          "humidity": 75,
+          "label": "Cloudy",
+          "icon": "☁️"
+        }
+      }
     },
-    "wxlog_office": {},
+    "wxlog_office": {
+      "Morning": {
+        "iso": "2026-11-24T06:00",
+        "time": "6:00 AM",
+        "temp": 22,
+        "feels": 24,
+        "humidity": 75,
+        "label": "Cloudy",
+        "icon": "☁️"
+      }
+    },
     "gold": {
       "rows": {
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 12656,
-          "k22": 11600,
-          "change22": 135,
+          "k24": 12657,
+          "k22": 11601,
+          "change22": 1,
           "date": "24 November 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -481,16 +565,11 @@
           "k22": 11445,
           "k24": 12495,
           "change22": null,
-          "date": "24 November 2026",
+          "date": "23 November 2026",
           "url": "https://ibjarates.com/"
         }
       },
       "trend": [
-        {
-          "date": "Nov 14, 2026",
-          "k22": 12615,
-          "k24": 13762
-        },
         {
           "date": "Nov 15, 2026",
           "k22": 12615,
@@ -535,6 +614,11 @@
           "date": "Nov 23, 2026",
           "k22": 11600,
           "k24": 12656
+        },
+        {
+          "date": "Nov 24, 2026",
+          "k22": 11601,
+          "k24": 12657
         }
       ]
     }
@@ -588,79 +672,19 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-24T00:30",
-          "time": "12:30 AM",
-          "hour": 0.5,
-          "temp": 24,
-          "feels": 26,
-          "humidity": 69,
-          "label": "Mostly clear",
-          "icon": "🌙"
+          "iso": "2026-11-24T06:00",
+          "time": "6:00 AM",
+          "hour": 6.0,
+          "temp": 22,
+          "feels": 24,
+          "humidity": 77,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 31,
         "low": 22,
-        "rain": 6,
-        "uv": 6.1,
-        "periods": [
-          {
-            "name": "Morning",
-            "from": 6,
-            "to": 12,
-            "icon": "☁️",
-            "label": "Cloudy",
-            "temp": 25,
-            "rain": 0
-          },
-          {
-            "name": "Afternoon",
-            "from": 12,
-            "to": 17,
-            "icon": "☁️",
-            "label": "Cloudy",
-            "temp": 30,
-            "rain": 3
-          },
-          {
-            "name": "Evening",
-            "from": 17,
-            "to": 21,
-            "icon": "⛅",
-            "label": "Partly cloudy",
-            "temp": 28,
-            "rain": 6
-          },
-          {
-            "name": "Night",
-            "from": 21,
-            "to": 30,
-            "icon": "⛅",
-            "label": "Partly cloudy",
-            "temp": 23,
-            "rain": 4
-          }
-        ],
-        "log": {}
-      },
-      {
-        "key": "office",
-        "name": "Office",
-        "area": "",
-        "label": "Cloudy",
-        "icon": "☁️",
-        "now": {
-          "iso": "2026-11-24T00:30",
-          "time": "12:30 AM",
-          "hour": 0.5,
-          "temp": 24,
-          "feels": 25,
-          "humidity": 67,
-          "label": "Partly cloudy",
-          "icon": "⛅"
-        },
-        "high": 32,
-        "low": 22,
-        "rain": 6,
-        "uv": 6.15,
+        "rain": 0,
+        "uv": 6.55,
         "periods": [
           {
             "name": "Morning",
@@ -678,7 +702,77 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 31,
-            "rain": 3
+            "rain": 0
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "⛅",
+            "label": "Partly cloudy",
+            "temp": 28,
+            "rain": 0
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "⛅",
+            "label": "Partly cloudy",
+            "temp": 23,
+            "rain": 2
+          }
+        ],
+        "log": {
+          "Morning": {
+            "iso": "2026-11-24T06:00",
+            "time": "6:00 AM",
+            "temp": 22,
+            "feels": 24,
+            "humidity": 77,
+            "label": "Cloudy",
+            "icon": "☁️"
+          }
+        }
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
+        "label": "Cloudy",
+        "icon": "☁️",
+        "now": {
+          "iso": "2026-11-24T06:00",
+          "time": "6:00 AM",
+          "hour": 6.0,
+          "temp": 22,
+          "feels": 24,
+          "humidity": 75,
+          "label": "Cloudy",
+          "icon": "☁️"
+        },
+        "high": 32,
+        "low": 22,
+        "rain": 0,
+        "uv": 6.6,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 26,
+            "rain": 0
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "☁️",
+            "label": "Cloudy",
+            "temp": 31,
+            "rain": 0
           },
           {
             "name": "Evening",
@@ -687,7 +781,7 @@
             "icon": "☁️",
             "label": "Cloudy",
             "temp": 28,
-            "rain": 6
+            "rain": 0
           },
           {
             "name": "Night",
@@ -695,11 +789,21 @@
             "to": 30,
             "icon": "🌙",
             "label": "Clear sky",
-            "temp": 23,
-            "rain": 4
+            "temp": 24,
+            "rain": 2
           }
         ],
-        "log": {}
+        "log": {
+          "Morning": {
+            "iso": "2026-11-24T06:00",
+            "time": "6:00 AM",
+            "temp": 22,
+            "feels": 24,
+            "humidity": 75,
+            "label": "Cloudy",
+            "icon": "☁️"
+          }
+        }
       }
     ]
   }
