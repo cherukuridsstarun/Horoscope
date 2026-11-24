@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Tuesday, 24 November 2026",
   "date_key": "2026-11-24",
-  "fetched_ist": "24 Nov 2026, 12:02 PM IST",
+  "fetched_ist": "24 Nov 2026, 03:28 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 24, 2026",
       "text": "Now is the perfect time to say something to someone that you've been meaning to say for quite some time, Taurus. Get it out in the open. Keeping it inside will only eat away at you. Stop worrying about the consequences and make the move. Today is the time to be bold and aggressive. Other people might respond in a similar fashion, so if you dish it out, be prepared to take it."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 24, 2026",
       "text": "Check in with your emotional and monetary investments to ensure you're on the right path while the Gemini Full Moon aligns with Neptune, Pluto, and Uranus. A thorough account of your earnings and expenses will help you determine where you need to cut back or if it's time to ask for a raise. Making realistic adjustments will give you the freedom to dream bigger without losing common sense as Luna and Saturn align later today."
@@ -87,7 +87,7 @@
         },
         {
           "text": "Someone is likely to present an alternate plan to you today that may throw you off balance with regard to your career. Accumulate facts and information but don't sign anything just yet. Be sure you sleep on these ideas before you act.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -139,7 +139,7 @@
         },
         {
           "text": "The aspect at play reminds you that your future starts today. This is a good time to ask yourself: what do you want for your health? Do you want to ignore your body until invasive medical measures are required? Or do you want to have an informed, delightful experience of nurturing your body and your mind in a more preventive fashion? If you prefer the latter, maybe it's time to invest in an informative text: a healthy cookbook, a holistic hygiene reference, or a book on feng shui.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -312,17 +312,17 @@
     "hc_general": {
       "text": "Now is the perfect time to say something to someone that you've been meaning to say for quite some time, Taurus. Get it out in the open. Keeping it inside will only eat away at you. Stop worrying about the consequences and make the move. Today is the time to be bold and aggressive. Other people might respond in a similar fashion, so if you dish it out, be prepared to take it.",
       "date": "Nov 24, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Someone is likely to present an alternate plan to you today that may throw you off balance with regard to your career. Accumulate facts and information but don't sign anything just yet. Be sure you sleep on these ideas before you act.",
       "date": "Nov 24, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "The aspect at play reminds you that your future starts today. This is a good time to ask yourself: what do you want for your health? Do you want to ignore your body until invasive medical measures are required? Or do you want to have an informed, delightful experience of nurturing your body and your mind in a more preventive fashion? If you prefer the latter, maybe it's time to invest in an informative text: a healthy cookbook, a holistic hygiene reference, or a book on feng shui.",
       "date": "Nov 24, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You're poised to take advantage of new opportunities. Your masculine and feminine energies are working together, which has a positive effect on your bottom line. Your shared investments and property may require some action on your part. Just wait a few days before signing any paperwork or agreements. You and your partner should be on the same page, regardless.",
@@ -330,7 +330,7 @@
     },
     "ac": {
       "text": "Don't shy away from direct conversations that can impact the future of your relationship or financial situation, darling Taurus. Check in with your emotional and monetary investments to ensure you're on the right path while the Gemini Full Moon aligns with Neptune, Pluto, and Uranus. A thorough account of your earnings and expenses will help you determine where you need to cut back or if it's time to ask for a raise. If your finances are entangled in a romantic or business partnership, make sure you are on the same page. Making realistic adjustments will give you the freedom to dream bigger without losing common sense as Luna and Saturn align later today.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -384,14 +384,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-24T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
-        "temp": 30,
-        "feels": 32,
-        "humidity": 45,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "iso": "2026-11-24T15:15",
+        "time": "3:15 PM",
+        "hour": 15.25,
+        "temp": 31,
+        "feels": 31,
+        "humidity": 40,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 31,
       "low": 22,
@@ -404,7 +404,7 @@
           "to": 12,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 25,
+          "temp": 26,
           "rain": 0
         },
         {
@@ -413,7 +413,7 @@
           "to": 17,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 30,
+          "temp": 31,
           "rain": 0
         },
         {
@@ -429,9 +429,9 @@
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "☁️",
-          "label": "Cloudy",
-          "temp": 24,
+          "icon": "🌙",
+          "label": "Mostly clear",
+          "temp": 23,
           "rain": 2
         }
       ],
@@ -446,13 +446,13 @@
           "icon": "☁️"
         },
         "Afternoon": {
-          "iso": "2026-11-24T12:00",
-          "time": "12:00 PM",
-          "temp": 30,
-          "feels": 32,
-          "humidity": 45,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "iso": "2026-11-24T15:15",
+          "time": "3:15 PM",
+          "temp": 31,
+          "feels": 31,
+          "humidity": 40,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -467,13 +467,13 @@
         "icon": "☁️"
       },
       "Afternoon": {
-        "iso": "2026-11-24T12:00",
-        "time": "12:00 PM",
-        "temp": 30,
-        "feels": 32,
-        "humidity": 45,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "iso": "2026-11-24T15:15",
+        "time": "3:15 PM",
+        "temp": 31,
+        "feels": 31,
+        "humidity": 40,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "wx_office": {
@@ -483,14 +483,14 @@
       "label": "Cloudy",
       "icon": "☁️",
       "now": {
-        "iso": "2026-11-24T12:00",
-        "time": "12:00 PM",
-        "hour": 12.0,
+        "iso": "2026-11-24T15:15",
+        "time": "3:15 PM",
+        "hour": 15.25,
         "temp": 31,
         "feels": 32,
-        "humidity": 39,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "humidity": 38,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 32,
       "low": 22,
@@ -530,7 +530,7 @@
           "to": 30,
           "icon": "☁️",
           "label": "Cloudy",
-          "temp": 24,
+          "temp": 23,
           "rain": 2
         }
       ],
@@ -545,13 +545,13 @@
           "icon": "☁️"
         },
         "Afternoon": {
-          "iso": "2026-11-24T12:00",
-          "time": "12:00 PM",
+          "iso": "2026-11-24T15:15",
+          "time": "3:15 PM",
           "temp": 31,
           "feels": 32,
-          "humidity": 39,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "humidity": 38,
+          "label": "Cloudy",
+          "icon": "☁️"
         }
       }
     },
@@ -566,13 +566,13 @@
         "icon": "☁️"
       },
       "Afternoon": {
-        "iso": "2026-11-24T12:00",
-        "time": "12:00 PM",
+        "iso": "2026-11-24T15:15",
+        "time": "3:15 PM",
         "temp": 31,
         "feels": 32,
-        "humidity": 39,
-        "label": "Mostly clear",
-        "icon": "🌤️"
+        "humidity": 38,
+        "label": "Cloudy",
+        "icon": "☁️"
       }
     },
     "gold": {
@@ -708,14 +708,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-24T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
-          "temp": 30,
-          "feels": 32,
-          "humidity": 45,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "iso": "2026-11-24T15:15",
+          "time": "3:15 PM",
+          "hour": 15.25,
+          "temp": 31,
+          "feels": 31,
+          "humidity": 40,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 31,
         "low": 22,
@@ -728,7 +728,7 @@
             "to": 12,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 25,
+            "temp": 26,
             "rain": 0
           },
           {
@@ -737,7 +737,7 @@
             "to": 17,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 30,
+            "temp": 31,
             "rain": 0
           },
           {
@@ -753,9 +753,9 @@
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "☁️",
-            "label": "Cloudy",
-            "temp": 24,
+            "icon": "🌙",
+            "label": "Mostly clear",
+            "temp": 23,
             "rain": 2
           }
         ],
@@ -770,13 +770,13 @@
             "icon": "☁️"
           },
           "Afternoon": {
-            "iso": "2026-11-24T12:00",
-            "time": "12:00 PM",
-            "temp": 30,
-            "feels": 32,
-            "humidity": 45,
-            "label": "Mostly clear",
-            "icon": "🌤️"
+            "iso": "2026-11-24T15:15",
+            "time": "3:15 PM",
+            "temp": 31,
+            "feels": 31,
+            "humidity": 40,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       },
@@ -787,14 +787,14 @@
         "label": "Cloudy",
         "icon": "☁️",
         "now": {
-          "iso": "2026-11-24T12:00",
-          "time": "12:00 PM",
-          "hour": 12.0,
+          "iso": "2026-11-24T15:15",
+          "time": "3:15 PM",
+          "hour": 15.25,
           "temp": 31,
           "feels": 32,
-          "humidity": 39,
-          "label": "Mostly clear",
-          "icon": "🌤️"
+          "humidity": 38,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 32,
         "low": 22,
@@ -834,7 +834,7 @@
             "to": 30,
             "icon": "☁️",
             "label": "Cloudy",
-            "temp": 24,
+            "temp": 23,
             "rain": 2
           }
         ],
@@ -849,13 +849,13 @@
             "icon": "☁️"
           },
           "Afternoon": {
-            "iso": "2026-11-24T12:00",
-            "time": "12:00 PM",
+            "iso": "2026-11-24T15:15",
+            "time": "3:15 PM",
             "temp": 31,
             "feels": 32,
-            "humidity": 39,
-            "label": "Mostly clear",
-            "icon": "🌤️"
+            "humidity": 38,
+            "label": "Cloudy",
+            "icon": "☁️"
           }
         }
       }
