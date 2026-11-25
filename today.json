@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 25 November 2026",
   "date_key": "2026-11-25",
-  "fetched_ist": "25 Nov 2026, 02:11 PM IST",
+  "fetched_ist": "25 Nov 2026, 04:06 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -397,103 +397,22 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Thunderstorms",
-      "icon": "⛈️",
+      "label": "Light showers",
+      "icon": "🌦️",
       "now": {
-        "iso": "2026-11-25T10:30",
-        "time": "10:30 AM",
-        "hour": 10.5,
+        "iso": "2026-11-25T16:00",
+        "time": "4:00 PM",
+        "hour": 16.0,
         "temp": 28,
         "feels": 30,
-        "humidity": 62,
+        "humidity": 60,
         "label": "Light drizzle",
         "icon": "🌦️"
-      },
-      "high": 29,
-      "low": 22,
-      "rain": 98,
-      "uv": 5.65,
-      "periods": [
-        {
-          "name": "Morning",
-          "from": 6,
-          "to": 12,
-          "icon": "🌦️",
-          "label": "Light drizzle",
-          "temp": 25,
-          "rain": 27
-        },
-        {
-          "name": "Afternoon",
-          "from": 12,
-          "to": 17,
-          "icon": "🌦️",
-          "label": "Drizzle",
-          "temp": 28,
-          "rain": 96
-        },
-        {
-          "name": "Evening",
-          "from": 17,
-          "to": 21,
-          "icon": "🌧️",
-          "label": "Showers",
-          "temp": 23,
-          "rain": 98
-        },
-        {
-          "name": "Night",
-          "from": 21,
-          "to": 30,
-          "icon": "⛈️",
-          "label": "Thunderstorms",
-          "temp": 22,
-          "rain": 64
-        }
-      ],
-      "log": {
-        "Morning": {
-          "iso": "2026-11-25T10:30",
-          "time": "10:30 AM",
-          "temp": 28,
-          "feels": 30,
-          "humidity": 62,
-          "label": "Light drizzle",
-          "icon": "🌦️"
-        }
-      }
-    },
-    "wxlog_home": {
-      "Morning": {
-        "iso": "2026-11-25T10:30",
-        "time": "10:30 AM",
-        "temp": 28,
-        "feels": 30,
-        "humidity": 62,
-        "label": "Light drizzle",
-        "icon": "🌦️"
-      }
-    },
-    "wx_office": {
-      "key": "office",
-      "name": "Office",
-      "area": "",
-      "label": "Showers",
-      "icon": "🌧️",
-      "now": {
-        "iso": "2026-11-25T10:30",
-        "time": "10:30 AM",
-        "hour": 10.5,
-        "temp": 29,
-        "feels": 31,
-        "humidity": 55,
-        "label": "Mostly clear",
-        "icon": "🌤️"
       },
       "high": 30,
       "low": 22,
       "rain": 98,
-      "uv": 6.15,
+      "uv": 5.95,
       "periods": [
         {
           "name": "Morning",
@@ -509,7 +428,106 @@
           "from": 12,
           "to": 17,
           "icon": "🌦️",
+          "label": "Drizzle",
+          "temp": 29,
+          "rain": 96
+        },
+        {
+          "name": "Evening",
+          "from": 17,
+          "to": 21,
+          "icon": "🌦️",
+          "label": "Light showers",
+          "temp": 24,
+          "rain": 98
+        },
+        {
+          "name": "Night",
+          "from": 21,
+          "to": 30,
+          "icon": "🌧️",
+          "label": "Heavy drizzle",
+          "temp": 22,
+          "rain": 64
+        }
+      ],
+      "log": {
+        "Morning": {
+          "iso": "2026-11-25T10:30",
+          "time": "10:30 AM",
+          "temp": 28,
+          "feels": 30,
+          "humidity": 62,
           "label": "Light drizzle",
+          "icon": "🌦️"
+        },
+        "Afternoon": {
+          "iso": "2026-11-25T16:00",
+          "time": "4:00 PM",
+          "temp": 28,
+          "feels": 30,
+          "humidity": 60,
+          "label": "Light drizzle",
+          "icon": "🌦️"
+        }
+      }
+    },
+    "wxlog_home": {
+      "Morning": {
+        "iso": "2026-11-25T10:30",
+        "time": "10:30 AM",
+        "temp": 28,
+        "feels": 30,
+        "humidity": 62,
+        "label": "Light drizzle",
+        "icon": "🌦️"
+      },
+      "Afternoon": {
+        "iso": "2026-11-25T16:00",
+        "time": "4:00 PM",
+        "temp": 28,
+        "feels": 30,
+        "humidity": 60,
+        "label": "Light drizzle",
+        "icon": "🌦️"
+      }
+    },
+    "wx_office": {
+      "key": "office",
+      "name": "Office",
+      "area": "",
+      "label": "Light showers",
+      "icon": "🌦️",
+      "now": {
+        "iso": "2026-11-25T16:00",
+        "time": "4:00 PM",
+        "hour": 16.0,
+        "temp": 27,
+        "feels": 30,
+        "humidity": 67,
+        "label": "Drizzle",
+        "icon": "🌦️"
+      },
+      "high": 31,
+      "low": 22,
+      "rain": 98,
+      "uv": 5.1,
+      "periods": [
+        {
+          "name": "Morning",
+          "from": 6,
+          "to": 12,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 26,
+          "rain": 27
+        },
+        {
+          "name": "Afternoon",
+          "from": 12,
+          "to": 17,
+          "icon": "🌦️",
+          "label": "Light showers",
           "temp": 28,
           "rain": 96
         },
@@ -519,15 +537,15 @@
           "to": 21,
           "icon": "🌦️",
           "label": "Light showers",
-          "temp": 23,
+          "temp": 24,
           "rain": 98
         },
         {
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "🌧️",
-          "label": "Showers",
+          "icon": "🌦️",
+          "label": "Drizzle",
           "temp": 22,
           "rain": 64
         }
@@ -541,6 +559,15 @@
           "humidity": 55,
           "label": "Mostly clear",
           "icon": "🌤️"
+        },
+        "Afternoon": {
+          "iso": "2026-11-25T16:00",
+          "time": "4:00 PM",
+          "temp": 27,
+          "feels": 30,
+          "humidity": 67,
+          "label": "Drizzle",
+          "icon": "🌦️"
         }
       }
     },
@@ -553,6 +580,15 @@
         "humidity": 55,
         "label": "Mostly clear",
         "icon": "🌤️"
+      },
+      "Afternoon": {
+        "iso": "2026-11-25T16:00",
+        "time": "4:00 PM",
+        "temp": 27,
+        "feels": 30,
+        "humidity": 67,
+        "label": "Drizzle",
+        "icon": "🌦️"
       }
     },
     "gold": {
@@ -674,92 +710,22 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Thunderstorms",
-        "icon": "⛈️",
+        "label": "Light showers",
+        "icon": "🌦️",
         "now": {
-          "iso": "2026-11-25T10:30",
-          "time": "10:30 AM",
-          "hour": 10.5,
+          "iso": "2026-11-25T16:00",
+          "time": "4:00 PM",
+          "hour": 16.0,
           "temp": 28,
           "feels": 30,
-          "humidity": 62,
+          "humidity": 60,
           "label": "Light drizzle",
           "icon": "🌦️"
-        },
-        "high": 29,
-        "low": 22,
-        "rain": 98,
-        "uv": 5.65,
-        "periods": [
-          {
-            "name": "Morning",
-            "from": 6,
-            "to": 12,
-            "icon": "🌦️",
-            "label": "Light drizzle",
-            "temp": 25,
-            "rain": 27
-          },
-          {
-            "name": "Afternoon",
-            "from": 12,
-            "to": 17,
-            "icon": "🌦️",
-            "label": "Drizzle",
-            "temp": 28,
-            "rain": 96
-          },
-          {
-            "name": "Evening",
-            "from": 17,
-            "to": 21,
-            "icon": "🌧️",
-            "label": "Showers",
-            "temp": 23,
-            "rain": 98
-          },
-          {
-            "name": "Night",
-            "from": 21,
-            "to": 30,
-            "icon": "⛈️",
-            "label": "Thunderstorms",
-            "temp": 22,
-            "rain": 64
-          }
-        ],
-        "log": {
-          "Morning": {
-            "iso": "2026-11-25T10:30",
-            "time": "10:30 AM",
-            "temp": 28,
-            "feels": 30,
-            "humidity": 62,
-            "label": "Light drizzle",
-            "icon": "🌦️"
-          }
-        }
-      },
-      {
-        "key": "office",
-        "name": "Office",
-        "area": "",
-        "label": "Showers",
-        "icon": "🌧️",
-        "now": {
-          "iso": "2026-11-25T10:30",
-          "time": "10:30 AM",
-          "hour": 10.5,
-          "temp": 29,
-          "feels": 31,
-          "humidity": 55,
-          "label": "Mostly clear",
-          "icon": "🌤️"
         },
         "high": 30,
         "low": 22,
         "rain": 98,
-        "uv": 6.15,
+        "uv": 5.95,
         "periods": [
           {
             "name": "Morning",
@@ -775,7 +741,86 @@
             "from": 12,
             "to": 17,
             "icon": "🌦️",
+            "label": "Drizzle",
+            "temp": 29,
+            "rain": 96
+          },
+          {
+            "name": "Evening",
+            "from": 17,
+            "to": 21,
+            "icon": "🌦️",
+            "label": "Light showers",
+            "temp": 24,
+            "rain": 98
+          },
+          {
+            "name": "Night",
+            "from": 21,
+            "to": 30,
+            "icon": "🌧️",
+            "label": "Heavy drizzle",
+            "temp": 22,
+            "rain": 64
+          }
+        ],
+        "log": {
+          "Morning": {
+            "iso": "2026-11-25T10:30",
+            "time": "10:30 AM",
+            "temp": 28,
+            "feels": 30,
+            "humidity": 62,
             "label": "Light drizzle",
+            "icon": "🌦️"
+          },
+          "Afternoon": {
+            "iso": "2026-11-25T16:00",
+            "time": "4:00 PM",
+            "temp": 28,
+            "feels": 30,
+            "humidity": 60,
+            "label": "Light drizzle",
+            "icon": "🌦️"
+          }
+        }
+      },
+      {
+        "key": "office",
+        "name": "Office",
+        "area": "",
+        "label": "Light showers",
+        "icon": "🌦️",
+        "now": {
+          "iso": "2026-11-25T16:00",
+          "time": "4:00 PM",
+          "hour": 16.0,
+          "temp": 27,
+          "feels": 30,
+          "humidity": 67,
+          "label": "Drizzle",
+          "icon": "🌦️"
+        },
+        "high": 31,
+        "low": 22,
+        "rain": 98,
+        "uv": 5.1,
+        "periods": [
+          {
+            "name": "Morning",
+            "from": 6,
+            "to": 12,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 26,
+            "rain": 27
+          },
+          {
+            "name": "Afternoon",
+            "from": 12,
+            "to": 17,
+            "icon": "🌦️",
+            "label": "Light showers",
             "temp": 28,
             "rain": 96
           },
@@ -785,15 +830,15 @@
             "to": 21,
             "icon": "🌦️",
             "label": "Light showers",
-            "temp": 23,
+            "temp": 24,
             "rain": 98
           },
           {
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "🌧️",
-            "label": "Showers",
+            "icon": "🌦️",
+            "label": "Drizzle",
             "temp": 22,
             "rain": 64
           }
@@ -807,6 +852,15 @@
             "humidity": 55,
             "label": "Mostly clear",
             "icon": "🌤️"
+          },
+          "Afternoon": {
+            "iso": "2026-11-25T16:00",
+            "time": "4:00 PM",
+            "temp": 27,
+            "feels": 30,
+            "humidity": 67,
+            "label": "Drizzle",
+            "icon": "🌦️"
           }
         }
       }
