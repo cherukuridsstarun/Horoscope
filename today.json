@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 26 November 2026",
   "date_key": "2026-11-26",
-  "fetched_ist": "26 Nov 2026, 03:44 AM IST",
+  "fetched_ist": "26 Nov 2026, 05:26 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -214,9 +214,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 12328,
-        "k22": 11300,
-        "change22": -415,
+        "k24": 12327,
+        "k22": 11299,
+        "change22": -1,
         "date": "26 November 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -235,16 +235,11 @@
         "k22": 11087,
         "k24": 12104,
         "change22": null,
-        "date": "26 November 2026",
+        "date": "25 November 2026",
         "url": "https://ibjarates.com/"
       }
     ],
     "trend": [
-      {
-        "date": "Nov 16, 2026",
-        "k22": 12540,
-        "k24": 13680
-      },
       {
         "date": "Nov 17, 2026",
         "k22": 12470,
@@ -289,6 +284,11 @@
         "date": "Nov 25, 2026",
         "k22": 11300,
         "k24": 12328
+      },
+      {
+        "date": "Nov 26, 2026",
+        "k22": 11299,
+        "k24": 12327
       }
     ]
   },
@@ -396,19 +396,19 @@
       "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-26T03:30",
-        "time": "3:30 AM",
-        "hour": 3.5,
-        "temp": 23,
+        "iso": "2026-11-26T05:15",
+        "time": "5:15 AM",
+        "hour": 5.25,
+        "temp": 22,
         "feels": 26,
-        "humidity": 90,
+        "humidity": 95,
         "label": "Mostly clear",
         "icon": "🌙"
       },
       "high": 29,
       "low": 22,
-      "rain": 77,
-      "uv": 6.65,
+      "rain": 84,
+      "uv": 6.55,
       "periods": [
         {
           "name": "Morning",
@@ -417,7 +417,7 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 25,
-          "rain": 24
+          "rain": 18
         },
         {
           "name": "Afternoon",
@@ -426,7 +426,7 @@
           "icon": "🌦️",
           "label": "Drizzle",
           "temp": 28,
-          "rain": 77
+          "rain": 84
         },
         {
           "name": "Evening",
@@ -435,7 +435,7 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 24,
-          "rain": 73
+          "rain": 80
         },
         {
           "name": "Night",
@@ -444,7 +444,7 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 22,
-          "rain": 13
+          "rain": 10
         }
       ],
       "log": {}
@@ -457,19 +457,19 @@
       "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-26T03:30",
-        "time": "3:30 AM",
-        "hour": 3.5,
-        "temp": 23,
+        "iso": "2026-11-26T05:15",
+        "time": "5:15 AM",
+        "hour": 5.25,
+        "temp": 22,
         "feels": 26,
-        "humidity": 87,
-        "label": "Mostly clear",
-        "icon": "🌙"
+        "humidity": 91,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       },
       "high": 29,
       "low": 22,
-      "rain": 77,
-      "uv": 6.25,
+      "rain": 84,
+      "uv": 6.5,
       "periods": [
         {
           "name": "Morning",
@@ -478,7 +478,7 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 25,
-          "rain": 24
+          "rain": 18
         },
         {
           "name": "Afternoon",
@@ -487,7 +487,7 @@
           "icon": "🌦️",
           "label": "Drizzle",
           "temp": 29,
-          "rain": 77
+          "rain": 84
         },
         {
           "name": "Evening",
@@ -496,7 +496,7 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 25,
-          "rain": 73
+          "rain": 80
         },
         {
           "name": "Night",
@@ -505,7 +505,7 @@
           "icon": "⛅",
           "label": "Partly cloudy",
           "temp": 22,
-          "rain": 13
+          "rain": 10
         }
       ],
       "log": {}
@@ -516,9 +516,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 12328,
-          "k22": 11300,
-          "change22": -415,
+          "k24": 12327,
+          "k22": 11299,
+          "change22": -1,
           "date": "26 November 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -537,16 +537,11 @@
           "k22": 11087,
           "k24": 12104,
           "change22": null,
-          "date": "26 November 2026",
+          "date": "25 November 2026",
           "url": "https://ibjarates.com/"
         }
       },
       "trend": [
-        {
-          "date": "Nov 16, 2026",
-          "k22": 12540,
-          "k24": 13680
-        },
         {
           "date": "Nov 17, 2026",
           "k22": 12470,
@@ -591,6 +586,11 @@
           "date": "Nov 25, 2026",
           "k22": 11300,
           "k24": 12328
+        },
+        {
+          "date": "Nov 26, 2026",
+          "k22": 11299,
+          "k24": 12327
         }
       ]
     }
@@ -633,19 +633,19 @@
         "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-26T03:30",
-          "time": "3:30 AM",
-          "hour": 3.5,
-          "temp": 23,
+          "iso": "2026-11-26T05:15",
+          "time": "5:15 AM",
+          "hour": 5.25,
+          "temp": 22,
           "feels": 26,
-          "humidity": 90,
+          "humidity": 95,
           "label": "Mostly clear",
           "icon": "🌙"
         },
         "high": 29,
         "low": 22,
-        "rain": 77,
-        "uv": 6.65,
+        "rain": 84,
+        "uv": 6.55,
         "periods": [
           {
             "name": "Morning",
@@ -654,7 +654,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 25,
-            "rain": 24
+            "rain": 18
           },
           {
             "name": "Afternoon",
@@ -663,7 +663,7 @@
             "icon": "🌦️",
             "label": "Drizzle",
             "temp": 28,
-            "rain": 77
+            "rain": 84
           },
           {
             "name": "Evening",
@@ -672,7 +672,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 24,
-            "rain": 73
+            "rain": 80
           },
           {
             "name": "Night",
@@ -681,7 +681,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 22,
-            "rain": 13
+            "rain": 10
           }
         ],
         "log": {}
@@ -693,19 +693,19 @@
         "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-26T03:30",
-          "time": "3:30 AM",
-          "hour": 3.5,
-          "temp": 23,
+          "iso": "2026-11-26T05:15",
+          "time": "5:15 AM",
+          "hour": 5.25,
+          "temp": 22,
           "feels": 26,
-          "humidity": 87,
-          "label": "Mostly clear",
-          "icon": "🌙"
+          "humidity": 91,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         },
         "high": 29,
         "low": 22,
-        "rain": 77,
-        "uv": 6.25,
+        "rain": 84,
+        "uv": 6.5,
         "periods": [
           {
             "name": "Morning",
@@ -714,7 +714,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 25,
-            "rain": 24
+            "rain": 18
           },
           {
             "name": "Afternoon",
@@ -723,7 +723,7 @@
             "icon": "🌦️",
             "label": "Drizzle",
             "temp": 29,
-            "rain": 77
+            "rain": 84
           },
           {
             "name": "Evening",
@@ -732,7 +732,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 25,
-            "rain": 73
+            "rain": 80
           },
           {
             "name": "Night",
@@ -741,7 +741,7 @@
             "icon": "⛅",
             "label": "Partly cloudy",
             "temp": 22,
-            "rain": 13
+            "rain": 10
           }
         ],
         "log": {}
