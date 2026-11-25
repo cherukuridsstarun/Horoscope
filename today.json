@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Wednesday, 25 November 2026",
   "date_key": "2026-11-25",
-  "fetched_ist": "25 Nov 2026, 10:37 AM IST",
+  "fetched_ist": "25 Nov 2026, 02:11 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 25, 2026",
       "text": "A misunderstanding between the two of you will ultimately prove beneficial in the long run. Why? Today would be a good day to write a letter to the person in question. You're likely to find the results gratifying."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 25, 2026",
       "text": "Temptations emerge unexpectedly as the Sagittarius Sun aligns with Pluto and Uranus, dearest Taurus, challenging your ability to stay strong. Watch your spending, or you could succumb to impulse purchases that compromise long-term financial goals. Your focus shifts toward more productive topics once Mars enters Virgo later today, inspiring you to take on a creative project or learn a new skill throughout the coming weeks. Though you'll be eager to act, think through your plan before moving ahead. The Gemini Moon offers a balanced perspective, forming supportive aspects with the Nodes of Fate, Venus, Jupiter, and Chiron as evening unfolds."
@@ -91,7 +91,7 @@
         },
         {
           "text": "Be conservative with your words today. If you are not careful, you are apt to give something away that you shouldn't. In short, you have some special information that someone else wants. Use this to your advantage. Your secrets are valuable.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -147,7 +147,7 @@
         },
         {
           "text": "The alignment of the planets today makes you feel more confident and at the same time, perhaps a little bit high strung. Emotions are fluctuating and hard to put into compartments. You tend to want to give a name to things and be able to organize like with like. You may feel frustrated, therefore, if you feel more emotional in areas where you are accustomed to feeling \"organized.\" The aspect at play tends to bring out the irrational. Use exercise to help feel more in control.",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -236,10 +236,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 11445,
-        "k24": 12495,
+        "k22": 11112,
+        "k24": 12131,
         "change22": null,
-        "date": "23 November 2026",
+        "date": "25 November 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -328,17 +328,17 @@
     "hc_general": {
       "text": "A friend or family member is slowly poisoning your relationship, Taurus. A misunderstanding between the two of you will ultimately prove beneficial in the long run. Why? It makes you realize how uncomfortable you are with vague, ill-defined relationships. Today would be a good day to write a letter to the person in question. You're likely to find the results gratifying.",
       "date": "Nov 25, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Be conservative with your words today. If you are not careful, you are apt to give something away that you shouldn't. In short, you have some special information that someone else wants. Use this to your advantage. Your secrets are valuable.",
       "date": "Nov 25, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "The alignment of the planets today makes you feel more confident and at the same time, perhaps a little bit high strung. Emotions are fluctuating and hard to put into compartments. You tend to want to give a name to things and be able to organize like with like. You may feel frustrated, therefore, if you feel more emotional in areas where you are accustomed to feeling \"organized.\" The aspect at play tends to bring out the irrational. Use exercise to help feel more in control.",
       "date": "Nov 25, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You're poised to take advantage of new opportunities. Your masculine and feminine energies are working together, which has a positive effect on your bottom line. Your shared investments and property may require some action on your part. Just wait a few days before signing any paperwork or agreements. You and your partner should be on the same page, regardless.",
@@ -346,7 +346,7 @@
     },
     "ac": {
       "text": "Temptations emerge unexpectedly as the Sagittarius Sun aligns with Pluto and Uranus, dearest Taurus, challenging your ability to stay strong. Watch your spending, or you could succumb to impulse purchases that compromise long-term financial goals. Your focus shifts toward more productive topics once Mars enters Virgo later today, inspiring you to take on a creative project or learn a new skill throughout the coming weeks. Though you'll be eager to act, think through your plan before moving ahead. The Gemini Moon offers a balanced perspective, forming supportive aspects with the Nodes of Fate, Venus, Jupiter, and Chiron as evening unfolds.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -578,10 +578,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 11445,
-          "k24": 12495,
+          "k22": 11112,
+          "k24": 12131,
           "change22": null,
-          "date": "23 November 2026",
+          "date": "25 November 2026",
           "url": "https://ibjarates.com/"
         }
       },
