@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Thursday, 26 November 2026",
   "date_key": "2026-11-26",
-  "fetched_ist": "26 Nov 2026, 01:56 PM IST",
+  "fetched_ist": "26 Nov 2026, 03:37 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -214,9 +214,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 12589,
-        "k22": 11540,
-        "change22": 240,
+        "k24": 12480,
+        "k22": 11440,
+        "change22": 140,
         "date": "26 November 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -287,8 +287,8 @@
       },
       {
         "date": "Nov 26, 2026",
-        "k22": 11540,
-        "k24": 12589
+        "k22": 11440,
+        "k24": 12480
       }
     ]
   },
@@ -396,13 +396,13 @@
       "label": "Light showers",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-26T13:45",
-        "time": "1:45 PM",
-        "hour": 13.75,
-        "temp": 28,
-        "feels": 31,
-        "humidity": 58,
-        "label": "Light drizzle",
+        "iso": "2026-11-26T15:30",
+        "time": "3:30 PM",
+        "hour": 15.5,
+        "temp": 26,
+        "feels": 29,
+        "humidity": 64,
+        "label": "Drizzle",
         "icon": "🌦️"
       },
       "high": 28,
@@ -458,12 +458,12 @@
           "icon": "⛅"
         },
         "Afternoon": {
-          "iso": "2026-11-26T13:45",
-          "time": "1:45 PM",
-          "temp": 28,
-          "feels": 31,
-          "humidity": 58,
-          "label": "Light drizzle",
+          "iso": "2026-11-26T15:30",
+          "time": "3:30 PM",
+          "temp": 26,
+          "feels": 29,
+          "humidity": 64,
+          "label": "Drizzle",
           "icon": "🌦️"
         }
       }
@@ -479,12 +479,12 @@
         "icon": "⛅"
       },
       "Afternoon": {
-        "iso": "2026-11-26T13:45",
-        "time": "1:45 PM",
-        "temp": 28,
-        "feels": 31,
-        "humidity": 58,
-        "label": "Light drizzle",
+        "iso": "2026-11-26T15:30",
+        "time": "3:30 PM",
+        "temp": 26,
+        "feels": 29,
+        "humidity": 64,
+        "label": "Drizzle",
         "icon": "🌦️"
       }
     },
@@ -495,13 +495,13 @@
       "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-26T13:45",
-        "time": "1:45 PM",
-        "hour": 13.75,
-        "temp": 29,
-        "feels": 32,
-        "humidity": 55,
-        "label": "Light drizzle",
+        "iso": "2026-11-26T15:30",
+        "time": "3:30 PM",
+        "hour": 15.5,
+        "temp": 28,
+        "feels": 30,
+        "humidity": 59,
+        "label": "Drizzle",
         "icon": "🌦️"
       },
       "high": 29,
@@ -557,12 +557,12 @@
           "icon": "🌤️"
         },
         "Afternoon": {
-          "iso": "2026-11-26T13:45",
-          "time": "1:45 PM",
-          "temp": 29,
-          "feels": 32,
-          "humidity": 55,
-          "label": "Light drizzle",
+          "iso": "2026-11-26T15:30",
+          "time": "3:30 PM",
+          "temp": 28,
+          "feels": 30,
+          "humidity": 59,
+          "label": "Drizzle",
           "icon": "🌦️"
         }
       }
@@ -578,12 +578,12 @@
         "icon": "🌤️"
       },
       "Afternoon": {
-        "iso": "2026-11-26T13:45",
-        "time": "1:45 PM",
-        "temp": 29,
-        "feels": 32,
-        "humidity": 55,
-        "label": "Light drizzle",
+        "iso": "2026-11-26T15:30",
+        "time": "3:30 PM",
+        "temp": 28,
+        "feels": 30,
+        "humidity": 59,
+        "label": "Drizzle",
         "icon": "🌦️"
       }
     },
@@ -592,9 +592,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 12589,
-          "k22": 11540,
-          "change22": 240,
+          "k24": 12480,
+          "k22": 11440,
+          "change22": 140,
           "date": "26 November 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -665,8 +665,8 @@
         },
         {
           "date": "Nov 26, 2026",
-          "k22": 11540,
-          "k24": 12589
+          "k22": 11440,
+          "k24": 12480
         }
       ]
     }
@@ -709,13 +709,13 @@
         "label": "Light showers",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-26T13:45",
-          "time": "1:45 PM",
-          "hour": 13.75,
-          "temp": 28,
-          "feels": 31,
-          "humidity": 58,
-          "label": "Light drizzle",
+          "iso": "2026-11-26T15:30",
+          "time": "3:30 PM",
+          "hour": 15.5,
+          "temp": 26,
+          "feels": 29,
+          "humidity": 64,
+          "label": "Drizzle",
           "icon": "🌦️"
         },
         "high": 28,
@@ -771,12 +771,12 @@
             "icon": "⛅"
           },
           "Afternoon": {
-            "iso": "2026-11-26T13:45",
-            "time": "1:45 PM",
-            "temp": 28,
-            "feels": 31,
-            "humidity": 58,
-            "label": "Light drizzle",
+            "iso": "2026-11-26T15:30",
+            "time": "3:30 PM",
+            "temp": 26,
+            "feels": 29,
+            "humidity": 64,
+            "label": "Drizzle",
             "icon": "🌦️"
           }
         }
@@ -788,13 +788,13 @@
         "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-26T13:45",
-          "time": "1:45 PM",
-          "hour": 13.75,
-          "temp": 29,
-          "feels": 32,
-          "humidity": 55,
-          "label": "Light drizzle",
+          "iso": "2026-11-26T15:30",
+          "time": "3:30 PM",
+          "hour": 15.5,
+          "temp": 28,
+          "feels": 30,
+          "humidity": 59,
+          "label": "Drizzle",
           "icon": "🌦️"
         },
         "high": 29,
@@ -850,12 +850,12 @@
             "icon": "🌤️"
           },
           "Afternoon": {
-            "iso": "2026-11-26T13:45",
-            "time": "1:45 PM",
-            "temp": 29,
-            "feels": 32,
-            "humidity": 55,
-            "label": "Light drizzle",
+            "iso": "2026-11-26T15:30",
+            "time": "3:30 PM",
+            "temp": 28,
+            "feels": 30,
+            "humidity": 59,
+            "label": "Drizzle",
             "icon": "🌦️"
           }
         }
