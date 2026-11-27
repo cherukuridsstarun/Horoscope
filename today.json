@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Saturday, 28 November 2026",
   "date_key": "2026-11-28",
-  "fetched_ist": "28 Nov 2026, 03:21 AM IST",
+  "fetched_ist": "28 Nov 2026, 05:22 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -218,9 +218,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 12840,
-        "k22": 11770,
-        "change22": 330,
+        "k24": 12841,
+        "k22": 11771,
+        "change22": 1,
         "date": "28 November 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -232,14 +232,18 @@
         "change22": null,
         "date": "28 November 2026",
         "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
+      },
+      {
+        "src": "IBJA",
+        "label": "India benchmark (wholesale)",
+        "k22": 11569,
+        "k24": 12630,
+        "change22": null,
+        "date": "27 November 2026",
+        "url": "https://ibjarates.com/"
       }
     ],
     "trend": [
-      {
-        "date": "Nov 18, 2026",
-        "k22": 12215,
-        "k24": 13326
-      },
       {
         "date": "Nov 19, 2026",
         "k22": 11980,
@@ -284,6 +288,11 @@
         "date": "Nov 27, 2026",
         "k22": 11770,
         "k24": 12840
+      },
+      {
+        "date": "Nov 28, 2026",
+        "k22": 11771,
+        "k24": 12841
       }
     ]
   },
@@ -391,14 +400,14 @@
       "label": "Partly cloudy",
       "icon": "⛅",
       "now": {
-        "iso": "2026-11-28T03:15",
-        "time": "3:15 AM",
-        "hour": 3.25,
-        "temp": 21,
-        "feels": 22,
-        "humidity": 77,
-        "label": "Mostly clear",
-        "icon": "🌙"
+        "iso": "2026-11-28T05:15",
+        "time": "5:15 AM",
+        "hour": 5.25,
+        "temp": 20,
+        "feels": 21,
+        "humidity": 71,
+        "label": "Partly cloudy",
+        "icon": "⛅"
       },
       "high": 28,
       "low": 20,
@@ -452,12 +461,12 @@
       "label": "Mostly clear",
       "icon": "🌤️",
       "now": {
-        "iso": "2026-11-28T03:15",
-        "time": "3:15 AM",
-        "hour": 3.25,
+        "iso": "2026-11-28T05:15",
+        "time": "5:15 AM",
+        "hour": 5.25,
         "temp": 21,
-        "feels": 23,
-        "humidity": 79,
+        "feels": 21,
+        "humidity": 72,
         "label": "Mostly clear",
         "icon": "🌙"
       },
@@ -511,9 +520,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 12840,
-          "k22": 11770,
-          "change22": 330,
+          "k24": 12841,
+          "k22": 11771,
+          "change22": 1,
           "date": "28 November 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -526,14 +535,17 @@
           "date": "28 November 2026",
           "url": "https://www.policybazaar.com/gold-rate/hyderabad/"
         },
-        "IBJA": null
+        "IBJA": {
+          "src": "IBJA",
+          "label": "India benchmark (wholesale)",
+          "k22": 11569,
+          "k24": 12630,
+          "change22": null,
+          "date": "27 November 2026",
+          "url": "https://ibjarates.com/"
+        }
       },
       "trend": [
-        {
-          "date": "Nov 18, 2026",
-          "k22": 12215,
-          "k24": 13326
-        },
         {
           "date": "Nov 19, 2026",
           "k22": 11980,
@@ -578,6 +590,11 @@
           "date": "Nov 27, 2026",
           "k22": 11770,
           "k24": 12840
+        },
+        {
+          "date": "Nov 28, 2026",
+          "k22": 11771,
+          "k24": 12841
         }
       ]
     }
@@ -620,14 +637,14 @@
         "label": "Partly cloudy",
         "icon": "⛅",
         "now": {
-          "iso": "2026-11-28T03:15",
-          "time": "3:15 AM",
-          "hour": 3.25,
-          "temp": 21,
-          "feels": 22,
-          "humidity": 77,
-          "label": "Mostly clear",
-          "icon": "🌙"
+          "iso": "2026-11-28T05:15",
+          "time": "5:15 AM",
+          "hour": 5.25,
+          "temp": 20,
+          "feels": 21,
+          "humidity": 71,
+          "label": "Partly cloudy",
+          "icon": "⛅"
         },
         "high": 28,
         "low": 20,
@@ -680,12 +697,12 @@
         "label": "Mostly clear",
         "icon": "🌤️",
         "now": {
-          "iso": "2026-11-28T03:15",
-          "time": "3:15 AM",
-          "hour": 3.25,
+          "iso": "2026-11-28T05:15",
+          "time": "5:15 AM",
+          "hour": 5.25,
           "temp": 21,
-          "feels": 23,
-          "humidity": 79,
+          "feels": 21,
+          "humidity": 72,
           "label": "Mostly clear",
           "icon": "🌙"
         },
