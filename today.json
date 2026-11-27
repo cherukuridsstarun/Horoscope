@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 27 November 2026",
   "date_key": "2026-11-27",
-  "fetched_ist": "27 Nov 2026, 02:11 PM IST",
+  "fetched_ist": "27 Nov 2026, 03:43 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -392,12 +392,12 @@
       "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-27T14:00",
-        "time": "2:00 PM",
-        "hour": 14.0,
+        "iso": "2026-11-27T15:30",
+        "time": "3:30 PM",
+        "hour": 15.5,
         "temp": 28,
         "feels": 30,
-        "humidity": 56,
+        "humidity": 55,
         "label": "Clear sky",
         "icon": "☀️"
       },
@@ -454,11 +454,11 @@
           "icon": "🌦️"
         },
         "Afternoon": {
-          "iso": "2026-11-27T14:00",
-          "time": "2:00 PM",
+          "iso": "2026-11-27T15:30",
+          "time": "3:30 PM",
           "temp": 28,
           "feels": 30,
-          "humidity": 56,
+          "humidity": 55,
           "label": "Clear sky",
           "icon": "☀️"
         }
@@ -475,11 +475,11 @@
         "icon": "🌦️"
       },
       "Afternoon": {
-        "iso": "2026-11-27T14:00",
-        "time": "2:00 PM",
+        "iso": "2026-11-27T15:30",
+        "time": "3:30 PM",
         "temp": 28,
         "feels": 30,
-        "humidity": 56,
+        "humidity": 55,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -491,14 +491,14 @@
       "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-27T14:00",
-        "time": "2:00 PM",
-        "hour": 14.0,
+        "iso": "2026-11-27T15:30",
+        "time": "3:30 PM",
+        "hour": 15.5,
         "temp": 29,
-        "feels": 31,
-        "humidity": 53,
-        "label": "Clear sky",
-        "icon": "☀️"
+        "feels": 30,
+        "humidity": 51,
+        "label": "Mostly clear",
+        "icon": "🌤️"
       },
       "high": 29,
       "low": 22,
@@ -553,13 +553,13 @@
           "icon": "☁️"
         },
         "Afternoon": {
-          "iso": "2026-11-27T14:00",
-          "time": "2:00 PM",
+          "iso": "2026-11-27T15:30",
+          "time": "3:30 PM",
           "temp": 29,
-          "feels": 31,
-          "humidity": 53,
-          "label": "Clear sky",
-          "icon": "☀️"
+          "feels": 30,
+          "humidity": 51,
+          "label": "Mostly clear",
+          "icon": "🌤️"
         }
       }
     },
@@ -574,13 +574,13 @@
         "icon": "☁️"
       },
       "Afternoon": {
-        "iso": "2026-11-27T14:00",
-        "time": "2:00 PM",
+        "iso": "2026-11-27T15:30",
+        "time": "3:30 PM",
         "temp": 29,
-        "feels": 31,
-        "humidity": 53,
-        "label": "Clear sky",
-        "icon": "☀️"
+        "feels": 30,
+        "humidity": 51,
+        "label": "Mostly clear",
+        "icon": "🌤️"
       }
     },
     "gold": {
@@ -705,12 +705,12 @@
         "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-27T14:00",
-          "time": "2:00 PM",
-          "hour": 14.0,
+          "iso": "2026-11-27T15:30",
+          "time": "3:30 PM",
+          "hour": 15.5,
           "temp": 28,
           "feels": 30,
-          "humidity": 56,
+          "humidity": 55,
           "label": "Clear sky",
           "icon": "☀️"
         },
@@ -767,11 +767,11 @@
             "icon": "🌦️"
           },
           "Afternoon": {
-            "iso": "2026-11-27T14:00",
-            "time": "2:00 PM",
+            "iso": "2026-11-27T15:30",
+            "time": "3:30 PM",
             "temp": 28,
             "feels": 30,
-            "humidity": 56,
+            "humidity": 55,
             "label": "Clear sky",
             "icon": "☀️"
           }
@@ -784,14 +784,14 @@
         "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-27T14:00",
-          "time": "2:00 PM",
-          "hour": 14.0,
+          "iso": "2026-11-27T15:30",
+          "time": "3:30 PM",
+          "hour": 15.5,
           "temp": 29,
-          "feels": 31,
-          "humidity": 53,
-          "label": "Clear sky",
-          "icon": "☀️"
+          "feels": 30,
+          "humidity": 51,
+          "label": "Mostly clear",
+          "icon": "🌤️"
         },
         "high": 29,
         "low": 22,
@@ -846,13 +846,13 @@
             "icon": "☁️"
           },
           "Afternoon": {
-            "iso": "2026-11-27T14:00",
-            "time": "2:00 PM",
+            "iso": "2026-11-27T15:30",
+            "time": "3:30 PM",
             "temp": 29,
-            "feels": 31,
-            "humidity": 53,
-            "label": "Clear sky",
-            "icon": "☀️"
+            "feels": 30,
+            "humidity": 51,
+            "label": "Mostly clear",
+            "icon": "🌤️"
           }
         }
       }
