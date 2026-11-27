@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 27 November 2026",
   "date_key": "2026-11-27",
-  "fetched_ist": "27 Nov 2026, 10:07 AM IST",
+  "fetched_ist": "27 Nov 2026, 02:11 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 27, 2026",
       "text": "Make sure you solidify your affairs early in the day, Taurus, because the sparks are going to fly after sunset. People might try to throw you off balance with fast talk and fancy ideas. You need to make sure you're on solid ground before you take the next step upward. Balance your emotions so you don't take your frustration out on others. Focus on your goals."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 27, 2026",
       "text": "Thoughts and emotions synchronize to reveal beautiful truths, dearest bull, as the Cancer Moon and Mercury align. These vibes can be utilized to brainstorm solutions to any problems you've struggled with, but you'll need to remove stress from the equation. The calmer you are, the easier it will be to facilitate breakthroughs. Complete pressing tasks that should be addressed before the weekend sets in. Otherwise, your Friday night may be riddled with anxieties over what must be done while Luna, Venus, and Chiron form a T-square."
@@ -91,7 +91,7 @@
         },
         {
           "text": "Your good nature and honest approach will win you big points at work today. Be sure to be extra courteous when communicating with others. A positive attitude - more than knowledge or skills - will be what gives you the leg-up you are hoping for in your career.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -147,7 +147,7 @@
         },
         {
           "text": "Satisfying your natural urges is just what the doctor ordered this week. That's right - you are in charge of this! Try to focus on what you really want and then on giving it to yourself. Whether it's a walk by the beach to think over personal matters or a frank chat with your boss, there are certain things that only you can provide. You sometimes sink into the habit of thinking that what you want most deeply is something or some emotion only others can give you. Wake up from this coma and begin nurturing yourself!",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -228,10 +228,10 @@
       {
         "src": "IBJA",
         "label": "India benchmark (wholesale)",
-        "k22": 11234,
-        "k24": 12264,
+        "k22": 11479,
+        "k24": 12532,
         "change22": null,
-        "date": "26 November 2026",
+        "date": "27 November 2026",
         "url": "https://ibjarates.com/"
       }
     ],
@@ -320,17 +320,17 @@
     "hc_general": {
       "text": "Make sure you solidify your affairs early in the day, Taurus, because the sparks are going to fly after sunset. People might try to throw you off balance with fast talk and fancy ideas. You need to make sure you're on solid ground before you take the next step upward. Balance your emotions so you don't take your frustration out on others. Focus on your goals.",
       "date": "Nov 27, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "Your good nature and honest approach will win you big points at work today. Be sure to be extra courteous when communicating with others. A positive attitude - more than knowledge or skills - will be what gives you the leg-up you are hoping for in your career.",
       "date": "Nov 27, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "Satisfying your natural urges is just what the doctor ordered this week. That's right - you are in charge of this! Try to focus on what you really want and then on giving it to yourself. Whether it's a walk by the beach to think over personal matters or a frank chat with your boss, there are certain things that only you can provide. You sometimes sink into the habit of thinking that what you want most deeply is something or some emotion only others can give you. Wake up from this coma and begin nurturing yourself!",
       "date": "Nov 27, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You're poised to take advantage of new opportunities. Your masculine and feminine energies are working together, which has a positive effect on your bottom line. Your shared investments and property may require some action on your part. Just wait a few days before signing any paperwork or agreements. You and your partner should be on the same page, regardless.",
@@ -338,7 +338,7 @@
     },
     "ac": {
       "text": "Thoughts and emotions synchronize to reveal beautiful truths, dearest bull, as the Cancer Moon and Mercury align. These vibes can be utilized to brainstorm solutions to any problems you've struggled with, but you'll need to remove stress from the equation. The calmer you are, the easier it will be to facilitate breakthroughs. These same sentiments apply to developing friendships and matters of the heart. If you've been wanting to grow closer with a special companion, let your intentions be known. Complete pressing tasks that should be addressed before the weekend sets in. Otherwise, your Friday night may be riddled with anxieties over what must be done while Luna, Venus, and Chiron form a T-square.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -392,16 +392,16 @@
       "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-27T10:00",
-        "time": "10:00 AM",
-        "hour": 10.0,
-        "temp": 24,
-        "feels": 27,
-        "humidity": 84,
-        "label": "Drizzle",
-        "icon": "🌦️"
+        "iso": "2026-11-27T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
+        "temp": 28,
+        "feels": 30,
+        "humidity": 56,
+        "label": "Clear sky",
+        "icon": "☀️"
       },
-      "high": 27,
+      "high": 28,
       "low": 22,
       "rain": 53,
       "uv": 6.65,
@@ -419,8 +419,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "☁️",
-          "label": "Cloudy",
+          "icon": "🌦️",
+          "label": "Light drizzle",
           "temp": 27,
           "rain": 47
         },
@@ -428,18 +428,18 @@
           "name": "Evening",
           "from": 17,
           "to": 21,
-          "icon": "🌦️",
-          "label": "Light drizzle",
-          "temp": 24,
+          "icon": "🌤️",
+          "label": "Mostly clear",
+          "temp": 25,
           "rain": 43
         },
         {
           "name": "Night",
           "from": 21,
           "to": 30,
-          "icon": "⛅",
-          "label": "Partly cloudy",
-          "temp": 21,
+          "icon": "🌙",
+          "label": "Clear sky",
+          "temp": 22,
           "rain": 0
         }
       ],
@@ -452,6 +452,15 @@
           "humidity": 84,
           "label": "Drizzle",
           "icon": "🌦️"
+        },
+        "Afternoon": {
+          "iso": "2026-11-27T14:00",
+          "time": "2:00 PM",
+          "temp": 28,
+          "feels": 30,
+          "humidity": 56,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -464,6 +473,15 @@
         "humidity": 84,
         "label": "Drizzle",
         "icon": "🌦️"
+      },
+      "Afternoon": {
+        "iso": "2026-11-27T14:00",
+        "time": "2:00 PM",
+        "temp": 28,
+        "feels": 30,
+        "humidity": 56,
+        "label": "Clear sky",
+        "icon": "☀️"
       }
     },
     "wx_office": {
@@ -473,16 +491,16 @@
       "label": "Light drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-27T10:00",
-        "time": "10:00 AM",
-        "hour": 10.0,
-        "temp": 25,
-        "feels": 27,
-        "humidity": 74,
-        "label": "Cloudy",
-        "icon": "☁️"
+        "iso": "2026-11-27T14:00",
+        "time": "2:00 PM",
+        "hour": 14.0,
+        "temp": 29,
+        "feels": 31,
+        "humidity": 53,
+        "label": "Clear sky",
+        "icon": "☀️"
       },
-      "high": 28,
+      "high": 29,
       "low": 22,
       "rain": 53,
       "uv": 6.65,
@@ -500,9 +518,9 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "⛅",
-          "label": "Partly cloudy",
-          "temp": 27,
+          "icon": "🌦️",
+          "label": "Light drizzle",
+          "temp": 28,
           "rain": 47
         },
         {
@@ -511,7 +529,7 @@
           "to": 21,
           "icon": "🌦️",
           "label": "Light drizzle",
-          "temp": 25,
+          "temp": 26,
           "rain": 43
         },
         {
@@ -519,7 +537,7 @@
           "from": 21,
           "to": 30,
           "icon": "🌙",
-          "label": "Mostly clear",
+          "label": "Clear sky",
           "temp": 22,
           "rain": 0
         }
@@ -533,6 +551,15 @@
           "humidity": 74,
           "label": "Cloudy",
           "icon": "☁️"
+        },
+        "Afternoon": {
+          "iso": "2026-11-27T14:00",
+          "time": "2:00 PM",
+          "temp": 29,
+          "feels": 31,
+          "humidity": 53,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -545,6 +572,15 @@
         "humidity": 74,
         "label": "Cloudy",
         "icon": "☁️"
+      },
+      "Afternoon": {
+        "iso": "2026-11-27T14:00",
+        "time": "2:00 PM",
+        "temp": 29,
+        "feels": 31,
+        "humidity": 53,
+        "label": "Clear sky",
+        "icon": "☀️"
       }
     },
     "gold": {
@@ -570,10 +606,10 @@
         "IBJA": {
           "src": "IBJA",
           "label": "India benchmark (wholesale)",
-          "k22": 11234,
-          "k24": 12264,
+          "k22": 11479,
+          "k24": 12532,
           "change22": null,
-          "date": "26 November 2026",
+          "date": "27 November 2026",
           "url": "https://ibjarates.com/"
         }
       },
@@ -669,16 +705,16 @@
         "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-27T10:00",
-          "time": "10:00 AM",
-          "hour": 10.0,
-          "temp": 24,
-          "feels": 27,
-          "humidity": 84,
-          "label": "Drizzle",
-          "icon": "🌦️"
+          "iso": "2026-11-27T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
+          "temp": 28,
+          "feels": 30,
+          "humidity": 56,
+          "label": "Clear sky",
+          "icon": "☀️"
         },
-        "high": 27,
+        "high": 28,
         "low": 22,
         "rain": 53,
         "uv": 6.65,
@@ -696,8 +732,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "☁️",
-            "label": "Cloudy",
+            "icon": "🌦️",
+            "label": "Light drizzle",
             "temp": 27,
             "rain": 47
           },
@@ -705,18 +741,18 @@
             "name": "Evening",
             "from": 17,
             "to": 21,
-            "icon": "🌦️",
-            "label": "Light drizzle",
-            "temp": 24,
+            "icon": "🌤️",
+            "label": "Mostly clear",
+            "temp": 25,
             "rain": 43
           },
           {
             "name": "Night",
             "from": 21,
             "to": 30,
-            "icon": "⛅",
-            "label": "Partly cloudy",
-            "temp": 21,
+            "icon": "🌙",
+            "label": "Clear sky",
+            "temp": 22,
             "rain": 0
           }
         ],
@@ -729,6 +765,15 @@
             "humidity": 84,
             "label": "Drizzle",
             "icon": "🌦️"
+          },
+          "Afternoon": {
+            "iso": "2026-11-27T14:00",
+            "time": "2:00 PM",
+            "temp": 28,
+            "feels": 30,
+            "humidity": 56,
+            "label": "Clear sky",
+            "icon": "☀️"
           }
         }
       },
@@ -739,16 +784,16 @@
         "label": "Light drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-27T10:00",
-          "time": "10:00 AM",
-          "hour": 10.0,
-          "temp": 25,
-          "feels": 27,
-          "humidity": 74,
-          "label": "Cloudy",
-          "icon": "☁️"
+          "iso": "2026-11-27T14:00",
+          "time": "2:00 PM",
+          "hour": 14.0,
+          "temp": 29,
+          "feels": 31,
+          "humidity": 53,
+          "label": "Clear sky",
+          "icon": "☀️"
         },
-        "high": 28,
+        "high": 29,
         "low": 22,
         "rain": 53,
         "uv": 6.65,
@@ -766,9 +811,9 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "⛅",
-            "label": "Partly cloudy",
-            "temp": 27,
+            "icon": "🌦️",
+            "label": "Light drizzle",
+            "temp": 28,
             "rain": 47
           },
           {
@@ -777,7 +822,7 @@
             "to": 21,
             "icon": "🌦️",
             "label": "Light drizzle",
-            "temp": 25,
+            "temp": 26,
             "rain": 43
           },
           {
@@ -785,7 +830,7 @@
             "from": 21,
             "to": 30,
             "icon": "🌙",
-            "label": "Mostly clear",
+            "label": "Clear sky",
             "temp": 22,
             "rain": 0
           }
@@ -799,6 +844,15 @@
             "humidity": 74,
             "label": "Cloudy",
             "icon": "☁️"
+          },
+          "Afternoon": {
+            "iso": "2026-11-27T14:00",
+            "time": "2:00 PM",
+            "temp": 29,
+            "feels": 31,
+            "humidity": 53,
+            "label": "Clear sky",
+            "icon": "☀️"
           }
         }
       }
