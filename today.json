@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Friday, 27 November 2026",
   "date_key": "2026-11-27",
-  "fetched_ist": "27 Nov 2026, 03:41 AM IST",
+  "fetched_ist": "27 Nov 2026, 05:44 AM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -210,9 +210,9 @@
       {
         "src": "GoodReturns",
         "label": "Hyderabad jewellers",
-        "k24": 12480,
-        "k22": 11440,
-        "change22": 140,
+        "k24": 12481,
+        "k22": 11441,
+        "change22": 1,
         "date": "27 November 2026",
         "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
       },
@@ -231,16 +231,11 @@
         "k22": 11234,
         "k24": 12264,
         "change22": null,
-        "date": "27 November 2026",
+        "date": "26 November 2026",
         "url": "https://ibjarates.com/"
       }
     ],
     "trend": [
-      {
-        "date": "Nov 17, 2026",
-        "k22": 12470,
-        "k24": 13604
-      },
       {
         "date": "Nov 18, 2026",
         "k22": 12215,
@@ -285,6 +280,11 @@
         "date": "Nov 26, 2026",
         "k22": 11440,
         "k24": 12480
+      },
+      {
+        "date": "Nov 27, 2026",
+        "k22": 11441,
+        "k24": 12481
       }
     ]
   },
@@ -392,19 +392,19 @@
       "label": "Drizzle",
       "icon": "🌦️",
       "now": {
-        "iso": "2026-11-27T03:30",
-        "time": "3:30 AM",
-        "hour": 3.5,
+        "iso": "2026-11-27T05:30",
+        "time": "5:30 AM",
+        "hour": 5.5,
         "temp": 22,
         "feels": 26,
-        "humidity": 94,
-        "label": "Mostly clear",
-        "icon": "🌙"
+        "humidity": 92,
+        "label": "Cloudy",
+        "icon": "☁️"
       },
       "high": 28,
       "low": 22,
-      "rain": 55,
-      "uv": 6.0,
+      "rain": 71,
+      "uv": 6.65,
       "periods": [
         {
           "name": "Morning",
@@ -413,7 +413,7 @@
           "icon": "🌦️",
           "label": "Drizzle",
           "temp": 23,
-          "rain": 18
+          "rain": 27
         },
         {
           "name": "Afternoon",
@@ -422,7 +422,7 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 28,
-          "rain": 55
+          "rain": 71
         },
         {
           "name": "Evening",
@@ -431,7 +431,7 @@
           "icon": "⛅",
           "label": "Partly cloudy",
           "temp": 25,
-          "rain": 33
+          "rain": 57
         },
         {
           "name": "Night",
@@ -453,19 +453,19 @@
       "label": "Heavy drizzle",
       "icon": "🌧️",
       "now": {
-        "iso": "2026-11-27T03:30",
-        "time": "3:30 AM",
-        "hour": 3.5,
-        "temp": 22,
-        "feels": 26,
-        "humidity": 91,
+        "iso": "2026-11-27T05:30",
+        "time": "5:30 AM",
+        "hour": 5.5,
+        "temp": 23,
+        "feels": 27,
+        "humidity": 89,
         "label": "Cloudy",
         "icon": "☁️"
       },
       "high": 29,
       "low": 22,
-      "rain": 55,
-      "uv": 5.85,
+      "rain": 71,
+      "uv": 6.65,
       "periods": [
         {
           "name": "Morning",
@@ -474,7 +474,7 @@
           "icon": "🌧️",
           "label": "Heavy drizzle",
           "temp": 24,
-          "rain": 18
+          "rain": 27
         },
         {
           "name": "Afternoon",
@@ -483,7 +483,7 @@
           "icon": "🌦️",
           "label": "Light drizzle",
           "temp": 28,
-          "rain": 55
+          "rain": 71
         },
         {
           "name": "Evening",
@@ -492,7 +492,7 @@
           "icon": "⛅",
           "label": "Partly cloudy",
           "temp": 25,
-          "rain": 33
+          "rain": 57
         },
         {
           "name": "Night",
@@ -512,9 +512,9 @@
         "GoodReturns": {
           "src": "GoodReturns",
           "label": "Hyderabad jewellers",
-          "k24": 12480,
-          "k22": 11440,
-          "change22": 140,
+          "k24": 12481,
+          "k22": 11441,
+          "change22": 1,
           "date": "27 November 2026",
           "url": "https://www.goodreturns.in/gold-rates/hyderabad.html"
         },
@@ -533,16 +533,11 @@
           "k22": 11234,
           "k24": 12264,
           "change22": null,
-          "date": "27 November 2026",
+          "date": "26 November 2026",
           "url": "https://ibjarates.com/"
         }
       },
       "trend": [
-        {
-          "date": "Nov 17, 2026",
-          "k22": 12470,
-          "k24": 13604
-        },
         {
           "date": "Nov 18, 2026",
           "k22": 12215,
@@ -587,6 +582,11 @@
           "date": "Nov 26, 2026",
           "k22": 11440,
           "k24": 12480
+        },
+        {
+          "date": "Nov 27, 2026",
+          "k22": 11441,
+          "k24": 12481
         }
       ]
     }
@@ -629,19 +629,19 @@
         "label": "Drizzle",
         "icon": "🌦️",
         "now": {
-          "iso": "2026-11-27T03:30",
-          "time": "3:30 AM",
-          "hour": 3.5,
+          "iso": "2026-11-27T05:30",
+          "time": "5:30 AM",
+          "hour": 5.5,
           "temp": 22,
           "feels": 26,
-          "humidity": 94,
-          "label": "Mostly clear",
-          "icon": "🌙"
+          "humidity": 92,
+          "label": "Cloudy",
+          "icon": "☁️"
         },
         "high": 28,
         "low": 22,
-        "rain": 55,
-        "uv": 6.0,
+        "rain": 71,
+        "uv": 6.65,
         "periods": [
           {
             "name": "Morning",
@@ -650,7 +650,7 @@
             "icon": "🌦️",
             "label": "Drizzle",
             "temp": 23,
-            "rain": 18
+            "rain": 27
           },
           {
             "name": "Afternoon",
@@ -659,7 +659,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 28,
-            "rain": 55
+            "rain": 71
           },
           {
             "name": "Evening",
@@ -668,7 +668,7 @@
             "icon": "⛅",
             "label": "Partly cloudy",
             "temp": 25,
-            "rain": 33
+            "rain": 57
           },
           {
             "name": "Night",
@@ -689,19 +689,19 @@
         "label": "Heavy drizzle",
         "icon": "🌧️",
         "now": {
-          "iso": "2026-11-27T03:30",
-          "time": "3:30 AM",
-          "hour": 3.5,
-          "temp": 22,
-          "feels": 26,
-          "humidity": 91,
+          "iso": "2026-11-27T05:30",
+          "time": "5:30 AM",
+          "hour": 5.5,
+          "temp": 23,
+          "feels": 27,
+          "humidity": 89,
           "label": "Cloudy",
           "icon": "☁️"
         },
         "high": 29,
         "low": 22,
-        "rain": 55,
-        "uv": 5.85,
+        "rain": 71,
+        "uv": 6.65,
         "periods": [
           {
             "name": "Morning",
@@ -710,7 +710,7 @@
             "icon": "🌧️",
             "label": "Heavy drizzle",
             "temp": 24,
-            "rain": 18
+            "rain": 27
           },
           {
             "name": "Afternoon",
@@ -719,7 +719,7 @@
             "icon": "🌦️",
             "label": "Light drizzle",
             "temp": 28,
-            "rain": 55
+            "rain": 71
           },
           {
             "name": "Evening",
@@ -728,7 +728,7 @@
             "icon": "⛅",
             "label": "Partly cloudy",
             "temp": 25,
-            "rain": 33
+            "rain": 57
           },
           {
             "name": "Night",
