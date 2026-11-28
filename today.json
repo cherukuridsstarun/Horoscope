@@ -2,7 +2,7 @@
   "sign": "Taurus",
   "date_ist": "Saturday, 28 November 2026",
   "date_key": "2026-11-28",
-  "fetched_ist": "28 Nov 2026, 01:24 PM IST",
+  "fetched_ist": "28 Nov 2026, 03:02 PM IST",
   "sources": [
     {
       "name": "GaneshaSpeaks",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Horoscope.com",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2",
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2",
       "ok": true,
       "source_date": "Nov 28, 2026",
       "text": "You may find it hard to get rolling today, Taurus. Be careful about letting this tension build. The most important thing for you today is to relax. Tackle things one step at a time and finish one project before starting another. You could get overwhelmed if you have too many things on your plate at once."
     },
     {
       "name": "Astrology.com",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "ok": true,
       "source_date": "November 28, 2026",
       "text": "Nurturing vibes permeate the air, darling Taurus, as Venus aligns with Jupiter and Chiron. Even small kindnesses can crack the most stoic masks. Use this energy to learn about the people around you. Enjoy quiet moments alone to reflect on what matters most to you when Saturn activates this evening."
@@ -95,7 +95,7 @@
         },
         {
           "text": "You will be floating as if you are on cloud nine. Remember that joy shared is joy doubled.",
-          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -143,7 +143,7 @@
         },
         {
           "text": "With the current astral energy at play, you will certainly witness frequent occasions where your judgment will be tested. This is a time of determination for you, and in no area of your life is it more important to make good decisions than when it comes to your health. There is no telling what the future holds, but you can prepare yourself by taking steps to enhance your wellness: we make daily decisions about our diet, rest, and exercise. Use your powers wisely!",
-          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2",
+          "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2",
           "src": "Horoscope.com"
         }
       ],
@@ -328,17 +328,17 @@
     "hc_general": {
       "text": "You may find it hard to get rolling today, Taurus. It's likely that you're caught in a gridlock between your mind and heart. Be careful about letting this tension build. The most important thing for you today is to relax. Tackle things one step at a time and finish one project before starting another. You could get overwhelmed if you have too many things on your plate at once.",
       "date": "Nov 28, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2"
     },
     "hc_career": {
       "text": "You will be floating as if you are on cloud nine. Be sure to share this love and radiance with others instead of keeping it all to yourself. Remember that joy shared is joy doubled. Your co-workers will love you for it.",
       "date": "Nov 28, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2"
     },
     "hc_wellness": {
       "text": "With the current astral energy at play, you will certainly witness frequent occasions where your judgment will be tested. This is a time of determination for you, and in no area of your life is it more important to make good decisions than when it comes to your health. There is no telling what the future holds, but you can prepare yourself by taking steps to enhance your wellness: we make daily decisions about our diet, rest, and exercise. Use your powers wisely!",
       "date": "Nov 28, 2026",
-      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-tomorrow.aspx?sign=2"
+      "url": "https://www.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2"
     },
     "hc_money": {
       "text": "You're poised to take advantage of new opportunities. Your masculine and feminine energies are working together, which has a positive effect on your bottom line. Your shared investments and property may require some action on your part. Just wait a few days before signing any paperwork or agreements. You and your partner should be on the same page, regardless.",
@@ -346,7 +346,7 @@
     },
     "ac": {
       "text": "Nurturing vibes permeate the air, darling Taurus, as Venus aligns with Jupiter and Chiron. Don't shy away from the warmth others show you, and remember to love and care for them openly, too. Heartfelt interactions are abundant as the Leo Moon aspects Neptune, Pluto, and Uranus. Even small kindnesses can crack the most stoic masks. Use this energy to learn about the people around you. Clear the afternoon to spend quality time with your closest companions once the Sun and Luna align. Enjoy quiet moments alone to reflect on what matters most to you when Saturn activates this evening.",
-      "url": "https://www.astrology.com/horoscope/daily/tomorrow/taurus.html",
+      "url": "https://www.astrology.com/horoscope/daily/taurus.html",
       "extras": [
         {
           "title": "Bonus",
@@ -397,17 +397,17 @@
       "key": "home",
       "name": "Home",
       "area": "",
-      "label": "Mostly clear",
-      "icon": "🌤️",
+      "label": "Partly cloudy",
+      "icon": "⛅",
       "now": {
-        "iso": "2026-11-28T09:45",
-        "time": "9:45 AM",
-        "hour": 9.75,
-        "temp": 24,
-        "feels": 25,
-        "humidity": 65,
-        "label": "Clear sky",
-        "icon": "☀️"
+        "iso": "2026-11-28T15:00",
+        "time": "3:00 PM",
+        "hour": 15.0,
+        "temp": 28,
+        "feels": 28,
+        "humidity": 45,
+        "label": "Mostly clear",
+        "icon": "🌤️"
       },
       "high": 28,
       "low": 20,
@@ -418,8 +418,8 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "⛅",
+          "label": "Partly cloudy",
           "temp": 23,
           "rain": 0
         },
@@ -446,7 +446,7 @@
           "from": 21,
           "to": 30,
           "icon": "🌙",
-          "label": "Mostly clear",
+          "label": "Clear sky",
           "temp": 20,
           "rain": 0
         }
@@ -460,6 +460,15 @@
           "humidity": 65,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-11-28T15:00",
+          "time": "3:00 PM",
+          "temp": 28,
+          "feels": 28,
+          "humidity": 45,
+          "label": "Mostly clear",
+          "icon": "🌤️"
         }
       }
     },
@@ -472,25 +481,34 @@
         "humidity": 65,
         "label": "Clear sky",
         "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-11-28T15:00",
+        "time": "3:00 PM",
+        "temp": 28,
+        "feels": 28,
+        "humidity": 45,
+        "label": "Mostly clear",
+        "icon": "🌤️"
       }
     },
     "wx_office": {
       "key": "office",
       "name": "Office",
       "area": "",
-      "label": "Clear sky",
-      "icon": "☀️",
+      "label": "Mostly clear",
+      "icon": "🌤️",
       "now": {
-        "iso": "2026-11-28T09:45",
-        "time": "9:45 AM",
-        "hour": 9.75,
-        "temp": 24,
-        "feels": 25,
-        "humidity": 62,
+        "iso": "2026-11-28T15:00",
+        "time": "3:00 PM",
+        "hour": 15.0,
+        "temp": 28,
+        "feels": 28,
+        "humidity": 43,
         "label": "Clear sky",
         "icon": "☀️"
       },
-      "high": 28,
+      "high": 29,
       "low": 20,
       "rain": 0,
       "uv": 6.65,
@@ -499,8 +517,8 @@
           "name": "Morning",
           "from": 6,
           "to": 12,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 23,
           "rain": 0
         },
@@ -508,8 +526,8 @@
           "name": "Afternoon",
           "from": 12,
           "to": 17,
-          "icon": "☀️",
-          "label": "Clear sky",
+          "icon": "🌤️",
+          "label": "Mostly clear",
           "temp": 28,
           "rain": 0
         },
@@ -527,7 +545,7 @@
           "from": 21,
           "to": 30,
           "icon": "🌙",
-          "label": "Mostly clear",
+          "label": "Clear sky",
           "temp": 20,
           "rain": 0
         }
@@ -541,6 +559,15 @@
           "humidity": 62,
           "label": "Clear sky",
           "icon": "☀️"
+        },
+        "Afternoon": {
+          "iso": "2026-11-28T15:00",
+          "time": "3:00 PM",
+          "temp": 28,
+          "feels": 28,
+          "humidity": 43,
+          "label": "Clear sky",
+          "icon": "☀️"
         }
       }
     },
@@ -551,6 +578,15 @@
         "temp": 24,
         "feels": 25,
         "humidity": 62,
+        "label": "Clear sky",
+        "icon": "☀️"
+      },
+      "Afternoon": {
+        "iso": "2026-11-28T15:00",
+        "time": "3:00 PM",
+        "temp": 28,
+        "feels": 28,
+        "humidity": 43,
         "label": "Clear sky",
         "icon": "☀️"
       }
@@ -674,17 +710,17 @@
         "key": "home",
         "name": "Home",
         "area": "",
-        "label": "Mostly clear",
-        "icon": "🌤️",
+        "label": "Partly cloudy",
+        "icon": "⛅",
         "now": {
-          "iso": "2026-11-28T09:45",
-          "time": "9:45 AM",
-          "hour": 9.75,
-          "temp": 24,
-          "feels": 25,
-          "humidity": 65,
-          "label": "Clear sky",
-          "icon": "☀️"
+          "iso": "2026-11-28T15:00",
+          "time": "3:00 PM",
+          "hour": 15.0,
+          "temp": 28,
+          "feels": 28,
+          "humidity": 45,
+          "label": "Mostly clear",
+          "icon": "🌤️"
         },
         "high": 28,
         "low": 20,
@@ -695,8 +731,8 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "⛅",
+            "label": "Partly cloudy",
             "temp": 23,
             "rain": 0
           },
@@ -723,7 +759,7 @@
             "from": 21,
             "to": 30,
             "icon": "🌙",
-            "label": "Mostly clear",
+            "label": "Clear sky",
             "temp": 20,
             "rain": 0
           }
@@ -737,6 +773,15 @@
             "humidity": 65,
             "label": "Clear sky",
             "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-11-28T15:00",
+            "time": "3:00 PM",
+            "temp": 28,
+            "feels": 28,
+            "humidity": 45,
+            "label": "Mostly clear",
+            "icon": "🌤️"
           }
         }
       },
@@ -744,19 +789,19 @@
         "key": "office",
         "name": "Office",
         "area": "",
-        "label": "Clear sky",
-        "icon": "☀️",
+        "label": "Mostly clear",
+        "icon": "🌤️",
         "now": {
-          "iso": "2026-11-28T09:45",
-          "time": "9:45 AM",
-          "hour": 9.75,
-          "temp": 24,
-          "feels": 25,
-          "humidity": 62,
+          "iso": "2026-11-28T15:00",
+          "time": "3:00 PM",
+          "hour": 15.0,
+          "temp": 28,
+          "feels": 28,
+          "humidity": 43,
           "label": "Clear sky",
           "icon": "☀️"
         },
-        "high": 28,
+        "high": 29,
         "low": 20,
         "rain": 0,
         "uv": 6.65,
@@ -765,8 +810,8 @@
             "name": "Morning",
             "from": 6,
             "to": 12,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 23,
             "rain": 0
           },
@@ -774,8 +819,8 @@
             "name": "Afternoon",
             "from": 12,
             "to": 17,
-            "icon": "☀️",
-            "label": "Clear sky",
+            "icon": "🌤️",
+            "label": "Mostly clear",
             "temp": 28,
             "rain": 0
           },
@@ -793,7 +838,7 @@
             "from": 21,
             "to": 30,
             "icon": "🌙",
-            "label": "Mostly clear",
+            "label": "Clear sky",
             "temp": 20,
             "rain": 0
           }
@@ -805,6 +850,15 @@
             "temp": 24,
             "feels": 25,
             "humidity": 62,
+            "label": "Clear sky",
+            "icon": "☀️"
+          },
+          "Afternoon": {
+            "iso": "2026-11-28T15:00",
+            "time": "3:00 PM",
+            "temp": 28,
+            "feels": 28,
+            "humidity": 43,
             "label": "Clear sky",
             "icon": "☀️"
           }
